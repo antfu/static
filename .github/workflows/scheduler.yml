@@ -15,7 +15,7 @@ jobs:
       - name: Update sponsors.svg
         run: npx sponsors-svg
         env:
-          SPONSORS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SPONSORS_TOKEN: ${{ secrets.SPONSORS_TOKEN }}
           SPONSORS_LOGIN: antfu
 
       - name: Commit
