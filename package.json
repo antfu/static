@@ -1,8 +1,8 @@
 {
   "scripts": {
-    "build": "npx sponsorkit -w 800 --dir . && npx sponsorkit -w 1800 --name sponsors.wide --dir ."
+    "build": "sh build.sh"
   },
   "devDependencies": {
-    "sponsorkit": "^0.3.0"
+    "sponsorkit": "^0.5.1"
   }
 }

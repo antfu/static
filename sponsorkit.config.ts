@@ -1,4 +1,4 @@
-import { defineConfig, defaultTiers, presets } from 'sponsorkit'
+import { defineConfig, presets } from 'sponsorkit'
 
 const NUXT_LOGO = (width: number, y: number) => `
 <a xlink:href="https://nuxtlabs.com" class="sponsorkit-link" target="_blank" id="NuxtLabs">
@@ -48,12 +48,14 @@ export default defineConfig({
       title: 'Special Sponsor',
       monthlyDollars: Infinity,
       composeAfter(compose,_,config) {
-        compose
-          .addSpan(20)
-          .addText('Special Sponsor', 'sponsorkit-tier-title')
-          .addSpan(10)
-          .addRaw(NUXT_LOGO(config.width, compose.height))
-          .addSpan(130)
+        if (config.filter?.({ monthlyDollars: Infinity } as any) !== false) { 
+          compose
+            .addSpan(20)
+            .addText('Special Sponsor', 'sponsorkit-tier-title')
+            .addSpan(10)
+            .addRaw(NUXT_LOGO(config.width!, compose.height))
+            .addSpan(130)
+        }
       }
     },
   ]
