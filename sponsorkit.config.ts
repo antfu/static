@@ -12,6 +12,11 @@ const NUXT_LOGO = (width: number, y: number) => `
 export default defineConfig({
   tiers: [
     {
+      title: 'Past Sponsors',
+      monthlyDollars: -1,
+      preset: presets.xs,
+    },
+    {
       title: 'Backers',
       preset: presets.small,
     },
@@ -48,7 +53,7 @@ export default defineConfig({
       title: 'Special Sponsor',
       monthlyDollars: Infinity,
       composeAfter(compose,_,config) {
-        if (config.filter?.({ monthlyDollars: Infinity } as any) !== false) { 
+        if (config.filter?.({ monthlyDollars: Infinity } as any, []) !== false) { 
           compose
             .addSpan(20)
             .addText('Special Sponsor', 'sponsorkit-tier-title')
