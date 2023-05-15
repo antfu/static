@@ -1,4 +1,4 @@
-import { defineConfig, presets } from 'sponsorkit'
+import { BadgePreset, defineConfig, presets } from 'sponsorkit'
 
 const NUXT_LOGO = (width: number, y: number) => `
 <a xlink:href="https://nuxtlabs.com" class="sponsorkit-link" target="_blank" id="NuxtLabs">
@@ -9,12 +9,24 @@ const NUXT_LOGO = (width: number, y: number) => `
 </a>
 `
 
+
+const past: BadgePreset = {
+  avatar: {
+    size: 20,
+  },
+  boxWidth: 22,
+  boxHeight: 22,
+  container: {
+    sidePadding: 35,
+  },
+}
+
 export default defineConfig({
   tiers: [
     {
       title: 'Past Sponsors',
       monthlyDollars: -1,
-      preset: presets.xs,
+      preset: past,
     },
     {
       title: 'Backers',
