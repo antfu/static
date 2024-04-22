@@ -24,9 +24,11 @@ jobs:
         run: npm run build
         env:
           SPONSORKIT_GITHUB_TOKEN: ${{ secrets.SPONSORKIT_GITHUB_TOKEN }}
-          SPONSORKIT_GITHUB_LOGIN: ${{ secrets.SPONSORKIT_GITHUB_LOGIN }}
+          SPONSORKIT_GITHUB_LOGIN: antfu
           SPONSORKIT_AFDIAN_USER_ID: ${{ secrets.SPONSORKIT_AFDIAN_USER_ID }}
           SPONSORKIT_AFDIAN_TOKEN: ${{ secrets.SPONSORKIT_AFDIAN_TOKEN }}
+          SPONSORKIT_OPENCOLLECTIVE_KEY: ${{ secrets.SPONSORKIT_OPENCOLLECTIVE_KEY }}
+          SPONSORKIT_OPENCOLLECTIVE_SLUG: antfu
 
       - name: Commit
         uses: EndBug/add-and-commit@v5
