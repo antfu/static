@@ -1,4 +1,4 @@
-*.json
+.*.json
 !package.json
 node_modules
 pnpm-lock.yaml

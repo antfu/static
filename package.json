@@ -1,8 +1,10 @@
 {
+  "type": "module",
   "scripts": {
     "build": "sh build.sh"
   },
   "devDependencies": {
+    "@types/node": "^20.12.7",
     "sponsorkit": "^0.9.3"
   }
 }
