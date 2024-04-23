@@ -83,6 +83,7 @@ export default defineConfig({
               login: i.sponsor.login,
               avatar: i.sponsor.avatarUrl,
               amount: i.monthlyDollars,
+              link: i.sponsor.linkUrl || i.sponsor.websiteUrl,
               org: i.sponsor.type === 'Organization'
             }
           })
