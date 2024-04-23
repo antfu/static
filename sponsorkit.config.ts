@@ -83,6 +83,7 @@ export default defineConfig({
               login: i.sponsor.login,
               avatar: i.sponsor.avatarUrl,
               amount: i.monthlyDollars,
+              org: i.sponsor.type === 'Organization'
             }
           })
           .sort((a, b) => b.amount - a.amount),
