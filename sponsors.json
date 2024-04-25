@@ -464,14 +464,6 @@
     "org": false
   },
   {
-    "name": "Maria Salcedo",
-    "login": "mariasalcedo",
-    "avatar": "https://avatars.githubusercontent.com/u/44043510?u=884825d7b4fc1d453ec36b05053293ffeaf97982&v=4",
-    "amount": 10,
-    "link": "https://github.com/mariasalcedo",
-    "org": false
-  },
-  {
     "name": "xiaomo",
     "login": "zhangmo8",
     "avatar": "https://avatars.githubusercontent.com/u/43628500?u=8542509d4ec41e433277db866c0a782a5aade10e&v=4",
@@ -997,6 +989,14 @@
     "avatar": "https://images.opencollective.com/maybeanerd/71faf43/avatar/460.png",
     "amount": 5,
     "link": "https://opencollective.com/maybeanerd",
+    "org": false
+  },
+  {
+    "name": "ginlon",
+    "login": "guest-0495d03f",
+    "avatar": "https://images.opencollective.com/guest-0495d03f/avatar/460.png",
+    "amount": 5,
+    "link": "https://opencollective.com/guest-0495d03f",
     "org": false
   },
   {
@@ -4445,6 +4445,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/26542182?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/mariohamann",
+    "org": false
+  },
+  {
+    "name": "mariasalcedo",
+    "login": "mariasalcedo",
+    "avatar": "https://avatars.githubusercontent.com/u/44043510?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/mariasalcedo",
     "org": false
   },
   {
