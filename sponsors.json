@@ -1816,22 +1816,6 @@
     "org": false
   },
   {
-    "name": null,
-    "login": "TinyMaD",
-    "avatar": "https://avatars.githubusercontent.com/u/39322119?u=a5d4b1937774c621b899053922f2cc7271a7e99c&v=4",
-    "amount": 1,
-    "link": "https://github.com/TinyMaD",
-    "org": false
-  },
-  {
-    "name": "Jaw",
-    "login": "wajeht",
-    "avatar": "https://avatars.githubusercontent.com/u/58354193?u=4f663ff0a3782499944b0f5e6c07b6ea085e2414&v=4",
-    "amount": 1,
-    "link": "https://github.com/wajeht",
-    "org": false
-  },
-  {
     "name": "Pink Champagne",
     "login": "PinkChampagne17",
     "avatar": "https://avatars.githubusercontent.com/u/45930107?u=37ee5827e1610ac145b73804a3c33941493d2694&v=4",
@@ -2920,6 +2904,14 @@
     "org": false
   },
   {
+    "name": "wajeht",
+    "login": "wajeht",
+    "avatar": "https://avatars.githubusercontent.com/u/58354193?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/wajeht",
+    "org": false
+  },
+  {
     "name": "vladdeSV",
     "login": "vladdeSV",
     "avatar": "https://avatars.githubusercontent.com/u/7542961?s=60&v=4",
@@ -3125,6 +3117,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/41773861?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/tjx666",
+    "org": false
+  },
+  {
+    "name": "TinyMaD",
+    "login": "TinyMaD",
+    "avatar": "https://avatars.githubusercontent.com/u/39322119?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/TinyMaD",
     "org": false
   },
   {
