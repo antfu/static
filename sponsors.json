@@ -968,6 +968,14 @@
     "org": false
   },
   {
+    "name": "Ted Xu",
+    "login": "ted-xu",
+    "avatar": "https://images.opencollective.com/ted-xu/75fa2f9/avatar/460.png",
+    "amount": 5,
+    "link": "https://opencollective.com/ted-xu",
+    "org": false
+  },
+  {
     "name": "SerKo",
     "login": "serko",
     "avatar": "https://images.opencollective.com/serko/8bd4f11/avatar/460.png",
@@ -1378,7 +1386,7 @@
   {
     "name": "hfutsora",
     "login": "Hfutsora",
-    "avatar": "https://avatars.githubusercontent.com/u/31959015?u=85cf03cf6a45c8c1cf5dad224ff051da0dc6b155&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/31959015?u=b7930c0f3d02c8f930b70af77d45ba1cbbd6e70d&v=4",
     "amount": 4,
     "link": "https://github.com/Hfutsora",
     "org": false
@@ -1405,14 +1413,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/3001985?u=6dab55cc7bc6877e56cdc3a18a9a17fd4d35403d&v=4",
     "amount": 4,
     "link": "https://github.com/manuelmeister",
-    "org": false
-  },
-  {
-    "name": "little_huang",
-    "login": "little-huang",
-    "avatar": "https://avatars.githubusercontent.com/u/53588889?u=ee6132184f9c3ad1362bd9ae92fd0aeddb636a9b&v=4",
-    "amount": 4,
-    "link": "https://github.com/little-huang",
     "org": false
   },
   {
@@ -1789,6 +1789,22 @@
     "avatar": "https://avatars.githubusercontent.com/u/264400?v=4",
     "amount": 2,
     "link": "https://github.com/Envek",
+    "org": false
+  },
+  {
+    "name": "ljt990218",
+    "login": "ljt990218",
+    "avatar": "https://avatars.githubusercontent.com/u/50509815?u=93db5df5cdc8fa3b962f731cbb73e6ede071d6a1&v=4",
+    "amount": 1,
+    "link": "https://github.com/ljt990218",
+    "org": false
+  },
+  {
+    "name": "Lime",
+    "login": "Liumingxun",
+    "avatar": "https://avatars.githubusercontent.com/u/36471625?u=a69f205fb775d21879151aa489a1433751dc2843&v=4",
+    "amount": 1,
+    "link": "https://github.com/Liumingxun",
     "org": false
   },
   {
@@ -4557,6 +4573,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/582703?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/loeck",
+    "org": false
+  },
+  {
+    "name": "little-huang",
+    "login": "little-huang",
+    "avatar": "https://avatars.githubusercontent.com/u/53588889?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/little-huang",
     "org": false
   },
   {
