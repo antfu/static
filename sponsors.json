@@ -472,30 +472,6 @@
     "org": false
   },
   {
-    "name": "Michael Hoffmann",
-    "login": "michael-hoffmann2",
-    "avatar": "https://images.opencollective.com/michael-hoffmann2/eecd5f4/avatar/460.png",
-    "amount": 10,
-    "link": "https://opencollective.com/michael-hoffmann2",
-    "org": false
-  },
-  {
-    "name": "Michel Edighoffer",
-    "login": "edimitchel",
-    "avatar": "https://images.opencollective.com/edimitchel/269af7f/avatar/460.png",
-    "amount": 10,
-    "link": "https://opencollective.com/edimitchel",
-    "org": false
-  },
-  {
-    "name": "Anthony Fu",
-    "login": "antfu7",
-    "avatar": "https://images.opencollective.com/antfu7/9b1782b/avatar/460.png",
-    "amount": 10,
-    "link": "https://opencollective.com/antfu7",
-    "org": false
-  },
-  {
     "name": "SanD",
     "login": "AlexanderBelokon",
     "avatar": "https://avatars.githubusercontent.com/u/2198527?v=4",
@@ -544,6 +520,30 @@
     "org": false
   },
   {
+    "name": "Michael Hoffmann",
+    "login": "michael-hoffmann2",
+    "avatar": "https://images.opencollective.com/michael-hoffmann2/eecd5f4/avatar/460.png",
+    "amount": 10,
+    "link": "https://opencollective.com/michael-hoffmann2",
+    "org": false
+  },
+  {
+    "name": "Michel Edighoffer",
+    "login": "edimitchel",
+    "avatar": "https://images.opencollective.com/edimitchel/269af7f/avatar/460.png",
+    "amount": 10,
+    "link": "https://opencollective.com/edimitchel",
+    "org": false
+  },
+  {
+    "name": "Anthony Fu",
+    "login": "antfu7",
+    "avatar": "https://images.opencollective.com/antfu7/9b1782b/avatar/460.png",
+    "amount": 10,
+    "link": "https://opencollective.com/antfu7",
+    "org": false
+  },
+  {
     "name": null,
     "login": "lwydra",
     "avatar": "https://avatars.githubusercontent.com/u/31655006?v=4",
@@ -573,14 +573,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/8951736?u=55bd5b6171bc4c3933888f1d5c127d973fa6e0ce&v=4",
     "amount": 8,
     "link": "https://github.com/henrycunh",
-    "org": false
-  },
-  {
-    "name": "Sean",
-    "login": "seanphan",
-    "avatar": "https://avatars.githubusercontent.com/u/5804000?u=cfe96776285945c2efee3d4c1746ba5aee79b230&v=4",
-    "amount": 8,
-    "link": "https://github.com/seanphan",
     "org": false
   },
   {
@@ -3629,6 +3621,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/7912302?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/sebastinez",
+    "org": false
+  },
+  {
+    "name": "seanphan",
+    "login": "seanphan",
+    "avatar": "https://avatars.githubusercontent.com/u/5804000?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/seanphan",
     "org": false
   },
   {
