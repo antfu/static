@@ -1,10 +1,10 @@
 {
   "type": "module",
   "scripts": {
-    "build": "sh build.sh"
+    "build": "sponsorkit"
   },
   "devDependencies": {
     "@types/node": "^20.12.7",
-    "sponsorkit": "^0.9.3"
+    "sponsorkit": "^0.10.1"
   }
 }
