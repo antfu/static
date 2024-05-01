@@ -184,14 +184,6 @@
     "org": false
   },
   {
-    "name": "Jure Topolak",
-    "login": "jure-topolak",
-    "avatar": "https://images.opencollective.com/jure-topolak/9b0deac/avatar/460.png",
-    "amount": 30,
-    "link": "https://opencollective.com/jure-topolak",
-    "org": false
-  },
-  {
     "name": "Mike H",
     "login": "mike-hong",
     "avatar": "https://images.opencollective.com/mike-hong/avatar/460.png",
@@ -430,22 +422,6 @@
     "amount": 11.538461538461538,
     "link": "https://afdian.net/u/e9210984e6a411eeaefb52540025c377",
     "org": false
-  },
-  {
-    "name": "VueUse",
-    "login": "vueuse",
-    "avatar": "https://images.opencollective.com/vueuse/329338c/logo/460.png",
-    "amount": 10,
-    "link": "https://opencollective.com/vueuse",
-    "org": true
-  },
-  {
-    "name": "UnoCSS",
-    "login": "unocss",
-    "avatar": "https://images.opencollective.com/unocss/040a0fb/logo/460.png",
-    "amount": 10,
-    "link": "https://opencollective.com/unocss",
-    "org": true
   },
   {
     "name": "Jeffrey Rennie",
@@ -952,78 +928,6 @@
     "org": false
   },
   {
-    "name": "Web Worker Podcast",
-    "login": "web-worker-podcast",
-    "avatar": "https://images.opencollective.com/web-worker-podcast/0c4a51b/avatar/460.png",
-    "amount": 5,
-    "link": "https://opencollective.com/web-worker-podcast",
-    "org": false
-  },
-  {
-    "name": "Ted Xu",
-    "login": "ted-xu",
-    "avatar": "https://images.opencollective.com/ted-xu/75fa2f9/avatar/460.png",
-    "amount": 5,
-    "link": "https://opencollective.com/ted-xu",
-    "org": false
-  },
-  {
-    "name": "SerKo",
-    "login": "serko",
-    "avatar": "https://images.opencollective.com/serko/8bd4f11/avatar/460.png",
-    "amount": 5,
-    "link": "https://opencollective.com/serko",
-    "org": false
-  },
-  {
-    "name": "Ryan Wang",
-    "login": "ryanwang",
-    "avatar": "https://images.opencollective.com/ryanwang/bd54db0/avatar/460.png",
-    "amount": 5,
-    "link": "https://opencollective.com/ryanwang",
-    "org": false
-  },
-  {
-    "name": "maybeanerd",
-    "login": "maybeanerd",
-    "avatar": "https://images.opencollective.com/maybeanerd/71faf43/avatar/460.png",
-    "amount": 5,
-    "link": "https://opencollective.com/maybeanerd",
-    "org": false
-  },
-  {
-    "name": "ginlon",
-    "login": "guest-0495d03f",
-    "avatar": "https://images.opencollective.com/guest-0495d03f/avatar/460.png",
-    "amount": 5,
-    "link": "https://opencollective.com/guest-0495d03f",
-    "org": false
-  },
-  {
-    "name": "Riri",
-    "login": "guest-c8742a0d",
-    "avatar": "https://images.opencollective.com/guest-c8742a0d/avatar/460.png",
-    "amount": 5,
-    "link": "https://opencollective.com/guest-c8742a0d",
-    "org": false
-  },
-  {
-    "name": "Yuhei FUJITA",
-    "login": "fjt",
-    "avatar": "https://images.opencollective.com/fjt/3955659/avatar/460.png",
-    "amount": 5,
-    "link": "https://opencollective.com/fjt",
-    "org": false
-  },
-  {
-    "name": "a1mersnow",
-    "login": "a1mersnow",
-    "avatar": "https://images.opencollective.com/a1mersnow/avatar/460.png",
-    "amount": 5,
-    "link": "https://opencollective.com/a1mersnow",
-    "org": false
-  },
-  {
     "name": "Ari Palo",
     "login": "aripalo",
     "avatar": "https://avatars.githubusercontent.com/u/679146?u=890c695fa5b7ada652fc3c6190211bc4e96b1746&v=4",
@@ -1104,6 +1008,38 @@
     "org": false
   },
   {
+    "name": "Web Worker Podcast",
+    "login": "web-worker-podcast",
+    "avatar": "https://images.opencollective.com/web-worker-podcast/0c4a51b/avatar/460.png",
+    "amount": 5,
+    "link": "https://opencollective.com/web-worker-podcast",
+    "org": false
+  },
+  {
+    "name": "SerKo",
+    "login": "serko",
+    "avatar": "https://images.opencollective.com/serko/8bd4f11/avatar/460.png",
+    "amount": 5,
+    "link": "https://opencollective.com/serko",
+    "org": false
+  },
+  {
+    "name": "Ryan Wang",
+    "login": "ryanwang",
+    "avatar": "https://images.opencollective.com/ryanwang/bd54db0/avatar/460.png",
+    "amount": 5,
+    "link": "https://opencollective.com/ryanwang",
+    "org": false
+  },
+  {
+    "name": "maybeanerd",
+    "login": "maybeanerd",
+    "avatar": "https://images.opencollective.com/maybeanerd/71faf43/avatar/460.png",
+    "amount": 5,
+    "link": "https://opencollective.com/maybeanerd",
+    "org": false
+  },
+  {
     "name": "LongYinan",
     "login": "Brooooooklyn",
     "avatar": "https://avatars.githubusercontent.com/u/3468483?u=daf25d236ad2cc227470fa0da2d5bdf3dbb7feed&v=4",
@@ -1117,6 +1053,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/72989?u=aa96aeeb839bf660697d90f50581e1c107616092&v=4",
     "amount": 5,
     "link": "https://github.com/kazupon",
+    "org": false
+  },
+  {
+    "name": "Yuhei FUJITA",
+    "login": "fjt",
+    "avatar": "https://images.opencollective.com/fjt/3955659/avatar/460.png",
+    "amount": 5,
+    "link": "https://opencollective.com/fjt",
     "org": false
   },
   {
@@ -2174,6 +2118,62 @@
     "amount": 0.8333333333333334,
     "link": "https://opencollective.com/ouuan",
     "org": false
+  },
+  {
+    "name": "Ted Xu",
+    "login": "ted-xu",
+    "avatar": "https://images.opencollective.com/ted-xu/75fa2f9/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/ted-xu",
+    "org": false
+  },
+  {
+    "name": "ginlon",
+    "login": "guest-0495d03f",
+    "avatar": "https://images.opencollective.com/guest-0495d03f/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/guest-0495d03f",
+    "org": false
+  },
+  {
+    "name": "Jure Topolak",
+    "login": "jure-topolak",
+    "avatar": "https://images.opencollective.com/jure-topolak/9b0deac/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/jure-topolak",
+    "org": false
+  },
+  {
+    "name": "Riri",
+    "login": "guest-c8742a0d",
+    "avatar": "https://images.opencollective.com/guest-c8742a0d/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/guest-c8742a0d",
+    "org": false
+  },
+  {
+    "name": "a1mersnow",
+    "login": "a1mersnow",
+    "avatar": "https://images.opencollective.com/a1mersnow/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/a1mersnow",
+    "org": false
+  },
+  {
+    "name": "VueUse",
+    "login": "vueuse",
+    "avatar": "https://images.opencollective.com/vueuse/329338c/logo/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/vueuse",
+    "org": true
+  },
+  {
+    "name": "UnoCSS",
+    "login": "unocss",
+    "avatar": "https://images.opencollective.com/unocss/040a0fb/logo/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/unocss",
+    "org": true
   },
   {
     "name": "Robert Zeng",
