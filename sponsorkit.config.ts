@@ -95,22 +95,39 @@ export default defineConfig({
     )
   },
 
+  onSponsorsAllFetched(sponsors) {
+    sponsors.unshift({
+      monthlyDollars: 2000,
+      privacyLevel: 'PUBLIC',
+      sponsor: {
+        name: 'NuxtLabs',
+        login: 'nuxtlabs',
+        linkUrl: 'https://nuxtlabs.com',
+        avatarUrl: 'https://github.com/nuxtlabs.png',
+        type: 'Organization',
+      },
+    })
+    return sponsors
+  },
+
   outputDir: '.',
   formats: ['svg', 'png'],
 
   renders: [
     {
       name: 'sponsors',
-      width: 800
+      width: 800,
+      filter: sponsor => sponsor.sponsor?.login !== 'nuxtlabs',
     },
     {
       name: 'sponsors.wide',
-      width: 1800
+      width: 1800,
+      filter: sponsor => sponsor.sponsor?.login !== 'nuxtlabs',
     },
     {
       name: 'sponsors.part1',
       width: 800,
-      filter: (sponsor) => sponsor.monthlyDollars >= 9.9
+      filter: (sponsor) => sponsor.monthlyDollars >= 9.9 && sponsor.sponsor?.login !== 'nuxtlabs'
     },
     {
       name: 'sponsors.part2',
@@ -121,6 +138,12 @@ export default defineConfig({
       name: 'sponsors.past',
       width: 800,
       filter: (sponsor) => sponsor.monthlyDollars < 0
+    },
+    {
+      name: 'sponsors.circles',
+      width: 1000,
+      includePastSponsors: true,
+      renderer: 'circles'
     }
   ]
 })

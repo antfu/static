@@ -1,5 +1,13 @@
 [
   {
+    "name": "NuxtLabs",
+    "login": "nuxtlabs",
+    "avatar": "https://github.com/nuxtlabs.png",
+    "amount": 2000,
+    "link": "https://nuxtlabs.com",
+    "org": true
+  },
+  {
     "name": "Vite",
     "login": "vitejs",
     "avatar": "https://avatars.githubusercontent.com/u/65625612?v=4",
@@ -2701,6 +2709,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/16530588?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/denys-petryniak",
+    "org": false
+  },
+  {
+    "name": "dawid-napora",
+    "login": "dawid-napora",
+    "avatar": "https://avatars.githubusercontent.com/u/25016570?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/dawid-napora",
     "org": false
   },
   {
@@ -6125,14 +6141,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/7033855?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/dcheglakov",
-    "org": false
-  },
-  {
-    "name": "dawid-napora",
-    "login": "dawid-napora",
-    "avatar": "https://avatars.githubusercontent.com/u/25016570?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/dawid-napora",
     "org": false
   },
   {
