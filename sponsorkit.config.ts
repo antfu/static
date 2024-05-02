@@ -103,7 +103,7 @@ export default defineConfig({
         name: 'NuxtLabs',
         login: 'nuxtlabs',
         linkUrl: 'https://nuxtlabs.com',
-        avatarUrl: 'https://github.com/nuxtlabs.png',
+        avatarUrl: 'https://avatars.githubusercontent.com/u/62017400?v=4',
         type: 'Organization',
       },
     })
