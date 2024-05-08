@@ -1848,14 +1848,6 @@
     "org": false
   },
   {
-    "name": "Pink Champagne",
-    "login": "PinkChampagne17",
-    "avatar": "https://avatars.githubusercontent.com/u/45930107?u=37ee5827e1610ac145b73804a3c33941493d2694&v=4",
-    "amount": 1,
-    "link": "https://github.com/PinkChampagne17",
-    "org": false
-  },
-  {
     "name": "Vezel",
     "login": "vezel-dev",
     "avatar": "https://avatars.githubusercontent.com/u/87844133?v=4",
@@ -4037,6 +4029,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/782843?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/pmgmendes",
+    "org": false
+  },
+  {
+    "name": "PinkChampagne17",
+    "login": "PinkChampagne17",
+    "avatar": "https://avatars.githubusercontent.com/u/45930107?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/PinkChampagne17",
     "org": false
   },
   {
