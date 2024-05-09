@@ -72,9 +72,31 @@ export default defineConfig({
     },
   ],
 
+
   replaceLinks: {
     'https://opencollective.com/logto': 'https://logto.io/?ref=antfu'
   },
+
+  sponsorsAutoMerge: true,
+
+  mergeSponsors: [
+    [
+      { login: 'patak-dev', provider: 'github' },
+      { login: 'patak', provider: 'opencollective' },
+    ],
+    [
+      { login: 'serkodev', provider: 'github' },
+      { login: 'serko', provider: 'opencollective' },
+    ],
+    [
+      { login: 'WebWorkerTech', provider: 'github' },
+      { login: 'web-worker-podcast', provider: 'opencollective' },
+    ],
+    [
+      { login: 'kissu', provider: 'github' },
+      { login: 'kissu', provider: 'opencollective' },
+    ],
+  ],
 
   async onSponsorsReady(sponsors) {
     await fs.writeFile(
@@ -147,7 +169,10 @@ export default defineConfig({
       name: 'sponsors.circles',
       width: 1000,
       includePastSponsors: true,
-      renderer: 'circles'
+      renderer: 'circles',
+      circles: {
+        radiusPast: 3
+      }
     }
   ]
 })
