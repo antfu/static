@@ -72,6 +72,10 @@ export default defineConfig({
     },
   ],
 
+  replaceLinks: {
+    'https://opencollective.com/logto': 'https://logto.io/?ref=antfu'
+  },
+
   async onSponsorsReady(sponsors) {
     await fs.writeFile(
       'sponsors.json',
