@@ -44,13 +44,12 @@
     "login": "logto",
     "avatar": "https://images.opencollective.com/logto/0589181/avatar/460.png",
     "amount": 512,
-    "link": "https://opencollective.com/logto",
+    "link": "https://logto.io/?ref=antfu",
     "org": false
   },
   {
     "name": "ooolize",
     "login": "f59f44380b6b11ee848d5254001e7c00",
-    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-blue.png",
     "amount": 236.30769230769232,
     "link": "https://afdian.net/u/f59f44380b6b11ee848d5254001e7c00",
     "org": false
@@ -88,9 +87,8 @@
     "org": false
   },
   {
-    "name": "爱发电用户_e1055",
+    "name": "e1055",
     "login": "e1055cb0b52a11ee92dd52540025c377",
-    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/",
     "amount": 92.3076923076923,
     "link": "https://afdian.net/u/e1055cb0b52a11ee92dd52540025c377",
     "org": false
@@ -144,9 +142,8 @@
     "org": false
   },
   {
-    "name": "爱发电用户_06f8a",
+    "name": "06f8a",
     "login": "06f8a42cd60011ee90435254001e7c00",
-    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/",
     "amount": 46.15384615384615,
     "link": "https://afdian.net/u/06f8a42cd60011ee90435254001e7c00",
     "org": false
@@ -480,9 +477,8 @@
     "org": false
   },
   {
-    "name": "爱发电用户_e9210",
+    "name": "e9210",
     "login": "e9210984e6a411eeaefb52540025c377",
-    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/",
     "amount": 11.538461538461538,
     "link": "https://afdian.net/u/e9210984e6a411eeaefb52540025c377",
     "org": false
@@ -2256,9 +2252,8 @@
     "org": false
   },
   {
-    "name": "爱发电用户_e96e6",
+    "name": "e96e6",
     "login": "e96e641e189a11eea5c452540025c377",
-    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/",
     "amount": -1,
     "link": "https://afdian.net/u/e96e641e189a11eea5c452540025c377",
     "org": false
@@ -4104,9 +4099,8 @@
     "org": true
   },
   {
-    "name": "爱发电用户_M4KX",
+    "name": "18d0d",
     "login": "18d0db12d19411eeabd352540025c377",
-    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-blue.png",
     "amount": -1,
     "link": "https://afdian.net/u/18d0db12d19411eeabd352540025c377",
     "org": false
@@ -4120,9 +4114,8 @@
     "org": false
   },
   {
-    "name": "爱发电用户_575ef",
+    "name": "575ef",
     "login": "575ef53cc66111eeb7a95254001e7c00",
-    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/",
     "amount": -1,
     "link": "https://afdian.net/u/575ef53cc66111eeb7a95254001e7c00",
     "org": false
@@ -4154,7 +4147,6 @@
   {
     "name": "fcmio",
     "login": "0182917a34fb11ee991152540025c377",
-    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png",
     "amount": -1,
     "link": "https://afdian.net/u/0182917a34fb11ee991152540025c377",
     "org": false
@@ -4168,25 +4160,22 @@
     "org": false
   },
   {
-    "name": "爱发电用户_09b70",
+    "name": "09b70",
     "login": "09b7031c0c3811eea0c052540025c377",
-    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/",
     "amount": -1,
     "link": "https://afdian.net/u/09b7031c0c3811eea0c052540025c377",
     "org": false
   },
   {
-    "name": "爱发电用户_Du5k",
+    "name": "53e59",
     "login": "53e5937c31bd11eea97d52540025c377",
-    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-blue.png",
     "amount": -1,
     "link": "https://afdian.net/u/53e5937c31bd11eea97d52540025c377",
     "org": false
   },
   {
-    "name": "爱发电用户_719cb",
+    "name": "719cb",
     "login": "719cb96626f711eea25f52540025c377",
-    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/",
     "amount": -1,
     "link": "https://afdian.net/u/719cb96626f711eea25f52540025c377",
     "org": false
@@ -4208,17 +4197,15 @@
     "org": false
   },
   {
-    "name": "爱发电用户_E84b",
+    "name": "50ac0",
     "login": "50ac01461caf11eebf5f52540025c377",
-    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-blue.png",
     "amount": -1,
     "link": "https://afdian.net/u/50ac01461caf11eebf5f52540025c377",
     "org": false
   },
   {
-    "name": "爱发电用户_2ebc1",
+    "name": "2ebc1",
     "login": "2ebc1a461a8211eeb09f52540025c377",
-    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/",
     "amount": -1,
     "link": "https://afdian.net/u/2ebc1a461a8211eeb09f52540025c377",
     "org": false
@@ -4226,47 +4213,41 @@
   {
     "name": "赛博迪克朗",
     "login": "2d348d56198e11eeb96a52540025c377",
-    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-blue.png",
     "amount": -1,
     "link": "https://afdian.net/u/2d348d56198e11eeb96a52540025c377",
     "org": false
   },
   {
-    "name": "爱发电用户_67ba3",
+    "name": "67ba3",
     "login": "67ba3b64116011ee8a1a5254001e7c00",
-    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/",
     "amount": -1,
     "link": "https://afdian.net/u/67ba3b64116011ee8a1a5254001e7c00",
     "org": false
   },
   {
-    "name": "爱发电用户_38a2a",
+    "name": "38a2a",
     "login": "38a2a2180e6211ee9efb52540025c377",
-    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/",
     "amount": -1,
     "link": "https://afdian.net/u/38a2a2180e6211ee9efb52540025c377",
     "org": false
   },
   {
-    "name": "爱发电用户_ShAw",
+    "name": "94d7f",
     "login": "94d7f9340e4411ee87cb52540025c377",
-    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-blue.png",
     "amount": -1,
     "link": "https://afdian.net/u/94d7f9340e4411ee87cb52540025c377",
     "org": false
   },
   {
-    "name": "爱发电用户_4ad0e",
+    "name": "4ad0e",
     "login": "4ad0e60a0b6711eebfc452540025c377",
-    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/",
     "amount": -1,
     "link": "https://afdian.net/u/4ad0e60a0b6711eebfc452540025c377",
     "org": false
   },
   {
-    "name": "爱发电用户_90ba5",
+    "name": "90ba5",
     "login": "90ba55d80d2011ee853852540025c377",
-    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/",
     "amount": -1,
     "link": "https://afdian.net/u/90ba55d80d2011ee853852540025c377",
     "org": false
@@ -4280,17 +4261,15 @@
     "org": false
   },
   {
-    "name": "爱发电用户_e3baa",
+    "name": "e3baa",
     "login": "e3baadd00c4611eea90652540025c377",
-    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/",
     "amount": -1,
     "link": "https://afdian.net/u/e3baadd00c4611eea90652540025c377",
     "org": false
   },
   {
-    "name": "爱发电用户_5727e",
+    "name": "5727e",
     "login": "5727eba60c2511ee99d052540025c377",
-    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/",
     "amount": -1,
     "link": "https://afdian.net/u/5727eba60c2511ee99d052540025c377",
     "org": false
@@ -4304,25 +4283,22 @@
     "org": false
   },
   {
-    "name": "爱发电用户_b1d4b",
+    "name": "b1d4b",
     "login": "b1d4b0720bdd11ee92e952540025c377",
-    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/",
     "amount": -1,
     "link": "https://afdian.net/u/b1d4b0720bdd11ee92e952540025c377",
     "org": false
   },
   {
-    "name": "爱发电用户_6ffb4",
+    "name": "6ffb4",
     "login": "6ffb468c0b6711eea35d52540025c377",
-    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/",
     "amount": -1,
     "link": "https://afdian.net/u/6ffb468c0b6711eea35d52540025c377",
     "org": false
   },
   {
-    "name": "爱发电用户_6c231",
+    "name": "6c231",
     "login": "6c2314660b8711ee84fa52540025c377",
-    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/",
     "amount": -1,
     "link": "https://afdian.net/u/6c2314660b8711ee84fa52540025c377",
     "org": false
