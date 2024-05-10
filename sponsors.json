@@ -964,6 +964,14 @@
     "org": false
   },
   {
+    "name": "ffgenius",
+    "login": "e0b86a340e1911efa1e75254001e7c00",
+    "avatar": "https://pic1.afdiancdn.com/user/e0b86a340e1911efa1e75254001e7c00/avatar/a6d19abedaddcfec0e2c8830282ef103_w471_h677_s75.jpeg",
+    "amount": 7.6923076923076925,
+    "link": "https://afdian.net/u/e0b86a340e1911efa1e75254001e7c00",
+    "org": false
+  },
+  {
     "name": "fxzer",
     "login": "39aa5428d4fe11edbec85254001e7c00",
     "avatar": "https://pic1.afdiancdn.com/user/user_upload_osl/cac4a89e0c3d0b5ca7acdd436b5d4808_w132_h132_s7.jpeg",
@@ -1812,14 +1820,6 @@
     "org": false
   },
   {
-    "name": "DoubleJack",
-    "login": "shuangjie",
-    "avatar": "https://avatars.githubusercontent.com/u/13066471?u=52e7591f760c7dafd9f97c5d47df4afff13933e4&v=4",
-    "amount": 1,
-    "link": "https://github.com/shuangjie",
-    "org": false
-  },
-  {
     "name": "Jaw",
     "login": "wajeht",
     "avatar": "https://avatars.githubusercontent.com/u/58354193?u=4f663ff0a3782499944b0f5e6c07b6ea085e2414&v=4",
@@ -2456,14 +2456,6 @@
     "org": false
   },
   {
-    "name": "zealleaf",
-    "login": "zealleaf",
-    "avatar": "https://avatars.githubusercontent.com/u/106396432?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/zealleaf",
-    "org": false
-  },
-  {
     "name": "WoXy-Sensei",
     "login": "WoXy-Sensei",
     "avatar": "https://avatars.githubusercontent.com/u/53876909?s=60&v=4",
@@ -2493,6 +2485,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/39322119?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/TinyMaD",
+    "org": false
+  },
+  {
+    "name": "shuangjie",
+    "login": "shuangjie",
+    "avatar": "https://avatars.githubusercontent.com/u/13066471?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/shuangjie",
     "org": false
   },
   {
@@ -2838,6 +2838,14 @@
     "amount": -1,
     "link": "https://github.com/zenclabs",
     "org": true
+  },
+  {
+    "name": "zealleaf",
+    "login": "zealleaf",
+    "avatar": "https://avatars.githubusercontent.com/u/106396432?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/zealleaf",
+    "org": false
   },
   {
     "name": "zb81",
