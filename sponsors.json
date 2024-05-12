@@ -604,6 +604,14 @@
     "org": false
   },
   {
+    "name": "Shunsheng Li",
+    "login": "MahoushoujoMadoka",
+    "avatar": "https://avatars.githubusercontent.com/u/33952584?u=5a0b5112837cac8942535d1d97e140bb1c9bcd64&v=4",
+    "amount": 8,
+    "link": "https://github.com/MahoushoujoMadoka",
+    "org": false
+  },
+  {
     "name": "Rhizoma",
     "login": "rhizoma-gmbh",
     "avatar": "https://avatars.githubusercontent.com/u/98286383?v=4",
@@ -1777,6 +1785,13 @@
     "avatar": "https://avatars.githubusercontent.com/u/264400?v=4",
     "amount": 2,
     "link": "https://github.com/Envek",
+    "org": false
+  },
+  {
+    "name": "f7f20",
+    "login": "f7f205240e3011edb71152540025c377",
+    "amount": 1.5384615384615385,
+    "link": "https://afdian.net/u/f7f205240e3011edb71152540025c377",
     "org": false
   },
   {
@@ -4693,14 +4708,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/6883314?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/maoberlehner",
-    "org": false
-  },
-  {
-    "name": "MahoushoujoMadoka",
-    "login": "MahoushoujoMadoka",
-    "avatar": "https://avatars.githubusercontent.com/u/33952584?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/MahoushoujoMadoka",
     "org": false
   },
   {
