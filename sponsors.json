@@ -988,6 +988,38 @@
     "org": false
   },
   {
+    "name": "ruibaby",
+    "login": "ruibaby",
+    "avatar": "https://avatars.githubusercontent.com/u/21301288?s=60&v=4",
+    "amount": 5,
+    "link": "https://github.com/ruibaby",
+    "org": false
+  },
+  {
+    "name": "maybeanerd",
+    "login": "maybeanerd",
+    "avatar": "https://images.opencollective.com/maybeanerd/71faf43/avatar/460.png",
+    "amount": 5,
+    "link": "https://opencollective.com/maybeanerd",
+    "org": false
+  },
+  {
+    "name": "Stephen Zhou",
+    "login": "hyoban",
+    "avatar": "https://images.opencollective.com/hyoban/caf9e78/avatar/460.png",
+    "amount": 5,
+    "link": "https://opencollective.com/hyoban",
+    "org": false
+  },
+  {
+    "name": "Yuhei FUJITA",
+    "login": "fjt",
+    "avatar": "https://images.opencollective.com/fjt/3955659/avatar/460.png",
+    "amount": 5,
+    "link": "https://opencollective.com/fjt",
+    "org": false
+  },
+  {
     "name": null,
     "login": "dufu1991",
     "avatar": "https://avatars.githubusercontent.com/u/24769077?u=a0528836b651161db7c7f27dbbee5748e204f6d6&v=4",
@@ -1097,46 +1129,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/72989?u=aa96aeeb839bf660697d90f50581e1c107616092&v=4",
     "amount": 5,
     "link": "https://github.com/kazupon",
-    "org": false
-  },
-  {
-    "name": "ruibaby",
-    "login": "ruibaby",
-    "avatar": "https://avatars.githubusercontent.com/u/21301288?s=60&v=4",
-    "amount": 5,
-    "link": "https://github.com/ruibaby",
-    "org": false
-  },
-  {
-    "name": "maybeanerd",
-    "login": "maybeanerd",
-    "avatar": "https://images.opencollective.com/maybeanerd/71faf43/avatar/460.png",
-    "amount": 5,
-    "link": "https://opencollective.com/maybeanerd",
-    "org": false
-  },
-  {
-    "name": "Stephen Zhou",
-    "login": "hyoban",
-    "avatar": "https://images.opencollective.com/hyoban/caf9e78/avatar/460.png",
-    "amount": 5,
-    "link": "https://opencollective.com/hyoban",
-    "org": false
-  },
-  {
-    "name": "Yuhei FUJITA",
-    "login": "fjt",
-    "avatar": "https://images.opencollective.com/fjt/3955659/avatar/460.png",
-    "amount": 5,
-    "link": "https://opencollective.com/fjt",
-    "org": false
-  },
-  {
-    "name": "ouuan",
-    "login": "451e310463a311ebbc0152540025c377",
-    "avatar": "https://pic1.afdiancdn.com/user/451e310463a311ebbc0152540025c377/avatar/d700c058cdb0eb40e1b706591fb23751_w1900_h1900_s989.jpg",
-    "amount": 4.615384615384615,
-    "link": "https://afdian.net/u/451e310463a311ebbc0152540025c377",
     "org": false
   },
   {
@@ -1788,13 +1780,6 @@
     "org": false
   },
   {
-    "name": "f7f20",
-    "login": "f7f205240e3011edb71152540025c377",
-    "amount": 1.5384615384615385,
-    "link": "https://afdian.net/u/f7f205240e3011edb71152540025c377",
-    "org": false
-  },
-  {
     "name": "Orion Chen",
     "login": "huccct",
     "avatar": "https://avatars.githubusercontent.com/u/87902123?u=f28c4a7e17b36490419ce85280abcc8255f3e2be&v=4",
@@ -2187,6 +2172,13 @@
     "org": false
   },
   {
+    "name": "f7f20",
+    "login": "f7f205240e3011edb71152540025c377",
+    "amount": -1,
+    "link": "https://afdian.net/u/f7f205240e3011edb71152540025c377",
+    "org": false
+  },
+  {
     "name": "Ted Xu",
     "login": "ted-xu",
     "avatar": "https://images.opencollective.com/ted-xu/75fa2f9/avatar/460.png",
@@ -2239,6 +2231,14 @@
     "login": "18d0db12d19411eeabd352540025c377",
     "amount": -1,
     "link": "https://afdian.net/u/18d0db12d19411eeabd352540025c377",
+    "org": false
+  },
+  {
+    "name": "ouuan",
+    "login": "451e310463a311ebbc0152540025c377",
+    "avatar": "https://pic1.afdiancdn.com/user/451e310463a311ebbc0152540025c377/avatar/d700c058cdb0eb40e1b706591fb23751_w1900_h1900_s989.jpg",
+    "amount": -1,
+    "link": "https://afdian.net/u/451e310463a311ebbc0152540025c377",
     "org": false
   },
   {
