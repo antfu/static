@@ -484,27 +484,11 @@
     "org": false
   },
   {
-    "name": "Robi",
-    "login": "RobiMez",
-    "avatar": "https://avatars.githubusercontent.com/u/53259730?u=9479974a6e5002332f8321c13c33dd7b5a310a5e&v=4",
-    "amount": 10,
-    "link": "https://github.com/RobiMez",
-    "org": false
-  },
-  {
     "name": "xiaomo",
     "login": "zhangmo8",
     "avatar": "https://avatars.githubusercontent.com/u/43628500?u=8542509d4ec41e433277db866c0a782a5aade10e&v=4",
     "amount": 10,
     "link": "https://github.com/zhangmo8",
-    "org": false
-  },
-  {
-    "name": "Michael Hoffmann",
-    "login": "michael-hoffmann2",
-    "avatar": "https://images.opencollective.com/michael-hoffmann2/eecd5f4/avatar/460.png",
-    "amount": 10,
-    "link": "https://opencollective.com/michael-hoffmann2",
     "org": false
   },
   {
@@ -553,6 +537,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/9126398?u=74663065850f1cc54d1c9e7643d67b6e3b066697&v=4",
     "amount": 10,
     "link": "https://github.com/yoyo930021",
+    "org": false
+  },
+  {
+    "name": "Michael Hoffmann",
+    "login": "michael-hoffmann2",
+    "avatar": "https://images.opencollective.com/michael-hoffmann2/eecd5f4/avatar/460.png",
+    "amount": 10,
+    "link": "https://opencollective.com/michael-hoffmann2",
     "org": false
   },
   {
@@ -1009,6 +1001,14 @@
     "avatar": "https://images.opencollective.com/hyoban/caf9e78/avatar/460.png",
     "amount": 5,
     "link": "https://opencollective.com/hyoban",
+    "org": false
+  },
+  {
+    "name": "Hakadao",
+    "login": "hakadao",
+    "avatar": "https://avatars.githubusercontent.com/u/33394391?u=539ada5f2565f6066fd1c1ee244ef895594fc869&v=4",
+    "amount": 5,
+    "link": "https://github.com/hakadao",
     "org": false
   },
   {
@@ -1980,7 +1980,7 @@
     "org": false
   },
   {
-    "name": "miyagawa",
+    "name": "Naoya Miyagawa",
     "login": "NaoyaMiyagawa",
     "avatar": "https://avatars.githubusercontent.com/u/38244632?u=42ca3d12a7735d005c96ec87abd64aab22cc1af1&v=4",
     "amount": 1,
@@ -2006,7 +2006,7 @@
   {
     "name": "Sean",
     "login": "seandlg",
-    "avatar": "https://avatars.githubusercontent.com/u/16638561?u=5f4066238133bfcd8a2e47406429fc7cacbd58bd&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/16638561?u=8b2289c304219b30002d4f363a3f88d7f09f6767&v=4",
     "amount": 1,
     "link": "https://github.com/seandlg",
     "org": false
@@ -2524,6 +2524,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/96545712?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/RUTAGENGWA-ASANTE-BRUCE",
+    "org": false
+  },
+  {
+    "name": "RobiMez",
+    "login": "RobiMez",
+    "avatar": "https://avatars.githubusercontent.com/u/53259730?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/RobiMez",
     "org": false
   },
   {
