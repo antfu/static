@@ -984,11 +984,11 @@
     "org": false
   },
   {
-    "name": "fxzer",
-    "login": "39aa5428d4fe11edbec85254001e7c00",
-    "avatar": "https://pic1.afdiancdn.com/user/user_upload_osl/cac4a89e0c3d0b5ca7acdd436b5d4808_w132_h132_s7.jpeg",
-    "amount": 7.6923076923076925,
-    "link": "https://afdian.net/u/39aa5428d4fe11edbec85254001e7c00",
+    "name": "yuyin",
+    "login": "yuyinws",
+    "avatar": "https://avatars.githubusercontent.com/u/38490578?u=d43dc9f6ca05c2f20d98a0c862a3fa93f9c9ebb5&v=4",
+    "amount": 5,
+    "link": "https://github.com/yuyinws",
     "org": false
   },
   {
@@ -2216,6 +2216,14 @@
     "org": false
   },
   {
+    "name": "fxzer",
+    "login": "39aa5428d4fe11edbec85254001e7c00",
+    "avatar": "https://pic1.afdiancdn.com/user/user_upload_osl/cac4a89e0c3d0b5ca7acdd436b5d4808_w132_h132_s7.jpeg",
+    "amount": -1,
+    "link": "https://afdian.net/u/39aa5428d4fe11edbec85254001e7c00",
+    "org": false
+  },
+  {
     "name": "Robert Zeng",
     "login": "ccf81544e9b611ee936952540025c377",
     "avatar": "https://pic1.afdiancdn.com/user/ccf81544e9b611ee936952540025c377/avatar/0d0c764c79034f034a7de3034b6d3965_w886_h886_s74.jpeg",
@@ -2629,6 +2637,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/16143594?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/LekoArts",
+    "org": false
+  },
+  {
+    "name": "Koki-Hoyashita",
+    "login": "Koki-Hoyashita",
+    "avatar": "https://avatars.githubusercontent.com/u/49220008?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/Koki-Hoyashita",
     "org": false
   },
   {
@@ -4949,14 +4965,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/25289960?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/Korver2017",
-    "org": false
-  },
-  {
-    "name": "Koki-Hoyashita",
-    "login": "Koki-Hoyashita",
-    "avatar": "https://avatars.githubusercontent.com/u/49220008?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/Koki-Hoyashita",
     "org": false
   },
   {
