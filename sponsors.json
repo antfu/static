@@ -496,14 +496,6 @@
     "org": false
   },
   {
-    "name": "Michael Hoffmann",
-    "login": "michael-hoffmann2",
-    "avatar": "https://images.opencollective.com/michael-hoffmann2/eecd5f4/avatar/460.png",
-    "amount": 10,
-    "link": "https://opencollective.com/michael-hoffmann2",
-    "org": false
-  },
-  {
     "name": "SanD",
     "login": "AlexanderBelokon",
     "avatar": "https://avatars.githubusercontent.com/u/2198527?v=4",
@@ -549,6 +541,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/9126398?u=74663065850f1cc54d1c9e7643d67b6e3b066697&v=4",
     "amount": 10,
     "link": "https://github.com/yoyo930021",
+    "org": false
+  },
+  {
+    "name": "Michael Hoffmann",
+    "login": "michael-hoffmann2",
+    "avatar": "https://images.opencollective.com/michael-hoffmann2/eecd5f4/avatar/460.png",
+    "amount": 10,
+    "link": "https://opencollective.com/michael-hoffmann2",
     "org": false
   },
   {
@@ -1112,22 +1112,6 @@
     "org": false
   },
   {
-    "name": "Stephen Zhou",
-    "login": "hyoban",
-    "avatar": "https://images.opencollective.com/hyoban/caf9e78/avatar/460.png",
-    "amount": 5,
-    "link": "https://opencollective.com/hyoban",
-    "org": false
-  },
-  {
-    "name": "Yuhei FUJITA",
-    "login": "fjt",
-    "avatar": "https://images.opencollective.com/fjt/3955659/avatar/460.png",
-    "amount": 5,
-    "link": "https://opencollective.com/fjt",
-    "org": false
-  },
-  {
     "name": "LongYinan",
     "login": "Brooooooklyn",
     "avatar": "https://avatars.githubusercontent.com/u/3468483?u=daf25d236ad2cc227470fa0da2d5bdf3dbb7feed&v=4",
@@ -1141,6 +1125,22 @@
     "avatar": "https://avatars.githubusercontent.com/u/72989?u=aa96aeeb839bf660697d90f50581e1c107616092&v=4",
     "amount": 5,
     "link": "https://github.com/kazupon",
+    "org": false
+  },
+  {
+    "name": "Stephen Zhou",
+    "login": "hyoban",
+    "avatar": "https://images.opencollective.com/hyoban/caf9e78/avatar/460.png",
+    "amount": 5,
+    "link": "https://opencollective.com/hyoban",
+    "org": false
+  },
+  {
+    "name": "Yuhei FUJITA",
+    "login": "fjt",
+    "avatar": "https://images.opencollective.com/fjt/3955659/avatar/460.png",
+    "amount": 5,
+    "link": "https://opencollective.com/fjt",
     "org": false
   },
   {
@@ -1805,14 +1805,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/36471625?u=69a6e5d7d2e82b1a7a5da278ebd6b251e3713776&v=4",
     "amount": 1,
     "link": "https://github.com/Liumingxun",
-    "org": false
-  },
-  {
-    "name": null,
-    "login": "selfing83",
-    "avatar": "https://avatars.githubusercontent.com/u/55730802?v=4",
-    "amount": 1,
-    "link": "https://github.com/selfing83",
     "org": false
   },
   {
@@ -2544,6 +2536,14 @@
     "org": false
   },
   {
+    "name": "selfing83",
+    "login": "selfing83",
+    "avatar": "https://avatars.githubusercontent.com/u/55730802?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/selfing83",
+    "org": false
+  },
+  {
     "name": "RUTAGENGWA-ASANTE-BRUCE",
     "login": "RUTAGENGWA-ASANTE-BRUCE",
     "avatar": "https://avatars.githubusercontent.com/u/96545712?s=60&v=4",
@@ -2637,14 +2637,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/16143594?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/LekoArts",
-    "org": false
-  },
-  {
-    "name": "Koki-Hoyashita",
-    "login": "Koki-Hoyashita",
-    "avatar": "https://avatars.githubusercontent.com/u/49220008?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/Koki-Hoyashita",
     "org": false
   },
   {
@@ -4965,6 +4957,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/25289960?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/Korver2017",
+    "org": false
+  },
+  {
+    "name": "Koki-Hoyashita",
+    "login": "Koki-Hoyashita",
+    "avatar": "https://avatars.githubusercontent.com/u/49220008?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/Koki-Hoyashita",
     "org": false
   },
   {
