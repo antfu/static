@@ -24,14 +24,6 @@
     "org": true
   },
   {
-    "name": "Froggly",
-    "login": "RocketSoftPL",
-    "avatar": "https://avatars.githubusercontent.com/u/79277835?v=4",
-    "amount": 512,
-    "link": "https://github.com/RocketSoftPL",
-    "org": true
-  },
-  {
     "name": "StackBlitz",
     "login": "stackblitz",
     "avatar": "https://avatars.githubusercontent.com/u/28635252?v=4",
@@ -1816,14 +1808,6 @@
     "org": false
   },
   {
-    "name": "Orion Chen",
-    "login": "huccct",
-    "avatar": "https://avatars.githubusercontent.com/u/87902123?u=f28c4a7e17b36490419ce85280abcc8255f3e2be&v=4",
-    "amount": 1,
-    "link": "https://github.com/huccct",
-    "org": false
-  },
-  {
     "name": "Gavin John",
     "login": "Pandapip1",
     "avatar": "https://avatars.githubusercontent.com/u/45835846?v=4",
@@ -2037,14 +2021,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/2801156?u=45f9b8aa62e55c4a09209a8cc230116f0cbdaab7&v=4",
     "amount": 1,
     "link": "https://github.com/JessicaSachs",
-    "org": false
-  },
-  {
-    "name": "Paul Melero",
-    "login": "gangsthub",
-    "avatar": "https://avatars.githubusercontent.com/u/6775220?u=7f15c1c81ee951615562633ac8f31ed00f2b7842&v=4",
-    "amount": 1,
-    "link": "https://github.com/gangsthub",
     "org": false
   },
   {
@@ -2536,6 +2512,14 @@
     "org": false
   },
   {
+    "name": "RocketSoftPL",
+    "login": "RocketSoftPL",
+    "avatar": "https://avatars.githubusercontent.com/u/79277835?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/RocketSoftPL",
+    "org": true
+  },
+  {
     "name": "RobiMez",
     "login": "RobiMez",
     "avatar": "https://avatars.githubusercontent.com/u/53259730?s=60&v=4",
@@ -2565,14 +2549,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/128353894?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/mastermind168",
-    "org": false
-  },
-  {
-    "name": "markjkaem",
-    "login": "markjkaem",
-    "avatar": "https://avatars.githubusercontent.com/u/100427794?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/markjkaem",
     "org": false
   },
   {
@@ -2624,11 +2600,11 @@
     "org": false
   },
   {
-    "name": "hyperupcall",
-    "login": "hyperupcall",
-    "avatar": "https://avatars.githubusercontent.com/u/24364012?s=60&v=4",
+    "name": "huccct",
+    "login": "huccct",
+    "avatar": "https://avatars.githubusercontent.com/u/87902123?s=60&v=4",
     "amount": -1,
-    "link": "https://github.com/hyperupcall",
+    "link": "https://github.com/huccct",
     "org": false
   },
   {
@@ -4368,6 +4344,14 @@
     "org": false
   },
   {
+    "name": "OneMorePound",
+    "login": "OneMorePound",
+    "avatar": "https://avatars.githubusercontent.com/u/26736658?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/OneMorePound",
+    "org": false
+  },
+  {
     "name": "omarsotillo",
     "login": "omarsotillo",
     "avatar": "https://avatars.githubusercontent.com/u/9061249?s=60&v=4",
@@ -4701,6 +4685,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/331275?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/markuszondler",
+    "org": false
+  },
+  {
+    "name": "markjkaem",
+    "login": "markjkaem",
+    "avatar": "https://avatars.githubusercontent.com/u/100427794?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/markjkaem",
     "org": false
   },
   {
@@ -5480,6 +5472,14 @@
     "org": false
   },
   {
+    "name": "hyperupcall",
+    "login": "hyperupcall",
+    "avatar": "https://avatars.githubusercontent.com/u/24364012?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/hyperupcall",
+    "org": false
+  },
+  {
     "name": "hyf0",
     "login": "hyf0",
     "avatar": "https://avatars.githubusercontent.com/u/49502170?s=60&v=4",
@@ -5688,14 +5688,6 @@
     "org": false
   },
   {
-    "name": "HalfAkilo",
-    "login": "HalfAkilo",
-    "avatar": "https://avatars.githubusercontent.com/u/26736658?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/HalfAkilo",
-    "org": false
-  },
-  {
     "name": "Hacker-C",
     "login": "Hacker-C",
     "avatar": "https://avatars.githubusercontent.com/u/56097729?s=60&v=4",
@@ -5813,6 +5805,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/3759816?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/gengjiawen",
+    "org": false
+  },
+  {
+    "name": "gangsthub",
+    "login": "gangsthub",
+    "avatar": "https://avatars.githubusercontent.com/u/6775220?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/gangsthub",
     "org": false
   },
   {
