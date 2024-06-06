@@ -792,14 +792,6 @@
     "org": false
   },
   {
-    "name": "Toby Hans",
-    "login": "tobyhui",
-    "avatar": "https://avatars.githubusercontent.com/u/20480609?u=1284968124d80af6a299daa527d8b36efa635c30&v=4",
-    "amount": 8,
-    "link": "https://github.com/tobyhui",
-    "org": false
-  },
-  {
     "name": "Barthélémy Ledoux",
     "login": "elevatebart",
     "avatar": "https://avatars.githubusercontent.com/u/5592465?u=9ccb9620105bc63148c5080cb1d39ad67370e1f9&v=4",
@@ -989,14 +981,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/24769077?u=a0528836b651161db7c7f27dbbee5748e204f6d6&v=4",
     "amount": 5,
     "link": "https://github.com/dufu1991",
-    "org": false
-  },
-  {
-    "name": "Davin",
-    "login": "davinma",
-    "avatar": "https://avatars.githubusercontent.com/u/2345776?u=3c2c359d72f813826d7d7ff3a150cd4d9cd8d7bb&v=4",
-    "amount": 5,
-    "link": "https://github.com/davinma",
     "org": false
   },
   {
@@ -2544,14 +2528,6 @@
     "org": false
   },
   {
-    "name": "mastermind168",
-    "login": "mastermind168",
-    "avatar": "https://avatars.githubusercontent.com/u/128353894?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/mastermind168",
-    "org": false
-  },
-  {
     "name": "mariasalcedo",
     "login": "mariasalcedo",
     "avatar": "https://avatars.githubusercontent.com/u/44043510?s=60&v=4",
@@ -2669,6 +2645,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/16530588?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/denys-petryniak",
+    "org": false
+  },
+  {
+    "name": "davinma",
+    "login": "davinma",
+    "avatar": "https://avatars.githubusercontent.com/u/2345776?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/davinma",
     "org": false
   },
   {
@@ -3365,6 +3349,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/22824417?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/tony-go",
+    "org": false
+  },
+  {
+    "name": "tobyhui",
+    "login": "tobyhui",
+    "avatar": "https://avatars.githubusercontent.com/u/20480609?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/tobyhui",
     "org": false
   },
   {
@@ -4661,6 +4653,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/56786508?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/matozz",
+    "org": false
+  },
+  {
+    "name": "mastermind168",
+    "login": "mastermind168",
+    "avatar": "https://avatars.githubusercontent.com/u/128353894?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/mastermind168",
     "org": false
   },
   {
