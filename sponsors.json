@@ -1024,14 +1024,6 @@
     "org": false
   },
   {
-    "name": null,
-    "login": "dufu1991",
-    "avatar": "https://avatars.githubusercontent.com/u/24769077?u=a0528836b651161db7c7f27dbbee5748e204f6d6&v=4",
-    "amount": 5,
-    "link": "https://github.com/dufu1991",
-    "org": false
-  },
-  {
     "name": "Louis Ramos",
     "login": "wJoenn",
     "avatar": "https://avatars.githubusercontent.com/u/75388869?u=56435279647cc80b907c4006513a49f31fb6c1be&v=4",
@@ -2560,14 +2552,6 @@
     "org": false
   },
   {
-    "name": "level7in",
-    "login": "level7in",
-    "avatar": "https://avatars.githubusercontent.com/u/9393567?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/level7in",
-    "org": false
-  },
-  {
     "name": "khot-aditya",
     "login": "khot-aditya",
     "avatar": "https://avatars.githubusercontent.com/u/66156452?s=60&v=4",
@@ -2621,6 +2605,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/93485038?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/euotiniel",
+    "org": false
+  },
+  {
+    "name": "dufu1991",
+    "login": "dufu1991",
+    "avatar": "https://avatars.githubusercontent.com/u/24769077?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/dufu1991",
     "org": false
   },
   {
@@ -4845,6 +4837,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/49217418?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/li-jia-nan",
+    "org": false
+  },
+  {
+    "name": "level7in",
+    "login": "level7in",
+    "avatar": "https://avatars.githubusercontent.com/u/9393567?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/level7in",
     "org": false
   },
   {
