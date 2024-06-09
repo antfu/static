@@ -952,14 +952,6 @@
     "org": false
   },
   {
-    "name": "ffgenius",
-    "login": "e0b86a340e1911efa1e75254001e7c00",
-    "avatar": "https://pic1.afdiancdn.com/user/e0b86a340e1911efa1e75254001e7c00/avatar/a6d19abedaddcfec0e2c8830282ef103_w471_h677_s75.jpeg",
-    "amount": 7.6923076923076925,
-    "link": "https://afdian.net/u/e0b86a340e1911efa1e75254001e7c00",
-    "org": false
-  },
-  {
     "name": "xiao",
     "login": "xiao-xiang",
     "avatar": "https://images.opencollective.com/xiao-xiang/avatar/460.png",
@@ -2133,6 +2125,14 @@
     "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-orange.png",
     "amount": -1,
     "link": "https://afdian.net/u/f7f205240e3011edb71152540025c377",
+    "org": false
+  },
+  {
+    "name": "ffgenius",
+    "login": "e0b86a340e1911efa1e75254001e7c00",
+    "avatar": "https://pic1.afdiancdn.com/user/e0b86a340e1911efa1e75254001e7c00/avatar/a6d19abedaddcfec0e2c8830282ef103_w471_h677_s75.jpeg",
+    "amount": -1,
+    "link": "https://afdian.net/u/e0b86a340e1911efa1e75254001e7c00",
     "org": false
   },
   {
