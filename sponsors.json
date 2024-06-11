@@ -432,6 +432,14 @@
     "org": false
   },
   {
+    "name": "David Pena",
+    "login": "david-pena1",
+    "avatar": "https://images.opencollective.com/david-pena1/avatar/460.png",
+    "amount": 15,
+    "link": "https://opencollective.com/david-pena1",
+    "org": false
+  },
+  {
     "name": "SerKo",
     "login": "serkodev",
     "avatar": "https://avatars.githubusercontent.com/u/44749100?u=e0c8f8e5305cffe6d9a047af11d8ac0fe20d3ab0&v=4",
@@ -461,6 +469,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/43628500?u=8542509d4ec41e433277db866c0a782a5aade10e&v=4",
     "amount": 10,
     "link": "https://github.com/zhangmo8",
+    "org": false
+  },
+  {
+    "name": "Michael Hoffmann",
+    "login": "michael-hoffmann2",
+    "avatar": "https://images.opencollective.com/michael-hoffmann2/eecd5f4/avatar/460.png",
+    "amount": 10,
+    "link": "https://opencollective.com/michael-hoffmann2",
     "org": false
   },
   {
@@ -509,14 +525,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/9126398?u=74663065850f1cc54d1c9e7643d67b6e3b066697&v=4",
     "amount": 10,
     "link": "https://github.com/yoyo930021",
-    "org": false
-  },
-  {
-    "name": "Michael Hoffmann",
-    "login": "michael-hoffmann2",
-    "avatar": "https://images.opencollective.com/michael-hoffmann2/eecd5f4/avatar/460.png",
-    "amount": 10,
-    "link": "https://opencollective.com/michael-hoffmann2",
     "org": false
   },
   {
@@ -573,14 +581,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/8951736?u=55bd5b6171bc4c3933888f1d5c127d973fa6e0ce&v=4",
     "amount": 8,
     "link": "https://github.com/henrycunh",
-    "org": false
-  },
-  {
-    "name": "Shunsheng Li",
-    "login": "MahoushoujoMadoka",
-    "avatar": "https://avatars.githubusercontent.com/u/33952584?u=5a0b5112837cac8942535d1d97e140bb1c9bcd64&v=4",
-    "amount": 8,
-    "link": "https://github.com/MahoushoujoMadoka",
     "org": false
   },
   {
@@ -2440,6 +2440,22 @@
     "org": false
   },
   {
+    "name": "Dongsheng",
+    "login": "b9f497640b6911ee8b3c52540025c377",
+    "avatar": "https://pic1.afdiancdn.com/user/b9f497640b6911ee8b3c52540025c377/avatar/2a52e54832c3743a54bf13668e665cc8_w300_h300_s10.jpeg",
+    "amount": -1,
+    "link": "https://afdian.net/u/b9f497640b6911ee8b3c52540025c377",
+    "org": false
+  },
+  {
+    "name": "MurphyChen",
+    "login": "bd3245d643bc11ed902052540025c377",
+    "avatar": "https://pic1.afdiancdn.com/user/user_upload_osl/95161ac4b921f817b98d8070eed00525_w132_h132_s4.jpeg",
+    "amount": -1,
+    "link": "https://afdian.net/u/bd3245d643bc11ed902052540025c377",
+    "org": false
+  },
+  {
     "name": "WoXy-Sensei",
     "login": "WoXy-Sensei",
     "avatar": "https://avatars.githubusercontent.com/u/53876909?s=60&v=4",
@@ -2653,30 +2669,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/2345776?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/davinma",
-    "org": false
-  },
-  {
-    "name": "David Pena",
-    "login": "david-pena1",
-    "avatar": "https://images.opencollective.com/david-pena1/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/david-pena1",
-    "org": false
-  },
-  {
-    "name": "Dongsheng",
-    "login": "b9f497640b6911ee8b3c52540025c377",
-    "avatar": "https://pic1.afdiancdn.com/user/b9f497640b6911ee8b3c52540025c377/avatar/2a52e54832c3743a54bf13668e665cc8_w300_h300_s10.jpeg",
-    "amount": -1,
-    "link": "https://afdian.net/u/b9f497640b6911ee8b3c52540025c377",
-    "org": false
-  },
-  {
-    "name": "MurphyChen",
-    "login": "bd3245d643bc11ed902052540025c377",
-    "avatar": "https://pic1.afdiancdn.com/user/user_upload_osl/95161ac4b921f817b98d8070eed00525_w132_h132_s4.jpeg",
-    "amount": -1,
-    "link": "https://afdian.net/u/bd3245d643bc11ed902052540025c377",
     "org": false
   },
   {
@@ -4725,6 +4717,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/6883314?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/maoberlehner",
+    "org": false
+  },
+  {
+    "name": "MahoushoujoMadoka",
+    "login": "MahoushoujoMadoka",
+    "avatar": "https://avatars.githubusercontent.com/u/33952584?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/MahoushoujoMadoka",
     "org": false
   },
   {
