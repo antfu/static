@@ -456,6 +456,14 @@
     "org": false
   },
   {
+    "name": "Mengdi Chen",
+    "login": "mondaychen",
+    "avatar": "https://avatars.githubusercontent.com/u/1001890?u=c56b8ef8d5eb421f6bcd4885ed1483ffe6b73029&v=4",
+    "amount": 10,
+    "link": "https://github.com/mondaychen",
+    "org": false
+  },
+  {
     "name": "Jeffrey Rennie",
     "login": "surferjeff",
     "avatar": "https://avatars.githubusercontent.com/u/3111162?u=c3c31cd93efc47564d666bc968bd7209d0d39632&v=4",
@@ -1341,14 +1349,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/33973865?u=0e9f78b92c30040ba84093bc976b989e9e5bd53c&v=4",
     "amount": 4,
     "link": "https://github.com/mysteryven",
-    "org": false
-  },
-  {
-    "name": "Bob Zheng",
-    "login": "zhengbangbo",
-    "avatar": "https://avatars.githubusercontent.com/u/18254135?u=f74c062906d6e261c229a0402b16765a2f1ab1cd&v=4",
-    "amount": 4,
-    "link": "https://github.com/zhengbangbo",
     "org": false
   },
   {
@@ -2568,6 +2568,14 @@
     "org": false
   },
   {
+    "name": "level7in",
+    "login": "level7in",
+    "avatar": "https://avatars.githubusercontent.com/u/9393567?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/level7in",
+    "org": false
+  },
+  {
     "name": "khot-aditya",
     "login": "khot-aditya",
     "avatar": "https://avatars.githubusercontent.com/u/66156452?s=60&v=4",
@@ -2749,6 +2757,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/40693636?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/Zhengqbbb",
+    "org": false
+  },
+  {
+    "name": "zhengbangbo",
+    "login": "zhengbangbo",
+    "avatar": "https://avatars.githubusercontent.com/u/18254135?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/zhengbangbo",
     "org": false
   },
   {
@@ -4837,14 +4853,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/49217418?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/li-jia-nan",
-    "org": false
-  },
-  {
-    "name": "level7in",
-    "login": "level7in",
-    "avatar": "https://avatars.githubusercontent.com/u/9393567?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/level7in",
     "org": false
   },
   {
