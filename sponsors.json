@@ -96,6 +96,14 @@
     "org": false
   },
   {
+    "name": "Corey Quinn",
+    "login": "QuinnyPig",
+    "avatar": "https://avatars.githubusercontent.com/u/489170?u=a2ee879f711dd019077ec9a524a516589c9ab34a&v=4",
+    "amount": 64,
+    "link": "https://github.com/QuinnyPig",
+    "org": false
+  },
+  {
     "name": "Classroomscreen",
     "login": "ls-ip-holding",
     "avatar": "https://avatars.githubusercontent.com/u/80311656?v=4",
@@ -1016,14 +1024,6 @@
     "org": false
   },
   {
-    "name": "Hakadao",
-    "login": "hakadao",
-    "avatar": "https://avatars.githubusercontent.com/u/33394391?u=539ada5f2565f6066fd1c1ee244ef895594fc869&v=4",
-    "amount": 5,
-    "link": "https://github.com/hakadao",
-    "org": false
-  },
-  {
     "name": "Louis Ramos",
     "login": "wJoenn",
     "avatar": "https://avatars.githubusercontent.com/u/75388869?u=56435279647cc80b907c4006513a49f31fb6c1be&v=4",
@@ -1928,7 +1928,7 @@
     "org": false
   },
   {
-    "name": "cong",
+    "name": "featherlight",
     "login": "zcong1993",
     "avatar": "https://avatars.githubusercontent.com/u/18305255?u=0f7d4f8df8ed3bb2115f2b5963ea68a087c49ab2&v=4",
     "amount": 1,
@@ -2613,6 +2613,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/41169617?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/HassanDomeDenea",
+    "org": false
+  },
+  {
+    "name": "hakadao",
+    "login": "hakadao",
+    "avatar": "https://avatars.githubusercontent.com/u/33394391?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/hakadao",
     "org": false
   },
   {
