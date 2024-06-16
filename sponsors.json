@@ -170,7 +170,7 @@
   {
     "name": "Lucas Lima Rodrigues",
     "login": "lucaslrodri",
-    "avatar": "https://avatars.githubusercontent.com/u/20830209?u=858b4b23fe68e934c12eb92fdcccfea4dac1a314&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/20830209?u=4983a342e688187d07f1b636e17bb7be1364c8e3&v=4",
     "amount": 32,
     "link": "https://github.com/lucaslrodri",
     "org": false
@@ -960,11 +960,51 @@
     "org": false
   },
   {
-    "name": "Ever Fu",
-    "login": "08d14cd41c9411ee834552540025c377",
-    "avatar": "https://pic1.afdiancdn.com/user/08d14cd41c9411ee834552540025c377/avatar/4d49a96da92243d69d7971caef643e7e_w489_h489_s355.png",
-    "amount": 7.6923076923076925,
-    "link": "https://afdian.net/u/08d14cd41c9411ee834552540025c377",
+    "name": "xiao",
+    "login": "xiao-xiang",
+    "avatar": "https://images.opencollective.com/xiao-xiang/avatar/460.png",
+    "amount": 5,
+    "link": "https://opencollective.com/xiao-xiang",
+    "org": false
+  },
+  {
+    "name": "ruibaby",
+    "login": "ruibaby",
+    "avatar": "https://avatars.githubusercontent.com/u/21301288?s=60&v=4",
+    "amount": 5,
+    "link": "https://github.com/ruibaby",
+    "org": false
+  },
+  {
+    "name": "maybeanerd",
+    "login": "maybeanerd",
+    "avatar": "https://images.opencollective.com/maybeanerd/71faf43/avatar/460.png",
+    "amount": 5,
+    "link": "https://opencollective.com/maybeanerd",
+    "org": false
+  },
+  {
+    "name": "Stephen Zhou",
+    "login": "hyoban",
+    "avatar": "https://images.opencollective.com/hyoban/caf9e78/avatar/460.png",
+    "amount": 5,
+    "link": "https://opencollective.com/hyoban",
+    "org": false
+  },
+  {
+    "name": "Olivier",
+    "login": "guest-4138090d",
+    "avatar": "https://images.opencollective.com/guest-4138090d/avatar/460.png",
+    "amount": 5,
+    "link": "https://opencollective.com/guest-4138090d",
+    "org": false
+  },
+  {
+    "name": "Martin",
+    "login": "guest-14ba1af7",
+    "avatar": "https://images.opencollective.com/guest-14ba1af7/avatar/460.png",
+    "amount": 5,
+    "link": "https://opencollective.com/guest-14ba1af7",
     "org": false
   },
   {
@@ -1056,22 +1096,6 @@
     "org": false
   },
   {
-    "name": "xiao",
-    "login": "xiao-xiang",
-    "avatar": "https://images.opencollective.com/xiao-xiang/avatar/460.png",
-    "amount": 5,
-    "link": "https://opencollective.com/xiao-xiang",
-    "org": false
-  },
-  {
-    "name": "maybeanerd",
-    "login": "maybeanerd",
-    "avatar": "https://images.opencollective.com/maybeanerd/71faf43/avatar/460.png",
-    "amount": 5,
-    "link": "https://opencollective.com/maybeanerd",
-    "org": false
-  },
-  {
     "name": "LongYinan",
     "login": "Brooooooklyn",
     "avatar": "https://avatars.githubusercontent.com/u/3468483?u=daf25d236ad2cc227470fa0da2d5bdf3dbb7feed&v=4",
@@ -1085,38 +1109,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/72989?u=aa96aeeb839bf660697d90f50581e1c107616092&v=4",
     "amount": 5,
     "link": "https://github.com/kazupon",
-    "org": false
-  },
-  {
-    "name": "Stephen Zhou",
-    "login": "hyoban",
-    "avatar": "https://images.opencollective.com/hyoban/caf9e78/avatar/460.png",
-    "amount": 5,
-    "link": "https://opencollective.com/hyoban",
-    "org": false
-  },
-  {
-    "name": "Olivier",
-    "login": "guest-4138090d",
-    "avatar": "https://images.opencollective.com/guest-4138090d/avatar/460.png",
-    "amount": 5,
-    "link": "https://opencollective.com/guest-4138090d",
-    "org": false
-  },
-  {
-    "name": "Martin",
-    "login": "guest-14ba1af7",
-    "avatar": "https://images.opencollective.com/guest-14ba1af7/avatar/460.png",
-    "amount": 5,
-    "link": "https://opencollective.com/guest-14ba1af7",
-    "org": false
-  },
-  {
-    "name": "ruibaby",
-    "login": "ruibaby",
-    "avatar": "https://avatars.githubusercontent.com/u/21301288?s=60&v=4",
-    "amount": 5,
-    "link": "https://github.com/ruibaby",
     "org": false
   },
   {
@@ -2125,6 +2117,14 @@
     "avatar": "https://images.opencollective.com/ouuan/fce9809/avatar/460.png",
     "amount": 0.8333333333333334,
     "link": "https://opencollective.com/ouuan",
+    "org": false
+  },
+  {
+    "name": "Ever Fu",
+    "login": "08d14cd41c9411ee834552540025c377",
+    "avatar": "https://pic1.afdiancdn.com/user/08d14cd41c9411ee834552540025c377/avatar/4d49a96da92243d69d7971caef643e7e_w489_h489_s355.png",
+    "amount": -1,
+    "link": "https://afdian.net/u/08d14cd41c9411ee834552540025c377",
     "org": false
   },
   {
