@@ -2016,6 +2016,14 @@
     "org": false
   },
   {
+    "name": "Paul Melero",
+    "login": "gangsthub",
+    "avatar": "https://avatars.githubusercontent.com/u/6775220?u=7f15c1c81ee951615562633ac8f31ed00f2b7842&v=4",
+    "amount": 1,
+    "link": "https://github.com/gangsthub",
+    "org": false
+  },
+  {
     "name": "Tmk",
     "login": "tmkx",
     "avatar": "https://avatars.githubusercontent.com/u/13805071?u=ea1c02ac5b8c0be74b90c41f1c8fc9b2498a4385&v=4",
@@ -3965,14 +3973,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/56879478?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/carlosmfnt",
-    "org": false
-  },
-  {
-    "name": "CareTiger",
-    "login": "CareTiger",
-    "avatar": "https://avatars.githubusercontent.com/u/6777660?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/CareTiger",
     "org": false
   },
   {
@@ -6264,14 +6264,6 @@
     "org": false
   },
   {
-    "name": "gangsthub",
-    "login": "gangsthub",
-    "avatar": "https://avatars.githubusercontent.com/u/6775220?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/gangsthub",
-    "org": false
-  },
-  {
     "name": "fzn0x",
     "login": "fzn0x",
     "avatar": "https://avatars.githubusercontent.com/u/50759463?s=60&v=4",
@@ -6685,6 +6677,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/44313800?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/catlair",
+    "org": false
+  },
+  {
+    "name": "CareTiger",
+    "login": "CareTiger",
+    "avatar": "https://avatars.githubusercontent.com/u/6777660?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/CareTiger",
     "org": false
   },
   {
