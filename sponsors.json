@@ -168,14 +168,6 @@
     "org": false
   },
   {
-    "name": "cssninjaStudio",
-    "login": "cssninjaStudio",
-    "avatar": "https://avatars.githubusercontent.com/u/35071927?v=4",
-    "amount": 32,
-    "link": "https://github.com/cssninjaStudio",
-    "org": true
-  },
-  {
     "name": "Checkly",
     "login": "checkly",
     "avatar": "https://avatars.githubusercontent.com/u/25982255?v=4",
@@ -4630,6 +4622,14 @@
     "amount": -1,
     "link": "https://github.com/cyco130",
     "org": false
+  },
+  {
+    "name": "cssninjaStudio",
+    "login": "cssninjaStudio",
+    "avatar": "https://avatars.githubusercontent.com/u/35071927?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/cssninjaStudio",
+    "org": true
   },
   {
     "name": "crossvalidator",
