@@ -1152,9 +1152,9 @@
     "org": false
   },
   {
-    "name": "Sebastian",
+    "name": "☀️ Loyft 🏝️",
     "login": "Loyft",
-    "avatar": "https://avatars.githubusercontent.com/u/67104490?u=a14d10acb6f52a1b401289222787689e89ebf348&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/67104490?u=7d7e3e69ae69ef14e4f9b0f56aac8909cc1984f8&v=4",
     "amount": 4,
     "link": "https://github.com/Loyft",
     "org": false
@@ -1333,14 +1333,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/2900833?u=c96477a58bdff9f21acf81c3e618c0018dc85473&v=4",
     "amount": 4,
     "link": "https://github.com/estruyf",
-    "org": false
-  },
-  {
-    "name": "rogepi",
-    "login": "rogepi",
-    "avatar": "https://avatars.githubusercontent.com/u/56425392?u=394afa82a65454b9a5740b37ea95b72cac037f7d&v=4",
-    "amount": 4,
-    "link": "https://github.com/rogepi",
     "org": false
   },
   {
@@ -1821,6 +1813,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/264400?v=4",
     "amount": 2,
     "link": "https://github.com/Envek",
+    "org": false
+  },
+  {
+    "name": "Julien Calixte",
+    "login": "jcalixte",
+    "avatar": "https://avatars.githubusercontent.com/u/3417063?u=4b7fb12caa40f3a99692e1c8249d945653344a48&v=4",
+    "amount": 2,
+    "link": "https://github.com/jcalixte",
     "org": false
   },
   {
@@ -4088,6 +4088,14 @@
     "org": false
   },
   {
+    "name": "rogepi",
+    "login": "rogepi",
+    "avatar": "https://avatars.githubusercontent.com/u/56425392?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/rogepi",
+    "org": false
+  },
+  {
     "name": "robokozo",
     "login": "robokozo",
     "avatar": "https://avatars.githubusercontent.com/u/1719221?s=60&v=4",
@@ -5309,14 +5317,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/47495003?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/jd-solanki",
-    "org": false
-  },
-  {
-    "name": "jcalixte",
-    "login": "jcalixte",
-    "avatar": "https://avatars.githubusercontent.com/u/3417063?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/jcalixte",
     "org": false
   },
   {
