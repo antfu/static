@@ -40,14 +40,6 @@
     "org": false
   },
   {
-    "name": "Konstantin BIFERT",
-    "login": "kissu",
-    "avatar": "https://avatars.githubusercontent.com/u/5133074?v=4",
-    "amount": 132,
-    "link": "https://github.com/kissu",
-    "org": false
-  },
-  {
     "name": "Workleap",
     "login": "Infra-Workleap",
     "avatar": "https://avatars.githubusercontent.com/u/53535748?u=d1e55d7661d724bf2281c1bfd33cb8f99fe2465f&v=4",
@@ -189,6 +181,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/1392720?u=1658d71fccd57f4444ab21088b0c153f1c4b07f0&v=4",
     "amount": 32,
     "link": "https://github.com/Codermar",
+    "org": false
+  },
+  {
+    "name": "Konstantin BIFERT",
+    "login": "kissu",
+    "avatar": "https://avatars.githubusercontent.com/u/5133074?v=4",
+    "amount": 32,
+    "link": "https://github.com/kissu",
     "org": false
   },
   {
@@ -440,11 +440,35 @@
     "org": false
   },
   {
+    "name": "Arlo",
+    "login": "webfansplz",
+    "avatar": "https://avatars.githubusercontent.com/u/22515951?u=8656c59d5eb297bcbd725c80ba6104f865ef2a51&v=4",
+    "amount": 12,
+    "link": "https://github.com/webfansplz",
+    "org": false
+  },
+  {
+    "name": "Michael Hoffmann",
+    "login": "michael-hoffmann2",
+    "avatar": "https://images.opencollective.com/michael-hoffmann2/eecd5f4/avatar/460.png",
+    "amount": 10,
+    "link": "https://opencollective.com/michael-hoffmann2",
+    "org": false
+  },
+  {
     "name": "KaygNas",
     "login": "KaygNas",
     "avatar": "https://avatars.githubusercontent.com/u/51954817?u=3e9a226fb4c5f96cd364b507f8c15cfddfc85d82&v=4",
     "amount": 10,
     "link": "https://github.com/KaygNas",
+    "org": false
+  },
+  {
+    "name": "Jithin Sha",
+    "login": "jithin-sha",
+    "avatar": "https://images.opencollective.com/jithin-sha/avatar/460.png",
+    "amount": 10,
+    "link": "https://opencollective.com/jithin-sha",
     "org": false
   },
   {
@@ -525,22 +549,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/9126398?u=74663065850f1cc54d1c9e7643d67b6e3b066697&v=4",
     "amount": 10,
     "link": "https://github.com/yoyo930021",
-    "org": false
-  },
-  {
-    "name": "Michael Hoffmann",
-    "login": "michael-hoffmann2",
-    "avatar": "https://images.opencollective.com/michael-hoffmann2/eecd5f4/avatar/460.png",
-    "amount": 10,
-    "link": "https://opencollective.com/michael-hoffmann2",
-    "org": false
-  },
-  {
-    "name": "Jithin Sha",
-    "login": "jithin-sha",
-    "avatar": "https://images.opencollective.com/jithin-sha/avatar/460.png",
-    "amount": 10,
-    "link": "https://opencollective.com/jithin-sha",
     "org": false
   },
   {
@@ -861,14 +869,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/1444915?u=63e3e06b1fb393ac9489ed639faab4350d0459e8&v=4",
     "amount": 8,
     "link": "https://github.com/themarcba",
-    "org": false
-  },
-  {
-    "name": null,
-    "login": "suzukey",
-    "avatar": "https://avatars.githubusercontent.com/u/53002440?u=a050a13b031d2c3429e00a6cc8c7df8cbed6a625&v=4",
-    "amount": 8,
-    "link": "https://github.com/suzukey",
     "org": false
   },
   {
@@ -1800,6 +1800,14 @@
     "org": false
   },
   {
+    "name": "Leon Fong",
+    "login": "leon-fong",
+    "avatar": "https://avatars.githubusercontent.com/u/45456105?u=9c46df9c80f1cce4ab7845dddbcc95d0c0731ac9&v=4",
+    "amount": 2,
+    "link": "https://github.com/leon-fong",
+    "org": false
+  },
+  {
     "name": "Andrey Novikov",
     "login": "Envek",
     "avatar": "https://avatars.githubusercontent.com/u/264400?v=4",
@@ -2184,14 +2192,6 @@
     "org": false
   },
   {
-    "name": "Riri",
-    "login": "guest-c8742a0d",
-    "avatar": "https://images.opencollective.com/guest-c8742a0d/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/guest-c8742a0d",
-    "org": false
-  },
-  {
     "name": "WoXy-Sensei",
     "login": "WoXy-Sensei",
     "avatar": "https://avatars.githubusercontent.com/u/53876909?s=60&v=4",
@@ -2205,14 +2205,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/75388869?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/wJoenn",
-    "org": false
-  },
-  {
-    "name": "webfansplz",
-    "login": "webfansplz",
-    "avatar": "https://avatars.githubusercontent.com/u/22515951?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/webfansplz",
     "org": false
   },
   {
@@ -2349,6 +2341,14 @@
     "avatar": "https://pic1.afdiancdn.com/user/e0b86a340e1911efa1e75254001e7c00/avatar/a6d19abedaddcfec0e2c8830282ef103_w471_h677_s75.jpeg",
     "amount": -1,
     "link": "https://afdian.net/u/e0b86a340e1911efa1e75254001e7c00",
+    "org": false
+  },
+  {
+    "name": "Riri",
+    "login": "guest-c8742a0d",
+    "avatar": "https://images.opencollective.com/guest-c8742a0d/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/guest-c8742a0d",
     "org": false
   },
   {
@@ -3637,6 +3637,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/77060?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/t6d",
+    "org": false
+  },
+  {
+    "name": "suzukey",
+    "login": "suzukey",
+    "avatar": "https://avatars.githubusercontent.com/u/53002440?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/suzukey",
     "org": false
   },
   {
