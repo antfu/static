@@ -154,7 +154,7 @@
   {
     "name": "Lucas Lima Rodrigues",
     "login": "lucaslrodri",
-    "avatar": "https://avatars.githubusercontent.com/u/20830209?u=4983a342e688187d07f1b636e17bb7be1364c8e3&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/20830209?u=cac9882e712fb714fc5b4901ae8becc27c27e6a1&v=4",
     "amount": 32,
     "link": "https://github.com/lucaslrodri",
     "org": false
@@ -1861,6 +1861,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/21072589?u=051d9577bfae935f251d7dff1136ecd7df2b15b0&v=4",
     "amount": 1,
     "link": "https://github.com/PeterChen1997",
+    "org": false
+  },
+  {
+    "name": "Stefano Faieta",
+    "login": "stefanofa",
+    "avatar": "https://avatars.githubusercontent.com/u/9802152?u=135e0e94d8369dc9a02e3f9c2c5c23aa7f1f4b24&v=4",
+    "amount": 1,
+    "link": "https://github.com/stefanofa",
     "org": false
   },
   {
@@ -3749,14 +3757,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/29500153?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/steklopod",
-    "org": false
-  },
-  {
-    "name": "stefanofa",
-    "login": "stefanofa",
-    "avatar": "https://avatars.githubusercontent.com/u/9802152?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/stefanofa",
     "org": false
   },
   {
