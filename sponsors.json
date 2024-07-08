@@ -40,6 +40,14 @@
     "org": false
   },
   {
+    "name": "0db42",
+    "login": "0db42b043c0f11efaf3e52540025c377",
+    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/",
+    "amount": 236.30769230769232,
+    "link": "https://afdian.net/u/0db42b043c0f11efaf3e52540025c377",
+    "org": false
+  },
+  {
     "name": "Konstantin BIFERT",
     "login": "kissu",
     "avatar": "https://avatars.githubusercontent.com/u/5133074?v=4",
@@ -214,6 +222,14 @@
     "amount": 20,
     "link": "https://github.com/n8nio",
     "org": true
+  },
+  {
+    "name": "Jex",
+    "login": "JexLau",
+    "avatar": "https://avatars.githubusercontent.com/u/35288649?u=1cedac024ff57e5906ee83eb60d1c7e608b13d2a&v=4",
+    "amount": 16,
+    "link": "https://github.com/JexLau",
+    "org": false
   },
   {
     "name": "xjccc",
@@ -2656,6 +2672,14 @@
     "org": false
   },
   {
+    "name": "mastermind168",
+    "login": "mastermind168",
+    "avatar": "https://avatars.githubusercontent.com/u/128353894?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/mastermind168",
+    "org": false
+  },
+  {
     "name": "mariasalcedo",
     "login": "mariasalcedo",
     "avatar": "https://avatars.githubusercontent.com/u/44043510?s=60&v=4",
@@ -3429,6 +3453,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/702504?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/tylermadsen",
+    "org": false
+  },
+  {
+    "name": "txjack",
+    "login": "txjack",
+    "avatar": "https://avatars.githubusercontent.com/u/44177102?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/txjack",
     "org": false
   },
   {
@@ -4800,14 +4832,6 @@
     "org": false
   },
   {
-    "name": "mastermind168",
-    "login": "mastermind168",
-    "avatar": "https://avatars.githubusercontent.com/u/128353894?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/mastermind168",
-    "org": false
-  },
-  {
     "name": "Masa-Shin",
     "login": "Masa-Shin",
     "avatar": "https://avatars.githubusercontent.com/u/34234442?s=60&v=4",
@@ -5821,14 +5845,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/8898718?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/hardfist",
-    "org": false
-  },
-  {
-    "name": "halja7",
-    "login": "halja7",
-    "avatar": "https://avatars.githubusercontent.com/u/44177102?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/halja7",
     "org": false
   },
   {
