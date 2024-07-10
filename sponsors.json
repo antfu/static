@@ -3192,6 +3192,14 @@
     "org": false
   },
   {
+    "name": "xbufan",
+    "login": "xbufan",
+    "avatar": "https://avatars.githubusercontent.com/u/26736658?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/xbufan",
+    "org": false
+  },
+  {
     "name": "wuhan005",
     "login": "wuhan005",
     "avatar": "https://avatars.githubusercontent.com/u/12731778?s=60&v=4",
@@ -3309,14 +3317,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/66075776?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/wangpf1129",
-    "org": false
-  },
-  {
-    "name": "wang-jian-zhong",
-    "login": "wang-jian-zhong",
-    "avatar": "https://avatars.githubusercontent.com/u/26736658?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/wang-jian-zhong",
     "org": false
   },
   {
