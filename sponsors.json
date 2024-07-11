@@ -48,14 +48,6 @@
     "org": false
   },
   {
-    "name": "Konstantin BIFERT",
-    "login": "kissu",
-    "avatar": "https://avatars.githubusercontent.com/u/5133074?v=4",
-    "amount": 132,
-    "link": "https://github.com/kissu",
-    "org": false
-  },
-  {
     "name": "Workleap",
     "login": "Infra-Workleap",
     "avatar": "https://avatars.githubusercontent.com/u/53535748?u=d1e55d7661d724bf2281c1bfd33cb8f99fe2465f&v=4",
@@ -138,7 +130,7 @@
   {
     "name": "Jan-Henrik Damaschke",
     "login": "itpropro",
-    "avatar": "https://avatars.githubusercontent.com/u/15030951?u=1a868564041d0c88260804a2f6459156fcd76031&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/15030951?u=724eb8ee4cae7792ddf13e25c31589dd6c5cb1d1&v=4",
     "amount": 50,
     "link": "https://github.com/itpropro",
     "org": false
@@ -197,6 +189,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/1392720?u=1658d71fccd57f4444ab21088b0c153f1c4b07f0&v=4",
     "amount": 32,
     "link": "https://github.com/Codermar",
+    "org": false
+  },
+  {
+    "name": "Konstantin BIFERT",
+    "login": "kissu",
+    "avatar": "https://avatars.githubusercontent.com/u/5133074?v=4",
+    "amount": 32,
+    "link": "https://github.com/kissu",
     "org": false
   },
   {
@@ -1808,6 +1808,14 @@
     "org": true
   },
   {
+    "name": "Immerse",
+    "login": "yaolifeng0629",
+    "avatar": "https://avatars.githubusercontent.com/u/88535417?u=88ea13bd44fbb7b9c3cd60d62f42b32a0684e6e2&v=4",
+    "amount": 2,
+    "link": "https://github.com/yaolifeng0629",
+    "org": false
+  },
+  {
     "name": "Robin Genz",
     "login": "robingenz",
     "avatar": "https://avatars.githubusercontent.com/u/13857929?u=bc79facfce465b4217c46f28e23b37d829c8f970&v=4",
@@ -1853,14 +1861,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/3417063?u=4b7fb12caa40f3a99692e1c8249d945653344a48&v=4",
     "amount": 2,
     "link": "https://github.com/jcalixte",
-    "org": false
-  },
-  {
-    "name": "Immerse",
-    "login": "yaolifeng0629",
-    "avatar": "https://avatars.githubusercontent.com/u/88535417?u=88ea13bd44fbb7b9c3cd60d62f42b32a0684e6e2&v=4",
-    "amount": 1,
-    "link": "https://github.com/yaolifeng0629",
     "org": false
   },
   {
@@ -3328,19 +3328,19 @@
     "org": false
   },
   {
+    "name": "vvnsrzn",
+    "login": "vvnsrzn",
+    "avatar": "https://avatars.githubusercontent.com/u/9358572?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/vvnsrzn",
+    "org": false
+  },
+  {
     "name": "vladdeSV",
     "login": "vladdeSV",
     "avatar": "https://avatars.githubusercontent.com/u/7542961?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/vladdeSV",
-    "org": false
-  },
-  {
-    "name": "VivianSolide",
-    "login": "VivianSolide",
-    "avatar": "https://avatars.githubusercontent.com/u/9358572?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/VivianSolide",
     "org": false
   },
   {
