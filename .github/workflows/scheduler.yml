@@ -29,10 +29,8 @@ jobs:
           SPONSORKIT_GITHUB_LOGIN: antfu
           SPONSORKIT_OPENCOLLECTIVE_KEY: ${{ secrets.SPONSORKIT_OPENCOLLECTIVE_KEY }}
           SPONSORKIT_OPENCOLLECTIVE_SLUG: antfu
-
-          # Afdian site is down, bring it back when it recovers
-          # SPONSORKIT_AFDIAN_USER_ID: ${{ secrets.SPONSORKIT_AFDIAN_USER_ID }}
-          # SPONSORKIT_AFDIAN_TOKEN: ${{ secrets.SPONSORKIT_AFDIAN_TOKEN }}
+          SPONSORKIT_AFDIAN_USER_ID: ${{ secrets.SPONSORKIT_AFDIAN_USER_ID }}
+          SPONSORKIT_AFDIAN_TOKEN: ${{ secrets.SPONSORKIT_AFDIAN_TOKEN }}
 
       - name: Commit
         uses: EndBug/add-and-commit@v9
