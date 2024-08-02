@@ -72,14 +72,6 @@
     "org": true
   },
   {
-    "name": "thanks.dev",
-    "login": "thnxdev",
-    "avatar": "https://avatars.githubusercontent.com/u/72539280?v=4",
-    "amount": 116,
-    "link": "https://github.com/thnxdev",
-    "org": true
-  },
-  {
     "name": "e1055",
     "login": "e1055cb0b52a11ee92dd52540025c377",
     "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/",
@@ -2240,6 +2232,14 @@
     "org": false
   },
   {
+    "name": "thnxdev",
+    "login": "thnxdev",
+    "avatar": "https://avatars.githubusercontent.com/u/72539280?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/thnxdev",
+    "org": true
+  },
+  {
     "name": "sxzz",
     "login": "sxzz",
     "avatar": "https://avatars.githubusercontent.com/u/6481596?s=60&v=4",
@@ -2677,14 +2677,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/33394391?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/hakadao",
-    "org": false
-  },
-  {
-    "name": "euotiniel",
-    "login": "euotiniel",
-    "avatar": "https://avatars.githubusercontent.com/u/93485038?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/euotiniel",
     "org": false
   },
   {
@@ -6133,6 +6125,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/1469375?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/Exelord",
+    "org": false
+  },
+  {
+    "name": "euotiniel",
+    "login": "euotiniel",
+    "avatar": "https://avatars.githubusercontent.com/u/93485038?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/euotiniel",
     "org": false
   },
   {
