@@ -1704,7 +1704,7 @@
     "org": false
   },
   {
-    "name": "Wei Wei",
+    "name": "Wei",
     "login": "fi3ework",
     "avatar": "https://avatars.githubusercontent.com/u/12322740?u=056f396cfc1df6fd7e1bd486e0578f6fd0158761&v=4",
     "amount": 4,
@@ -1797,14 +1797,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/3417063?u=4b7fb12caa40f3a99692e1c8249d945653344a48&v=4",
     "amount": 2,
     "link": "https://github.com/jcalixte",
-    "org": false
-  },
-  {
-    "name": null,
-    "login": "tuchg",
-    "avatar": "https://avatars.githubusercontent.com/u/24775733?u=acb8fdf66e78be96bb8dd2fa32d26013ae53fed6&v=4",
-    "amount": 1,
-    "link": "https://github.com/tuchg",
     "org": false
   },
   {
@@ -2205,6 +2197,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/49522285?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/wanglihuaya",
+    "org": false
+  },
+  {
+    "name": "tuchg",
+    "login": "tuchg",
+    "avatar": "https://avatars.githubusercontent.com/u/24775733?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/tuchg",
     "org": false
   },
   {
