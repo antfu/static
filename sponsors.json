@@ -464,14 +464,6 @@
     "org": false
   },
   {
-    "name": "kosuke naito",
-    "login": "kosuke222naito",
-    "avatar": "https://avatars.githubusercontent.com/u/102337893?u=b481cfbbd70df13ecc78d9bf93bf76744c6eae16&v=4",
-    "amount": 10,
-    "link": "https://github.com/kosuke222naito",
-    "org": false
-  },
-  {
     "name": "Jeffrey Rennie",
     "login": "surferjeff",
     "avatar": "https://avatars.githubusercontent.com/u/3111162?u=c3c31cd93efc47564d666bc968bd7209d0d39632&v=4",
@@ -2312,6 +2304,14 @@
     "org": false
   },
   {
+    "name": "kosuke222naito",
+    "login": "kosuke222naito",
+    "avatar": "https://avatars.githubusercontent.com/u/102337893?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/kosuke222naito",
+    "org": false
+  },
+  {
     "name": "KaygNas",
     "login": "KaygNas",
     "avatar": "https://avatars.githubusercontent.com/u/51954817?s=60&v=4",
@@ -2725,14 +2725,6 @@
     "avatar": "https://pic1.afdiancdn.com/user/user_upload_osl/95161ac4b921f817b98d8070eed00525_w132_h132_s4.jpeg",
     "amount": -1,
     "link": "https://afdian.com/u/bd3245d643bc11ed902052540025c377",
-    "org": false
-  },
-  {
-    "name": "canyildiz",
-    "login": "canyildiz",
-    "avatar": "https://avatars.githubusercontent.com/u/646045?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/canyildiz",
     "org": false
   },
   {
@@ -6725,6 +6717,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/30765485?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/CaptainOfPhB",
+    "org": false
+  },
+  {
+    "name": "canyildiz",
+    "login": "canyildiz",
+    "avatar": "https://avatars.githubusercontent.com/u/646045?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/canyildiz",
     "org": false
   },
   {
