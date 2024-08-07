@@ -1296,14 +1296,6 @@
     "org": false
   },
   {
-    "name": "Elio Struyf",
-    "login": "estruyf",
-    "avatar": "https://avatars.githubusercontent.com/u/2900833?u=c96477a58bdff9f21acf81c3e618c0018dc85473&v=4",
-    "amount": 4,
-    "link": "https://github.com/estruyf",
-    "org": false
-  },
-  {
     "name": "Masayuki Higashino",
     "login": "mh61503891",
     "avatar": "https://avatars.githubusercontent.com/u/706275?u=c7d7e77e3753ab93756ff9d933de1a42ec7462ac&v=4",
@@ -6109,6 +6101,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/93485038?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/euotiniel",
+    "org": false
+  },
+  {
+    "name": "estruyf",
+    "login": "estruyf",
+    "avatar": "https://avatars.githubusercontent.com/u/2900833?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/estruyf",
     "org": false
   },
   {
