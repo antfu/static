@@ -784,7 +784,7 @@
     "org": false
   },
   {
-    "name": "Roland Doda",
+    "name": "Roland",
     "login": "Rolanddoda",
     "avatar": "https://avatars.githubusercontent.com/u/18482346?u=203f6949b3e62823bc946446269406daa4419a53&v=4",
     "amount": 8,
@@ -1736,14 +1736,6 @@
     "org": true
   },
   {
-    "name": "Immerse",
-    "login": "yaolifeng0629",
-    "avatar": "https://avatars.githubusercontent.com/u/88535417?u=88ea13bd44fbb7b9c3cd60d62f42b32a0684e6e2&v=4",
-    "amount": 2,
-    "link": "https://github.com/yaolifeng0629",
-    "org": false
-  },
-  {
     "name": "Robin Genz",
     "login": "robingenz",
     "avatar": "https://avatars.githubusercontent.com/u/13857929?u=bc79facfce465b4217c46f28e23b37d829c8f970&v=4",
@@ -2160,6 +2152,14 @@
     "org": false
   },
   {
+    "name": "yaolifeng0629",
+    "login": "yaolifeng0629",
+    "avatar": "https://avatars.githubusercontent.com/u/88535417?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/yaolifeng0629",
+    "org": false
+  },
+  {
     "name": "wJoenn",
     "login": "wJoenn",
     "avatar": "https://avatars.githubusercontent.com/u/75388869?s=60&v=4",
@@ -2173,14 +2173,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/22515951?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/webfansplz",
-    "org": false
-  },
-  {
-    "name": "wanglihuaya",
-    "login": "wanglihuaya",
-    "avatar": "https://avatars.githubusercontent.com/u/49522285?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/wanglihuaya",
     "org": false
   },
   {
@@ -3197,6 +3189,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/66075776?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/wangpf1129",
+    "org": false
+  },
+  {
+    "name": "wanglihuaya",
+    "login": "wanglihuaya",
+    "avatar": "https://avatars.githubusercontent.com/u/49522285?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/wanglihuaya",
     "org": false
   },
   {
