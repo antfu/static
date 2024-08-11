@@ -456,14 +456,6 @@
     "org": false
   },
   {
-    "name": "Baby Fu",
-    "login": "ProsperBao",
-    "avatar": "https://avatars.githubusercontent.com/u/43855486?u=8fb2e5eec602c4382ad12d7871ddf161e0295b8f&v=4",
-    "amount": 10,
-    "link": "https://github.com/ProsperBao",
-    "org": false
-  },
-  {
     "name": "Jeffrey Rennie",
     "login": "surferjeff",
     "avatar": "https://avatars.githubusercontent.com/u/3111162?u=c3c31cd93efc47564d666bc968bd7209d0d39632&v=4",
@@ -976,54 +968,6 @@
     "org": false
   },
   {
-    "name": "xiao",
-    "login": "xiao-xiang",
-    "avatar": "https://images.opencollective.com/xiao-xiang/avatar/460.png",
-    "amount": 5,
-    "link": "https://opencollective.com/xiao-xiang",
-    "org": false
-  },
-  {
-    "name": "ruibaby",
-    "login": "ruibaby",
-    "avatar": "https://avatars.githubusercontent.com/u/21301288?s=60&v=4",
-    "amount": 5,
-    "link": "https://github.com/ruibaby",
-    "org": false
-  },
-  {
-    "name": "Olivier",
-    "login": "olivier13",
-    "avatar": "https://images.opencollective.com/olivier13/avatar/460.png",
-    "amount": 5,
-    "link": "https://opencollective.com/olivier13",
-    "org": false
-  },
-  {
-    "name": "maybeanerd",
-    "login": "maybeanerd",
-    "avatar": "https://images.opencollective.com/maybeanerd/71faf43/avatar/460.png",
-    "amount": 5,
-    "link": "https://opencollective.com/maybeanerd",
-    "org": false
-  },
-  {
-    "name": "Stephen Zhou",
-    "login": "hyoban",
-    "avatar": "https://images.opencollective.com/hyoban/caf9e78/avatar/460.png",
-    "amount": 5,
-    "link": "https://opencollective.com/hyoban",
-    "org": false
-  },
-  {
-    "name": "ginlon",
-    "login": "ginlon",
-    "avatar": "https://images.opencollective.com/ginlon/62e2b0f/avatar/460.png",
-    "amount": 5,
-    "link": "https://opencollective.com/ginlon",
-    "org": false
-  },
-  {
     "name": "Ari Palo",
     "login": "aripalo",
     "avatar": "https://avatars.githubusercontent.com/u/679146?u=890c695fa5b7ada652fc3c6190211bc4e96b1746&v=4",
@@ -1088,6 +1032,30 @@
     "org": false
   },
   {
+    "name": "xiao",
+    "login": "xiao-xiang",
+    "avatar": "https://images.opencollective.com/xiao-xiang/avatar/460.png",
+    "amount": 5,
+    "link": "https://opencollective.com/xiao-xiang",
+    "org": false
+  },
+  {
+    "name": "Olivier",
+    "login": "olivier13",
+    "avatar": "https://images.opencollective.com/olivier13/avatar/460.png",
+    "amount": 5,
+    "link": "https://opencollective.com/olivier13",
+    "org": false
+  },
+  {
+    "name": "maybeanerd",
+    "login": "maybeanerd",
+    "avatar": "https://images.opencollective.com/maybeanerd/71faf43/avatar/460.png",
+    "amount": 5,
+    "link": "https://opencollective.com/maybeanerd",
+    "org": false
+  },
+  {
     "name": "LongYinan",
     "login": "Brooooooklyn",
     "avatar": "https://avatars.githubusercontent.com/u/3468483?u=daf25d236ad2cc227470fa0da2d5bdf3dbb7feed&v=4",
@@ -1101,6 +1069,30 @@
     "avatar": "https://avatars.githubusercontent.com/u/72989?u=aa96aeeb839bf660697d90f50581e1c107616092&v=4",
     "amount": 5,
     "link": "https://github.com/kazupon",
+    "org": false
+  },
+  {
+    "name": "Stephen Zhou",
+    "login": "hyoban",
+    "avatar": "https://images.opencollective.com/hyoban/caf9e78/avatar/460.png",
+    "amount": 5,
+    "link": "https://opencollective.com/hyoban",
+    "org": false
+  },
+  {
+    "name": "ginlon",
+    "login": "ginlon",
+    "avatar": "https://images.opencollective.com/ginlon/62e2b0f/avatar/460.png",
+    "amount": 5,
+    "link": "https://opencollective.com/ginlon",
+    "org": false
+  },
+  {
+    "name": "ruibaby",
+    "login": "ruibaby",
+    "avatar": "https://avatars.githubusercontent.com/u/21301288?s=60&v=4",
+    "amount": 5,
+    "link": "https://github.com/ruibaby",
     "org": false
   },
   {
@@ -2245,6 +2237,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/53259730?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/RobiMez",
+    "org": false
+  },
+  {
+    "name": "ProsperBao",
+    "login": "ProsperBao",
+    "avatar": "https://avatars.githubusercontent.com/u/43855486?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/ProsperBao",
     "org": false
   },
   {
