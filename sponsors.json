@@ -976,6 +976,14 @@
     "org": false
   },
   {
+    "name": "ruibaby",
+    "login": "ruibaby",
+    "avatar": "https://avatars.githubusercontent.com/u/21301288?s=60&v=4",
+    "amount": 5,
+    "link": "https://github.com/ruibaby",
+    "org": false
+  },
+  {
     "name": "Olivier",
     "login": "olivier13",
     "avatar": "https://images.opencollective.com/olivier13/avatar/460.png",
@@ -1005,30 +1013,6 @@
     "avatar": "https://images.opencollective.com/ginlon/62e2b0f/avatar/460.png",
     "amount": 5,
     "link": "https://opencollective.com/ginlon",
-    "org": false
-  },
-  {
-    "name": "ruibaby",
-    "login": "ruibaby",
-    "avatar": "https://avatars.githubusercontent.com/u/21301288?s=60&v=4",
-    "amount": 5,
-    "link": "https://github.com/ruibaby",
-    "org": false
-  },
-  {
-    "name": "Yuhei FUJITA",
-    "login": "fjt",
-    "avatar": "https://images.opencollective.com/fjt/3955659/avatar/460.png",
-    "amount": 5,
-    "link": "https://opencollective.com/fjt",
-    "org": false
-  },
-  {
-    "name": "BobbieGoede",
-    "login": "bobbie1",
-    "avatar": "https://images.opencollective.com/bobbie1/0a27d9b/avatar/460.png",
-    "amount": 5,
-    "link": "https://opencollective.com/bobbie1",
     "org": false
   },
   {
@@ -1109,6 +1093,22 @@
     "avatar": "https://avatars.githubusercontent.com/u/72989?u=aa96aeeb839bf660697d90f50581e1c107616092&v=4",
     "amount": 5,
     "link": "https://github.com/kazupon",
+    "org": false
+  },
+  {
+    "name": "Yuhei FUJITA",
+    "login": "fjt",
+    "avatar": "https://images.opencollective.com/fjt/3955659/avatar/460.png",
+    "amount": 5,
+    "link": "https://opencollective.com/fjt",
+    "org": false
+  },
+  {
+    "name": "BobbieGoede",
+    "login": "bobbie1",
+    "avatar": "https://images.opencollective.com/bobbie1/0a27d9b/avatar/460.png",
+    "amount": 5,
+    "link": "https://opencollective.com/bobbie1",
     "org": false
   },
   {
@@ -1728,6 +1728,14 @@
     "org": true
   },
   {
+    "name": "Xat",
+    "login": "Xatloon",
+    "avatar": "https://avatars.githubusercontent.com/u/54651817?u=358209787b105560d824d417793fd5f2bd129c98&v=4",
+    "amount": 2,
+    "link": "https://github.com/Xatloon",
+    "org": false
+  },
+  {
     "name": "Robin Genz",
     "login": "robingenz",
     "avatar": "https://avatars.githubusercontent.com/u/13857929?u=bc79facfce465b4217c46f28e23b37d829c8f970&v=4",
@@ -2120,14 +2128,6 @@
     "org": false
   },
   {
-    "name": "a1mersnow",
-    "login": "a1mersnow",
-    "avatar": "https://images.opencollective.com/a1mersnow/a1cad52/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/a1mersnow",
-    "org": false
-  },
-  {
     "name": "zhao-heng-sheng",
     "login": "zhao-heng-sheng",
     "avatar": "https://avatars.githubusercontent.com/u/34566241?s=60&v=4",
@@ -2333,6 +2333,14 @@
     "avatar": "https://pic1.afdiancdn.com/user/e0b86a340e1911efa1e75254001e7c00/avatar/a6d19abedaddcfec0e2c8830282ef103_w471_h677_s75.jpeg",
     "amount": -1,
     "link": "https://afdian.com/u/e0b86a340e1911efa1e75254001e7c00",
+    "org": false
+  },
+  {
+    "name": "a1mersnow",
+    "login": "a1mersnow",
+    "avatar": "https://images.opencollective.com/a1mersnow/a1cad52/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/a1mersnow",
     "org": false
   },
   {
@@ -2709,6 +2717,14 @@
     "avatar": "https://pic1.afdiancdn.com/user/user_upload_osl/95161ac4b921f817b98d8070eed00525_w132_h132_s4.jpeg",
     "amount": -1,
     "link": "https://afdian.com/u/bd3245d643bc11ed902052540025c377",
+    "org": false
+  },
+  {
+    "name": "canyildiz",
+    "login": "canyildiz",
+    "avatar": "https://avatars.githubusercontent.com/u/646045?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/canyildiz",
     "org": false
   },
   {
@@ -6733,14 +6749,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/30765485?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/CaptainOfPhB",
-    "org": false
-  },
-  {
-    "name": "canyildiz",
-    "login": "canyildiz",
-    "avatar": "https://avatars.githubusercontent.com/u/646045?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/canyildiz",
     "org": false
   },
   {
