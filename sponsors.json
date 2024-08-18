@@ -1272,14 +1272,6 @@
     "org": true
   },
   {
-    "name": "xiamo",
-    "login": "AceXiamo",
-    "avatar": "https://avatars.githubusercontent.com/u/38931843?u=ef6a1ffab3abe0aa4d486c8e9599154e754df68f&v=4",
-    "amount": 4,
-    "link": "https://github.com/AceXiamo",
-    "org": false
-  },
-  {
     "name": "Maxime Bonvin",
     "login": "Alaanor",
     "avatar": "https://avatars.githubusercontent.com/u/8039130?u=1050985fbb946a332a99222d54f548384d871620&v=4",
@@ -3368,14 +3360,6 @@
     "org": false
   },
   {
-    "name": "txjack",
-    "login": "txjack",
-    "avatar": "https://avatars.githubusercontent.com/u/44177102?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/txjack",
-    "org": false
-  },
-  {
     "name": "turkyden",
     "login": "turkyden",
     "avatar": "https://avatars.githubusercontent.com/u/24560160?s=60&v=4",
@@ -5085,6 +5069,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/4569916?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/kurehajime",
+    "org": false
+  },
+  {
+    "name": "KubeCowboy",
+    "login": "KubeCowboy",
+    "avatar": "https://avatars.githubusercontent.com/u/44177102?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/KubeCowboy",
     "org": false
   },
   {
@@ -7253,6 +7245,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/6046654?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/adam-beck",
+    "org": false
+  },
+  {
+    "name": "AceXiamo",
+    "login": "AceXiamo",
+    "avatar": "https://avatars.githubusercontent.com/u/38931843?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/AceXiamo",
     "org": false
   },
   {
