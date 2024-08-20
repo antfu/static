@@ -1328,14 +1328,6 @@
     "org": false
   },
   {
-    "name": "Wang Wenzhe ",
-    "login": "mysteryven",
-    "avatar": "https://avatars.githubusercontent.com/u/33973865?u=0e9f78b92c30040ba84093bc976b989e9e5bd53c&v=4",
-    "amount": 4,
-    "link": "https://github.com/mysteryven",
-    "org": false
-  },
-  {
     "name": "Bob Zheng",
     "login": "zhengbangbo",
     "avatar": "https://avatars.githubusercontent.com/u/18254135?u=f74c062906d6e261c229a0402b16765a2f1ab1cd&v=4",
@@ -4573,6 +4565,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/1953635?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/nasreddineskandrani",
+    "org": false
+  },
+  {
+    "name": "mysteryven",
+    "login": "mysteryven",
+    "avatar": "https://avatars.githubusercontent.com/u/33973865?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/mysteryven",
     "org": false
   },
   {
