@@ -248,7 +248,7 @@
     "org": false
   },
   {
-    "name": "Ray Guo",
+    "name": "ergou",
     "login": "RayGuo-ergou",
     "avatar": "https://avatars.githubusercontent.com/u/33137074?u=08a87cb42fdc24276346d81768b1d465520a6931&v=4",
     "amount": 16,
@@ -464,22 +464,6 @@
     "org": false
   },
   {
-    "name": "Michael Hoffmann",
-    "login": "michael-hoffmann2",
-    "avatar": "https://images.opencollective.com/michael-hoffmann2/eecd5f4/avatar/460.png",
-    "amount": 10,
-    "link": "https://opencollective.com/michael-hoffmann2",
-    "org": false
-  },
-  {
-    "name": "Jithin Sha",
-    "login": "jithin-sha",
-    "avatar": "https://images.opencollective.com/jithin-sha/avatar/460.png",
-    "amount": 10,
-    "link": "https://opencollective.com/jithin-sha",
-    "org": false
-  },
-  {
     "name": "SanD",
     "login": "AlexanderBelokon",
     "avatar": "https://avatars.githubusercontent.com/u/2198527?v=4",
@@ -525,6 +509,22 @@
     "avatar": "https://avatars.githubusercontent.com/u/9126398?u=74663065850f1cc54d1c9e7643d67b6e3b066697&v=4",
     "amount": 10,
     "link": "https://github.com/yoyo930021",
+    "org": false
+  },
+  {
+    "name": "Michael Hoffmann",
+    "login": "michael-hoffmann2",
+    "avatar": "https://images.opencollective.com/michael-hoffmann2/eecd5f4/avatar/460.png",
+    "amount": 10,
+    "link": "https://opencollective.com/michael-hoffmann2",
+    "org": false
+  },
+  {
+    "name": "Jithin Sha",
+    "login": "jithin-sha",
+    "avatar": "https://images.opencollective.com/jithin-sha/avatar/460.png",
+    "amount": 10,
+    "link": "https://opencollective.com/jithin-sha",
     "org": false
   },
   {
@@ -949,14 +949,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/1726061?u=3490c34534d2a2a12e2e2221ffa2f476e1bbd77d&v=4",
     "amount": 8,
     "link": "https://github.com/Justineo",
-    "org": false
-  },
-  {
-    "name": "Hakadao",
-    "login": "1ef656789d6611eeb01152540025c377",
-    "avatar": "https://pic1.afdiancdn.com/user/1ef656789d6611eeb01152540025c377/avatar/18fcf9a38106b9db55ef751e27f17fab_w400_h400_s18.jpeg",
-    "amount": 7.6923076923076925,
-    "link": "https://afdian.com/u/1ef656789d6611eeb01152540025c377",
     "org": false
   },
   {
@@ -2101,6 +2093,14 @@
     "avatar": "https://images.opencollective.com/ouuan/fce9809/avatar/460.png",
     "amount": 0.8333333333333334,
     "link": "https://opencollective.com/ouuan",
+    "org": false
+  },
+  {
+    "name": "Hakadao",
+    "login": "1ef656789d6611eeb01152540025c377",
+    "avatar": "https://pic1.afdiancdn.com/user/1ef656789d6611eeb01152540025c377/avatar/18fcf9a38106b9db55ef751e27f17fab_w400_h400_s18.jpeg",
+    "amount": -1,
+    "link": "https://afdian.com/u/1ef656789d6611eeb01152540025c377",
     "org": false
   },
   {
