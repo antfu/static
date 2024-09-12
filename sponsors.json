@@ -1160,14 +1160,6 @@
     "org": false
   },
   {
-    "name": "Naoki Haba",
-    "login": "NaokiHaba",
-    "avatar": "https://avatars.githubusercontent.com/u/59875779?u=6a9d16468518a1714fbe4e848e55a3653c37e2ca&v=4",
-    "amount": 4,
-    "link": "https://github.com/NaokiHaba",
-    "org": false
-  },
-  {
     "name": "Guillaume Guerin",
     "login": "Lyliya",
     "avatar": "https://avatars.githubusercontent.com/u/22936229?u=5bdd10dfc37a1f10263f0476e07886d1ed1f4976&v=4",
@@ -1561,10 +1553,10 @@
   },
   {
     "name": "ubugeeei",
-    "login": "Ubugeeei",
+    "login": "ubugeeei",
     "avatar": "https://avatars.githubusercontent.com/u/71201308?u=536018d050af3f13a99026d03a5d1ab57bda6a20&v=4",
     "amount": 4,
-    "link": "https://github.com/Ubugeeei",
+    "link": "https://github.com/ubugeeei",
     "org": false
   },
   {
@@ -4581,6 +4573,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/1953635?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/nasreddineskandrani",
+    "org": false
+  },
+  {
+    "name": "NaokiHaba",
+    "login": "NaokiHaba",
+    "avatar": "https://avatars.githubusercontent.com/u/59875779?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/NaokiHaba",
     "org": false
   },
   {
