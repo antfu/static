@@ -72,14 +72,6 @@
     "org": true
   },
   {
-    "name": "National Speech & Debate Association",
-    "login": "speechanddebate",
-    "avatar": "https://avatars.githubusercontent.com/u/11318248?v=4",
-    "amount": 100,
-    "link": "https://github.com/speechanddebate",
-    "org": true
-  },
-  {
     "name": "e1055",
     "login": "e1055cb0b52a11ee92dd52540025c377",
     "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/",
@@ -94,6 +86,14 @@
     "amount": 79,
     "link": "https://github.com/patak-dev",
     "org": false
+  },
+  {
+    "name": "Kodify Media Group",
+    "login": "kodify-media-group",
+    "avatar": "https://images.opencollective.com/kodify-media-group/b109fa7/logo/460.png",
+    "amount": 68,
+    "link": "https://opencollective.com/kodify-media-group",
+    "org": true
   },
   {
     "name": "Corey Quinn",
@@ -1032,22 +1032,6 @@
     "org": false
   },
   {
-    "name": "Yuhei FUJITA",
-    "login": "fjt",
-    "avatar": "https://images.opencollective.com/fjt/3955659/avatar/460.png",
-    "amount": 5,
-    "link": "https://opencollective.com/fjt",
-    "org": false
-  },
-  {
-    "name": "BobbieGoede",
-    "login": "bobbie1",
-    "avatar": "https://images.opencollective.com/bobbie1/0a27d9b/avatar/460.png",
-    "amount": 5,
-    "link": "https://opencollective.com/bobbie1",
-    "org": false
-  },
-  {
     "name": "Ari Palo",
     "login": "aripalo",
     "avatar": "https://avatars.githubusercontent.com/u/679146?u=890c695fa5b7ada652fc3c6190211bc4e96b1746&v=4",
@@ -1125,6 +1109,22 @@
     "avatar": "https://avatars.githubusercontent.com/u/72989?u=aa96aeeb839bf660697d90f50581e1c107616092&v=4",
     "amount": 5,
     "link": "https://github.com/kazupon",
+    "org": false
+  },
+  {
+    "name": "Yuhei FUJITA",
+    "login": "fjt",
+    "avatar": "https://images.opencollective.com/fjt/3955659/avatar/460.png",
+    "amount": 5,
+    "link": "https://opencollective.com/fjt",
+    "org": false
+  },
+  {
+    "name": "BobbieGoede",
+    "login": "bobbie1",
+    "avatar": "https://images.opencollective.com/bobbie1/0a27d9b/avatar/460.png",
+    "amount": 5,
+    "link": "https://opencollective.com/bobbie1",
     "org": false
   },
   {
@@ -1405,14 +1405,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/30440218?u=b3b34274d22ab10c25a1ec97e783077f2e37043b&v=4",
     "amount": 4,
     "link": "https://github.com/Spike-Leung",
-    "org": false
-  },
-  {
-    "name": "Elian",
-    "login": "ElianCodes",
-    "avatar": "https://avatars.githubusercontent.com/u/15145918?u=1e567bda5bb9fefe36541e3ba8d8303edd306e66&v=4",
-    "amount": 4,
-    "link": "https://github.com/ElianCodes",
     "org": false
   },
   {
@@ -2096,14 +2088,6 @@
     "org": false
   },
   {
-    "name": "Bean Deng",
-    "login": "hadb",
-    "avatar": "https://images.opencollective.com/hadb/8a9d856/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/hadb",
-    "org": false
-  },
-  {
     "name": "zhao-heng-sheng",
     "login": "zhao-heng-sheng",
     "avatar": "https://avatars.githubusercontent.com/u/34566241?s=60&v=4",
@@ -2125,6 +2109,14 @@
     "avatar": "https://images.opencollective.com/xjccc/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/xjccc",
+    "org": false
+  },
+  {
+    "name": "Bean Deng",
+    "login": "hadb",
+    "avatar": "https://images.opencollective.com/hadb/8a9d856/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/hadb",
     "org": false
   },
   {
@@ -2224,6 +2216,14 @@
     "org": false
   },
   {
+    "name": "speechanddebate",
+    "login": "speechanddebate",
+    "avatar": "https://avatars.githubusercontent.com/u/11318248?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/speechanddebate",
+    "org": true
+  },
+  {
     "name": "shuangjie",
     "login": "shuangjie",
     "avatar": "https://avatars.githubusercontent.com/u/13066471?s=60&v=4",
@@ -2269,14 +2269,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/1001890?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/mondaychen",
-    "org": false
-  },
-  {
-    "name": "mariasalcedo",
-    "login": "mariasalcedo",
-    "avatar": "https://avatars.githubusercontent.com/u/44043510?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/mariasalcedo",
     "org": false
   },
   {
@@ -4856,6 +4848,14 @@
     "org": false
   },
   {
+    "name": "mariasalcedo",
+    "login": "mariasalcedo",
+    "avatar": "https://avatars.githubusercontent.com/u/44043510?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/mariasalcedo",
+    "org": false
+  },
+  {
     "name": "marekvospel",
     "login": "marekvospel",
     "avatar": "https://avatars.githubusercontent.com/u/73162071?s=60&v=4",
@@ -6293,6 +6293,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/51877647?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/elianiva",
+    "org": false
+  },
+  {
+    "name": "ElianCodes",
+    "login": "ElianCodes",
+    "avatar": "https://avatars.githubusercontent.com/u/15145918?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/ElianCodes",
     "org": false
   },
   {
