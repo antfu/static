@@ -976,14 +976,6 @@
     "org": false
   },
   {
-    "name": "Dirk Lach",
-    "login": "dirklach",
-    "avatar": "https://avatars.githubusercontent.com/u/52708827?u=038bdaffc6f92a9a0c6537f614aea948cabc4803&v=4",
-    "amount": 5,
-    "link": "https://github.com/dirklach",
-    "org": false
-  },
-  {
     "name": "Roboflow",
     "login": "roboflow",
     "avatar": "https://avatars.githubusercontent.com/u/53104118?v=4",
@@ -2104,6 +2096,14 @@
     "org": false
   },
   {
+    "name": "Riri",
+    "login": "guest-c8742a0d",
+    "avatar": "https://images.opencollective.com/guest-c8742a0d/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/guest-c8742a0d",
+    "org": false
+  },
+  {
     "name": "zhao-heng-sheng",
     "login": "zhao-heng-sheng",
     "avatar": "https://avatars.githubusercontent.com/u/34566241?s=60&v=4",
@@ -2125,14 +2125,6 @@
     "avatar": "https://images.opencollective.com/xjccc/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/xjccc",
-    "org": false
-  },
-  {
-    "name": "Riri",
-    "login": "guest-c8742a0d",
-    "avatar": "https://images.opencollective.com/guest-c8742a0d/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/guest-c8742a0d",
     "org": false
   },
   {
@@ -2206,14 +2198,6 @@
     "amount": -1,
     "link": "https://github.com/speechanddebate",
     "org": true
-  },
-  {
-    "name": "shuangjie",
-    "login": "shuangjie",
-    "avatar": "https://avatars.githubusercontent.com/u/13066471?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/shuangjie",
-    "org": false
   },
   {
     "name": "selfing83",
@@ -2685,6 +2669,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/5272320?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/dnldsht",
+    "org": false
+  },
+  {
+    "name": "dirklach",
+    "login": "dirklach",
+    "avatar": "https://avatars.githubusercontent.com/u/52708827?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/dirklach",
     "org": false
   },
   {
@@ -3845,6 +3837,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/3676859?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/shuding",
+    "org": false
+  },
+  {
+    "name": "shuangjie",
+    "login": "shuangjie",
+    "avatar": "https://avatars.githubusercontent.com/u/13066471?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/shuangjie",
     "org": false
   },
   {
