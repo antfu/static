@@ -3240,11 +3240,11 @@
     "org": false
   },
   {
-    "name": "vercel-community",
-    "login": "vercel-community",
-    "avatar": "https://avatars.githubusercontent.com/u/88905828?s=60&v=4",
+    "name": "vercel",
+    "login": "vercel",
+    "avatar": "https://avatars.githubusercontent.com/u/14985020?s=60&v=4",
     "amount": -1,
-    "link": "https://github.com/vercel-community",
+    "link": "https://github.com/vercel",
     "org": true
   },
   {
