@@ -216,6 +216,14 @@
     "org": false
   },
   {
+    "name": null,
+    "login": "Jutipong",
+    "avatar": "https://avatars.githubusercontent.com/u/24461402?u=a45c594ab1c09cd85f8be3aa07c93ee55c8a74f1&v=4",
+    "amount": 20,
+    "link": "https://github.com/Jutipong",
+    "org": false
+  },
+  {
     "name": "n8n - Workflow Automation",
     "login": "n8nio",
     "avatar": "https://avatars.githubusercontent.com/u/52133374?v=4",
@@ -2112,14 +2120,6 @@
     "org": false
   },
   {
-    "name": "Riri",
-    "login": "guest-c8742a0d",
-    "avatar": "https://images.opencollective.com/guest-c8742a0d/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/guest-c8742a0d",
-    "org": false
-  },
-  {
     "name": "Xatloon",
     "login": "Xatloon",
     "avatar": "https://avatars.githubusercontent.com/u/54651817?s=60&v=4",
@@ -2149,6 +2149,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/24775733?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/tuchg",
+    "org": false
+  },
+  {
+    "name": "TinyMaD",
+    "login": "TinyMaD",
+    "avatar": "https://avatars.githubusercontent.com/u/39322119?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/TinyMaD",
     "org": false
   },
   {
@@ -2301,6 +2309,14 @@
     "avatar": "https://pic1.afdiancdn.com/user/e0b86a340e1911efa1e75254001e7c00/avatar/a6d19abedaddcfec0e2c8830282ef103_w471_h677_s75.jpeg",
     "amount": -1,
     "link": "https://afdian.com/u/e0b86a340e1911efa1e75254001e7c00",
+    "org": false
+  },
+  {
+    "name": "Riri",
+    "login": "guest-c8742a0d",
+    "avatar": "https://images.opencollective.com/guest-c8742a0d/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/guest-c8742a0d",
     "org": false
   },
   {
@@ -3429,14 +3445,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/41773861?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/tjx666",
-    "org": false
-  },
-  {
-    "name": "TinyMaD",
-    "login": "TinyMaD",
-    "avatar": "https://avatars.githubusercontent.com/u/39322119?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/TinyMaD",
     "org": false
   },
   {
