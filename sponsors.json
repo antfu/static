@@ -576,6 +576,14 @@
     "org": true
   },
   {
+    "name": "Ardi Setiawan",
+    "login": "ardi-zanki",
+    "avatar": "https://avatars.githubusercontent.com/u/111270813?u=9124bf0d1ec5bd83b2403a0d5c6ead5b574cecae&v=4",
+    "amount": 8,
+    "link": "https://github.com/ardi-zanki",
+    "org": false
+  },
+  {
     "name": "Kuba Jastrzębski",
     "login": "KubaJastrz",
     "avatar": "https://avatars.githubusercontent.com/u/6443113?u=b1e3f71c98cfe9553b4928b87cc0623bffc5c7b4&v=4",
@@ -1056,6 +1064,14 @@
     "org": false
   },
   {
+    "name": "翠 / green",
+    "login": "sapphi-red",
+    "avatar": "https://avatars.githubusercontent.com/u/49056869?u=ec70859392ec0140d60446f7815ad2bf857904fd&v=4",
+    "amount": 5,
+    "link": "https://github.com/sapphi-red",
+    "org": false
+  },
+  {
     "name": "blackbird GmbH",
     "login": "blackbirdUG",
     "avatar": "https://avatars.githubusercontent.com/u/61544907?u=47c13f3eec39e9f0fa8e3bf4db9dac45699f4a90&v=4",
@@ -1410,7 +1426,7 @@
   {
     "name": "Spike",
     "login": "Spike-Leung",
-    "avatar": "https://avatars.githubusercontent.com/u/30440218?u=b3b34274d22ab10c25a1ec97e783077f2e37043b&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/30440218?u=01273c0bcea3979b83c6b54854be67f5b52d8bdf&v=4",
     "amount": 4,
     "link": "https://github.com/Spike-Leung",
     "org": false
@@ -1709,14 +1725,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/1075694?u=7f766073ee609bfb8876e1ae2b55ace083c1c19c&v=4",
     "amount": 4,
     "link": "https://github.com/privatenumber",
-    "org": false
-  },
-  {
-    "name": "翠 / green",
-    "login": "sapphi-red",
-    "avatar": "https://avatars.githubusercontent.com/u/49056869?u=ec70859392ec0140d60446f7815ad2bf857904fd&v=4",
-    "amount": 3,
-    "link": "https://github.com/sapphi-red",
     "org": false
   },
   {
@@ -2072,6 +2080,14 @@
     "org": false
   },
   {
+    "name": "Martin",
+    "login": "guest-14ba1af7",
+    "avatar": "https://images.opencollective.com/guest-14ba1af7/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/guest-14ba1af7",
+    "org": false
+  },
+  {
     "name": "zhao-heng-sheng",
     "login": "zhao-heng-sheng",
     "avatar": "https://avatars.githubusercontent.com/u/34566241?s=60&v=4",
@@ -2093,14 +2109,6 @@
     "avatar": "https://images.opencollective.com/xjccc/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/xjccc",
-    "org": false
-  },
-  {
-    "name": "Martin",
-    "login": "guest-14ba1af7",
-    "avatar": "https://images.opencollective.com/guest-14ba1af7/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/guest-14ba1af7",
     "org": false
   },
   {
@@ -2141,6 +2149,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/24775733?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/tuchg",
+    "org": false
+  },
+  {
+    "name": "TinyMaD",
+    "login": "TinyMaD",
+    "avatar": "https://avatars.githubusercontent.com/u/39322119?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/TinyMaD",
     "org": false
   },
   {
@@ -3445,14 +3461,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/41773861?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/tjx666",
-    "org": false
-  },
-  {
-    "name": "TinyMaD",
-    "login": "TinyMaD",
-    "avatar": "https://avatars.githubusercontent.com/u/39322119?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/TinyMaD",
     "org": false
   },
   {
