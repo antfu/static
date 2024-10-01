@@ -88,14 +88,6 @@
     "org": false
   },
   {
-    "name": "Kodify Media Group",
-    "login": "kodify-media-group",
-    "avatar": "https://images.opencollective.com/kodify-media-group/b109fa7/logo/460.png",
-    "amount": 68,
-    "link": "https://opencollective.com/kodify-media-group",
-    "org": true
-  },
-  {
     "name": "Corey Quinn",
     "login": "QuinnyPig",
     "avatar": "https://avatars.githubusercontent.com/u/489170?u=a2ee879f711dd019077ec9a524a516589c9ab34a&v=4",
@@ -282,7 +274,7 @@
   {
     "name": "ergou",
     "login": "RayGuo-ergou",
-    "avatar": "https://avatars.githubusercontent.com/u/33137074?u=08a87cb42fdc24276346d81768b1d465520a6931&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/33137074?u=b294d3d1f9bbd5af69e15b0782071eb9ec94a785&v=4",
     "amount": 16,
     "link": "https://github.com/RayGuo-ergou",
     "org": false
@@ -2070,6 +2062,14 @@
     "amount": 0.8333333333333334,
     "link": "https://opencollective.com/ouuan",
     "org": false
+  },
+  {
+    "name": "Kodify Media Group",
+    "login": "kodify-media-group",
+    "avatar": "https://images.opencollective.com/kodify-media-group/b109fa7/logo/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/kodify-media-group",
+    "org": true
   },
   {
     "name": "Bean Deng",
