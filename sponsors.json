@@ -80,19 +80,19 @@
     "org": false
   },
   {
-    "name": "patak",
-    "login": "patak-dev",
-    "avatar": "https://avatars.githubusercontent.com/u/583075?u=c2ea71ad847aecf66885e68d81a876fff1486bdd&v=4",
-    "amount": 79,
-    "link": "https://github.com/patak-dev",
-    "org": false
-  },
-  {
     "name": "Corey Quinn",
     "login": "QuinnyPig",
     "avatar": "https://avatars.githubusercontent.com/u/489170?u=a2ee879f711dd019077ec9a524a516589c9ab34a&v=4",
     "amount": 64,
     "link": "https://github.com/QuinnyPig",
+    "org": false
+  },
+  {
+    "name": "patak",
+    "login": "patak-dev",
+    "avatar": "https://avatars.githubusercontent.com/u/583075?u=c2ea71ad847aecf66885e68d81a876fff1486bdd&v=4",
+    "amount": 64,
+    "link": "https://github.com/patak-dev",
     "org": false
   },
   {
