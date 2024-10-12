@@ -1480,14 +1480,6 @@
     "org": false
   },
   {
-    "name": null,
-    "login": "promer94",
-    "avatar": "https://avatars.githubusercontent.com/u/15878786?u=275d47ac3892429bd3359e3314701401de1261f1&v=4",
-    "amount": 4,
-    "link": "https://github.com/promer94",
-    "org": false
-  },
-  {
     "name": "Zixuan Chen",
     "login": "zxch3n",
     "avatar": "https://avatars.githubusercontent.com/u/18425020?u=e43e518d92db045ccc3c7dc4b970a67485893a40&v=4",
@@ -1677,14 +1669,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/1443118?u=f6a578a21c6901332ab81d7529c1f5e7729d612c&v=4",
     "amount": 4,
     "link": "https://github.com/miyaoka",
-    "org": false
-  },
-  {
-    "name": "Benoît Burgener",
-    "login": "LeBenLeBen",
-    "avatar": "https://avatars.githubusercontent.com/u/793344?u=2427ecb96aa69f34e947493c95361b6fcc690633&v=4",
-    "amount": 4,
-    "link": "https://github.com/LeBenLeBen",
     "org": false
   },
   {
@@ -2040,62 +2024,6 @@
     "org": false
   },
   {
-    "name": "Hakadao",
-    "login": "1ef656789d6611eeb01152540025c377",
-    "avatar": "https://pic1.afdiancdn.com/user/1ef656789d6611eeb01152540025c377/avatar/18fcf9a38106b9db55ef751e27f17fab_w400_h400_s18.jpeg",
-    "amount": -1,
-    "link": "https://afdian.com/u/1ef656789d6611eeb01152540025c377",
-    "org": false
-  },
-  {
-    "name": "Martin",
-    "login": "guest-14ba1af7",
-    "avatar": "https://images.opencollective.com/guest-14ba1af7/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/guest-14ba1af7",
-    "org": false
-  },
-  {
-    "name": "一小只托尼",
-    "login": "08d14cd41c9411ee834552540025c377",
-    "avatar": "https://pic1.afdiancdn.com/user/08d14cd41c9411ee834552540025c377/avatar/4d49a96da92243d69d7971caef643e7e_w489_h489_s355.png",
-    "amount": -1,
-    "link": "https://afdian.com/u/08d14cd41c9411ee834552540025c377",
-    "org": false
-  },
-  {
-    "name": "f7f20",
-    "login": "f7f205240e3011edb71152540025c377",
-    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-orange.png",
-    "amount": -1,
-    "link": "https://afdian.com/u/f7f205240e3011edb71152540025c377",
-    "org": false
-  },
-  {
-    "name": "ffgenius",
-    "login": "e0b86a340e1911efa1e75254001e7c00",
-    "avatar": "https://pic1.afdiancdn.com/user/e0b86a340e1911efa1e75254001e7c00/avatar/a6d19abedaddcfec0e2c8830282ef103_w471_h677_s75.jpeg",
-    "amount": -1,
-    "link": "https://afdian.com/u/e0b86a340e1911efa1e75254001e7c00",
-    "org": false
-  },
-  {
-    "name": "Ted Xu",
-    "login": "ted-xu",
-    "avatar": "https://images.opencollective.com/ted-xu/75fa2f9/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/ted-xu",
-    "org": false
-  },
-  {
-    "name": "Jure Topolak",
-    "login": "jure-topolak",
-    "avatar": "https://images.opencollective.com/jure-topolak/9b0deac/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/jure-topolak",
-    "org": false
-  },
-  {
     "name": "zhao-heng-sheng",
     "login": "zhao-heng-sheng",
     "avatar": "https://avatars.githubusercontent.com/u/34566241?s=60&v=4",
@@ -2333,6 +2261,62 @@
     "avatar": "https://images.opencollective.com/hyoban/caf9e78/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/hyoban",
+    "org": false
+  },
+  {
+    "name": "Hakadao",
+    "login": "1ef656789d6611eeb01152540025c377",
+    "avatar": "https://pic1.afdiancdn.com/user/1ef656789d6611eeb01152540025c377/avatar/18fcf9a38106b9db55ef751e27f17fab_w400_h400_s18.jpeg",
+    "amount": -1,
+    "link": "https://afdian.com/u/1ef656789d6611eeb01152540025c377",
+    "org": false
+  },
+  {
+    "name": "Martin",
+    "login": "guest-14ba1af7",
+    "avatar": "https://images.opencollective.com/guest-14ba1af7/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/guest-14ba1af7",
+    "org": false
+  },
+  {
+    "name": "一小只托尼",
+    "login": "08d14cd41c9411ee834552540025c377",
+    "avatar": "https://pic1.afdiancdn.com/user/08d14cd41c9411ee834552540025c377/avatar/4d49a96da92243d69d7971caef643e7e_w489_h489_s355.png",
+    "amount": -1,
+    "link": "https://afdian.com/u/08d14cd41c9411ee834552540025c377",
+    "org": false
+  },
+  {
+    "name": "f7f20",
+    "login": "f7f205240e3011edb71152540025c377",
+    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-orange.png",
+    "amount": -1,
+    "link": "https://afdian.com/u/f7f205240e3011edb71152540025c377",
+    "org": false
+  },
+  {
+    "name": "ffgenius",
+    "login": "e0b86a340e1911efa1e75254001e7c00",
+    "avatar": "https://pic1.afdiancdn.com/user/e0b86a340e1911efa1e75254001e7c00/avatar/a6d19abedaddcfec0e2c8830282ef103_w471_h677_s75.jpeg",
+    "amount": -1,
+    "link": "https://afdian.com/u/e0b86a340e1911efa1e75254001e7c00",
+    "org": false
+  },
+  {
+    "name": "Ted Xu",
+    "login": "ted-xu",
+    "avatar": "https://images.opencollective.com/ted-xu/75fa2f9/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/ted-xu",
+    "org": false
+  },
+  {
+    "name": "Jure Topolak",
+    "login": "jure-topolak",
+    "avatar": "https://images.opencollective.com/jure-topolak/9b0deac/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/jure-topolak",
     "org": false
   },
   {
@@ -4304,6 +4288,14 @@
     "org": false
   },
   {
+    "name": "promer94",
+    "login": "promer94",
+    "avatar": "https://avatars.githubusercontent.com/u/15878786?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/promer94",
+    "org": false
+  },
+  {
     "name": "prazdevs",
     "login": "prazdevs",
     "avatar": "https://avatars.githubusercontent.com/u/1631886?s=60&v=4",
@@ -5096,6 +5088,14 @@
     "org": false
   },
   {
+    "name": "LeBenLeBen",
+    "login": "LeBenLeBen",
+    "avatar": "https://avatars.githubusercontent.com/u/793344?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/LeBenLeBen",
+    "org": false
+  },
+  {
     "name": "lassediercks",
     "login": "lassediercks",
     "avatar": "https://avatars.githubusercontent.com/u/1765584?s=60&v=4",
@@ -5133,14 +5133,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/4569916?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/kurehajime",
-    "org": false
-  },
-  {
-    "name": "KubeCowboy",
-    "login": "KubeCowboy",
-    "avatar": "https://avatars.githubusercontent.com/u/44177102?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/KubeCowboy",
     "org": false
   },
   {
@@ -5949,6 +5941,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/8898718?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/hardfist",
+    "org": false
+  },
+  {
+    "name": "haljac",
+    "login": "haljac",
+    "avatar": "https://avatars.githubusercontent.com/u/44177102?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/haljac",
     "org": false
   },
   {
