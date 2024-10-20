@@ -1200,6 +1200,14 @@
     "org": false
   },
   {
+    "name": "Naoki Haba",
+    "login": "NaokiHaba",
+    "avatar": "https://avatars.githubusercontent.com/u/59875779?u=848dbaad6fe1df74b2e6b9c810f8879063e3f8a6&v=4",
+    "amount": 4,
+    "link": "https://github.com/NaokiHaba",
+    "org": false
+  },
+  {
     "name": "kosuke naito 🇯🇵",
     "login": "kosuke222naito",
     "avatar": "https://avatars.githubusercontent.com/u/102337893?u=b481cfbbd70df13ecc78d9bf93bf76744c6eae16&v=4",
@@ -2389,14 +2397,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/7327500?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/wbswjc",
-    "org": false
-  },
-  {
-    "name": "waleedtariq109",
-    "login": "waleedtariq109",
-    "avatar": "https://avatars.githubusercontent.com/u/76990392?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/waleedtariq109",
     "org": false
   },
   {
@@ -4928,6 +4928,14 @@
     "org": false
   },
   {
+    "name": "waleedtariq109",
+    "login": "waleedtariq109",
+    "avatar": "https://avatars.githubusercontent.com/u/76990392?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/waleedtariq109",
+    "org": false
+  },
+  {
     "name": "vladdeSV",
     "login": "vladdeSV",
     "avatar": "https://avatars.githubusercontent.com/u/7542961?s=60&v=4",
@@ -5693,14 +5701,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/1953635?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/nasreddineskandrani",
-    "org": false
-  },
-  {
-    "name": "NaokiHaba",
-    "login": "NaokiHaba",
-    "avatar": "https://avatars.githubusercontent.com/u/59875779?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/NaokiHaba",
     "org": false
   },
   {
