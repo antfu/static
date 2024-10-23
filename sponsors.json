@@ -1450,7 +1450,7 @@
   {
     "name": "Spike",
     "login": "Spike-Leung",
-    "avatar": "https://avatars.githubusercontent.com/u/30440218?u=01273c0bcea3979b83c6b54854be67f5b52d8bdf&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/30440218?u=d55a3f19835f0cb6f7e52f0e154c069be6f28727&v=4",
     "amount": 4,
     "link": "https://github.com/Spike-Leung",
     "org": false
@@ -1717,14 +1717,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/1443118?u=f6a578a21c6901332ab81d7529c1f5e7729d612c&v=4",
     "amount": 4,
     "link": "https://github.com/miyaoka",
-    "org": false
-  },
-  {
-    "name": "Hiroki Osame",
-    "login": "privatenumber",
-    "avatar": "https://avatars.githubusercontent.com/u/1075694?u=7f766073ee609bfb8876e1ae2b55ace083c1c19c&v=4",
-    "amount": 4,
-    "link": "https://github.com/privatenumber",
     "org": false
   },
   {
@@ -4309,6 +4301,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/15878786?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/promer94",
+    "org": false
+  },
+  {
+    "name": "privatenumber",
+    "login": "privatenumber",
+    "avatar": "https://avatars.githubusercontent.com/u/1075694?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/privatenumber",
     "org": false
   },
   {
