@@ -680,14 +680,6 @@
     "org": false
   },
   {
-    "name": "Ege İliklier",
-    "login": "Maiquu",
-    "avatar": "https://avatars.githubusercontent.com/u/37181247?u=244793e744c2a80478763a7bfd1596643cd05422&v=4",
-    "amount": 8,
-    "link": "https://github.com/Maiquu",
-    "org": false
-  },
-  {
     "name": null,
     "login": "philipimperato",
     "avatar": "https://avatars.githubusercontent.com/u/2430560?v=4",
@@ -1080,6 +1072,14 @@
     "org": false
   },
   {
+    "name": "Ege İliklier",
+    "login": "Maiquu",
+    "avatar": "https://avatars.githubusercontent.com/u/37181247?u=244793e744c2a80478763a7bfd1596643cd05422&v=4",
+    "amount": 5,
+    "link": "https://github.com/Maiquu",
+    "org": false
+  },
+  {
     "name": "Jinjiang",
     "login": "Jinjiang",
     "avatar": "https://avatars.githubusercontent.com/u/206848?u=f3bf03cbf0c932c9c997641488f4a7e081cfa8b0&v=4",
@@ -1330,7 +1330,7 @@
   {
     "name": "Cyole",
     "login": "cyole",
-    "avatar": "https://avatars.githubusercontent.com/u/44540278?u=690bd24eff5b4eee2a9f4dca2bdd0c945b258705&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/44540278?u=ab774fdb8c55ab8ee509ce536d99ec5ef890cc95&v=4",
     "amount": 4,
     "link": "https://github.com/cyole",
     "org": false
