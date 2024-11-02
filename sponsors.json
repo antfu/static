@@ -1160,14 +1160,6 @@
     "org": false
   },
   {
-    "name": "Zubair Ibn Zamir",
-    "login": "2u841r",
-    "avatar": "https://avatars.githubusercontent.com/u/77893877?u=ae21eb8ec8f8effa051036f5a4f06cd79dc3ac7c&v=4",
-    "amount": 4,
-    "link": "https://github.com/2u841r",
-    "org": false
-  },
-  {
     "name": "koyama shigehito",
     "login": "yamageji",
     "avatar": "https://avatars.githubusercontent.com/u/71963890?u=1f5b7c8f3d41bead9d3578d49c3aaeebb12c0982&v=4",
@@ -7470,6 +7462,14 @@
     "amount": -1,
     "link": "https://github.com/365talents",
     "org": true
+  },
+  {
+    "name": "2u841r",
+    "login": "2u841r",
+    "avatar": "https://avatars.githubusercontent.com/u/77893877?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/2u841r",
+    "org": false
   },
   {
     "name": "1wkk",
