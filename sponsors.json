@@ -40,14 +40,6 @@
     "org": true
   },
   {
-    "name": "Logto",
-    "login": "logto",
-    "avatar": "https://images.opencollective.com/logto/0589181/avatar/460.png",
-    "amount": 512,
-    "link": "https://logto.io/?ref=antfu",
-    "org": false
-  },
-  {
     "name": "子禾",
     "login": "0db42b043c0f11efaf3e52540025c377",
     "avatar": "https://pic1.afdiancdn.com/user/0db42b043c0f11efaf3e52540025c377/avatar/bfb1e71801b389e4f0cc9be3d89ee6a3_w1024_h1024_s436.jpeg",
@@ -2064,6 +2056,14 @@
     "org": false
   },
   {
+    "name": "Kodify Media Group",
+    "login": "kodify-media-group",
+    "avatar": "https://images.opencollective.com/kodify-media-group/b109fa7/logo/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/kodify-media-group",
+    "org": true
+  },
+  {
     "name": "zhao-heng-sheng",
     "login": "zhao-heng-sheng",
     "avatar": "https://avatars.githubusercontent.com/u/34566241?s=60&v=4",
@@ -2094,14 +2094,6 @@
     "amount": -1,
     "link": "https://opencollective.com/xjccc",
     "org": false
-  },
-  {
-    "name": "Kodify Media Group",
-    "login": "kodify-media-group",
-    "avatar": "https://images.opencollective.com/kodify-media-group/b109fa7/logo/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/kodify-media-group",
-    "org": true
   },
   {
     "name": "Bean Deng",
@@ -2237,6 +2229,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/1001890?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/mondaychen",
+    "org": false
+  },
+  {
+    "name": "Logto",
+    "login": "logto",
+    "avatar": "https://images.opencollective.com/logto/0589181/avatar/460.png",
+    "amount": -1,
+    "link": "https://logto.io/?ref=antfu",
     "org": false
   },
   {
@@ -6160,14 +6160,6 @@
     "org": false
   },
   {
-    "name": "fran6brg",
-    "login": "fran6brg",
-    "avatar": "https://avatars.githubusercontent.com/u/31159436?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/fran6brg",
-    "org": false
-  },
-  {
     "name": "formkit",
     "login": "formkit",
     "avatar": "https://avatars.githubusercontent.com/u/76744415?s=60&v=4",
@@ -6213,6 +6205,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/59965745?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/FelipeSanchezSoberanis",
+    "org": false
+  },
+  {
+    "name": "fberger-xyz",
+    "login": "fberger-xyz",
+    "avatar": "https://avatars.githubusercontent.com/u/31159436?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/fberger-xyz",
     "org": false
   },
   {
