@@ -1240,14 +1240,6 @@
     "org": false
   },
   {
-    "name": "Jacky Wong",
-    "login": "jw-12138",
-    "avatar": "https://avatars.githubusercontent.com/u/29943110?u=9c8da46a79c854b3b2f0d2cfa3af12a705e37cd5&v=4",
-    "amount": 4,
-    "link": "https://github.com/jw-12138",
-    "org": false
-  },
-  {
     "name": "tangyongjie",
     "login": "tyj-321",
     "avatar": "https://avatars.githubusercontent.com/u/65441198?u=f49de0f310b61409694a06f19e0538decd1c941a&v=4",
@@ -2440,6 +2432,14 @@
     "org": false
   },
   {
+    "name": "Jacky Wong",
+    "login": "jw-12138",
+    "avatar": "https://avatars.githubusercontent.com/u/29943110?u=9c8da46a79c854b3b2f0d2cfa3af12a705e37cd5&v=4",
+    "amount": -1,
+    "link": "https://github.com/jw-12138",
+    "org": false
+  },
+  {
     "name": "Chuck",
     "login": "aiyogg",
     "avatar": "https://avatars.githubusercontent.com/u/15699954?u=a19d612753da0b83c19f65069ba3749d0799a8be&v=4",
@@ -3114,7 +3114,7 @@
   {
     "name": "Elio Struyf",
     "login": "estruyf",
-    "avatar": "https://avatars.githubusercontent.com/u/2900833?u=c96477a58bdff9f21acf81c3e618c0018dc85473&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/2900833?u=7892b1ff1a4a758806b5c6da2d12254d1a573453&v=4",
     "amount": -1,
     "link": "https://github.com/estruyf",
     "org": false
@@ -5192,7 +5192,7 @@
     "org": false
   },
   {
-    "name": "JYC",
+    "name": "jyc.dev",
     "login": "jycouet",
     "avatar": "https://avatars.githubusercontent.com/u/5312607?u=653b4765a1877580107ccfcfd41dfa876f68f7ba&v=4",
     "amount": -1,
@@ -6890,7 +6890,7 @@
   {
     "name": "Vivian Sarazin",
     "login": "vvnsrzn",
-    "avatar": "https://avatars.githubusercontent.com/u/9358572?u=524c56e83c87b5638e0ae64c9e07b13b85639e91&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/9358572?u=4b2aa1bfa9aeb89b884dc4e02fa4a2456738fdde&v=4",
     "amount": -1,
     "link": "https://github.com/vvnsrzn",
     "org": false
