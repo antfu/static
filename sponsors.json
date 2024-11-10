@@ -672,14 +672,6 @@
     "org": false
   },
   {
-    "name": "Sarah Drasner",
-    "login": "sdras",
-    "avatar": "https://avatars.githubusercontent.com/u/2281088?u=84b646c98eb14480c53987c23901b0001652d9d7&v=4",
-    "amount": 8,
-    "link": "https://github.com/sdras",
-    "org": false
-  },
-  {
     "name": "Julien Déramond",
     "login": "julien-deramond",
     "avatar": "https://avatars.githubusercontent.com/u/17381666?u=a9b71c0b77efa17719595a35f1d1c637c4ad63ac&v=4",
@@ -3637,6 +3629,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/91389349?u=a7d3639170adc3afd631b74fb9e00455e6b8c42a&v=4",
     "amount": -1,
     "link": "https://github.com/jeremybierly",
+    "org": false
+  },
+  {
+    "name": "Sarah Drasner",
+    "login": "sdras",
+    "avatar": "https://avatars.githubusercontent.com/u/2281088?u=84b646c98eb14480c53987c23901b0001652d9d7&v=4",
+    "amount": -1,
+    "link": "https://github.com/sdras",
     "org": false
   },
   {
