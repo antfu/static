@@ -584,6 +584,14 @@
     "org": true
   },
   {
+    "name": null,
+    "login": "TheRealJP",
+    "avatar": "https://avatars.githubusercontent.com/u/19956232?u=44a1c0561f4d1b2307e29cf7c3b65c1253b3c3ef&v=4",
+    "amount": 8,
+    "link": "https://github.com/TheRealJP",
+    "org": false
+  },
+  {
     "name": "IlyaL",
     "login": "ilyaliao",
     "avatar": "https://avatars.githubusercontent.com/u/93901409?u=44013fe9b0ee46841ec959ac79d0f0cca6f4d846&v=4",
@@ -2301,14 +2309,6 @@
     "avatar": "https://images.opencollective.com/ted-xu/75fa2f9/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/ted-xu",
-    "org": false
-  },
-  {
-    "name": "Jure Topolak",
-    "login": "jure-topolak",
-    "avatar": "https://images.opencollective.com/jure-topolak/9b0deac/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/jure-topolak",
     "org": false
   },
   {
@@ -4184,6 +4184,14 @@
     "org": false
   },
   {
+    "name": "Diego Cardenas",
+    "login": "eldiegod",
+    "avatar": "https://avatars.githubusercontent.com/u/10615263?u=0f8ca0286a747946b834be4b5a2c456d5ac7ca67&v=4",
+    "amount": -1,
+    "link": "https://github.com/eldiegod",
+    "org": false
+  },
+  {
     "name": "Peter Christian Nouvel Buch-Jakobsen",
     "login": "pcnbj",
     "avatar": "https://avatars.githubusercontent.com/u/48288712?v=4",
@@ -4965,6 +4973,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/2345776?u=3c2c359d72f813826d7d7ff3a150cd4d9cd8d7bb&v=4",
     "amount": -1,
     "link": "https://github.com/davinma",
+    "org": false
+  },
+  {
+    "name": "Jure Topolak",
+    "login": "jure-topolak",
+    "avatar": "https://images.opencollective.com/jure-topolak/9b0deac/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/jure-topolak",
     "org": false
   },
   {
@@ -6344,14 +6360,6 @@
     "org": false
   },
   {
-    "name": "Diego Cardenas",
-    "login": "eldiegod",
-    "avatar": "https://avatars.githubusercontent.com/u/10615263?u=0f8ca0286a747946b834be4b5a2c456d5ac7ca67&v=4",
-    "amount": -1,
-    "link": "https://github.com/eldiegod",
-    "org": false
-  },
-  {
     "name": "Loëck Vézien",
     "login": "loeck",
     "avatar": "https://avatars.githubusercontent.com/u/582703?u=a831045fcea633942aee6996b982c27b20e35e2d&v=4",
@@ -6984,7 +6992,7 @@
     "org": false
   },
   {
-    "name": "tmm",
+    "name": "awkweb",
     "login": "tmm",
     "avatar": "https://avatars.githubusercontent.com/u/6759464?u=3be717f5a611d25c469598176cd805eb2f257f62&v=4",
     "amount": -1,
