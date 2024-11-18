@@ -960,14 +960,6 @@
     "org": false
   },
   {
-    "name": "ymougenel",
-    "login": "ymougenel",
-    "avatar": "https://avatars.githubusercontent.com/u/18485894?u=c29ded6b80cfaf97532bbbd9da447f89b603eea9&v=4",
-    "amount": 5,
-    "link": "https://github.com/ymougenel",
-    "org": false
-  },
-  {
     "name": "xiao",
     "login": "xiao-xiang",
     "avatar": "https://images.opencollective.com/xiao-xiang/avatar/460.png",
@@ -2032,19 +2024,27 @@
     "org": false
   },
   {
-    "name": "xjccc",
-    "login": "xjccc",
-    "avatar": "https://images.opencollective.com/xjccc/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/xjccc",
-    "org": false
-  },
-  {
     "name": "Zubair Ibn Zamir",
     "login": "2u841r",
     "avatar": "https://avatars.githubusercontent.com/u/77893877?u=ae21eb8ec8f8effa051036f5a4f06cd79dc3ac7c&v=4",
     "amount": -1,
     "link": "https://github.com/2u841r",
+    "org": false
+  },
+  {
+    "name": "ymougenel",
+    "login": "ymougenel",
+    "avatar": "https://avatars.githubusercontent.com/u/18485894?u=c29ded6b80cfaf97532bbbd9da447f89b603eea9&v=4",
+    "amount": -1,
+    "link": "https://github.com/ymougenel",
+    "org": false
+  },
+  {
+    "name": "xjccc",
+    "login": "xjccc",
+    "avatar": "https://images.opencollective.com/xjccc/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/xjccc",
     "org": false
   },
   {
@@ -6673,10 +6673,10 @@
   },
   {
     "name": "bbking",
-    "login": "zjhou",
+    "login": "bbb0ttle",
     "avatar": "https://avatars.githubusercontent.com/u/11043540?u=cae1f568630a3d2caf4525be8de33a115f8d6590&v=4",
     "amount": -1,
-    "link": "https://github.com/zjhou",
+    "link": "https://github.com/bbb0ttle",
     "org": false
   },
   {
