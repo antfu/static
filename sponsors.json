@@ -376,14 +376,6 @@
     "org": false
   },
   {
-    "name": "Hunter Liu",
-    "login": "hunterliu1003",
-    "avatar": "https://avatars.githubusercontent.com/u/15190246?u=d7056d3c2a681ae1768eda222ca5343cd73ac408&v=4",
-    "amount": 16,
-    "link": "https://github.com/hunterliu1003",
-    "org": false
-  },
-  {
     "name": "bqh",
     "login": "401f77ea4eef11ef93f252540025c377",
     "avatar": "https://pic1.afdiancdn.com/user/401f77ea4eef11ef93f252540025c377/avatar/0c676c17b2b1b1f2a8a0236ac80891b3_w1024_h1024_s62.jpeg",
@@ -5865,10 +5857,10 @@
   },
   {
     "name": "Agustinus Nathaniel",
-    "login": "sozonome",
+    "login": "agustinusnathaniel",
     "avatar": "https://avatars.githubusercontent.com/u/17046154?u=8e093af56c4ae5af41dae82145178ce044a9a464&v=4",
     "amount": -1,
-    "link": "https://github.com/sozonome",
+    "link": "https://github.com/agustinusnathaniel",
     "org": false
   },
   {
@@ -7437,6 +7429,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/2789192?u=581633479843ab1a0457d0211c2a8d052bf62f1e&v=4",
     "amount": -1,
     "link": "https://github.com/Scrum",
+    "org": false
+  },
+  {
+    "name": "Hunter Liu",
+    "login": "hunterliu1003",
+    "avatar": "https://avatars.githubusercontent.com/u/15190246?u=d7056d3c2a681ae1768eda222ca5343cd73ac408&v=4",
+    "amount": -1,
+    "link": "https://github.com/hunterliu1003",
     "org": false
   },
   {
