@@ -552,14 +552,6 @@
     "org": false
   },
   {
-    "name": "Naruto",
-    "login": "naruto-onedev",
-    "avatar": "https://avatars.githubusercontent.com/u/111270813?v=4",
-    "amount": 8,
-    "link": "https://github.com/naruto-onedev",
-    "org": false
-  },
-  {
     "name": "Kuba Jastrzębski",
     "login": "KubaJastrz",
     "avatar": "https://avatars.githubusercontent.com/u/6443113?u=b1e3f71c98cfe9553b4928b87cc0623bffc5c7b4&v=4",
@@ -2037,6 +2029,14 @@
     "avatar": "https://images.opencollective.com/xjccc/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/xjccc",
+    "org": false
+  },
+  {
+    "name": "Naruto",
+    "login": "naruto-onedev",
+    "avatar": "https://avatars.githubusercontent.com/u/111270813?v=4",
+    "amount": -1,
+    "link": "https://github.com/naruto-onedev",
     "org": false
   },
   {
@@ -7449,10 +7449,10 @@
   },
   {
     "name": "ashbn",
-    "login": "kjsahkjsdn",
+    "login": "roberthgnz",
     "avatar": "https://avatars.githubusercontent.com/u/63687573?u=4223253c3380ec0f01b20763094988b0c80e456c&v=4",
     "amount": -1,
-    "link": "https://github.com/kjsahkjsdn",
+    "link": "https://github.com/roberthgnz",
     "org": false
   },
   {
