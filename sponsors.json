@@ -200,6 +200,14 @@
     "org": false
   },
   {
+    "name": "WebWorkerTech",
+    "login": "WebWorkerTech",
+    "avatar": "https://avatars.githubusercontent.com/u/92635836?v=4",
+    "amount": 24,
+    "link": "https://github.com/WebWorkerTech",
+    "org": true
+  },
+  {
     "name": "Mateja Putic",
     "login": "matejaputic",
     "avatar": "https://avatars.githubusercontent.com/u/2180391?u=d8d00205131a2b1eeb5a466e210653704cdea271&v=4",
@@ -416,6 +424,14 @@
     "org": false
   },
   {
+    "name": "Connor van Spronssen",
+    "login": "Dobefu",
+    "avatar": "https://avatars.githubusercontent.com/u/12952521?u=e3c5d4ba20b34052882fe40a3f8d6f4d5bd00c6b&v=4",
+    "amount": 10,
+    "link": "https://github.com/Dobefu",
+    "org": false
+  },
+  {
     "name": "MUTESA Cedric",
     "login": "Mutesa-Cedric",
     "avatar": "https://avatars.githubusercontent.com/u/96414111?u=9b9dfd621c91a9706a12c24a8b2f70c4883b7ce8&v=4",
@@ -526,14 +542,6 @@
     "amount": 10,
     "link": "https://opencollective.com/jithin-sha",
     "org": false
-  },
-  {
-    "name": "WebWorkerTech",
-    "login": "WebWorkerTech",
-    "avatar": "https://avatars.githubusercontent.com/u/92635836?v=4",
-    "amount": 9,
-    "link": "https://github.com/WebWorkerTech",
-    "org": true
   },
   {
     "name": null,
@@ -960,11 +968,11 @@
     "org": true
   },
   {
-    "name": "maybeanerd",
-    "login": "maybeanerd",
-    "avatar": "https://images.opencollective.com/maybeanerd/71faf43/avatar/460.png",
+    "name": "Olivier",
+    "login": "olivier13",
+    "avatar": "https://images.opencollective.com/olivier13/avatar/460.png",
     "amount": 5,
-    "link": "https://opencollective.com/maybeanerd",
+    "link": "https://opencollective.com/olivier13",
     "org": false
   },
   {
@@ -1008,22 +1016,6 @@
     "org": false
   },
   {
-    "name": "Scott Bedard",
-    "login": "scottbedard",
-    "avatar": "https://avatars.githubusercontent.com/u/7980426?u=cac77145af6aedea596ee033a7f7445c1db2b0f6&v=4",
-    "amount": 5,
-    "link": "https://github.com/scottbedard",
-    "org": false
-  },
-  {
-    "name": "Olivier",
-    "login": "olivier13",
-    "avatar": "https://images.opencollective.com/olivier13/avatar/460.png",
-    "amount": 5,
-    "link": "https://opencollective.com/olivier13",
-    "org": false
-  },
-  {
     "name": "blackbird GmbH",
     "login": "blackbirdUG",
     "avatar": "https://avatars.githubusercontent.com/u/61544907?u=47c13f3eec39e9f0fa8e3bf4db9dac45699f4a90&v=4",
@@ -1045,6 +1037,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/206848?u=f3bf03cbf0c932c9c997641488f4a7e081cfa8b0&v=4",
     "amount": 5,
     "link": "https://github.com/Jinjiang",
+    "org": false
+  },
+  {
+    "name": "Scott Bedard",
+    "login": "scottbedard",
+    "avatar": "https://avatars.githubusercontent.com/u/7980426?u=cac77145af6aedea596ee033a7f7445c1db2b0f6&v=4",
+    "amount": 5,
+    "link": "https://github.com/scottbedard",
     "org": false
   },
   {
@@ -1085,6 +1085,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/34713301?u=cc905db1000f332998f708a154d9d5ef16c3c894&v=4",
     "amount": 5,
     "link": "https://github.com/yyyanghj",
+    "org": false
+  },
+  {
+    "name": "maybeanerd",
+    "login": "maybeanerd",
+    "avatar": "https://images.opencollective.com/maybeanerd/71faf43/avatar/460.png",
+    "amount": 5,
+    "link": "https://opencollective.com/maybeanerd",
     "org": false
   },
   {
