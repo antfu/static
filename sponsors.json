@@ -120,14 +120,6 @@
     "org": false
   },
   {
-    "name": "thanks.dev",
-    "login": "thnxdev",
-    "avatar": "https://avatars.githubusercontent.com/u/72539280?v=4",
-    "amount": 56,
-    "link": "https://github.com/thnxdev",
-    "org": true
-  },
-  {
     "name": "Jan-Henrik Damaschke",
     "login": "itpropro",
     "avatar": "https://avatars.githubusercontent.com/u/15030951?u=724eb8ee4cae7792ddf13e25c31589dd6c5cb1d1&v=4",
@@ -2438,6 +2430,14 @@
     "amount": -1,
     "link": "https://github.com/tuchg",
     "org": false
+  },
+  {
+    "name": "thanks.dev",
+    "login": "thnxdev",
+    "avatar": "https://avatars.githubusercontent.com/u/72539280?v=4",
+    "amount": -1,
+    "link": "https://github.com/thnxdev",
+    "org": true
   },
   {
     "name": "☀️ Loyft 🏝️",
