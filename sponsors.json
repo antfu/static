@@ -864,14 +864,6 @@
     "org": false
   },
   {
-    "name": "Grey Software",
-    "login": "grey-software",
-    "avatar": "https://avatars.githubusercontent.com/u/49475616?v=4",
-    "amount": 8,
-    "link": "https://github.com/grey-software",
-    "org": true
-  },
-  {
     "name": "Milos Dimitrijevic",
     "login": "milos018",
     "avatar": "https://avatars.githubusercontent.com/u/46306967?u=771a9a638e8d2d13b28a2e0f2d357cc45e0d298a&v=4",
@@ -6414,6 +6406,14 @@
     "amount": -1,
     "link": "https://github.com/leonsilicon",
     "org": false
+  },
+  {
+    "name": "Grey Software",
+    "login": "grey-software",
+    "avatar": "https://avatars.githubusercontent.com/u/49475616?v=4",
+    "amount": -1,
+    "link": "https://github.com/grey-software",
+    "org": true
   },
   {
     "name": "Sacha Stafyniak",
