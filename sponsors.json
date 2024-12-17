@@ -680,14 +680,6 @@
     "org": false
   },
   {
-    "name": null,
-    "login": "remiconnesson",
-    "avatar": "https://avatars.githubusercontent.com/u/28846642?u=4f7972ea5b734c958272f26a2d16a2a60a645910&v=4",
-    "amount": 8,
-    "link": "https://github.com/remiconnesson",
-    "org": false
-  },
-  {
     "name": "Neil Mispelaar",
     "login": "neilmispelaar",
     "avatar": "https://avatars.githubusercontent.com/u/9325038?u=ddd89c1a68cd9397bfbad290587a54def0ebe529&v=4",
@@ -4000,6 +3992,14 @@
     "org": false
   },
   {
+    "name": null,
+    "login": "remiconnesson",
+    "avatar": "https://avatars.githubusercontent.com/u/28846642?u=4f7972ea5b734c958272f26a2d16a2a60a645910&v=4",
+    "amount": -1,
+    "link": "https://github.com/remiconnesson",
+    "org": false
+  },
+  {
     "name": "Sᴜᴘᴇʀ Lᴇᴇ",
     "login": "superpung",
     "avatar": "https://avatars.githubusercontent.com/u/59875060?u=e19233293e33b01c381a7a6bdecdb789ef0c451c&v=4",
@@ -5978,7 +5978,7 @@
   {
     "name": "Pedro Piñera Buendía",
     "login": "pepicrft",
-    "avatar": "https://avatars.githubusercontent.com/u/663605?u=2ca4cd28a36e50dc837f9c138ecd72a391296ef5&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/663605?u=0d43e6058f14569739e06d9529adba167a1203f8&v=4",
     "amount": -1,
     "link": "https://github.com/pepicrft",
     "org": false
