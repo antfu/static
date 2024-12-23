@@ -192,14 +192,6 @@
     "org": true
   },
   {
-    "name": "Mateja Putic",
-    "login": "matejaputic",
-    "avatar": "https://avatars.githubusercontent.com/u/2180391?u=d8d00205131a2b1eeb5a466e210653704cdea271&v=4",
-    "amount": 20,
-    "link": "https://github.com/matejaputic",
-    "org": false
-  },
-  {
     "name": "n8n - Workflow Automation",
     "login": "n8nio",
     "avatar": "https://avatars.githubusercontent.com/u/52133374?v=4",
@@ -1169,10 +1161,10 @@
   },
   {
     "name": "kosuke naito 🇯🇵",
-    "login": "kosuke222naito",
+    "login": "engineer-naito",
     "avatar": "https://avatars.githubusercontent.com/u/102337893?u=b481cfbbd70df13ecc78d9bf93bf76744c6eae16&v=4",
     "amount": 4,
-    "link": "https://github.com/kosuke222naito",
+    "link": "https://github.com/engineer-naito",
     "org": false
   },
   {
@@ -2037,6 +2029,14 @@
     "avatar": "https://images.opencollective.com/xjccc/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/xjccc",
+    "org": false
+  },
+  {
+    "name": "Mateja Putic",
+    "login": "matejaputic",
+    "avatar": "https://avatars.githubusercontent.com/u/2180391?u=d8d00205131a2b1eeb5a466e210653704cdea271&v=4",
+    "amount": -1,
+    "link": "https://github.com/matejaputic",
     "org": false
   },
   {
