@@ -184,19 +184,19 @@
     "org": false
   },
   {
-    "name": "WebWorkerTech",
-    "login": "WebWorkerTech",
-    "avatar": "https://avatars.githubusercontent.com/u/92635836?v=4",
-    "amount": 24,
-    "link": "https://github.com/WebWorkerTech",
-    "org": true
-  },
-  {
     "name": "n8n - Workflow Automation",
     "login": "n8nio",
     "avatar": "https://avatars.githubusercontent.com/u/52133374?v=4",
     "amount": 20,
     "link": "https://github.com/n8nio",
+    "org": true
+  },
+  {
+    "name": "WebWorkerTech",
+    "login": "WebWorkerTech",
+    "avatar": "https://avatars.githubusercontent.com/u/92635836?v=4",
+    "amount": 20,
+    "link": "https://github.com/WebWorkerTech",
     "org": true
   },
   {
@@ -696,9 +696,9 @@
     "org": false
   },
   {
-    "name": "Json Rietzke",
+    "name": "Jason Rietzke",
     "login": "jason-rietzke",
-    "avatar": "https://avatars.githubusercontent.com/u/28512517?u=0184adb416a8e4b30c7935e6a2e5e2c5154b8556&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/28512517?u=5061af7d2bb46d68caa8ea6d1b04bede8384c15b&v=4",
     "amount": 8,
     "link": "https://github.com/jason-rietzke",
     "org": false
