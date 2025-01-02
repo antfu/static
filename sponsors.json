@@ -64,14 +64,6 @@
     "org": false
   },
   {
-    "name": "Storyblok",
-    "login": "storyblok",
-    "avatar": "https://avatars.githubusercontent.com/u/13880908?v=4",
-    "amount": 128,
-    "link": "https://github.com/storyblok",
-    "org": true
-  },
-  {
     "name": "Vue Mastery",
     "login": "Code-Pop",
     "avatar": "https://avatars.githubusercontent.com/u/22382188?v=4",
@@ -362,7 +354,7 @@
   {
     "name": "mello-r",
     "login": "mello-r",
-    "avatar": "https://images.opencollective.com/mello-r/avatar/460.png",
+    "avatar": "https://images.opencollective.com/mello-r/778dc52/avatar/460.png",
     "amount": 15,
     "link": "https://opencollective.com/mello-r",
     "org": false
@@ -2864,6 +2856,14 @@
     "org": false
   },
   {
+    "name": "Storyblok",
+    "login": "storyblok",
+    "avatar": "https://avatars.githubusercontent.com/u/13880908?v=4",
+    "amount": -1,
+    "link": "https://github.com/storyblok",
+    "org": true
+  },
+  {
     "name": "Li Shunsheng",
     "login": "MahoushoujoMadoka",
     "avatar": "https://avatars.githubusercontent.com/u/33952584?u=5a0b5112837cac8942535d1d97e140bb1c9bcd64&v=4",
@@ -4682,7 +4682,7 @@
   {
     "name": "Dan Kim",
     "login": "dankimio",
-    "avatar": "https://avatars.githubusercontent.com/u/6442492?u=275a2b51c6c8d654a82c1aa2da92d1d2e785fe19&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/6442492?u=257d087b93e0938b9dbf8f6aba987c8114ef8327&v=4",
     "amount": -1,
     "link": "https://github.com/dankimio",
     "org": false
