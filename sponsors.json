@@ -1144,14 +1144,6 @@
     "org": false
   },
   {
-    "name": "Naoki Haba",
-    "login": "NaokiHaba",
-    "avatar": "https://avatars.githubusercontent.com/u/59875779?u=2d740bc9a7cbacf2bed45c22e8af9f8e85843061&v=4",
-    "amount": 4,
-    "link": "https://github.com/NaokiHaba",
-    "org": false
-  },
-  {
     "name": "ナイトウ(Nathan Green)",
     "login": "engineer-naito",
     "avatar": "https://avatars.githubusercontent.com/u/102337893?u=b481cfbbd70df13ecc78d9bf93bf76744c6eae16&v=4",
@@ -1914,7 +1906,7 @@
   {
     "name": "Michael",
     "login": "MichaelGitArt",
-    "avatar": "https://avatars.githubusercontent.com/u/34610289?u=580fcf54bc4fcfee417210aff173d94d66682237&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/34610289?u=d86c04f2e19f6df031eac4669accb106a60b292b&v=4",
     "amount": 1,
     "link": "https://github.com/MichaelGitArt",
     "org": false
@@ -2261,6 +2253,14 @@
     "avatar": "https://images.opencollective.com/hadb/8a9d856/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/hadb",
+    "org": false
+  },
+  {
+    "name": "Naoki Haba",
+    "login": "NaokiHaba",
+    "avatar": "https://avatars.githubusercontent.com/u/59875779?u=2d740bc9a7cbacf2bed45c22e8af9f8e85843061&v=4",
+    "amount": -1,
+    "link": "https://github.com/NaokiHaba",
     "org": false
   },
   {
@@ -2656,7 +2656,7 @@
     "org": false
   },
   {
-    "name": "Ferdinand Davidenko",
+    "name": "<FD />",
     "login": "ferdinanddavidenko",
     "avatar": "https://avatars.githubusercontent.com/u/114920506?u=9735528fd817d17e273bddfa52fd1207f4a88d7f&v=4",
     "amount": -1,
