@@ -880,14 +880,6 @@
     "org": false
   },
   {
-    "name": "Chen Lei",
-    "login": "6bcef7aa66a811ef9d3552540025c377",
-    "avatar": "https://pic1.afdiancdn.com/user/6bcef7aa66a811ef9d3552540025c377/avatar/ba0aaa57702c6f7ddb3c2a063b6bc0a8_w1266_h1266_s513.jpeg",
-    "amount": 7.6923076923076925,
-    "link": "https://afdian.com/u/6bcef7aa66a811ef9d3552540025c377",
-    "org": false
-  },
-  {
     "name": "Yann Bertrand",
     "login": "yannbertrand",
     "avatar": "https://images.opencollective.com/yannbertrand/8aba1d8/avatar/460.png",
@@ -2121,10 +2113,10 @@
   },
   {
     "name": "Xat",
-    "login": "Xatsh",
+    "login": "withxat",
     "avatar": "https://avatars.githubusercontent.com/u/54651817?u=358209787b105560d824d417793fd5f2bd129c98&v=4",
     "amount": -1,
-    "link": "https://github.com/Xatsh",
+    "link": "https://github.com/withxat",
     "org": false
   },
   {
@@ -4672,14 +4664,6 @@
     "org": false
   },
   {
-    "name": "David Pena",
-    "login": "david-pena1",
-    "avatar": "https://images.opencollective.com/david-pena1/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/david-pena1",
-    "org": false
-  },
-  {
     "name": "Serhii Bedrytskyi",
     "login": "bdrtsky",
     "avatar": "https://avatars.githubusercontent.com/u/45076741?u=3a58c8006fa6698af1d1ecfa7ed2410eb2f55101&v=4",
@@ -4896,6 +4880,14 @@
     "org": false
   },
   {
+    "name": "David Pena",
+    "login": "david-pena1",
+    "avatar": "https://images.opencollective.com/david-pena1/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/david-pena1",
+    "org": false
+  },
+  {
     "name": "Anthony Fu",
     "login": "antfu7",
     "avatar": "https://images.opencollective.com/antfu7/9b1782b/avatar/460.png",
@@ -4982,6 +4974,14 @@
     "amount": -1,
     "link": "https://github.com/sanity-io",
     "org": true
+  },
+  {
+    "name": "Chen Lei",
+    "login": "6bcef7aa66a811ef9d3552540025c377",
+    "avatar": "https://pic1.afdiancdn.com/user/6bcef7aa66a811ef9d3552540025c377/avatar/ba0aaa57702c6f7ddb3c2a063b6bc0a8_w1266_h1266_s513.jpeg",
+    "amount": -1,
+    "link": "https://afdian.com/u/6bcef7aa66a811ef9d3552540025c377",
+    "org": false
   },
   {
     "name": "Claudio W",
