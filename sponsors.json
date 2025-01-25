@@ -504,14 +504,6 @@
     "org": false
   },
   {
-    "name": null,
-    "login": "pacexy",
-    "avatar": "https://avatars.githubusercontent.com/u/32255488?u=ffd79acd05d6d4c1b4f6efa889067f59af8601be&v=4",
-    "amount": 8,
-    "link": "https://github.com/pacexy",
-    "org": false
-  },
-  {
     "name": "IlyaL",
     "login": "ilyaliao",
     "avatar": "https://avatars.githubusercontent.com/u/93901409?u=2bbbdc5294449782b6acd9d57455863d56c7a174&v=4",
@@ -1064,7 +1056,7 @@
     "org": false
   },
   {
-    "name": "Hong",
+    "name": "Tsz-Hong Lai",
     "login": "tszhong0411",
     "avatar": "https://avatars.githubusercontent.com/u/75498339?u=4922672c354d9bfbfe1f9d4089954efcc8486c5b&v=4",
     "amount": 4,
@@ -1957,6 +1949,14 @@
     "avatar": "https://images.opencollective.com/guest-ff2e2108/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/guest-ff2e2108",
+    "org": false
+  },
+  {
+    "name": null,
+    "login": "pacexy",
+    "avatar": "https://avatars.githubusercontent.com/u/32255488?u=ffd79acd05d6d4c1b4f6efa889067f59af8601be&v=4",
+    "amount": -1,
+    "link": "https://github.com/pacexy",
     "org": false
   },
   {
