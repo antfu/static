@@ -880,14 +880,6 @@
     "org": false
   },
   {
-    "name": "VingeRay",
-    "login": "vingeraycn",
-    "avatar": "https://avatars.githubusercontent.com/u/19839331?u=fd0b55dbaa7cec9715e94851d311cd515bf53db5&v=4",
-    "amount": 5,
-    "link": "https://github.com/vingeraycn",
-    "org": false
-  },
-  {
     "name": "Roboflow",
     "login": "roboflow",
     "avatar": "https://avatars.githubusercontent.com/u/53104118?v=4",
@@ -1949,6 +1941,14 @@
     "avatar": "https://images.opencollective.com/guest-ff2e2108/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/guest-ff2e2108",
+    "org": false
+  },
+  {
+    "name": "VingeRay",
+    "login": "vingeraycn",
+    "avatar": "https://avatars.githubusercontent.com/u/19839331?u=fd0b55dbaa7cec9715e94851d311cd515bf53db5&v=4",
+    "amount": -1,
+    "link": "https://github.com/vingeraycn",
     "org": false
   },
   {
