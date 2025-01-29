@@ -392,22 +392,6 @@
     "org": false
   },
   {
-    "name": "Nick.Huang",
-    "login": "nick-jy-huang",
-    "avatar": "https://avatars.githubusercontent.com/u/28307260?u=fbadf8ac6f5f801c6be8ec7119cb01c9ffa2add4&v=4",
-    "amount": 10,
-    "link": "https://github.com/nick-jy-huang",
-    "org": false
-  },
-  {
-    "name": "Lynn Huang",
-    "login": "clhuang224",
-    "avatar": "https://avatars.githubusercontent.com/u/47549901?u=629521049cee8c288e17add652a5220153f4333f&v=4",
-    "amount": 10,
-    "link": "https://github.com/clhuang224",
-    "org": false
-  },
-  {
     "name": "tecvan",
     "login": "Tecvan-fe",
     "avatar": "https://avatars.githubusercontent.com/u/84165678?u=2b374b65f303aea7ba1183f41eb28a876950958e&v=4",
@@ -429,14 +413,6 @@
     "avatar": "https://images.opencollective.com/michael-hoffmann2/eecd5f4/avatar/460.png",
     "amount": 10,
     "link": "https://opencollective.com/michael-hoffmann2",
-    "org": false
-  },
-  {
-    "name": "SanD",
-    "login": "AlexanderBelokon",
-    "avatar": "https://avatars.githubusercontent.com/u/2198527?v=4",
-    "amount": 10,
-    "link": "https://github.com/AlexanderBelokon",
     "org": false
   },
   {
@@ -1944,6 +1920,22 @@
     "org": false
   },
   {
+    "name": "Nick.Huang",
+    "login": "nick-jy-huang",
+    "avatar": "https://avatars.githubusercontent.com/u/28307260?u=fbadf8ac6f5f801c6be8ec7119cb01c9ffa2add4&v=4",
+    "amount": -1,
+    "link": "https://github.com/nick-jy-huang",
+    "org": false
+  },
+  {
+    "name": "Lynn Huang",
+    "login": "clhuang224",
+    "avatar": "https://avatars.githubusercontent.com/u/47549901?u=629521049cee8c288e17add652a5220153f4333f&v=4",
+    "amount": -1,
+    "link": "https://github.com/clhuang224",
+    "org": false
+  },
+  {
     "name": "VingeRay",
     "login": "vingeraycn",
     "avatar": "https://avatars.githubusercontent.com/u/19839331?u=fd0b55dbaa7cec9715e94851d311cd515bf53db5&v=4",
@@ -2573,6 +2565,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/87118530?u=479760fcf6bff47a1a7b87540b1d8118bb318854&v=4",
     "amount": -1,
     "link": "https://github.com/Fanisting",
+    "org": false
+  },
+  {
+    "name": "SanD",
+    "login": "AlexanderBelokon",
+    "avatar": "https://avatars.githubusercontent.com/u/2198527?v=4",
+    "amount": -1,
+    "link": "https://github.com/AlexanderBelokon",
     "org": false
   },
   {
@@ -7266,7 +7266,7 @@
   {
     "name": "Robin",
     "login": "openscript",
-    "avatar": "https://avatars.githubusercontent.com/u/1105080?u=dde8ee2b184b25db43723f54823a3484ffe806a7&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/1105080?u=ebda165c92f1f174a7aef1c0defd8a0955b83b01&v=4",
     "amount": -1,
     "link": "https://github.com/openscript",
     "org": false
