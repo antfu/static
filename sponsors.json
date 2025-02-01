@@ -1024,14 +1024,6 @@
     "org": false
   },
   {
-    "name": "Tsz-Hong Lai",
-    "login": "tszhong0411",
-    "avatar": "https://avatars.githubusercontent.com/u/75498339?u=4922672c354d9bfbfe1f9d4089954efcc8486c5b&v=4",
-    "amount": 4,
-    "link": "https://github.com/tszhong0411",
-    "org": false
-  },
-  {
     "name": "Thomas Marrec",
     "login": "Gomah",
     "avatar": "https://avatars.githubusercontent.com/u/2362138?u=bc53113161f9174cb2ab4a5e9686fb5079c022a4&v=4",
@@ -1872,6 +1864,14 @@
     "org": false
   },
   {
+    "name": "John",
+    "login": "robokozo",
+    "avatar": "https://avatars.githubusercontent.com/u/1719221?u=b5739798ee9a3d713f5ca3bd3d6a086c13d229a3&v=4",
+    "amount": 1,
+    "link": "https://github.com/robokozo",
+    "org": false
+  },
+  {
     "name": "Anand Chowdhary",
     "login": "AnandChowdhary",
     "avatar": "https://avatars.githubusercontent.com/u/2841780?u=747e554b3a7f12eb20b7910e1c87d817844f714f&v=4",
@@ -1917,6 +1917,14 @@
     "avatar": "https://images.opencollective.com/guest-ff2e2108/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/guest-ff2e2108",
+    "org": false
+  },
+  {
+    "name": "Tsz-Hong Lai",
+    "login": "tszhong0411",
+    "avatar": "https://avatars.githubusercontent.com/u/75498339?u=4922672c354d9bfbfe1f9d4089954efcc8486c5b&v=4",
+    "amount": -1,
+    "link": "https://github.com/tszhong0411",
     "org": false
   },
   {
@@ -2472,38 +2480,6 @@
     "org": false
   },
   {
-    "name": "David Pena",
-    "login": "david-pena1",
-    "avatar": "https://images.opencollective.com/david-pena1/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/david-pena1",
-    "org": false
-  },
-  {
-    "name": "Anthony Fu",
-    "login": "antfu7",
-    "avatar": "https://images.opencollective.com/antfu7/9b1782b/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/antfu7",
-    "org": false
-  },
-  {
-    "name": "Andrew Brown",
-    "login": "andrew-werdna",
-    "avatar": "https://avatars.githubusercontent.com/u/8261769?u=ef025d7679533700957db0df9f74bd5d7d8c4a2a&v=4",
-    "amount": -1,
-    "link": "https://github.com/andrew-werdna",
-    "org": false
-  },
-  {
-    "name": "henrycunh",
-    "login": "henrycunh",
-    "avatar": "https://avatars.githubusercontent.com/u/8951736?u=55bd5b6171bc4c3933888f1d5c127d973fa6e0ce&v=4",
-    "amount": -1,
-    "link": "https://github.com/henrycunh",
-    "org": false
-  },
-  {
     "name": "liuweiqing",
     "login": "14790897",
     "avatar": "https://avatars.githubusercontent.com/u/121866954?u=62b457929becbe822bfd1157f6cccc9331fa88b3&v=4",
@@ -2565,6 +2541,38 @@
     "avatar": "https://avatars.githubusercontent.com/u/87118530?u=479760fcf6bff47a1a7b87540b1d8118bb318854&v=4",
     "amount": -1,
     "link": "https://github.com/Fanisting",
+    "org": false
+  },
+  {
+    "name": "David Pena",
+    "login": "david-pena1",
+    "avatar": "https://images.opencollective.com/david-pena1/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/david-pena1",
+    "org": false
+  },
+  {
+    "name": "Anthony Fu",
+    "login": "antfu7",
+    "avatar": "https://images.opencollective.com/antfu7/9b1782b/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/antfu7",
+    "org": false
+  },
+  {
+    "name": "Andrew Brown",
+    "login": "andrew-werdna",
+    "avatar": "https://avatars.githubusercontent.com/u/8261769?u=ef025d7679533700957db0df9f74bd5d7d8c4a2a&v=4",
+    "amount": -1,
+    "link": "https://github.com/andrew-werdna",
+    "org": false
+  },
+  {
+    "name": "henrycunh",
+    "login": "henrycunh",
+    "avatar": "https://avatars.githubusercontent.com/u/8951736?u=55bd5b6171bc4c3933888f1d5c127d973fa6e0ce&v=4",
+    "amount": -1,
+    "link": "https://github.com/henrycunh",
     "org": false
   },
   {
@@ -7453,14 +7461,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/41694?v=4",
     "amount": -1,
     "link": "https://github.com/mikekidder",
-    "org": false
-  },
-  {
-    "name": "John",
-    "login": "robokozo",
-    "avatar": "https://avatars.githubusercontent.com/u/1719221?u=b5739798ee9a3d713f5ca3bd3d6a086c13d229a3&v=4",
-    "amount": -1,
-    "link": "https://github.com/robokozo",
     "org": false
   },
   {
