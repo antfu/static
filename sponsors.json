@@ -400,14 +400,6 @@
     "org": false
   },
   {
-    "name": "Jeffrey Rennie",
-    "login": "surferjeff",
-    "avatar": "https://avatars.githubusercontent.com/u/3111162?u=c3c31cd93efc47564d666bc968bd7209d0d39632&v=4",
-    "amount": 10,
-    "link": "https://github.com/surferjeff",
-    "org": false
-  },
-  {
     "name": "Bjorn Lu",
     "login": "bluwy",
     "avatar": "https://avatars.githubusercontent.com/u/34116392?u=b156c6773cb1d21bf37c99bd427486ce73b2173d&v=4",
@@ -1826,7 +1818,7 @@
   {
     "name": "Robert Shaw",
     "login": "xiaoluoboding",
-    "avatar": "https://avatars.githubusercontent.com/u/6118824?u=2c2d47f83df60fe78208ff6a17084b2517a65eb0&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/6118824?u=aa2213434fef2a06b450c6e94351d4c96e31eec0&v=4",
     "amount": 1,
     "link": "https://github.com/xiaoluoboding",
     "org": false
@@ -2669,6 +2661,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/55730802?v=4",
     "amount": -1,
     "link": "https://github.com/selfing83",
+    "org": false
+  },
+  {
+    "name": "Jeffrey Rennie",
+    "login": "surferjeff",
+    "avatar": "https://avatars.githubusercontent.com/u/3111162?u=c3c31cd93efc47564d666bc968bd7209d0d39632&v=4",
+    "amount": -1,
+    "link": "https://github.com/surferjeff",
     "org": false
   },
   {
