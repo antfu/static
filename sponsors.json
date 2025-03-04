@@ -1872,14 +1872,6 @@
     "org": false
   },
   {
-    "name": "Michael",
-    "login": "MichaelGitArt",
-    "avatar": "https://avatars.githubusercontent.com/u/34610289?u=d86c04f2e19f6df031eac4669accb106a60b292b&v=4",
-    "amount": 1,
-    "link": "https://github.com/MichaelGitArt",
-    "org": false
-  },
-  {
     "name": "Raphaël Saunier",
     "login": "raphaelsaunier",
     "avatar": "https://avatars.githubusercontent.com/u/170256?u=9448bc4ce9813ffe43b5b90a0da70491ab7e8691&v=4",
@@ -7181,6 +7173,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/10043695?u=a82299c67c5b13855d7ea972420180e37d3c4029&v=4",
     "amount": -1,
     "link": "https://github.com/shunjilin",
+    "org": false
+  },
+  {
+    "name": "Michael",
+    "login": "MichaelGitArt",
+    "avatar": "https://avatars.githubusercontent.com/u/34610289?u=d86c04f2e19f6df031eac4669accb106a60b292b&v=4",
+    "amount": -1,
+    "link": "https://github.com/MichaelGitArt",
     "org": false
   },
   {
