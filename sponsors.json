@@ -176,14 +176,6 @@
     "org": false
   },
   {
-    "name": "LBKE - Lebrun Burel Knowledge Engineering",
-    "login": "lbke",
-    "avatar": "https://avatars.githubusercontent.com/u/18465804?v=4",
-    "amount": 20,
-    "link": "https://github.com/lbke",
-    "org": true
-  },
-  {
     "name": "n8n - Workflow Automation",
     "login": "n8nio",
     "avatar": "https://avatars.githubusercontent.com/u/52133374?v=4",
@@ -1950,6 +1942,14 @@
     "amount": -1,
     "link": "https://opencollective.com/xjccc",
     "org": false
+  },
+  {
+    "name": "LBKE - Lebrun Burel Knowledge Engineering",
+    "login": "lbke",
+    "avatar": "https://avatars.githubusercontent.com/u/18465804?v=4",
+    "amount": -1,
+    "link": "https://github.com/lbke",
+    "org": true
   },
   {
     "name": "Sanity",
