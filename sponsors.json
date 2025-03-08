@@ -488,19 +488,19 @@
     "org": false
   },
   {
+    "name": null,
+    "login": "songkeys",
+    "avatar": "https://avatars.githubusercontent.com/u/22665058?u=6502044d74cd15a821920363ae274c474d88948d&v=4",
+    "amount": 8,
+    "link": "https://github.com/songkeys",
+    "org": false
+  },
+  {
     "name": "Whitewater",
     "login": "lawvs",
     "avatar": "https://avatars.githubusercontent.com/u/18554747?u=5be13d230e1c13eeef6fd1ef60b37490b98185ec&v=4",
     "amount": 8,
     "link": "https://github.com/lawvs",
-    "org": false
-  },
-  {
-    "name": "Luosr",
-    "login": "Lsscr",
-    "avatar": "https://avatars.githubusercontent.com/u/57869443?u=fdc3980da68691901331834f3566aa92375ad1e3&v=4",
-    "amount": 8,
-    "link": "https://github.com/Lsscr",
     "org": false
   },
   {
@@ -1941,6 +1941,14 @@
     "avatar": "https://images.opencollective.com/xjccc/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/xjccc",
+    "org": false
+  },
+  {
+    "name": "Luosr",
+    "login": "Lsscr",
+    "avatar": "https://avatars.githubusercontent.com/u/57869443?u=fdc3980da68691901331834f3566aa92375ad1e3&v=4",
+    "amount": -1,
+    "link": "https://github.com/Lsscr",
     "org": false
   },
   {
@@ -4792,14 +4800,6 @@
     "org": false
   },
   {
-    "name": "Verité Mugabo",
-    "login": "veritem",
-    "avatar": "https://avatars.githubusercontent.com/u/53856673?u=4c018a6e95cef577bf7931e55aae06960a413731&v=4",
-    "amount": -1,
-    "link": "https://github.com/veritem",
-    "org": false
-  },
-  {
     "name": "sea",
     "login": "warmthsea",
     "avatar": "https://avatars.githubusercontent.com/u/45450994?u=4e274b332d8d79a3e8748652a375282cd6c3f947&v=4",
@@ -6505,10 +6505,10 @@
   },
   {
     "name": "Paul Melero",
-    "login": "gangsthub",
+    "login": "paulmelero",
     "avatar": "https://avatars.githubusercontent.com/u/6775220?u=583bf11f3ab508f285ece4e94eabcb608707a060&v=4",
     "amount": -1,
-    "link": "https://github.com/gangsthub",
+    "link": "https://github.com/paulmelero",
     "org": false
   },
   {
@@ -7610,7 +7610,7 @@
   {
     "name": "Vladimirs Nordholm",
     "login": "vladdeSV",
-    "avatar": "https://avatars.githubusercontent.com/u/7542961?u=60bdba4d82847705db6aa1dbdf852f19062a7ac8&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/7542961?u=e44df52aa0a7cf384297c9ce9745ca1ae3d215d0&v=4",
     "amount": -1,
     "link": "https://github.com/vladdeSV",
     "org": false
