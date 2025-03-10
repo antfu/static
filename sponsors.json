@@ -1368,14 +1368,6 @@
     "org": false
   },
   {
-    "name": "felix",
-    "login": "blackspike",
-    "avatar": "https://avatars.githubusercontent.com/u/4052525?u=350f1579eee4769a59f5e0d11e0b55a534b3704a&v=4",
-    "amount": 4,
-    "link": "https://github.com/blackspike",
-    "org": false
-  },
-  {
     "name": "Richard Harrah",
     "login": "ToppleTheNun",
     "avatar": "https://avatars.githubusercontent.com/u/1672786?u=e750ef26e965ac7e339e44f0c3adee4bf33d6084&v=4",
@@ -6133,6 +6125,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/7448223?u=5b8e7a82ae9d5450a255a61eb87dc3791c9dada6&v=4",
     "amount": -1,
     "link": "https://github.com/jhxxs",
+    "org": false
+  },
+  {
+    "name": "felix",
+    "login": "blackspike",
+    "avatar": "https://avatars.githubusercontent.com/u/4052525?u=350f1579eee4769a59f5e0d11e0b55a534b3704a&v=4",
+    "amount": -1,
+    "link": "https://github.com/blackspike",
     "org": false
   },
   {
