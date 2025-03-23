@@ -1496,14 +1496,6 @@
     "org": false
   },
   {
-    "name": "天翔Skyline",
-    "login": "skyline0705",
-    "avatar": "https://avatars.githubusercontent.com/u/1788280?u=2386a6f6148d46453e0d9ae12ccbba957280354e&v=4",
-    "amount": 4,
-    "link": "https://github.com/skyline0705",
-    "org": false
-  },
-  {
     "name": "Austin Akers",
     "login": "BboyAkers",
     "avatar": "https://avatars.githubusercontent.com/u/11778717?u=fcae62f35eedad58c3d986d2adb60b40a8854952&v=4",
@@ -2386,7 +2378,7 @@
   {
     "name": "Naoki Haba",
     "login": "NaokiHaba",
-    "avatar": "https://avatars.githubusercontent.com/u/59875779?u=9757e9356535d373ca1719e8a4cc4750d8beddbc&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/59875779?u=8a6a89d39ceb3325accf7e8c9964d285c0dc8a7e&v=4",
     "amount": -1,
     "link": "https://github.com/NaokiHaba",
     "org": false
@@ -5901,6 +5893,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/34234442?u=048777024e7501ed851867d81a42944e8c40fe8c&v=4",
     "amount": -1,
     "link": "https://github.com/Masa-Shin",
+    "org": false
+  },
+  {
+    "name": "天翔Skyline",
+    "login": "skyline0705",
+    "avatar": "https://avatars.githubusercontent.com/u/1788280?u=2386a6f6148d46453e0d9ae12ccbba957280354e&v=4",
+    "amount": -1,
+    "link": "https://github.com/skyline0705",
     "org": false
   },
   {
