@@ -1256,6 +1256,14 @@
     "org": false
   },
   {
+    "name": "Elliot Chen",
+    "login": "cyfyifanchen",
+    "avatar": "https://avatars.githubusercontent.com/u/2340896?u=e1613eea42b2f0d85cff868f638c31f8682398cb&v=4",
+    "amount": 4,
+    "link": "https://github.com/cyfyifanchen",
+    "org": false
+  },
+  {
     "name": "Perpetual Education",
     "login": "perpetual-education",
     "avatar": "https://avatars.githubusercontent.com/u/149908464?v=4",
@@ -1293,14 +1301,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/39363750?u=11791aed884304ac15ab3efc472e0973a6ba57cc&v=4",
     "amount": 4,
     "link": "https://github.com/CatsJuice",
-    "org": false
-  },
-  {
-    "name": "Matthew Poruben",
-    "login": "Mporuben",
-    "avatar": "https://avatars.githubusercontent.com/u/10378000?u=feab88875f4428791e9c09c1121d50b9fda84ecd&v=4",
-    "amount": 4,
-    "link": "https://github.com/Mporuben",
     "org": false
   },
   {
@@ -3200,14 +3200,6 @@
     "org": false
   },
   {
-    "name": "Elliot Chen",
-    "login": "cyfyifanchen",
-    "avatar": "https://avatars.githubusercontent.com/u/2340896?u=e1613eea42b2f0d85cff868f638c31f8682398cb&v=4",
-    "amount": -1,
-    "link": "https://github.com/cyfyifanchen",
-    "org": false
-  },
-  {
     "name": "Edwin Kofler",
     "login": "hyperupcall",
     "avatar": "https://avatars.githubusercontent.com/u/24364012?u=d0caca1bb4d3e84c6842a14e9fc45e8d46fdc252&v=4",
@@ -3901,6 +3893,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/47984272?u=8048625c3f9ca6d056aeeadfd9e62387fbeb62c8&v=4",
     "amount": -1,
     "link": "https://github.com/nicolassutter",
+    "org": false
+  },
+  {
+    "name": "Matthew Poruben",
+    "login": "Mporuben",
+    "avatar": "https://avatars.githubusercontent.com/u/10378000?u=feab88875f4428791e9c09c1121d50b9fda84ecd&v=4",
+    "amount": -1,
+    "link": "https://github.com/Mporuben",
     "org": false
   },
   {
@@ -5474,7 +5474,7 @@
   {
     "name": "Yiyang Suen",
     "login": "suenyiyang",
-    "avatar": "https://avatars.githubusercontent.com/u/57290456?u=9bf0d245c3fc35eba07e5dddf27a5bb9578d2879&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/57290456?u=a7f56d87da99c3dd557dfa91c00db80ca90098ae&v=4",
     "amount": -1,
     "link": "https://github.com/suenyiyang",
     "org": false
