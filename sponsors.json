@@ -2224,12 +2224,36 @@
     "org": false
   },
   {
+    "name": "Restent Ou",
+    "login": "38aaddc052cd11e9856652540025c377",
+    "avatar": "https://pic1.afdiancdn.com/user/38aaddc052cd11e9856652540025c377/avatar/ee833c05cf444c871f478918faaccaf9_w640_h640_s89.jpeg",
+    "amount": -1,
+    "link": "https://afdian.com/u/38aaddc052cd11e9856652540025c377",
+    "org": false
+  },
+  {
     "name": "Kodify Media Group",
     "login": "kodify-media-group",
     "avatar": "https://images.opencollective.com/kodify-media-group/b109fa7/logo/460.png",
     "amount": -1,
     "link": "https://opencollective.com/kodify-media-group",
     "org": true
+  },
+  {
+    "name": "Anton P",
+    "login": "whitebyte",
+    "avatar": "https://avatars.githubusercontent.com/u/7704186?u=39b1c2ad60d35edcbf3e19a561d07248fedabd8c&v=4",
+    "amount": -1,
+    "link": "https://github.com/whitebyte",
+    "org": false
+  },
+  {
+    "name": "Kuba Jastrzębski",
+    "login": "KubaJastrz",
+    "avatar": "https://avatars.githubusercontent.com/u/6443113?u=b1e3f71c98cfe9553b4928b87cc0623bffc5c7b4&v=4",
+    "amount": -1,
+    "link": "https://github.com/KubaJastrz",
+    "org": false
   },
   {
     "name": "Bean Deng",
@@ -2376,14 +2400,6 @@
     "org": false
   },
   {
-    "name": "Tedy",
-    "login": "tangdaoyuan",
-    "avatar": "https://avatars.githubusercontent.com/u/8007202?u=6e003f5c0a833679096bf1a3c9e449e55cc36484&v=4",
-    "amount": -1,
-    "link": "https://github.com/tangdaoyuan",
-    "org": false
-  },
-  {
     "name": "Kimiaki Kuno",
     "login": "knokmki612",
     "avatar": "https://avatars.githubusercontent.com/u/9744580?u=0eb64eaff3cdab67ee054248f93150c0b90e5fc0&v=4",
@@ -2504,14 +2520,6 @@
     "org": false
   },
   {
-    "name": "Restent Ou",
-    "login": "38aaddc052cd11e9856652540025c377",
-    "avatar": "https://pic1.afdiancdn.com/user/38aaddc052cd11e9856652540025c377/avatar/ee833c05cf444c871f478918faaccaf9_w640_h640_s89.jpeg",
-    "amount": -1,
-    "link": "https://afdian.com/u/38aaddc052cd11e9856652540025c377",
-    "org": false
-  },
-  {
     "name": "Naruto",
     "login": "naruto-onedev",
     "avatar": "https://avatars.githubusercontent.com/u/111270813?v=4",
@@ -2533,30 +2541,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/24461402?u=a45c594ab1c09cd85f8be3aa07c93ee55c8a74f1&v=4",
     "amount": -1,
     "link": "https://github.com/Jutipong",
-    "org": false
-  },
-  {
-    "name": "Duane Adam",
-    "login": "duaneadam",
-    "avatar": "https://avatars.githubusercontent.com/u/4774597?u=06054db654fe4dc89e3ac79fffcfb0b6d864d07e&v=4",
-    "amount": -1,
-    "link": "https://github.com/duaneadam",
-    "org": false
-  },
-  {
-    "name": "Anton P",
-    "login": "whitebyte",
-    "avatar": "https://avatars.githubusercontent.com/u/7704186?u=39b1c2ad60d35edcbf3e19a561d07248fedabd8c&v=4",
-    "amount": -1,
-    "link": "https://github.com/whitebyte",
-    "org": false
-  },
-  {
-    "name": "Kuba Jastrzębski",
-    "login": "KubaJastrz",
-    "avatar": "https://avatars.githubusercontent.com/u/6443113?u=b1e3f71c98cfe9553b4928b87cc0623bffc5c7b4&v=4",
-    "amount": -1,
-    "link": "https://github.com/KubaJastrz",
     "org": false
   },
   {
@@ -4586,7 +4570,7 @@
   {
     "name": "Murphy Chen",
     "login": "Hacker-C",
-    "avatar": "https://avatars.githubusercontent.com/u/56097729?u=c6de56c9897c4b2784ff2bc4df2efd5feaa83fea&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/56097729?u=bcae09b4125217f189b5de3d8b45336684045f46&v=4",
     "amount": -1,
     "link": "https://github.com/Hacker-C",
     "org": false
@@ -5336,6 +5320,14 @@
     "org": false
   },
   {
+    "name": "Tedy",
+    "login": "tangdaoyuan",
+    "avatar": "https://avatars.githubusercontent.com/u/8007202?u=6e003f5c0a833679096bf1a3c9e449e55cc36484&v=4",
+    "amount": -1,
+    "link": "https://github.com/tangdaoyuan",
+    "org": false
+  },
+  {
     "name": "Konstantin Tennhard",
     "login": "t6d",
     "avatar": "https://avatars.githubusercontent.com/u/77060?u=571b2e98736d650d961405bb3e51ec28614fee41&v=4",
@@ -5514,7 +5506,7 @@
   {
     "name": "Yiyang Suen",
     "login": "suenyiyang",
-    "avatar": "https://avatars.githubusercontent.com/u/57290456?u=a7f56d87da99c3dd557dfa91c00db80ca90098ae&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/57290456?u=20528aeecb396941d8f74140e133e5e6c25ece1b&v=4",
     "amount": -1,
     "link": "https://github.com/suenyiyang",
     "org": false
