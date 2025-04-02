@@ -522,7 +522,7 @@
   {
     "name": "Mike Delucchi",
     "login": "zanuka",
-    "avatar": "https://avatars.githubusercontent.com/u/202134?u=3e5be2a61231e7d98765c2473a18d68148dae535&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/202134?u=a39017075e96a969364c84801a98e8e5d04efb43&v=4",
     "amount": 8,
     "link": "https://github.com/zanuka",
     "org": false
@@ -1720,14 +1720,6 @@
     "org": false
   },
   {
-    "name": "Chris",
-    "login": "chris1ding1",
-    "avatar": "https://avatars.githubusercontent.com/u/194386334?u=5500604b50e35ed8a5aeb82ce34aa5d3ee3f88c7&v=4",
-    "amount": 1,
-    "link": "https://github.com/chris1ding1",
-    "org": false
-  },
-  {
     "name": "David Klhufek",
     "login": "phirebase",
     "avatar": "https://avatars.githubusercontent.com/u/6418386?u=88e3c51da30af833686f302b1d8be29e6222698b&v=4",
@@ -2013,6 +2005,14 @@
     "avatar": "https://images.opencollective.com/xjccc/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/xjccc",
+    "org": false
+  },
+  {
+    "name": "Chris",
+    "login": "chris1ding1",
+    "avatar": "https://avatars.githubusercontent.com/u/194386334?u=5500604b50e35ed8a5aeb82ce34aa5d3ee3f88c7&v=4",
+    "amount": -1,
+    "link": "https://github.com/chris1ding1",
     "org": false
   },
   {
@@ -3626,7 +3626,7 @@
   {
     "name": "dabai",
     "login": "idabaicai",
-    "avatar": "https://avatars.githubusercontent.com/u/32956096?u=73a5353e3f6d5cd68c852a281b5b20b2839f5248&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/32956096?u=7f2317c7815750dc546bafd819ec518cbdae7af1&v=4",
     "amount": -1,
     "link": "https://github.com/idabaicai",
     "org": false
