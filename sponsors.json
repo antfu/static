@@ -1600,14 +1600,6 @@
     "org": false
   },
   {
-    "name": "ハン / Han",
-    "login": "hannoeru",
-    "avatar": "https://avatars.githubusercontent.com/u/16288797?u=c44c06cac93187aa1501dd964339f7b1c23f6bb6&v=4",
-    "amount": 4,
-    "link": "https://github.com/hannoeru",
-    "org": false
-  },
-  {
     "name": "Alex Riviere",
     "login": "fimion",
     "avatar": "https://avatars.githubusercontent.com/u/13134182?u=507cee6ea8ebebfc5c5a33910dfca595f529bf84&v=4",
@@ -1914,7 +1906,7 @@
   {
     "name": "Robert Shaw",
     "login": "xiaoluoboding",
-    "avatar": "https://avatars.githubusercontent.com/u/6118824?u=aa2213434fef2a06b450c6e94351d4c96e31eec0&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/6118824?u=e9472c1e1b9620f7cc8f8acc071234a669b3d243&v=4",
     "amount": 1,
     "link": "https://github.com/xiaoluoboding",
     "org": false
@@ -2978,7 +2970,7 @@
   {
     "name": "Yuzzuwo",
     "login": "Dino-Kupinic",
-    "avatar": "https://avatars.githubusercontent.com/u/87943435?u=a98043c50f7453c84e65f06e4746bd7c01482a63&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/87943435?u=41ba8d2a0e999828b284d1176cb2abdb53bf0c44&v=4",
     "amount": -1,
     "link": "https://github.com/Dino-Kupinic",
     "org": false
@@ -6757,6 +6749,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/7195563?u=cc9e05ff7bb920a5648940a61edb8c270ca902e7&v=4",
     "amount": -1,
     "link": "https://github.com/Shinigami92",
+    "org": false
+  },
+  {
+    "name": "ハン / Han",
+    "login": "hannoeru",
+    "avatar": "https://avatars.githubusercontent.com/u/16288797?u=c44c06cac93187aa1501dd964339f7b1c23f6bb6&v=4",
+    "amount": -1,
+    "link": "https://github.com/hannoeru",
     "org": false
   },
   {
