@@ -432,14 +432,6 @@
     "org": false
   },
   {
-    "name": null,
-    "login": "Kokobearr",
-    "avatar": "https://avatars.githubusercontent.com/u/41309524?v=4",
-    "amount": 10,
-    "link": "https://github.com/Kokobearr",
-    "org": false
-  },
-  {
     "name": "Vincent Bernet",
     "login": "VincentBernet",
     "avatar": "https://avatars.githubusercontent.com/u/54962581?u=e6d33566db64b3ff9a675e209007df0e66798a15&v=4",
@@ -1704,22 +1696,6 @@
     "org": false
   },
   {
-    "name": "Ariel",
-    "login": "Ariel-GonzAguer",
-    "avatar": "https://avatars.githubusercontent.com/u/103292223?u=9bae729e4bc8bad18f58c92471fb8ce24adc6f1e&v=4",
-    "amount": 1,
-    "link": "https://github.com/Ariel-GonzAguer",
-    "org": false
-  },
-  {
-    "name": "MOBAI",
-    "login": "Artist-MOBAI",
-    "avatar": "https://avatars.githubusercontent.com/u/192969678?u=0da37b55390bd049f8e631501f09e521d3a5ce50&v=4",
-    "amount": 1,
-    "link": "https://github.com/Artist-MOBAI",
-    "org": false
-  },
-  {
     "name": "Syntax",
     "login": "syntaxfm",
     "avatar": "https://avatars.githubusercontent.com/u/130389858?v=4",
@@ -1989,6 +1965,30 @@
     "avatar": "https://images.opencollective.com/xjccc/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/xjccc",
+    "org": false
+  },
+  {
+    "name": "Ariel",
+    "login": "Ariel-GonzAguer",
+    "avatar": "https://avatars.githubusercontent.com/u/103292223?u=9bae729e4bc8bad18f58c92471fb8ce24adc6f1e&v=4",
+    "amount": -1,
+    "link": "https://github.com/Ariel-GonzAguer",
+    "org": false
+  },
+  {
+    "name": null,
+    "login": "Kokobearr",
+    "avatar": "https://avatars.githubusercontent.com/u/41309524?v=4",
+    "amount": -1,
+    "link": "https://github.com/Kokobearr",
+    "org": false
+  },
+  {
+    "name": "MOBAI",
+    "login": "Artist-MOBAI",
+    "avatar": "https://avatars.githubusercontent.com/u/192969678?u=0da37b55390bd049f8e631501f09e521d3a5ce50&v=4",
+    "amount": -1,
+    "link": "https://github.com/Artist-MOBAI",
     "org": false
   },
   {
