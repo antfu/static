@@ -458,7 +458,7 @@
   {
     "name": "Eduardo San Martin Morote",
     "login": "posva",
-    "avatar": "https://avatars.githubusercontent.com/u/664177?u=ded1e1cffd1d5620c9d9fb1a1c966c17204d6bef&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/664177?u=06259cb98f3d65c5901edf488b6bf4ab5f4bccec&v=4",
     "amount": 10,
     "link": "https://github.com/posva",
     "org": false
@@ -930,7 +930,7 @@
   {
     "name": "HolyFata",
     "login": "holyfata",
-    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=47d199d83cda5b8343899387f94a080d34e25f28&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=68d73f530d10240bbf6bc4592fc9b3d6d5b3d029&v=4",
     "amount": 5,
     "link": "https://github.com/holyfata",
     "org": false
@@ -3426,7 +3426,7 @@
   {
     "name": "Fauzan",
     "login": "fzn0x",
-    "avatar": "https://avatars.githubusercontent.com/u/50759463?u=c209ae2a38d46128cf8b959acfb9c31c6aedbfce&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/50759463?u=2da6d1d622f7edfee1da32c6ee7ebea7d7764dc7&v=4",
     "amount": -1,
     "link": "https://github.com/fzn0x",
     "org": false
@@ -6288,9 +6288,9 @@
     "org": false
   },
   {
-    "name": "Joshua Gugun Siagian",
+    "name": null,
     "login": "suabahasa",
-    "avatar": "https://avatars.githubusercontent.com/u/5080378?u=5d396f123a650507c34b92f23904ac3193e82fcd&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/5080378?v=4",
     "amount": -1,
     "link": "https://github.com/suabahasa",
     "org": false
