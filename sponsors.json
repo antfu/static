@@ -552,14 +552,6 @@
     "org": false
   },
   {
-    "name": "Kamalnath Kadirvel",
-    "login": "KamalnathOSU",
-    "avatar": "https://avatars.githubusercontent.com/u/36216365?v=4",
-    "amount": 8,
-    "link": "https://github.com/KamalnathOSU",
-    "org": false
-  },
-  {
     "name": "Christopher Dobson",
     "login": "nothinglastsforever",
     "avatar": "https://avatars.githubusercontent.com/u/6544432?u=aa52261a217528fc43a47d8f47d63c3258fa788e&v=4",
@@ -1185,10 +1177,10 @@
   },
   {
     "name": "ナイトウ(Nathan Green)",
-    "login": "engineer-naito",
+    "login": "naitokosuke",
     "avatar": "https://avatars.githubusercontent.com/u/102337893?u=b481cfbbd70df13ecc78d9bf93bf76744c6eae16&v=4",
     "amount": 4,
-    "link": "https://github.com/engineer-naito",
+    "link": "https://github.com/naitokosuke",
     "org": false
   },
   {
@@ -2213,6 +2205,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/52708827?u=038bdaffc6f92a9a0c6537f614aea948cabc4803&v=4",
     "amount": -1,
     "link": "https://github.com/dirklach",
+    "org": false
+  },
+  {
+    "name": "Kamalnath Kadirvel",
+    "login": "KamalnathOSU",
+    "avatar": "https://avatars.githubusercontent.com/u/36216365?v=4",
+    "amount": -1,
+    "link": "https://github.com/KamalnathOSU",
     "org": false
   },
   {
