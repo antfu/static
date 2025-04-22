@@ -928,14 +928,6 @@
     "org": false
   },
   {
-    "name": null,
-    "login": "zhixiangyao",
-    "avatar": "https://avatars.githubusercontent.com/u/49728521?u=dd5ba00a2f83de769f3299c97cc2d30afb803897&v=4",
-    "amount": 5,
-    "link": "https://github.com/zhixiangyao",
-    "org": false
-  },
-  {
     "name": "Roboflow",
     "login": "roboflow",
     "avatar": "https://avatars.githubusercontent.com/u/53104118?v=4",
@@ -1941,6 +1933,14 @@
     "avatar": "https://images.opencollective.com/ouuan/fce9809/avatar/460.png",
     "amount": 0.8333333333333334,
     "link": "https://opencollective.com/ouuan",
+    "org": false
+  },
+  {
+    "name": null,
+    "login": "zhixiangyao",
+    "avatar": "https://avatars.githubusercontent.com/u/49728521?u=dd5ba00a2f83de769f3299c97cc2d30afb803897&v=4",
+    "amount": -1,
+    "link": "https://github.com/zhixiangyao",
     "org": false
   },
   {
