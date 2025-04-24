@@ -432,14 +432,6 @@
     "org": false
   },
   {
-    "name": "Vincent Bernet",
-    "login": "VincentBernet",
-    "avatar": "https://avatars.githubusercontent.com/u/54962581?u=e6d33566db64b3ff9a675e209007df0e66798a15&v=4",
-    "amount": 10,
-    "link": "https://github.com/VincentBernet",
-    "org": false
-  },
-  {
     "name": "tecvan",
     "login": "Tecvan-fe",
     "avatar": "https://avatars.githubusercontent.com/u/84165678?u=2b374b65f303aea7ba1183f41eb28a876950958e&v=4",
@@ -2000,6 +1992,14 @@
     "org": false
   },
   {
+    "name": "Vincent Bernet",
+    "login": "VincentBernet",
+    "avatar": "https://avatars.githubusercontent.com/u/54962581?u=e6d33566db64b3ff9a675e209007df0e66798a15&v=4",
+    "amount": -1,
+    "link": "https://github.com/VincentBernet",
+    "org": false
+  },
+  {
     "name": "Dũng T. Phạm",
     "login": "RockyMeadow",
     "avatar": "https://avatars.githubusercontent.com/u/6630803?u=16bb5cde421b3d50a817332b46f11f18912ad749&v=4",
@@ -2146,7 +2146,7 @@
   {
     "name": "Acbox Liu",
     "login": "sheepbox8646",
-    "avatar": "https://avatars.githubusercontent.com/u/78635021?u=452c2f7cc14b8a011a245e08e0de628a0c32e527&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/78635021?u=fbd75a10ff45a23fdaa45cfb6d6a181459663c9f&v=4",
     "amount": -1,
     "link": "https://github.com/sheepbox8646",
     "org": false
