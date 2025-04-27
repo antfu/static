@@ -192,6 +192,14 @@
     "org": false
   },
   {
+    "name": "Toyo Tomi",
+    "login": "toyo-tomi",
+    "avatar": "https://images.opencollective.com/toyo-tomi/bbf9301/avatar/460.png",
+    "amount": 20,
+    "link": "https://opencollective.com/toyo-tomi",
+    "org": false
+  },
+  {
     "name": "n8n - Workflow Automation",
     "login": "n8nio",
     "avatar": "https://avatars.githubusercontent.com/u/52133374?v=4",
@@ -1061,14 +1069,6 @@
     "avatar": "https://images.opencollective.com/bobbie1/109d650/avatar/460.png",
     "amount": 5,
     "link": "https://opencollective.com/bobbie1",
-    "org": false
-  },
-  {
-    "name": null,
-    "login": "SoCuul",
-    "avatar": "https://avatars.githubusercontent.com/u/63339559?u=8f9c3f3a02ae55b932edca202e7a2a34d0635758&v=4",
-    "amount": 4,
-    "link": "https://github.com/SoCuul",
     "org": false
   },
   {
@@ -1945,6 +1945,14 @@
   },
   {
     "name": null,
+    "login": "SoCuul",
+    "avatar": "https://avatars.githubusercontent.com/u/63339559?u=8f9c3f3a02ae55b932edca202e7a2a34d0635758&v=4",
+    "amount": -1,
+    "link": "https://github.com/SoCuul",
+    "org": false
+  },
+  {
+    "name": null,
     "login": "dongmingxin",
     "avatar": "https://avatars.githubusercontent.com/u/50134997?u=7c25fc1c3c6c2cafdbe92ecd149bc7b8ed568783&v=4",
     "amount": -1,
@@ -2413,14 +2421,6 @@
     "avatar": "https://images.opencollective.com/ted-xu/75fa2f9/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/ted-xu",
-    "org": false
-  },
-  {
-    "name": "Jure Topolak",
-    "login": "jure-topolak",
-    "avatar": "https://images.opencollective.com/jure-topolak/9b0deac/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/jure-topolak",
     "org": false
   },
   {
@@ -5317,6 +5317,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/2345776?u=3c2c359d72f813826d7d7ff3a150cd4d9cd8d7bb&v=4",
     "amount": -1,
     "link": "https://github.com/davinma",
+    "org": false
+  },
+  {
+    "name": "Jure Topolak",
+    "login": "jure-topolak",
+    "avatar": "https://images.opencollective.com/jure-topolak/9b0deac/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/jure-topolak",
     "org": false
   },
   {
