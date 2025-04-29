@@ -1656,6 +1656,14 @@
     "org": false
   },
   {
+    "name": "Brian Curliss",
+    "login": "BrianCurliss",
+    "avatar": "https://avatars.githubusercontent.com/u/1222949?v=4",
+    "amount": 1,
+    "link": "https://github.com/BrianCurliss",
+    "org": false
+  },
+  {
     "name": "Eldar Pashazade",
     "login": "eldarlrd",
     "avatar": "https://avatars.githubusercontent.com/u/95304986?u=1e263948c1fc3988aceb0817cbbb262c9e700c5b&v=4",
@@ -2040,11 +2048,27 @@
     "org": false
   },
   {
+    "name": "LBKE - Lebrun Burel Knowledge Engineering",
+    "login": "lbke",
+    "avatar": "https://avatars.githubusercontent.com/u/18465804?v=4",
+    "amount": -1,
+    "link": "https://github.com/lbke",
+    "org": true
+  },
+  {
     "name": "Lavi",
     "login": "Lauviah0622",
     "avatar": "https://avatars.githubusercontent.com/u/43416399?v=4",
     "amount": -1,
     "link": "https://github.com/Lauviah0622",
+    "org": false
+  },
+  {
+    "name": "David Klhufek",
+    "login": "phirebase",
+    "avatar": "https://avatars.githubusercontent.com/u/6418386?u=88e3c51da30af833686f302b1d8be29e6222698b&v=4",
+    "amount": -1,
+    "link": "https://github.com/phirebase",
     "org": false
   },
   {
@@ -2168,6 +2192,14 @@
     "org": false
   },
   {
+    "name": "Sanity",
+    "login": "sanity-io",
+    "avatar": "https://avatars.githubusercontent.com/u/17177659?v=4",
+    "amount": -1,
+    "link": "https://github.com/sanity-io",
+    "org": true
+  },
+  {
     "name": "Hao",
     "login": "hli988",
     "avatar": "https://avatars.githubusercontent.com/u/33992310?u=b1ffb2ac859a86b0b054b9f968a20fdf8ab8a174&v=4",
@@ -2181,6 +2213,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/77893877?u=ae21eb8ec8f8effa051036f5a4f06cd79dc3ac7c&v=4",
     "amount": -1,
     "link": "https://github.com/2u841r",
+    "org": false
+  },
+  {
+    "name": "ymougenel",
+    "login": "ymougenel",
+    "avatar": "https://avatars.githubusercontent.com/u/18485894?u=c29ded6b80cfaf97532bbbd9da447f89b603eea9&v=4",
+    "amount": -1,
+    "link": "https://github.com/ymougenel",
     "org": false
   },
   {
@@ -2206,6 +2246,22 @@
     "amount": -1,
     "link": "https://opencollective.com/kodify-media-group",
     "org": true
+  },
+  {
+    "name": "Anton P",
+    "login": "whitebyte",
+    "avatar": "https://avatars.githubusercontent.com/u/7704186?u=39b1c2ad60d35edcbf3e19a561d07248fedabd8c&v=4",
+    "amount": -1,
+    "link": "https://github.com/whitebyte",
+    "org": false
+  },
+  {
+    "name": "Kuba Jastrzębski",
+    "login": "KubaJastrz",
+    "avatar": "https://avatars.githubusercontent.com/u/6443113?u=b1e3f71c98cfe9553b4928b87cc0623bffc5c7b4&v=4",
+    "amount": -1,
+    "link": "https://github.com/KubaJastrz",
+    "org": false
   },
   {
     "name": "Dirk Lach",
@@ -3832,6 +3888,14 @@
     "org": false
   },
   {
+    "name": "Andrei L",
+    "login": "unrevised6419",
+    "avatar": "https://avatars.githubusercontent.com/u/1881266?u=c86b7c7b8ffb23f5ee29bb80e4d1c22aee94b273&v=4",
+    "amount": -1,
+    "link": "https://github.com/unrevised6419",
+    "org": false
+  },
+  {
     "name": "Salimcan Satıcı",
     "login": "salimcansatici",
     "avatar": "https://avatars.githubusercontent.com/u/42337972?u=c3a89c457b6aa6a6e09248c749a72236c5e51016&v=4",
@@ -4704,9 +4768,9 @@
     "org": false
   },
   {
-    "name": "Narcis-Ionuț B.",
+    "name": "Narcis-Ionuț Bugeag",
     "login": "leonardssh",
-    "avatar": "https://avatars.githubusercontent.com/u/35312043?u=1ab5fefa507c15a0aada4ff94c8b912d8c8b249a&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/35312043?u=5560b081c5763a85379b44145359603b9941e80b&v=4",
     "amount": -1,
     "link": "https://github.com/leonardssh",
     "org": false
@@ -4850,7 +4914,7 @@
   {
     "name": "Jonas Galvez",
     "login": "galvez",
-    "avatar": "https://avatars.githubusercontent.com/u/12291?u=b8aa3f7446c8f4a28618efab2c188600303456a6&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/12291?u=707571de1ce12565c1194652ad5be4b9938d3b18&v=4",
     "amount": -1,
     "link": "https://github.com/galvez",
     "org": false
@@ -5048,12 +5112,20 @@
     "org": false
   },
   {
-    "name": "LBKE - Lebrun Burel Knowledge Engineering",
-    "login": "lbke",
-    "avatar": "https://avatars.githubusercontent.com/u/18465804?v=4",
+    "name": "Joenn",
+    "login": "joenn",
+    "avatar": "https://images.opencollective.com/joenn/c26116b/avatar/460.png",
     "amount": -1,
-    "link": "https://github.com/lbke",
-    "org": true
+    "link": "https://opencollective.com/joenn",
+    "org": false
+  },
+  {
+    "name": "Stephen Zhou",
+    "login": "hyoban",
+    "avatar": "https://images.opencollective.com/hyoban/caf9e78/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/hyoban",
+    "org": false
   },
   {
     "name": "Anatolii Nehelia",
@@ -5096,28 +5168,12 @@
     "org": false
   },
   {
-    "name": "Joenn",
-    "login": "joenn",
-    "avatar": "https://images.opencollective.com/joenn/c26116b/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/joenn",
-    "org": false
-  },
-  {
     "name": "Rocka Nutrition GmbH",
     "login": "ilovept",
     "avatar": "https://avatars.githubusercontent.com/u/8994317?v=4",
     "amount": -1,
     "link": "https://github.com/ilovept",
     "org": true
-  },
-  {
-    "name": "Stephen Zhou",
-    "login": "hyoban",
-    "avatar": "https://images.opencollective.com/hyoban/caf9e78/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/hyoban",
-    "org": false
   },
   {
     "name": "Yuhei FUJITA",
@@ -5144,14 +5200,6 @@
     "org": false
   },
   {
-    "name": "David Klhufek",
-    "login": "phirebase",
-    "avatar": "https://avatars.githubusercontent.com/u/6418386?u=88e3c51da30af833686f302b1d8be29e6222698b&v=4",
-    "amount": -1,
-    "link": "https://github.com/phirebase",
-    "org": false
-  },
-  {
     "name": "4dd03",
     "login": "4dd03756b6de11ef848852540025c377",
     "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/",
@@ -5166,14 +5214,6 @@
     "amount": -1,
     "link": "https://github.com/Dobefu",
     "org": false
-  },
-  {
-    "name": "Sanity",
-    "login": "sanity-io",
-    "avatar": "https://avatars.githubusercontent.com/u/17177659?v=4",
-    "amount": -1,
-    "link": "https://github.com/sanity-io",
-    "org": true
   },
   {
     "name": "Chen Lei",
@@ -5200,14 +5240,6 @@
     "org": false
   },
   {
-    "name": "ymougenel",
-    "login": "ymougenel",
-    "avatar": "https://avatars.githubusercontent.com/u/18485894?u=c29ded6b80cfaf97532bbbd9da447f89b603eea9&v=4",
-    "amount": -1,
-    "link": "https://github.com/ymougenel",
-    "org": false
-  },
-  {
     "name": "Hiroki Kokubun",
     "login": "cocopon",
     "avatar": "https://avatars.githubusercontent.com/u/602961?u=48832889915523e3170c197e66bc04fc8303a096&v=4",
@@ -5229,22 +5261,6 @@
     "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/",
     "amount": -1,
     "link": "https://afdian.com/u/2bd76e087b3d11efbac552540025c377",
-    "org": false
-  },
-  {
-    "name": "Anton P",
-    "login": "whitebyte",
-    "avatar": "https://avatars.githubusercontent.com/u/7704186?u=39b1c2ad60d35edcbf3e19a561d07248fedabd8c&v=4",
-    "amount": -1,
-    "link": "https://github.com/whitebyte",
-    "org": false
-  },
-  {
-    "name": "Kuba Jastrzębski",
-    "login": "KubaJastrz",
-    "avatar": "https://avatars.githubusercontent.com/u/6443113?u=b1e3f71c98cfe9553b4928b87cc0623bffc5c7b4&v=4",
-    "amount": -1,
-    "link": "https://github.com/KubaJastrz",
     "org": false
   },
   {
@@ -6453,14 +6469,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/17437168?u=c62ffaf4732e6ae7c76cb84296dc28bb93e9cd17&v=4",
     "amount": -1,
     "link": "https://github.com/luismartinezs",
-    "org": false
-  },
-  {
-    "name": "Andrei L",
-    "login": "unrevised6419",
-    "avatar": "https://avatars.githubusercontent.com/u/1881266?u=c86b7c7b8ffb23f5ee29bb80e4d1c22aee94b273&v=4",
-    "amount": -1,
-    "link": "https://github.com/unrevised6419",
     "org": false
   },
   {
