@@ -488,14 +488,6 @@
     "org": false
   },
   {
-    "name": "Jithin Sha",
-    "login": "jithin-sha",
-    "avatar": "https://images.opencollective.com/jithin-sha/avatar/460.png",
-    "amount": 10,
-    "link": "https://opencollective.com/jithin-sha",
-    "org": false
-  },
-  {
     "name": "RainbowBird",
     "login": "luoling8192",
     "avatar": "https://avatars.githubusercontent.com/u/44741987?u=a332cdc8c82452d428d048c8f1e651a84795fc21&v=4",
@@ -2072,14 +2064,6 @@
     "org": false
   },
   {
-    "name": "a01b4",
-    "login": "a01b4690ccbe11ef951252540025c377",
-    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png",
-    "amount": -1,
-    "link": "https://afdian.com/u/a01b4690ccbe11ef951252540025c377",
-    "org": false
-  },
-  {
     "name": "David Klhufek",
     "login": "phirebase",
     "avatar": "https://avatars.githubusercontent.com/u/6418386?u=88e3c51da30af833686f302b1d8be29e6222698b&v=4",
@@ -2093,14 +2077,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/21002750?u=b6a1c1c7d59c260bd5cda0fbdbb7b670586e4812&v=4",
     "amount": -1,
     "link": "https://github.com/ckchuang-dev",
-    "org": false
-  },
-  {
-    "name": "Tim King",
-    "login": "guest-ff2e2108",
-    "avatar": "https://images.opencollective.com/guest-ff2e2108/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/guest-ff2e2108",
     "org": false
   },
   {
@@ -2149,14 +2125,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/62844231?u=6adde64720d872d7547a7215e73a227e1d750d0f&v=4",
     "amount": -1,
     "link": "https://github.com/ignasxv",
-    "org": false
-  },
-  {
-    "name": "4dd03",
-    "login": "4dd03756b6de11ef848852540025c377",
-    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/",
-    "amount": -1,
-    "link": "https://afdian.com/u/4dd03756b6de11ef848852540025c377",
     "org": false
   },
   {
@@ -2232,14 +2200,6 @@
     "org": true
   },
   {
-    "name": "Chen Lei",
-    "login": "6bcef7aa66a811ef9d3552540025c377",
-    "avatar": "https://pic1.afdiancdn.com/user/6bcef7aa66a811ef9d3552540025c377/avatar/ba0aaa57702c6f7ddb3c2a063b6bc0a8_w1266_h1266_s513.jpeg",
-    "amount": -1,
-    "link": "https://afdian.com/u/6bcef7aa66a811ef9d3552540025c377",
-    "org": false
-  },
-  {
     "name": "Claudio W.",
     "login": "ovflowd",
     "avatar": "https://avatars.githubusercontent.com/u/12037269?u=1eaf34f968f0e144f42caa55e32d01279689d0e3&v=4",
@@ -2256,22 +2216,6 @@
     "org": false
   },
   {
-    "name": "Restent Ou",
-    "login": "38aaddc052cd11e9856652540025c377",
-    "avatar": "https://pic1.afdiancdn.com/user/38aaddc052cd11e9856652540025c377/avatar/ee833c05cf444c871f478918faaccaf9_w640_h640_s89.jpeg",
-    "amount": -1,
-    "link": "https://afdian.com/u/38aaddc052cd11e9856652540025c377",
-    "org": false
-  },
-  {
-    "name": "2bd76",
-    "login": "2bd76e087b3d11efbac552540025c377",
-    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/",
-    "amount": -1,
-    "link": "https://afdian.com/u/2bd76e087b3d11efbac552540025c377",
-    "org": false
-  },
-  {
     "name": "Kodify Media Group",
     "login": "kodify-media-group",
     "avatar": "https://images.opencollective.com/kodify-media-group/b109fa7/logo/460.png",
@@ -2285,6 +2229,62 @@
     "avatar": "https://avatars.githubusercontent.com/u/7704186?u=39b1c2ad60d35edcbf3e19a561d07248fedabd8c&v=4",
     "amount": -1,
     "link": "https://github.com/whitebyte",
+    "org": false
+  },
+  {
+    "name": "Jithin Sha",
+    "login": "jithin-sha",
+    "avatar": "https://images.opencollective.com/jithin-sha/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/jithin-sha",
+    "org": false
+  },
+  {
+    "name": "a01b4",
+    "login": "a01b4690ccbe11ef951252540025c377",
+    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png",
+    "amount": -1,
+    "link": "https://afdian.com/u/a01b4690ccbe11ef951252540025c377",
+    "org": false
+  },
+  {
+    "name": "Tim King",
+    "login": "guest-ff2e2108",
+    "avatar": "https://images.opencollective.com/guest-ff2e2108/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/guest-ff2e2108",
+    "org": false
+  },
+  {
+    "name": "4dd03",
+    "login": "4dd03756b6de11ef848852540025c377",
+    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/",
+    "amount": -1,
+    "link": "https://afdian.com/u/4dd03756b6de11ef848852540025c377",
+    "org": false
+  },
+  {
+    "name": "Chen Lei",
+    "login": "6bcef7aa66a811ef9d3552540025c377",
+    "avatar": "https://pic1.afdiancdn.com/user/6bcef7aa66a811ef9d3552540025c377/avatar/ba0aaa57702c6f7ddb3c2a063b6bc0a8_w1266_h1266_s513.jpeg",
+    "amount": -1,
+    "link": "https://afdian.com/u/6bcef7aa66a811ef9d3552540025c377",
+    "org": false
+  },
+  {
+    "name": "Restent Ou",
+    "login": "38aaddc052cd11e9856652540025c377",
+    "avatar": "https://pic1.afdiancdn.com/user/38aaddc052cd11e9856652540025c377/avatar/ee833c05cf444c871f478918faaccaf9_w640_h640_s89.jpeg",
+    "amount": -1,
+    "link": "https://afdian.com/u/38aaddc052cd11e9856652540025c377",
+    "org": false
+  },
+  {
+    "name": "2bd76",
+    "login": "2bd76e087b3d11efbac552540025c377",
+    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/",
+    "amount": -1,
+    "link": "https://afdian.com/u/2bd76e087b3d11efbac552540025c377",
     "org": false
   },
   {
@@ -2352,7 +2352,7 @@
     "org": false
   },
   {
-    "name": "henrycunh",
+    "name": "henrique cunha",
     "login": "henrycunh",
     "avatar": "https://avatars.githubusercontent.com/u/8951736?u=55bd5b6171bc4c3933888f1d5c127d973fa6e0ce&v=4",
     "amount": -1,
@@ -4194,7 +4194,7 @@
   {
     "name": "Vojtech Miksu",
     "login": "tajo",
-    "avatar": "https://avatars.githubusercontent.com/u/1387913?u=bde78a8e35020223747e972cd331d5bdc71ea012&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/1387913?u=7608680ddc9616da91d60270acc4f6a12aaf24c1&v=4",
     "amount": -1,
     "link": "https://github.com/tajo",
     "org": false
@@ -4624,7 +4624,7 @@
     "org": false
   },
   {
-    "name": "Fauzan",
+    "name": "Fauzan 🪿",
     "login": "fzn0x",
     "avatar": "https://avatars.githubusercontent.com/u/50759463?u=2da6d1d622f7edfee1da32c6ee7ebea7d7764dc7&v=4",
     "amount": -1,
