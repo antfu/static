@@ -880,9 +880,9 @@
     "org": false
   },
   {
-    "name": "HolyFata",
+    "name": "玉楼春",
     "login": "holyfata",
-    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=94dbfd548b737c95b5854f447be86f6b26416041&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=aae0bfc292d52fd3cb478424778f6cf48c610693&v=4",
     "amount": 5,
     "link": "https://github.com/holyfata",
     "org": false
@@ -1049,10 +1049,10 @@
   },
   {
     "name": "BobbieGoede",
-    "login": "bobbie1",
-    "avatar": "https://images.opencollective.com/bobbie1/109d650/avatar/460.png",
+    "login": "bobbiegoede",
+    "avatar": "https://images.opencollective.com/bobbiegoede/109d650/avatar/460.png",
     "amount": 5,
-    "link": "https://opencollective.com/bobbie1",
+    "link": "https://opencollective.com/bobbiegoede",
     "org": false
   },
   {
@@ -1144,7 +1144,7 @@
     "org": false
   },
   {
-    "name": "ナイトウ(Nathan Green)",
+    "name": "ナイトウコウスケ",
     "login": "naitokosuke",
     "avatar": "https://avatars.githubusercontent.com/u/102337893?u=b481cfbbd70df13ecc78d9bf93bf76744c6eae16&v=4",
     "amount": 4,
@@ -1573,6 +1573,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/16060559?u=cf061757407ef529958cf24bac8d2f699ad6e6ed&v=4",
     "amount": 4,
     "link": "https://github.com/innocenzi",
+    "org": false
+  },
+  {
+    "name": "João Carmona",
+    "login": "jpsc",
+    "avatar": "https://avatars.githubusercontent.com/u/411763?u=e1539021b583abe14d08fb5c8a30f18309b19b00&v=4",
+    "amount": 4,
+    "link": "https://github.com/jpsc",
     "org": false
   },
   {
@@ -6472,9 +6480,9 @@
     "org": false
   },
   {
-    "name": null,
+    "name": "Unai Mengual",
     "login": "owlnai",
-    "avatar": "https://avatars.githubusercontent.com/u/20427094?v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/20427094?u=e0f5e48fbb0c071011295ac916612337bb6e8b31&v=4",
     "amount": -1,
     "link": "https://github.com/owlnai",
     "org": false
@@ -7221,14 +7229,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/7327500?u=cd46b1b4ad8c9846594bcc6f33b94c189f4f0903&v=4",
     "amount": -1,
     "link": "https://github.com/wbswjc",
-    "org": false
-  },
-  {
-    "name": "João Carmona",
-    "login": "jpsc",
-    "avatar": "https://avatars.githubusercontent.com/u/411763?u=e1539021b583abe14d08fb5c8a30f18309b19b00&v=4",
-    "amount": -1,
-    "link": "https://github.com/jpsc",
     "org": false
   },
   {
