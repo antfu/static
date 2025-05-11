@@ -880,14 +880,6 @@
     "org": false
   },
   {
-    "name": "玉楼春",
-    "login": "holyfata",
-    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=aae0bfc292d52fd3cb478424778f6cf48c610693&v=4",
-    "amount": 5,
-    "link": "https://github.com/holyfata",
-    "org": false
-  },
-  {
     "name": "Roboflow",
     "login": "roboflow",
     "avatar": "https://avatars.githubusercontent.com/u/53104118?v=4",
@@ -1949,6 +1941,14 @@
     "avatar": "https://images.opencollective.com/toyo-tomi/bbf9301/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/toyo-tomi",
+    "org": false
+  },
+  {
+    "name": "玉楼春",
+    "login": "holyfata",
+    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=aae0bfc292d52fd3cb478424778f6cf48c610693&v=4",
+    "amount": -1,
+    "link": "https://github.com/holyfata",
     "org": false
   },
   {
@@ -5392,7 +5392,7 @@
     "org": false
   },
   {
-    "name": "Andrei L",
+    "name": null,
     "login": "unrevised6419",
     "avatar": "https://avatars.githubusercontent.com/u/1881266?u=c86b7c7b8ffb23f5ee29bb80e4d1c22aee94b273&v=4",
     "amount": -1,
