@@ -1952,6 +1952,14 @@
     "org": false
   },
   {
+    "name": "Lzyoo",
+    "login": "0a4f002a36a911f0b6dc5254001e7c00",
+    "avatar": "https://pic1.afdiancdn.com/user/0a4f002a36a911f0b6dc5254001e7c00/avatar/3b2463e140fc18c065c9283851c3ec54_w800_h600_s18.jpeg",
+    "amount": -1,
+    "link": "https://afdian.com/u/0a4f002a36a911f0b6dc5254001e7c00",
+    "org": false
+  },
+  {
     "name": "Toyo Tomi",
     "login": "toyo-tomi",
     "avatar": "https://images.opencollective.com/toyo-tomi/bbf9301/avatar/460.png",
@@ -2226,7 +2234,7 @@
   {
     "name": "Stephen Zhou",
     "login": "hyoban",
-    "avatar": "https://avatars.githubusercontent.com/u/38493346?u=a1fe88ada88320b64b20b62510d6c7647498875f&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/38493346?u=73b116ae6704175ce20f30e993b35305ce1c631c&v=4",
     "amount": -1,
     "link": "https://github.com/hyoban",
     "org": false
@@ -2414,14 +2422,6 @@
     "amount": -1,
     "link": "https://github.com/speechanddebate",
     "org": true
-  },
-  {
-    "name": "bqh",
-    "login": "401f77ea4eef11ef93f252540025c377",
-    "avatar": "https://pic1.afdiancdn.com/user/401f77ea4eef11ef93f252540025c377/avatar/0c676c17b2b1b1f2a8a0236ac80891b3_w1024_h1024_s62.jpeg",
-    "amount": -1,
-    "link": "https://afdian.com/u/401f77ea4eef11ef93f252540025c377",
-    "org": false
   },
   {
     "name": "Bean Deng",
@@ -2613,6 +2613,14 @@
     "avatar": "https://images.opencollective.com/fjt/3955659/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/fjt",
+    "org": false
+  },
+  {
+    "name": "bqh",
+    "login": "401f77ea4eef11ef93f252540025c377",
+    "avatar": "https://pic1.afdiancdn.com/user/401f77ea4eef11ef93f252540025c377/avatar/0c676c17b2b1b1f2a8a0236ac80891b3_w1024_h1024_s62.jpeg",
+    "amount": -1,
+    "link": "https://afdian.com/u/401f77ea4eef11ef93f252540025c377",
     "org": false
   },
   {
@@ -4906,7 +4914,7 @@
   {
     "name": "Alun Cennyth Stokes",
     "login": "AlunStokes",
-    "avatar": "https://avatars.githubusercontent.com/u/13275679?u=1564ce960c6418ad79219496b169fd8ffe1e4c0b&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/13275679?u=92a69ca9303069bd3e3841e9e63ab695feea104a&v=4",
     "amount": -1,
     "link": "https://github.com/AlunStokes",
     "org": false
