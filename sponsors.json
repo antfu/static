@@ -832,14 +832,6 @@
     "org": false
   },
   {
-    "name": "Rahul Kadyan",
-    "login": "znck",
-    "avatar": "https://avatars.githubusercontent.com/u/2596484?u=2f8be558ec19ce26766a49de216601181c8f7beb&v=4",
-    "amount": 8,
-    "link": "https://github.com/znck",
-    "org": false
-  },
-  {
     "name": "  Victor",
     "login": "victortolbert",
     "avatar": "https://avatars.githubusercontent.com/u/2476?u=d7e354b0acaf6a8d6ed51d08f6656c04bc787a9d&v=4",
@@ -1968,9 +1960,9 @@
     "org": false
   },
   {
-    "name": "玉楼春",
+    "name": "HolyFata",
     "login": "holyfata",
-    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=aae0bfc292d52fd3cb478424778f6cf48c610693&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=6174a9b47d834b3f9ccefb509fd9fe05f23c8bb6&v=4",
     "amount": -1,
     "link": "https://github.com/holyfata",
     "org": false
@@ -2074,7 +2066,7 @@
   {
     "name": "Vincent Bernet",
     "login": "VincentBernet",
-    "avatar": "https://avatars.githubusercontent.com/u/54962581?u=e6d33566db64b3ff9a675e209007df0e66798a15&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/54962581?v=4",
     "amount": -1,
     "link": "https://github.com/VincentBernet",
     "org": false
@@ -2208,7 +2200,7 @@
     "org": false
   },
   {
-    "name": "MUTESA Cedric",
+    "name": "Cedric Mutesa",
     "login": "Mutesa-Cedric",
     "avatar": "https://avatars.githubusercontent.com/u/96414111?u=9b9dfd621c91a9706a12c24a8b2f70c4883b7ce8&v=4",
     "amount": -1,
@@ -7413,6 +7405,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/1996642?u=27d225e1fdafbab041e5d9cddbf725b52e5227c3&v=4",
     "amount": -1,
     "link": "https://github.com/yamanoku",
+    "org": false
+  },
+  {
+    "name": "Rahul Kadyan",
+    "login": "znck",
+    "avatar": "https://avatars.githubusercontent.com/u/2596484?u=2f8be558ec19ce26766a49de216601181c8f7beb&v=4",
+    "amount": -1,
+    "link": "https://github.com/znck",
     "org": false
   },
   {
