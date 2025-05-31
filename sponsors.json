@@ -832,14 +832,6 @@
     "org": false
   },
   {
-    "name": "Kuro Hsu",
-    "login": "kurotanshi",
-    "avatar": "https://avatars.githubusercontent.com/u/362912?u=28a005fabf55d7f646da4960f8dd26c08aff20b8&v=4",
-    "amount": 8,
-    "link": "https://github.com/kurotanshi",
-    "org": false
-  },
-  {
     "name": "  Victor",
     "login": "victortolbert",
     "avatar": "https://avatars.githubusercontent.com/u/2476?u=d7e354b0acaf6a8d6ed51d08f6656c04bc787a9d&v=4",
@@ -1560,6 +1552,14 @@
     "org": false
   },
   {
+    "name": "Kuro Hsu",
+    "login": "kurotanshi",
+    "avatar": "https://avatars.githubusercontent.com/u/362912?u=28a005fabf55d7f646da4960f8dd26c08aff20b8&v=4",
+    "amount": 4,
+    "link": "https://github.com/kurotanshi",
+    "org": false
+  },
+  {
     "name": "João Carmona",
     "login": "jpsc",
     "avatar": "https://avatars.githubusercontent.com/u/411763?u=e1539021b583abe14d08fb5c8a30f18309b19b00&v=4",
@@ -2042,7 +2042,7 @@
   {
     "name": "Hendra Gunawan",
     "login": "JadlionHD",
-    "avatar": "https://avatars.githubusercontent.com/u/48410066?u=5980f668b54c4858a4b3319c5352fccb77461b58&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/48410066?u=c9c06fa34d1d474421e29bd0aa939d1916a54b21&v=4",
     "amount": -1,
     "link": "https://github.com/JadlionHD",
     "org": false
