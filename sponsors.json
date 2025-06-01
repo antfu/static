@@ -200,14 +200,6 @@
     "org": false
   },
   {
-    "name": "Toyo Tomi",
-    "login": "toyo-tomi",
-    "avatar": "https://images.opencollective.com/toyo-tomi/bbf9301/avatar/460.png",
-    "amount": 20,
-    "link": "https://opencollective.com/toyo-tomi",
-    "org": false
-  },
-  {
     "name": "Philipp Glira",
     "login": "pglira",
     "avatar": "https://avatars.githubusercontent.com/u/14214284?u=a32a6e4845249ac6af6e2efc3ba2e03e51b14326&v=4",
@@ -1626,7 +1618,7 @@
   {
     "name": "MyInstaFollow – Real Social Growth",
     "login": "myinstafollowcom",
-    "avatar": "https://images.opencollective.com/myinstafollowcom/0dcdc56/logo/460.png",
+    "avatar": "https://images.opencollective.com/myinstafollowcom/98535b2/logo/460.png",
     "amount": 1,
     "link": "https://opencollective.com/myinstafollowcom",
     "org": true
@@ -1917,6 +1909,14 @@
     "avatar": "https://images.opencollective.com/xjccc/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/xjccc",
+    "org": false
+  },
+  {
+    "name": "Toyo Tomi",
+    "login": "toyo-tomi",
+    "avatar": "https://images.opencollective.com/toyo-tomi/bbf9301/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/toyo-tomi",
     "org": false
   },
   {
@@ -5098,7 +5098,7 @@
   {
     "name": "Jeff Wainwright",
     "login": "yowainwright",
-    "avatar": "https://avatars.githubusercontent.com/u/1074042?u=6df738559b2ca0fb6db3ec0a217c8b4e2267a9ea&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/1074042?u=81cb6e662a6d3254850200c4498ed07e7d59061e&v=4",
     "amount": -1,
     "link": "https://github.com/yowainwright",
     "org": false
