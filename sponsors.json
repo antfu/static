@@ -1592,6 +1592,22 @@
     "org": false
   },
   {
+    "name": "Simão Gomes Viana",
+    "login": "xdevs23",
+    "avatar": "https://avatars.githubusercontent.com/u/6959245?u=67efd45fdbce4c49a7bf985f1086fa61cdf2460b&v=4",
+    "amount": 1,
+    "link": "https://github.com/xdevs23",
+    "org": false
+  },
+  {
+    "name": "MyInstaFollow – Real Social Growth",
+    "login": "myinstafollowcom",
+    "avatar": "https://images.opencollective.com/myinstafollowcom/98535b2/logo/460.png",
+    "amount": 1,
+    "link": "https://opencollective.com/myinstafollowcom",
+    "org": true
+  },
+  {
     "name": "Brian Curliss",
     "login": "BrianCurliss",
     "avatar": "https://avatars.githubusercontent.com/u/1222949?v=4",
@@ -1605,14 +1621,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/44870505?u=998b9394b6dda1c7f3e04c3a2998abdb494a8635&v=4",
     "amount": 1,
     "link": "https://github.com/ysknsid25",
-    "org": false
-  },
-  {
-    "name": "Simão Gomes Viana",
-    "login": "xdevs23",
-    "avatar": "https://avatars.githubusercontent.com/u/6959245?u=67efd45fdbce4c49a7bf985f1086fa61cdf2460b&v=4",
-    "amount": 1,
-    "link": "https://github.com/xdevs23",
     "org": false
   },
   {
@@ -1894,14 +1902,6 @@
     "amount": -1,
     "link": "https://opencollective.com/toyo-tomi",
     "org": false
-  },
-  {
-    "name": "MyInstaFollow – Real Social Growth",
-    "login": "myinstafollowcom",
-    "avatar": "https://images.opencollective.com/myinstafollowcom/98535b2/logo/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/myinstafollowcom",
-    "org": true
   },
   {
     "name": "Logto",
