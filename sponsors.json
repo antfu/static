@@ -1008,6 +1008,14 @@
     "org": false
   },
   {
+    "name": "Tim van Herwijnen",
+    "login": "sneakylenny",
+    "avatar": "https://avatars.githubusercontent.com/u/60601502?u=666d92d2cbc96adbff6170320fc3c84c8d976fe4&v=4",
+    "amount": 4,
+    "link": "https://github.com/sneakylenny",
+    "org": false
+  },
+  {
     "name": "Alexander Opalic",
     "login": "alexanderop",
     "avatar": "https://avatars.githubusercontent.com/u/33398393?u=3b615d7e298c0c637f67c0761d207fbaae57cef6&v=4",
@@ -1904,38 +1912,6 @@
     "org": false
   },
   {
-    "name": "Logto",
-    "login": "logto",
-    "avatar": "https://images.opencollective.com/logto/0589181/avatar/460.png",
-    "amount": -1,
-    "link": "https://logto.io/?ref=antfu",
-    "org": false
-  },
-  {
-    "name": "Kodify Media Group",
-    "login": "kodify-media-group",
-    "avatar": "https://images.opencollective.com/kodify-media-group/b109fa7/logo/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/kodify-media-group",
-    "org": true
-  },
-  {
-    "name": "Jure Topolak",
-    "login": "jure-topolak",
-    "avatar": "https://images.opencollective.com/jure-topolak/9b0deac/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/jure-topolak",
-    "org": false
-  },
-  {
-    "name": "Joenn",
-    "login": "joenn",
-    "avatar": "https://images.opencollective.com/joenn/c26116b/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/joenn",
-    "org": false
-  },
-  {
     "name": "Lzyoo",
     "login": "0a4f002a36a911f0b6dc5254001e7c00",
     "avatar": "https://pic1.afdiancdn.com/user/0a4f002a36a911f0b6dc5254001e7c00/avatar/3b2463e140fc18c065c9283851c3ec54_w800_h600_s18.jpeg",
@@ -2288,12 +2264,12 @@
     "org": false
   },
   {
-    "name": "Restent Ou",
-    "login": "38aaddc052cd11e9856652540025c377",
-    "avatar": "https://pic1.afdiancdn.com/user/38aaddc052cd11e9856652540025c377/avatar/ee833c05cf444c871f478918faaccaf9_w640_h640_s89.jpeg",
+    "name": "Kodify Media Group",
+    "login": "kodify-media-group",
+    "avatar": "https://images.opencollective.com/kodify-media-group/b109fa7/logo/460.png",
     "amount": -1,
-    "link": "https://afdian.com/u/38aaddc052cd11e9856652540025c377",
-    "org": false
+    "link": "https://opencollective.com/kodify-media-group",
+    "org": true
   },
   {
     "name": "Bean Deng",
@@ -2317,6 +2293,14 @@
     "avatar": "https://images.opencollective.com/ted-xu/75fa2f9/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/ted-xu",
+    "org": false
+  },
+  {
+    "name": "Jure Topolak",
+    "login": "jure-topolak",
+    "avatar": "https://images.opencollective.com/jure-topolak/9b0deac/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/jure-topolak",
     "org": false
   },
   {
@@ -2392,6 +2376,14 @@
     "org": false
   },
   {
+    "name": "Murat Özalp",
+    "login": "muozalp",
+    "avatar": "https://avatars.githubusercontent.com/u/8464177?u=d7e9a554344faf250037679bee5d99216e614246&v=4",
+    "amount": -1,
+    "link": "https://github.com/muozalp",
+    "org": false
+  },
+  {
     "name": null,
     "login": "Mongkii",
     "avatar": "https://avatars.githubusercontent.com/u/8596458?u=99ffffa490b767bb6cdb2cc319efe5f7265c63cd&v=4",
@@ -2424,14 +2416,6 @@
     "org": false
   },
   {
-    "name": "Jithin Sha",
-    "login": "jithin-sha",
-    "avatar": "https://images.opencollective.com/jithin-sha/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/jithin-sha",
-    "org": false
-  },
-  {
     "name": "Rocka Nutrition GmbH",
     "login": "ilovept",
     "avatar": "https://avatars.githubusercontent.com/u/8994317?v=4",
@@ -2445,6 +2429,30 @@
     "avatar": "https://avatars.githubusercontent.com/u/9358572?u=4b2aa1bfa9aeb89b884dc4e02fa4a2456738fdde&v=4",
     "amount": -1,
     "link": "https://github.com/vvnsrzn",
+    "org": false
+  },
+  {
+    "name": "Logto",
+    "login": "logto",
+    "avatar": "https://images.opencollective.com/logto/0589181/avatar/460.png",
+    "amount": -1,
+    "link": "https://logto.io/?ref=antfu",
+    "org": false
+  },
+  {
+    "name": "Joenn",
+    "login": "joenn",
+    "avatar": "https://images.opencollective.com/joenn/c26116b/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/joenn",
+    "org": false
+  },
+  {
+    "name": "Jithin Sha",
+    "login": "jithin-sha",
+    "avatar": "https://images.opencollective.com/jithin-sha/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/jithin-sha",
     "org": false
   },
   {
@@ -2493,6 +2501,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/602961?u=48832889915523e3170c197e66bc04fc8303a096&v=4",
     "amount": -1,
     "link": "https://github.com/cocopon",
+    "org": false
+  },
+  {
+    "name": "Restent Ou",
+    "login": "38aaddc052cd11e9856652540025c377",
+    "avatar": "https://pic1.afdiancdn.com/user/38aaddc052cd11e9856652540025c377/avatar/ee833c05cf444c871f478918faaccaf9_w640_h640_s89.jpeg",
+    "amount": -1,
+    "link": "https://afdian.com/u/38aaddc052cd11e9856652540025c377",
     "org": false
   },
   {
@@ -4485,14 +4501,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/31298317?u=8402afc732f06814ed843d11aac340580a7e1040&v=4",
     "amount": -1,
     "link": "https://github.com/wsypower",
-    "org": false
-  },
-  {
-    "name": "Murat Özalp",
-    "login": "muozalp",
-    "avatar": "https://avatars.githubusercontent.com/u/8464177?u=d7e9a554344faf250037679bee5d99216e614246&v=4",
-    "amount": -1,
-    "link": "https://github.com/muozalp",
     "org": false
   },
   {
