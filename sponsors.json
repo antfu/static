@@ -472,6 +472,14 @@
     "org": false
   },
   {
+    "name": "Jithin Sha",
+    "login": "jithin-sha",
+    "avatar": "https://images.opencollective.com/jithin-sha/avatar/460.png",
+    "amount": 10,
+    "link": "https://opencollective.com/jithin-sha",
+    "org": false
+  },
+  {
     "name": null,
     "login": "LOUSANPANG",
     "avatar": "https://avatars.githubusercontent.com/u/36870764?u=560230c1b09b8ba3b813f2fb346cf73e7e02fae7&v=4",
@@ -1912,6 +1920,38 @@
     "org": false
   },
   {
+    "name": "Ted Xu",
+    "login": "ted-xu",
+    "avatar": "https://images.opencollective.com/ted-xu/75fa2f9/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/ted-xu",
+    "org": false
+  },
+  {
+    "name": "Logto",
+    "login": "logto",
+    "avatar": "https://images.opencollective.com/logto/0589181/avatar/460.png",
+    "amount": -1,
+    "link": "https://logto.io/?ref=antfu",
+    "org": false
+  },
+  {
+    "name": "Kodify Media Group",
+    "login": "kodify-media-group",
+    "avatar": "https://images.opencollective.com/kodify-media-group/b109fa7/logo/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/kodify-media-group",
+    "org": true
+  },
+  {
+    "name": "Stephen Zhou",
+    "login": "hyoban",
+    "avatar": "https://images.opencollective.com/hyoban/caf9e78/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/hyoban",
+    "org": false
+  },
+  {
     "name": "Lzyoo",
     "login": "0a4f002a36a911f0b6dc5254001e7c00",
     "avatar": "https://pic1.afdiancdn.com/user/0a4f002a36a911f0b6dc5254001e7c00/avatar/3b2463e140fc18c065c9283851c3ec54_w800_h600_s18.jpeg",
@@ -2264,14 +2304,6 @@
     "org": false
   },
   {
-    "name": "Kodify Media Group",
-    "login": "kodify-media-group",
-    "avatar": "https://images.opencollective.com/kodify-media-group/b109fa7/logo/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/kodify-media-group",
-    "org": true
-  },
-  {
     "name": "Bean Deng",
     "login": "hadb",
     "avatar": "https://images.opencollective.com/hadb/8a9d856/avatar/460.png",
@@ -2285,14 +2317,6 @@
     "avatar": "https://images.opencollective.com/guest-14ba1af7/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/guest-14ba1af7",
-    "org": false
-  },
-  {
-    "name": "Ted Xu",
-    "login": "ted-xu",
-    "avatar": "https://images.opencollective.com/ted-xu/75fa2f9/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/ted-xu",
     "org": false
   },
   {
@@ -2341,6 +2365,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/9802152?u=135e0e94d8369dc9a02e3f9c2c5c23aa7f1f4b24&v=4",
     "amount": -1,
     "link": "https://github.com/stefanofa",
+    "org": false
+  },
+  {
+    "name": "Yuhei FUJITA",
+    "login": "fjt",
+    "avatar": "https://images.opencollective.com/fjt/3955659/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/fjt",
     "org": false
   },
   {
@@ -2416,30 +2448,6 @@
     "org": false
   },
   {
-    "name": "Rocka Nutrition GmbH",
-    "login": "ilovept",
-    "avatar": "https://avatars.githubusercontent.com/u/8994317?v=4",
-    "amount": -1,
-    "link": "https://github.com/ilovept",
-    "org": true
-  },
-  {
-    "name": "Vivian Sarazin",
-    "login": "vvnsrzn",
-    "avatar": "https://avatars.githubusercontent.com/u/9358572?u=4b2aa1bfa9aeb89b884dc4e02fa4a2456738fdde&v=4",
-    "amount": -1,
-    "link": "https://github.com/vvnsrzn",
-    "org": false
-  },
-  {
-    "name": "Logto",
-    "login": "logto",
-    "avatar": "https://images.opencollective.com/logto/0589181/avatar/460.png",
-    "amount": -1,
-    "link": "https://logto.io/?ref=antfu",
-    "org": false
-  },
-  {
     "name": "Joenn",
     "login": "joenn",
     "avatar": "https://images.opencollective.com/joenn/c26116b/avatar/460.png",
@@ -2448,35 +2456,11 @@
     "org": false
   },
   {
-    "name": "Jithin Sha",
-    "login": "jithin-sha",
-    "avatar": "https://images.opencollective.com/jithin-sha/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/jithin-sha",
-    "org": false
-  },
-  {
-    "name": "Stephen Zhou",
-    "login": "hyoban",
-    "avatar": "https://images.opencollective.com/hyoban/caf9e78/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/hyoban",
-    "org": false
-  },
-  {
     "name": "Hao",
     "login": "hli988",
     "avatar": "https://avatars.githubusercontent.com/u/33992310?u=b1ffb2ac859a86b0b054b9f968a20fdf8ab8a174&v=4",
     "amount": -1,
     "link": "https://github.com/hli988",
-    "org": false
-  },
-  {
-    "name": "Yuhei FUJITA",
-    "login": "fjt",
-    "avatar": "https://images.opencollective.com/fjt/3955659/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/fjt",
     "org": false
   },
   {
@@ -3274,7 +3258,7 @@
   {
     "name": "jkaem",
     "login": "markjkaem",
-    "avatar": "https://avatars.githubusercontent.com/u/100427794?u=4effe16054e88a26054a56fbbcb61f9e84df943f&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/100427794?u=8dc9049145020c9a16b5ef26f08718e96554d1b4&v=4",
     "amount": -1,
     "link": "https://github.com/markjkaem",
     "org": false
@@ -3869,6 +3853,22 @@
     "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-blue.png",
     "amount": -1,
     "link": "https://afdian.com/u/f59f44380b6b11ee848d5254001e7c00",
+    "org": false
+  },
+  {
+    "name": "Rocka Nutrition GmbH",
+    "login": "ilovept",
+    "avatar": "https://avatars.githubusercontent.com/u/8994317?v=4",
+    "amount": -1,
+    "link": "https://github.com/ilovept",
+    "org": true
+  },
+  {
+    "name": "Vivian Sarazin",
+    "login": "vvnsrzn",
+    "avatar": "https://avatars.githubusercontent.com/u/9358572?u=4b2aa1bfa9aeb89b884dc4e02fa4a2456738fdde&v=4",
+    "amount": -1,
+    "link": "https://github.com/vvnsrzn",
     "org": false
   },
   {
@@ -7672,7 +7672,7 @@
     "org": false
   },
   {
-    "name": "namihey",
+    "name": "namipay",
     "login": "kynefuk",
     "avatar": "https://avatars.githubusercontent.com/u/45833722?u=19c6b4777080554ec0b2ecb1312b88af1be236cb&v=4",
     "amount": -1,
