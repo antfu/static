@@ -280,6 +280,14 @@
     "org": false
   },
   {
+    "name": "David Vallejo",
+    "login": "thyngster",
+    "avatar": "https://avatars.githubusercontent.com/u/1494564?u=9f275ee477468e675a6e6e19faef6035eeace956&v=4",
+    "amount": 16,
+    "link": "https://github.com/thyngster",
+    "org": false
+  },
+  {
     "name": "Avantpage",
     "login": "avantpage",
     "avatar": "https://avatars.githubusercontent.com/u/49530281?v=4",
@@ -488,14 +496,6 @@
     "org": false
   },
   {
-    "name": null,
-    "login": "LOUSANPANG",
-    "avatar": "https://avatars.githubusercontent.com/u/36870764?u=560230c1b09b8ba3b813f2fb346cf73e7e02fae7&v=4",
-    "amount": 8,
-    "link": "https://github.com/LOUSANPANG",
-    "org": false
-  },
-  {
     "name": "Mike Delucchi",
     "login": "zanuka",
     "avatar": "https://avatars.githubusercontent.com/u/202134?u=a39017075e96a969364c84801a98e8e5d04efb43&v=4",
@@ -581,14 +581,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/15956448?u=e1bc751d88192cba8107e1b0b1e7212dd2c3fe3f&v=4",
     "amount": 8,
     "link": "https://github.com/Tony-Xiong",
-    "org": false
-  },
-  {
-    "name": "David Vallejo",
-    "login": "thyngster",
-    "avatar": "https://avatars.githubusercontent.com/u/1494564?u=9f275ee477468e675a6e6e19faef6035eeace956&v=4",
-    "amount": 8,
-    "link": "https://github.com/thyngster",
     "org": false
   },
   {
@@ -1965,6 +1957,14 @@
     "avatar": "https://pic1.afdiancdn.com/user/0a4f002a36a911f0b6dc5254001e7c00/avatar/3b2463e140fc18c065c9283851c3ec54_w800_h600_s18.jpeg",
     "amount": -1,
     "link": "https://afdian.com/u/0a4f002a36a911f0b6dc5254001e7c00",
+    "org": false
+  },
+  {
+    "name": null,
+    "login": "LOUSANPANG",
+    "avatar": "https://avatars.githubusercontent.com/u/36870764?u=560230c1b09b8ba3b813f2fb346cf73e7e02fae7&v=4",
+    "amount": -1,
+    "link": "https://github.com/LOUSANPANG",
     "org": false
   },
   {
@@ -4937,10 +4937,10 @@
   },
   {
     "name": "Alun Cennyth Stokes",
-    "login": "AlunStokes",
+    "login": "aluncstokes",
     "avatar": "https://avatars.githubusercontent.com/u/13275679?u=92a69ca9303069bd3e3841e9e63ab695feea104a&v=4",
     "amount": -1,
-    "link": "https://github.com/AlunStokes",
+    "link": "https://github.com/aluncstokes",
     "org": false
   },
   {
