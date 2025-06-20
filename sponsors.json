@@ -1704,14 +1704,6 @@
     "org": false
   },
   {
-    "name": "Mr. Henry",
-    "login": "mrhenry",
-    "avatar": "https://avatars.githubusercontent.com/u/45111?v=4",
-    "amount": 1,
-    "link": "https://github.com/mrhenry",
-    "org": true
-  },
-  {
     "name": null,
     "login": "MatyiFKBT",
     "avatar": "https://avatars.githubusercontent.com/u/6183867?u=106e2533d8146d2bb6237bf740a0e743a5317c22&v=4",
@@ -1986,7 +1978,7 @@
   {
     "name": "HolyFata",
     "login": "holyfata",
-    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=7a2c68a12a34ca2ac2187b750f47e15b5d4af4bb&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=d6c8fcfca06709f5e533cc662a785a1c3a33fd8a&v=4",
     "amount": -1,
     "link": "https://github.com/holyfata",
     "org": false
@@ -3630,6 +3622,14 @@
     "amount": -1,
     "link": "https://afdian.com/u/719cb96626f711eea25f52540025c377",
     "org": false
+  },
+  {
+    "name": "Mr. Henry",
+    "login": "mrhenry",
+    "avatar": "https://avatars.githubusercontent.com/u/45111?v=4",
+    "amount": -1,
+    "link": "https://github.com/mrhenry",
+    "org": true
   },
   {
     "name": "Julien Huang",
@@ -6842,7 +6842,7 @@
   {
     "name": "Ning Kuang",
     "login": "alexkuang0",
-    "avatar": "https://avatars.githubusercontent.com/u/17879507?u=44fa11799ad62366236a11ce13d40d2fc73ce627&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/17879507?u=8c8d8c060e99bcb8a9d0f527df738a7701da419f&v=4",
     "amount": -1,
     "link": "https://github.com/alexkuang0",
     "org": false
