@@ -8,14 +8,6 @@
     "org": true
   },
   {
-    "name": "VoidZero",
-    "login": "voidzero-dev",
-    "avatar": "https://avatars.githubusercontent.com/u/149750581?v=4",
-    "amount": 1024,
-    "link": "https://github.com/voidzero-dev",
-    "org": true
-  },
-  {
     "name": "Toeverything",
     "login": "toeverything",
     "avatar": "https://avatars.githubusercontent.com/u/78728988?v=4",
@@ -2206,6 +2198,14 @@
     "amount": -1,
     "link": "https://github.com/2u841r",
     "org": false
+  },
+  {
+    "name": "VoidZero",
+    "login": "voidzero-dev",
+    "avatar": "https://avatars.githubusercontent.com/u/149750581?v=4",
+    "amount": -1,
+    "link": "https://github.com/voidzero-dev",
+    "org": true
   },
   {
     "name": "Naruto",
