@@ -304,14 +304,6 @@
     "org": true
   },
   {
-    "name": null,
-    "login": "jfitzsimmons2",
-    "avatar": "https://avatars.githubusercontent.com/u/1531748?v=4",
-    "amount": 16,
-    "link": "https://github.com/jfitzsimmons2",
-    "org": false
-  },
-  {
     "name": "kang",
     "login": "ZWkang",
     "avatar": "https://avatars.githubusercontent.com/u/15853907?u=9a878c0efeedf49b406815aab63ebc611d3ede52&v=4",
@@ -3360,7 +3352,7 @@
     "org": false
   },
   {
-    "name": "Yohan",
+    "name": "Kyle",
     "login": "kaishuige",
     "avatar": "https://avatars.githubusercontent.com/u/58714229?u=4d541ac6ae55d150054664c145d1dd8a7319ad2b&v=4",
     "amount": -1,
@@ -5989,6 +5981,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/14293805?u=6049cd0655f3ed1ec256e900bbcd3b540491bd09&v=4",
     "amount": -1,
     "link": "https://github.com/thomasbnt",
+    "org": false
+  },
+  {
+    "name": null,
+    "login": "jfitzsimmons2",
+    "avatar": "https://avatars.githubusercontent.com/u/1531748?v=4",
+    "amount": -1,
+    "link": "https://github.com/jfitzsimmons2",
     "org": false
   },
   {
