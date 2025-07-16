@@ -1632,14 +1632,6 @@
     "org": true
   },
   {
-    "name": "Peter Chen",
-    "login": "PeterChen1997",
-    "avatar": "https://avatars.githubusercontent.com/u/21072589?u=051d9577bfae935f251d7dff1136ecd7df2b15b0&v=4",
-    "amount": 1,
-    "link": "https://github.com/PeterChen1997",
-    "org": false
-  },
-  {
     "name": "MyInstaFollow – Real Social Growth",
     "login": "myinstafollowcom",
     "avatar": "https://images.opencollective.com/myinstafollowcom/98535b2/logo/460.png",
@@ -2725,6 +2717,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/47485043?u=94c83fe548d33776d9b465d07588d139c954ac3d&v=4",
     "amount": -1,
     "link": "https://github.com/nikeshparajuli",
+    "org": false
+  },
+  {
+    "name": "Peter Chen",
+    "login": "PeterChen1997",
+    "avatar": "https://avatars.githubusercontent.com/u/21072589?u=051d9577bfae935f251d7dff1136ecd7df2b15b0&v=4",
+    "amount": -1,
+    "link": "https://github.com/PeterChen1997",
     "org": false
   },
   {
@@ -6440,7 +6440,7 @@
     "org": false
   },
   {
-    "name": "Andrei L",
+    "name": "Andrei",
     "login": "unrevised6419",
     "avatar": "https://avatars.githubusercontent.com/u/1881266?u=c86b7c7b8ffb23f5ee29bb80e4d1c22aee94b273&v=4",
     "amount": -1,
