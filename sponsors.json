@@ -1552,14 +1552,6 @@
     "org": false
   },
   {
-    "name": "João Carmona",
-    "login": "jpsc",
-    "avatar": "https://avatars.githubusercontent.com/u/411763?u=e1539021b583abe14d08fb5c8a30f18309b19b00&v=4",
-    "amount": 4,
-    "link": "https://github.com/jpsc",
-    "org": false
-  },
-  {
     "name": "Wei",
     "login": "fi3ework",
     "avatar": "https://avatars.githubusercontent.com/u/12322740?u=056f396cfc1df6fd7e1bd486e0578f6fd0158761&v=4",
@@ -4466,7 +4458,7 @@
   {
     "name": "qier222",
     "login": "qier222",
-    "avatar": "https://avatars.githubusercontent.com/u/68148142?u=a7f75c2347569bcd3964691cc82f046b450c760c&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/68148142?u=9d911e2c5c327fbca678cd6e13ef9fbba3c29ef3&v=4",
     "amount": -1,
     "link": "https://github.com/qier222",
     "org": false
@@ -6941,6 +6933,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/7327500?u=cd46b1b4ad8c9846594bcc6f33b94c189f4f0903&v=4",
     "amount": -1,
     "link": "https://github.com/wbswjc",
+    "org": false
+  },
+  {
+    "name": "João Carmona",
+    "login": "jpsc",
+    "avatar": "https://avatars.githubusercontent.com/u/411763?u=e1539021b583abe14d08fb5c8a30f18309b19b00&v=4",
+    "amount": -1,
+    "link": "https://github.com/jpsc",
     "org": false
   },
   {
