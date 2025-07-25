@@ -16,14 +16,6 @@
     "org": true
   },
   {
-    "name": "Toeverything",
-    "login": "toeverything",
-    "avatar": "https://avatars.githubusercontent.com/u/78728988?v=4",
-    "amount": 1000,
-    "link": "https://github.com/toeverything",
-    "org": true
-  },
-  {
     "name": "StackBlitz",
     "login": "stackblitz",
     "avatar": "https://avatars.githubusercontent.com/u/28635252?v=4",
@@ -3128,6 +3120,14 @@
     "org": false
   },
   {
+    "name": "Toeverything",
+    "login": "toeverything",
+    "avatar": "https://avatars.githubusercontent.com/u/78728988?v=4",
+    "amount": -1,
+    "link": "https://github.com/toeverything",
+    "org": true
+  },
+  {
     "name": "Renato",
     "login": "renatomoor",
     "avatar": "https://avatars.githubusercontent.com/u/24254515?u=f9e4a7b79e433e942930a4d1e9d9fff7ca919bae&v=4",
@@ -4560,7 +4560,7 @@
     "org": false
   },
   {
-    "name": "PraZ",
+    "name": "praz",
     "login": "prazdevs",
     "avatar": "https://avatars.githubusercontent.com/u/1631886?u=c32842940f9db08e299c042685bb046eaff51675&v=4",
     "amount": -1,
@@ -5264,7 +5264,7 @@
     "org": false
   },
   {
-    "name": "Matthew Poruben",
+    "name": "Matus Poruben",
     "login": "Mporuben",
     "avatar": "https://avatars.githubusercontent.com/u/10378000?u=feab88875f4428791e9c09c1121d50b9fda84ecd&v=4",
     "amount": -1,
@@ -6560,7 +6560,7 @@
     "org": false
   },
   {
-    "name": "bbking",
+    "name": "bbbottle",
     "login": "bbb0ttle",
     "avatar": "https://avatars.githubusercontent.com/u/11043540?u=cae1f568630a3d2caf4525be8de33a115f8d6590&v=4",
     "amount": -1,
