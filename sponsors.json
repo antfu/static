@@ -1632,6 +1632,14 @@
     "org": false
   },
   {
+    "name": "鹿be free",
+    "login": "holyfata",
+    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=3c9b5acde9674524c16b3041b70563375fa4793c&v=4",
+    "amount": 1,
+    "link": "https://github.com/holyfata",
+    "org": false
+  },
+  {
     "name": "Simão Gomes Viana",
     "login": "xdevs23",
     "avatar": "https://avatars.githubusercontent.com/u/6959245?u=3743f89c41baa1cff175c0ad33484533e0d05b02&v=4",
@@ -2096,14 +2104,6 @@
     "org": false
   },
   {
-    "name": "鹿be free",
-    "login": "holyfata",
-    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=7c4d79d95e4004e3be9deab35260a11784000ebc&v=4",
-    "amount": -1,
-    "link": "https://github.com/holyfata",
-    "org": false
-  },
-  {
     "name": null,
     "login": "SoCuul",
     "avatar": "https://avatars.githubusercontent.com/u/63339559?u=8f9c3f3a02ae55b932edca202e7a2a34d0635758&v=4",
@@ -2465,10 +2465,10 @@
   },
   {
     "name": null,
-    "login": "TheRealJP",
-    "avatar": "https://avatars.githubusercontent.com/u/19956232?u=44a1c0561f4d1b2307e29cf7c3b65c1253b3c3ef&v=4",
+    "login": "boooong123",
+    "avatar": "https://avatars.githubusercontent.com/u/19956232?v=4",
     "amount": -1,
-    "link": "https://github.com/TheRealJP",
+    "link": "https://github.com/boooong123",
     "org": false
   },
   {
@@ -7834,7 +7834,7 @@
   {
     "name": "Logan Kilpatrick ",
     "login": "logankilpatrick",
-    "avatar": "https://avatars.githubusercontent.com/u/35577566?u=4a664e62acd14e32a9842d0d6202f66888e9aac7&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/35577566?u=f6784fa224ee43e5e80883b43a4479e6335192e8&v=4",
     "amount": -1,
     "link": "https://github.com/logankilpatrick",
     "org": false
