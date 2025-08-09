@@ -184,14 +184,6 @@
     "org": false
   },
   {
-    "name": "rick",
-    "login": "rick-hup",
-    "avatar": "https://avatars.githubusercontent.com/u/34418758?u=e0005e359e25a3f7dcbbe326a7fc672f235cde12&v=4",
-    "amount": 20,
-    "link": "https://github.com/rick-hup",
-    "org": false
-  },
-  {
     "name": "n8n - Workflow Automation",
     "login": "n8nio",
     "avatar": "https://avatars.githubusercontent.com/u/52133374?v=4",
@@ -2061,6 +2053,14 @@
     "avatar": "https://images.opencollective.com/xjccc/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/xjccc",
+    "org": false
+  },
+  {
+    "name": "rick",
+    "login": "rick-hup",
+    "avatar": "https://avatars.githubusercontent.com/u/34418758?u=e0005e359e25a3f7dcbbe326a7fc672f235cde12&v=4",
+    "amount": -1,
+    "link": "https://github.com/rick-hup",
     "org": false
   },
   {
