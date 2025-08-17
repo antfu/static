@@ -1056,14 +1056,6 @@
     "org": false
   },
   {
-    "name": "Thomas Marrec",
-    "login": "Gomah",
-    "avatar": "https://avatars.githubusercontent.com/u/2362138?u=bc53113161f9174cb2ab4a5e9686fb5079c022a4&v=4",
-    "amount": 4,
-    "link": "https://github.com/Gomah",
-    "org": false
-  },
-  {
     "name": "Bjørge Næss",
     "login": "bjoerge",
     "avatar": "https://avatars.githubusercontent.com/u/876086?u=884522e3c4ca171fc3330ee5338162b802df4cc8&v=4",
@@ -2157,6 +2149,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/62844231?u=6adde64720d872d7547a7215e73a227e1d750d0f&v=4",
     "amount": -1,
     "link": "https://github.com/ignasxv",
+    "org": false
+  },
+  {
+    "name": "Thomas Marrec",
+    "login": "Gomah",
+    "avatar": "https://avatars.githubusercontent.com/u/2362138?u=bc53113161f9174cb2ab4a5e9686fb5079c022a4&v=4",
+    "amount": -1,
+    "link": "https://github.com/Gomah",
     "org": false
   },
   {
