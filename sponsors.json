@@ -416,6 +416,14 @@
     "org": false
   },
   {
+    "name": "tecvan",
+    "login": "Tecvan-fe",
+    "avatar": "https://avatars.githubusercontent.com/u/84165678?u=2b374b65f303aea7ba1183f41eb28a876950958e&v=4",
+    "amount": 10,
+    "link": "https://github.com/Tecvan-fe",
+    "org": false
+  },
+  {
     "name": "Michael Hoffmann",
     "login": "michael-hoffmann2",
     "avatar": "https://images.opencollective.com/michael-hoffmann2/eecd5f4/avatar/460.png",
@@ -429,22 +437,6 @@
     "avatar": "https://images.opencollective.com/mathieu-janio/avatar/460.png",
     "amount": 10,
     "link": "https://opencollective.com/mathieu-janio",
-    "org": false
-  },
-  {
-    "name": "Link",
-    "login": "lts20050703",
-    "avatar": "https://avatars.githubusercontent.com/u/87189679?u=b8502baea2565d755b2f077657cbc94849fdaf5e&v=4",
-    "amount": 10,
-    "link": "https://github.com/lts20050703",
-    "org": false
-  },
-  {
-    "name": "tecvan",
-    "login": "Tecvan-fe",
-    "avatar": "https://avatars.githubusercontent.com/u/84165678?u=2b374b65f303aea7ba1183f41eb28a876950958e&v=4",
-    "amount": 10,
-    "link": "https://github.com/Tecvan-fe",
     "org": false
   },
   {
@@ -1544,14 +1536,6 @@
     "org": false
   },
   {
-    "name": "Chen Lei",
-    "login": "chenleicode",
-    "avatar": "https://avatars.githubusercontent.com/u/172103606?u=d4047c75c971f22ddc07f90cf6decf1f3ae7d49c&v=4",
-    "amount": 3,
-    "link": "https://github.com/chenleicode",
-    "org": false
-  },
-  {
     "name": "Robin Genz",
     "login": "robingenz",
     "avatar": "https://avatars.githubusercontent.com/u/13857929?u=bc79facfce465b4217c46f28e23b37d829c8f970&v=4",
@@ -1925,6 +1909,22 @@
     "avatar": "https://images.opencollective.com/xjccc/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/xjccc",
+    "org": false
+  },
+  {
+    "name": "Link",
+    "login": "lts20050703",
+    "avatar": "https://avatars.githubusercontent.com/u/87189679?u=b8502baea2565d755b2f077657cbc94849fdaf5e&v=4",
+    "amount": -1,
+    "link": "https://github.com/lts20050703",
+    "org": false
+  },
+  {
+    "name": "Chen Lei",
+    "login": "chenleicode",
+    "avatar": "https://avatars.githubusercontent.com/u/172103606?u=d4047c75c971f22ddc07f90cf6decf1f3ae7d49c&v=4",
+    "amount": -1,
+    "link": "https://github.com/chenleicode",
     "org": false
   },
   {
