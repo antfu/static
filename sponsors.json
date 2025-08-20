@@ -1600,14 +1600,6 @@
     "org": false
   },
   {
-    "name": "Usaid Aqeel",
-    "login": "UsaidAqeel",
-    "avatar": "https://avatars.githubusercontent.com/u/100064695?u=c217bb1ab854291f70cf04bfdcb75f28006d51b8&v=4",
-    "amount": 1,
-    "link": "https://github.com/UsaidAqeel",
-    "org": false
-  },
-  {
     "name": "Brian Curliss",
     "login": "BrianCurliss",
     "avatar": "https://avatars.githubusercontent.com/u/1222949?v=4",
@@ -1949,6 +1941,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/55641773?u=21dfe59e78a499fdc48efa7700863a99a7ec1227&v=4",
     "amount": -1,
     "link": "https://github.com/Alfred-Skyblue",
+    "org": false
+  },
+  {
+    "name": "Usaid Aqeel",
+    "login": "UsaidAqeel",
+    "avatar": "https://avatars.githubusercontent.com/u/100064695?u=c217bb1ab854291f70cf04bfdcb75f28006d51b8&v=4",
+    "amount": -1,
+    "link": "https://github.com/UsaidAqeel",
     "org": false
   },
   {
