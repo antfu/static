@@ -1608,6 +1608,14 @@
     "org": false
   },
   {
+    "name": "Anthony Lu",
+    "login": "tonylu110",
+    "avatar": "https://avatars.githubusercontent.com/u/58923223?u=9c7cc26e27fbe5b426b4cab3eda7119b0f28ecf6&v=4",
+    "amount": 1,
+    "link": "https://github.com/tonylu110",
+    "org": false
+  },
+  {
     "name": "Brian Curliss",
     "login": "BrianCurliss",
     "avatar": "https://avatars.githubusercontent.com/u/1222949?v=4",
@@ -1909,14 +1917,6 @@
     "avatar": "https://images.opencollective.com/xjccc/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/xjccc",
-    "org": false
-  },
-  {
-    "name": "Anthony Lu",
-    "login": "tonylu110",
-    "avatar": "https://avatars.githubusercontent.com/u/58923223?u=9c7cc26e27fbe5b426b4cab3eda7119b0f28ecf6&v=4",
-    "amount": -1,
-    "link": "https://github.com/tonylu110",
     "org": false
   },
   {
@@ -3208,7 +3208,7 @@
     "org": false
   },
   {
-    "name": "Sina",
+    "name": "SinaSB",
     "login": "sinahonesty",
     "avatar": "https://avatars.githubusercontent.com/u/106835733?u=3114df33287459c8589d1fecb3ea972759ca7de1&v=4",
     "amount": -1,
@@ -5093,6 +5093,14 @@
     "avatar": "https://images.opencollective.com/fjt/3955659/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/fjt",
+    "org": false
+  },
+  {
+    "name": "cc1eb",
+    "login": "cc1eb840826611f0b11c52540025c377",
+    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/",
+    "amount": -1,
+    "link": "https://afdian.com/u/cc1eb840826611f0b11c52540025c377",
     "org": false
   },
   {
