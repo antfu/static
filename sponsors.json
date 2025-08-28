@@ -1600,14 +1600,6 @@
     "org": false
   },
   {
-    "name": "Samik Wangneo",
-    "login": "samikwangneo",
-    "avatar": "https://avatars.githubusercontent.com/u/59485585?u=b5ef749c1475af4a3c20f62560d9bfd5ef6c4320&v=4",
-    "amount": 1,
-    "link": "https://github.com/samikwangneo",
-    "org": false
-  },
-  {
     "name": "Anthony Lu",
     "login": "tonylu110",
     "avatar": "https://avatars.githubusercontent.com/u/58923223?u=9c7cc26e27fbe5b426b4cab3eda7119b0f28ecf6&v=4",
@@ -1920,6 +1912,14 @@
     "org": false
   },
   {
+    "name": "Samik Wangneo",
+    "login": "samikwangneo",
+    "avatar": "https://avatars.githubusercontent.com/u/59485585?u=b5ef749c1475af4a3c20f62560d9bfd5ef6c4320&v=4",
+    "amount": -1,
+    "link": "https://github.com/samikwangneo",
+    "org": false
+  },
+  {
     "name": "Link",
     "login": "lts20050703",
     "avatar": "https://avatars.githubusercontent.com/u/87189679?u=b8502baea2565d755b2f077657cbc94849fdaf5e&v=4",
@@ -2089,10 +2089,10 @@
   },
   {
     "name": "Nelson Lai",
-    "login": "tszhong0411",
+    "login": "nelsonlaidev",
     "avatar": "https://avatars.githubusercontent.com/u/75498339?u=4922672c354d9bfbfe1f9d4089954efcc8486c5b&v=4",
     "amount": -1,
-    "link": "https://github.com/tszhong0411",
+    "link": "https://github.com/nelsonlaidev",
     "org": false
   },
   {
