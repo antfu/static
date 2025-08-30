@@ -1592,14 +1592,6 @@
     "org": false
   },
   {
-    "name": "Igor Kan",
-    "login": "igor-kan",
-    "avatar": "https://avatars.githubusercontent.com/u/61065863?u=3bade33799d183510fd381e2e4f5e1b61af8631a&v=4",
-    "amount": 1,
-    "link": "https://github.com/igor-kan",
-    "org": false
-  },
-  {
     "name": "Anthony Lu",
     "login": "tonylu110",
     "avatar": "https://avatars.githubusercontent.com/u/58923223?u=9c7cc26e27fbe5b426b4cab3eda7119b0f28ecf6&v=4",
@@ -1909,6 +1901,14 @@
     "avatar": "https://images.opencollective.com/xjccc/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/xjccc",
+    "org": false
+  },
+  {
+    "name": "Igor Kan",
+    "login": "igor-kan",
+    "avatar": "https://avatars.githubusercontent.com/u/61065863?u=3bade33799d183510fd381e2e4f5e1b61af8631a&v=4",
+    "amount": -1,
+    "link": "https://github.com/igor-kan",
     "org": false
   },
   {
@@ -6330,7 +6330,7 @@
   {
     "name": "Maciej Kwaśniak",
     "login": "Exelord",
-    "avatar": "https://avatars.githubusercontent.com/u/1469375?v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/1469375?u=847c97b0b3b0df5b7eba21bf063725bca6618e2d&v=4",
     "amount": -1,
     "link": "https://github.com/Exelord",
     "org": false
