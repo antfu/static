@@ -896,14 +896,6 @@
     "org": false
   },
   {
-    "name": "Ryan Atkinson",
-    "login": "ryanatkn",
-    "avatar": "https://avatars.githubusercontent.com/u/2608646?u=32b1f459c78d3c3e670bc4c20122d6ce8eb07bf3&v=4",
-    "amount": 5,
-    "link": "https://github.com/ryanatkn",
-    "org": false
-  },
-  {
     "name": "blackbird GmbH",
     "login": "blackbirdUG",
     "avatar": "https://avatars.githubusercontent.com/u/61544907?u=47c13f3eec39e9f0fa8e3bf4db9dac45699f4a90&v=4",
@@ -1488,14 +1480,6 @@
     "org": false
   },
   {
-    "name": "Darshak Parikh",
-    "login": "dar5hak",
-    "avatar": "https://avatars.githubusercontent.com/u/8205055?u=015f4ffe7a3db7e7d5950aed8ec238f3f41e1efd&v=4",
-    "amount": 4,
-    "link": "https://github.com/dar5hak",
-    "org": false
-  },
-  {
     "name": "Alex Riviere",
     "login": "fimion",
     "avatar": "https://avatars.githubusercontent.com/u/13134182?u=507cee6ea8ebebfc5c5a33910dfca595f529bf84&v=4",
@@ -1584,14 +1568,6 @@
     "org": false
   },
   {
-    "name": "mao kai yue",
-    "login": "MKY508",
-    "avatar": "https://avatars.githubusercontent.com/u/202630065?u=ebb0c8a7d95a4f86b24896c4903a3a21edfbf690&v=4",
-    "amount": 1,
-    "link": "https://github.com/MKY508",
-    "org": false
-  },
-  {
     "name": "Anthony Lu",
     "login": "tonylu110",
     "avatar": "https://avatars.githubusercontent.com/u/58923223?u=9c7cc26e27fbe5b426b4cab3eda7119b0f28ecf6&v=4",
@@ -1640,6 +1616,14 @@
     "org": true
   },
   {
+    "name": "𝑾𝒖𝒙𝒉",
+    "login": "Wxh16144",
+    "avatar": "https://avatars.githubusercontent.com/u/32004925?u=1756bf59f926e629b26c68ce20a30470872bb65e&v=4",
+    "amount": 1,
+    "link": "https://github.com/Wxh16144",
+    "org": false
+  },
+  {
     "name": "Myinstafollow - Buy Instagram Followers",
     "login": "myinstafollow",
     "avatar": "https://images.opencollective.com/myinstafollow/bce918d/avatar/460.png",
@@ -1653,14 +1637,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/1222949?v=4",
     "amount": 1,
     "link": "https://github.com/BrianCurliss",
-    "org": false
-  },
-  {
-    "name": "Elliot Chen",
-    "login": "cyfyifanchen",
-    "avatar": "https://avatars.githubusercontent.com/u/2340896?u=e1613eea42b2f0d85cff868f638c31f8682398cb&v=4",
-    "amount": 1,
-    "link": "https://github.com/cyfyifanchen",
     "org": false
   },
   {
@@ -1685,14 +1661,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/246402?u=5a93d26faaa0fb829fe03480f5c5a67dadd33f47&v=4",
     "amount": 1,
     "link": "https://github.com/nkoehring",
-    "org": false
-  },
-  {
-    "name": "𝑾𝒖𝒙𝒉",
-    "login": "Wxh16144",
-    "avatar": "https://avatars.githubusercontent.com/u/32004925?u=1756bf59f926e629b26c68ce20a30470872bb65e&v=4",
-    "amount": 1,
-    "link": "https://github.com/Wxh16144",
     "org": false
   },
   {
@@ -1901,6 +1869,14 @@
     "avatar": "https://images.opencollective.com/xjccc/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/xjccc",
+    "org": false
+  },
+  {
+    "name": "mao kai yue",
+    "login": "MKY508",
+    "avatar": "https://avatars.githubusercontent.com/u/202630065?u=ebb0c8a7d95a4f86b24896c4903a3a21edfbf690&v=4",
+    "amount": -1,
+    "link": "https://github.com/MKY508",
     "org": false
   },
   {
@@ -3005,6 +2981,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/100427794?u=8dc9049145020c9a16b5ef26f08718e96554d1b4&v=4",
     "amount": -1,
     "link": "https://github.com/markjkaem",
+    "org": false
+  },
+  {
+    "name": "Elliot Chen",
+    "login": "cyfyifanchen",
+    "avatar": "https://avatars.githubusercontent.com/u/2340896?u=e1613eea42b2f0d85cff868f638c31f8682398cb&v=4",
+    "amount": -1,
+    "link": "https://github.com/cyfyifanchen",
     "org": false
   },
   {
@@ -5592,6 +5576,14 @@
     "org": false
   },
   {
+    "name": "Ryan Atkinson",
+    "login": "ryanatkn",
+    "avatar": "https://avatars.githubusercontent.com/u/2608646?u=32b1f459c78d3c3e670bc4c20122d6ce8eb07bf3&v=4",
+    "amount": -1,
+    "link": "https://github.com/ryanatkn",
+    "org": false
+  },
+  {
     "name": "爱听书的程序员阿超",
     "login": "a7e9bec00d1011ee9a795254001e7c00",
     "avatar": "https://pic1.afdiancdn.com/user/a7e9bec00d1011ee9a795254001e7c00/avatar/1c6524737e42dffc0752a230bf3d1f9a_w2000_h2000_s1968.jpeg",
@@ -7365,6 +7357,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/3911343?u=1c56387a4d67656ccd09ec1f5ca34b8396550e68&v=4",
     "amount": -1,
     "link": "https://github.com/stafyniaksacha",
+    "org": false
+  },
+  {
+    "name": "Darshak Parikh",
+    "login": "dar5hak",
+    "avatar": "https://avatars.githubusercontent.com/u/8205055?u=015f4ffe7a3db7e7d5950aed8ec238f3f41e1efd&v=4",
+    "amount": -1,
+    "link": "https://github.com/dar5hak",
     "org": false
   },
   {
