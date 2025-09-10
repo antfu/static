@@ -832,14 +832,6 @@
     "org": false
   },
   {
-    "name": "Konv Suu",
-    "login": "kovsu",
-    "avatar": "https://avatars.githubusercontent.com/u/82451257?u=ae453f14f2ad5b0c2347b321ea4f5d577567e5c4&v=4",
-    "amount": 5,
-    "link": "https://github.com/kovsu",
-    "org": false
-  },
-  {
     "name": "Roboflow",
     "login": "roboflow",
     "avatar": "https://avatars.githubusercontent.com/u/53104118?v=4",
@@ -1528,7 +1520,7 @@
     "org": false
   },
   {
-    "name": "Masaya Kazama",
+    "name": "miyaoka",
     "login": "miyaoka",
     "avatar": "https://avatars.githubusercontent.com/u/1443118?u=f6a578a21c6901332ab81d7529c1f5e7729d612c&v=4",
     "amount": 4,
@@ -1869,6 +1861,14 @@
     "avatar": "https://images.opencollective.com/xjccc/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/xjccc",
+    "org": false
+  },
+  {
+    "name": "Konv Suu",
+    "login": "kovsu",
+    "avatar": "https://avatars.githubusercontent.com/u/82451257?u=ae453f14f2ad5b0c2347b321ea4f5d577567e5c4&v=4",
+    "amount": -1,
+    "link": "https://github.com/kovsu",
     "org": false
   },
   {
