@@ -200,14 +200,6 @@
     "org": false
   },
   {
-    "name": "Alex Liu",
-    "login": "Mini-ghost",
-    "avatar": "https://avatars.githubusercontent.com/u/39984251?u=cd008ddcd78587687ca428956630e2093b92a6ed&v=4",
-    "amount": 20,
-    "link": "https://github.com/Mini-ghost",
-    "org": false
-  },
-  {
     "name": "Ulrich Stark",
     "login": "ulrichstark",
     "avatar": "https://avatars.githubusercontent.com/u/8657779?u=5cfc779c824faea1372da82157a469a581318f60&v=4",
@@ -1861,6 +1853,14 @@
     "avatar": "https://images.opencollective.com/xjccc/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/xjccc",
+    "org": false
+  },
+  {
+    "name": "Alex Liu",
+    "login": "Mini-ghost",
+    "avatar": "https://avatars.githubusercontent.com/u/39984251?u=cd008ddcd78587687ca428956630e2093b92a6ed&v=4",
+    "amount": -1,
+    "link": "https://github.com/Mini-ghost",
     "org": false
   },
   {
@@ -5384,7 +5384,7 @@
     "org": false
   },
   {
-    "name": "zaunist",
+    "name": "阿杰鲁",
     "login": "zaunist",
     "avatar": "https://avatars.githubusercontent.com/u/38528079?u=2f3f9658181f80523799ba93234ffd41f7ebf5ca&v=4",
     "amount": -1,
@@ -7202,7 +7202,7 @@
   {
     "name": "Germano Lira",
     "login": "germanolira",
-    "avatar": "https://avatars.githubusercontent.com/u/25235170?u=cb8864176f37e9778fe9a14af6669b53fbec2230&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/25235170?u=fe6278bbc2bd52cee4bcc155bb07802dc3dc950f&v=4",
     "amount": -1,
     "link": "https://github.com/germanolira",
     "org": false
