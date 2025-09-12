@@ -1784,14 +1784,6 @@
     "org": false
   },
   {
-    "name": "Raphaël Saunier",
-    "login": "raphaelsaunier",
-    "avatar": "https://avatars.githubusercontent.com/u/170256?u=9448bc4ce9813ffe43b5b90a0da70491ab7e8691&v=4",
-    "amount": 1,
-    "link": "https://github.com/raphaelsaunier",
-    "org": false
-  },
-  {
     "name": null,
     "login": "fratzinger",
     "avatar": "https://avatars.githubusercontent.com/u/22286818?u=a91967911b0aa7c8424c7fdabbd6acd1e37d4e0e&v=4",
@@ -2474,7 +2466,7 @@
   {
     "name": "Naoki Haba",
     "login": "naokihaba",
-    "avatar": "https://avatars.githubusercontent.com/u/59875779?u=700d3164a789c7808c4659cbfac8dda9e7497f8a&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/59875779?u=b9d0c3055cf69b54f327e3acee3fb3b72a8d0aed&v=4",
     "amount": -1,
     "link": "https://github.com/naokihaba",
     "org": false
@@ -3144,7 +3136,7 @@
     "org": false
   },
   {
-    "name": "Li Shunsheng",
+    "name": null,
     "login": "MahoushoujoMadoka",
     "avatar": "https://avatars.githubusercontent.com/u/33952584?u=5a0b5112837cac8942535d1d97e140bb1c9bcd64&v=4",
     "amount": -1,
@@ -7637,6 +7629,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/8807171?u=fed0b6998ab2c1e2654ebb26b428203f3270db82&v=4",
     "amount": -1,
     "link": "https://github.com/FallDownTheSystem",
+    "org": false
+  },
+  {
+    "name": "Raphaël Saunier",
+    "login": "raphaelsaunier",
+    "avatar": "https://avatars.githubusercontent.com/u/170256?u=9448bc4ce9813ffe43b5b90a0da70491ab7e8691&v=4",
+    "amount": -1,
+    "link": "https://github.com/raphaelsaunier",
     "org": false
   },
   {
