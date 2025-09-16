@@ -8,6 +8,14 @@
     "org": true
   },
   {
+    "name": "Microsoft",
+    "login": "microsoft",
+    "avatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
+    "amount": 2000,
+    "link": "https://github.com/microsoft",
+    "org": true
+  },
+  {
     "name": "VoidZero",
     "login": "voidzero-dev",
     "avatar": "https://avatars.githubusercontent.com/u/149750581?v=4",
@@ -800,14 +808,6 @@
     "org": false
   },
   {
-    "name": null,
-    "login": "silentwitch01",
-    "avatar": "https://avatars.githubusercontent.com/u/232192633?u=2267d821a310099aa98bd51fa291dbd870172957&v=4",
-    "amount": 5,
-    "link": "https://github.com/silentwitch01",
-    "org": false
-  },
-  {
     "name": "Roboflow",
     "login": "roboflow",
     "avatar": "https://avatars.githubusercontent.com/u/53104118?v=4",
@@ -1544,30 +1544,6 @@
     "org": false
   },
   {
-    "name": "Simão Gomes Viana",
-    "login": "xdevs23",
-    "avatar": "https://avatars.githubusercontent.com/u/6959245?u=3743f89c41baa1cff175c0ad33484533e0d05b02&v=4",
-    "amount": 1,
-    "link": "https://github.com/xdevs23",
-    "org": false
-  },
-  {
-    "name": "Myinstafollow - Buy Instagram Followers",
-    "login": "myinstafollow",
-    "avatar": "https://images.opencollective.com/myinstafollow/bce918d/avatar/460.png",
-    "amount": 1,
-    "link": "https://opencollective.com/myinstafollow",
-    "org": false
-  },
-  {
-    "name": "Brian Curliss",
-    "login": "BrianCurliss",
-    "avatar": "https://avatars.githubusercontent.com/u/1222949?v=4",
-    "amount": 1,
-    "link": "https://github.com/BrianCurliss",
-    "org": false
-  },
-  {
     "name": "Kanon",
     "login": "ysknsid25",
     "avatar": "https://avatars.githubusercontent.com/u/44870505?u=998b9394b6dda1c7f3e04c3a2998abdb494a8635&v=4",
@@ -1592,12 +1568,28 @@
     "org": false
   },
   {
+    "name": "Simão Gomes Viana",
+    "login": "xdevs23",
+    "avatar": "https://avatars.githubusercontent.com/u/6959245?u=3743f89c41baa1cff175c0ad33484533e0d05b02&v=4",
+    "amount": 1,
+    "link": "https://github.com/xdevs23",
+    "org": false
+  },
+  {
     "name": "Syntax",
     "login": "syntaxfm",
     "avatar": "https://avatars.githubusercontent.com/u/130389858?v=4",
     "amount": 1,
     "link": "https://github.com/syntaxfm",
     "org": true
+  },
+  {
+    "name": "Myinstafollow - Buy Instagram Followers",
+    "login": "myinstafollow",
+    "avatar": "https://images.opencollective.com/myinstafollow/bce918d/avatar/460.png",
+    "amount": 1,
+    "link": "https://opencollective.com/myinstafollow",
+    "org": false
   },
   {
     "name": "Cong Zhang",
@@ -2037,6 +2029,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/14214284?u=a32a6e4845249ac6af6e2efc3ba2e03e51b14326&v=4",
     "amount": -1,
     "link": "https://github.com/pglira",
+    "org": false
+  },
+  {
+    "name": "Brian Curliss",
+    "login": "BrianCurliss",
+    "avatar": "https://avatars.githubusercontent.com/u/1222949?v=4",
+    "amount": -1,
+    "link": "https://github.com/BrianCurliss",
     "org": false
   },
   {
