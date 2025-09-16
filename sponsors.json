@@ -1,10 +1,10 @@
 [
   {
-    "name": "NuxtLabs",
-    "login": "nuxtlabs",
-    "avatar": "https://avatars.githubusercontent.com/u/62017400?v=4",
+    "name": "Vercel",
+    "login": "vercel",
+    "avatar": "https://avatars.githubusercontent.com/u/14985020?s=200&v=4",
     "amount": 2000,
-    "link": "https://nuxtlabs.com",
+    "link": "https://vercel.com",
     "org": true
   },
   {
@@ -94,14 +94,6 @@
     "amount": 100,
     "link": "https://github.com/storyblok",
     "org": true
-  },
-  {
-    "name": "华丽",
-    "login": "6e9a280aa13111ebbc5152540025c377",
-    "avatar": "https://pic1.afdiancdn.com/user/6e9a280aa13111ebbc5152540025c377/avatar/7ea1f85c1335022384dae07a53e19934_w500_h500_s28.jpeg",
-    "amount": 92.3076923076923,
-    "link": "https://afdian.com/u/6e9a280aa13111ebbc5152540025c377",
-    "org": false
   },
   {
     "name": "patak",
@@ -1501,6 +1493,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/1443118?u=f6a578a21c6901332ab81d7529c1f5e7729d612c&v=4",
     "amount": 4,
     "link": "https://github.com/miyaoka",
+    "org": false
+  },
+  {
+    "name": "华丽",
+    "login": "6e9a280aa13111ebbc5152540025c377",
+    "avatar": "https://pic1.afdiancdn.com/user/6e9a280aa13111ebbc5152540025c377/avatar/7ea1f85c1335022384dae07a53e19934_w500_h500_s28.jpeg",
+    "amount": 3.8461538461538463,
+    "link": "https://afdian.com/u/6e9a280aa13111ebbc5152540025c377",
     "org": false
   },
   {
