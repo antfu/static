@@ -1010,7 +1010,7 @@
   {
     "name": "Alexander Opalic",
     "login": "alexanderop",
-    "avatar": "https://avatars.githubusercontent.com/u/33398393?u=3b615d7e298c0c637f67c0761d207fbaae57cef6&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/33398393?u=4f196b8d1fe8a4b8f709cca24a55751f3ad07135&v=4",
     "amount": 4,
     "link": "https://github.com/alexanderop",
     "org": false
@@ -1792,6 +1792,14 @@
     "org": false
   },
   {
+    "name": "Danny Slatkin",
+    "login": "dslatkin",
+    "avatar": "https://avatars.githubusercontent.com/u/9263640?u=2b68611f898ef14bd6847c2e87aaa76e20110d31&v=4",
+    "amount": 1,
+    "link": "https://github.com/dslatkin",
+    "org": false
+  },
+  {
     "name": "chengpeiquan",
     "login": "chengpeiquan",
     "avatar": "https://avatars.githubusercontent.com/u/24845958?u=ccd4c5e3ff2c1f9a2397857acd7cd91e44cd6cce&v=4",
@@ -1821,62 +1829,6 @@
     "avatar": "https://images.opencollective.com/xjccc/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/xjccc",
-    "org": false
-  },
-  {
-    "name": "MyInstaFollow – Real Social Growth",
-    "login": "myinstafollowcom",
-    "avatar": "https://images.opencollective.com/myinstafollowcom/98535b2/logo/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/myinstafollowcom",
-    "org": true
-  },
-  {
-    "name": "Logto",
-    "login": "logto",
-    "avatar": "https://images.opencollective.com/logto/0589181/avatar/460.png",
-    "amount": -1,
-    "link": "https://logto.io/?ref=antfu",
-    "org": false
-  },
-  {
-    "name": "Joenn",
-    "login": "joenn",
-    "avatar": "https://images.opencollective.com/joenn/c26116b/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/joenn",
-    "org": false
-  },
-  {
-    "name": "Jithin Sha",
-    "login": "jithin-sha",
-    "avatar": "https://images.opencollective.com/jithin-sha/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/jithin-sha",
-    "org": false
-  },
-  {
-    "name": "Stephen Zhou",
-    "login": "hyoban",
-    "avatar": "https://images.opencollective.com/hyoban/caf9e78/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/hyoban",
-    "org": false
-  },
-  {
-    "name": "Yuhei FUJITA",
-    "login": "fjt",
-    "avatar": "https://images.opencollective.com/fjt/3955659/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/fjt",
-    "org": false
-  },
-  {
-    "name": "David Pena",
-    "login": "david-pena1",
-    "avatar": "https://images.opencollective.com/david-pena1/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/david-pena1",
     "org": false
   },
   {
@@ -1997,6 +1949,62 @@
     "avatar": "https://images.opencollective.com/toyo-tomi/bbf9301/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/toyo-tomi",
+    "org": false
+  },
+  {
+    "name": "Wendong Xie",
+    "login": "windid",
+    "avatar": "https://avatars.githubusercontent.com/u/10072379?v=4",
+    "amount": -1,
+    "link": "https://github.com/windid",
+    "org": false
+  },
+  {
+    "name": "MyInstaFollow – Real Social Growth",
+    "login": "myinstafollowcom",
+    "avatar": "https://images.opencollective.com/myinstafollowcom/98535b2/logo/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/myinstafollowcom",
+    "org": true
+  },
+  {
+    "name": "Logto",
+    "login": "logto",
+    "avatar": "https://images.opencollective.com/logto/0589181/avatar/460.png",
+    "amount": -1,
+    "link": "https://logto.io/?ref=antfu",
+    "org": false
+  },
+  {
+    "name": "Joenn",
+    "login": "joenn",
+    "avatar": "https://images.opencollective.com/joenn/c26116b/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/joenn",
+    "org": false
+  },
+  {
+    "name": "Jithin Sha",
+    "login": "jithin-sha",
+    "avatar": "https://images.opencollective.com/jithin-sha/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/jithin-sha",
+    "org": false
+  },
+  {
+    "name": "Stephen Zhou",
+    "login": "hyoban",
+    "avatar": "https://images.opencollective.com/hyoban/caf9e78/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/hyoban",
+    "org": false
+  },
+  {
+    "name": "Yuhei FUJITA",
+    "login": "fjt",
+    "avatar": "https://images.opencollective.com/fjt/3955659/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/fjt",
     "org": false
   },
   {
@@ -2656,6 +2664,70 @@
     "org": false
   },
   {
+    "name": "Martin",
+    "login": "guest-14ba1af7",
+    "avatar": "https://images.opencollective.com/guest-14ba1af7/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/guest-14ba1af7",
+    "org": false
+  },
+  {
+    "name": "伍拾柒/Everly",
+    "login": "08d14cd41c9411ee834552540025c377",
+    "avatar": "https://pic1.afdiancdn.com/user/08d14cd41c9411ee834552540025c377/avatar/809af0a194691a246d0bb339f617a85c_w736_h736_s44.jpeg",
+    "amount": -1,
+    "link": "https://afdian.com/u/08d14cd41c9411ee834552540025c377",
+    "org": false
+  },
+  {
+    "name": "f7f20",
+    "login": "f7f205240e3011edb71152540025c377",
+    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-orange.png",
+    "amount": -1,
+    "link": "https://afdian.com/u/f7f205240e3011edb71152540025c377",
+    "org": false
+  },
+  {
+    "name": "ffgenius",
+    "login": "e0b86a340e1911efa1e75254001e7c00",
+    "avatar": "https://pic1.afdiancdn.com/user/e0b86a340e1911efa1e75254001e7c00/avatar/a6d19abedaddcfec0e2c8830282ef103_w471_h677_s75.jpeg",
+    "amount": -1,
+    "link": "https://afdian.com/u/e0b86a340e1911efa1e75254001e7c00",
+    "org": false
+  },
+  {
+    "name": "Ted Xu",
+    "login": "ted-xu",
+    "avatar": "https://images.opencollective.com/ted-xu/75fa2f9/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/ted-xu",
+    "org": false
+  },
+  {
+    "name": "Jure Topolak",
+    "login": "jure-topolak",
+    "avatar": "https://images.opencollective.com/jure-topolak/9b0deac/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/jure-topolak",
+    "org": false
+  },
+  {
+    "name": "Riri",
+    "login": "guest-c8742a0d",
+    "avatar": "https://images.opencollective.com/guest-c8742a0d/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/guest-c8742a0d",
+    "org": false
+  },
+  {
+    "name": "David Pena",
+    "login": "david-pena1",
+    "avatar": "https://images.opencollective.com/david-pena1/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/david-pena1",
+    "org": false
+  },
+  {
     "name": "Chuck",
     "login": "aiyogg",
     "avatar": "https://avatars.githubusercontent.com/u/15699954?u=a19d612753da0b83c19f65069ba3749d0799a8be&v=4",
@@ -2680,14 +2752,6 @@
     "org": false
   },
   {
-    "name": "Martin",
-    "login": "guest-14ba1af7",
-    "avatar": "https://images.opencollective.com/guest-14ba1af7/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/guest-14ba1af7",
-    "org": false
-  },
-  {
     "name": "Ray 🌿",
     "login": "rayc2045",
     "avatar": "https://avatars.githubusercontent.com/u/39514595?u=e3ebe3b9458c8c378a0e776d6e0edae0d212a819&v=4",
@@ -2704,35 +2768,11 @@
     "org": false
   },
   {
-    "name": "伍拾柒/Everly",
-    "login": "08d14cd41c9411ee834552540025c377",
-    "avatar": "https://pic1.afdiancdn.com/user/08d14cd41c9411ee834552540025c377/avatar/809af0a194691a246d0bb339f617a85c_w736_h736_s44.jpeg",
-    "amount": -1,
-    "link": "https://afdian.com/u/08d14cd41c9411ee834552540025c377",
-    "org": false
-  },
-  {
     "name": "Hakadao",
     "login": "hakadao",
     "avatar": "https://avatars.githubusercontent.com/u/33394391?u=27a0f44cf160301d3b7cc264e63c967535099bb1&v=4",
     "amount": -1,
     "link": "https://github.com/hakadao",
-    "org": false
-  },
-  {
-    "name": "f7f20",
-    "login": "f7f205240e3011edb71152540025c377",
-    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-orange.png",
-    "amount": -1,
-    "link": "https://afdian.com/u/f7f205240e3011edb71152540025c377",
-    "org": false
-  },
-  {
-    "name": "ffgenius",
-    "login": "e0b86a340e1911efa1e75254001e7c00",
-    "avatar": "https://pic1.afdiancdn.com/user/e0b86a340e1911efa1e75254001e7c00/avatar/a6d19abedaddcfec0e2c8830282ef103_w471_h677_s75.jpeg",
-    "amount": -1,
-    "link": "https://afdian.com/u/e0b86a340e1911efa1e75254001e7c00",
     "org": false
   },
   {
@@ -2789,30 +2829,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/36471625?u=69a6e5d7d2e82b1a7a5da278ebd6b251e3713776&v=4",
     "amount": -1,
     "link": "https://github.com/Liumingxun",
-    "org": false
-  },
-  {
-    "name": "Ted Xu",
-    "login": "ted-xu",
-    "avatar": "https://images.opencollective.com/ted-xu/75fa2f9/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/ted-xu",
-    "org": false
-  },
-  {
-    "name": "Jure Topolak",
-    "login": "jure-topolak",
-    "avatar": "https://images.opencollective.com/jure-topolak/9b0deac/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/jure-topolak",
-    "org": false
-  },
-  {
-    "name": "Riri",
-    "login": "guest-c8742a0d",
-    "avatar": "https://images.opencollective.com/guest-c8742a0d/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/guest-c8742a0d",
     "org": false
   },
   {
@@ -7296,14 +7312,6 @@
     "org": false
   },
   {
-    "name": "Wendong Xie",
-    "login": "windid",
-    "avatar": "https://avatars.githubusercontent.com/u/10072379?v=4",
-    "amount": -1,
-    "link": "https://github.com/windid",
-    "org": false
-  },
-  {
     "name": "Hüseyin Yalçın",
     "login": "heyimnitho",
     "avatar": "https://avatars.githubusercontent.com/u/60431344?u=fa97a17731ba06fc826892ba629478782fac24fe&v=4",
@@ -7488,11 +7496,11 @@
     "org": false
   },
   {
-    "name": "Narcis-Ionuț Bugeag",
-    "login": "leonardssh",
+    "name": "Narcis Bugeag",
+    "login": "narcisbugeag",
     "avatar": "https://avatars.githubusercontent.com/u/35312043?u=82f4a414fe0bfc563df12a320be29c6226c70558&v=4",
     "amount": -1,
-    "link": "https://github.com/leonardssh",
+    "link": "https://github.com/narcisbugeag",
     "org": false
   },
   {
