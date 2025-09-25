@@ -1008,6 +1008,14 @@
     "org": false
   },
   {
+    "name": "远方os",
+    "login": "Alfred-Skyblue",
+    "avatar": "https://avatars.githubusercontent.com/u/55641773?u=21dfe59e78a499fdc48efa7700863a99a7ec1227&v=4",
+    "amount": 4,
+    "link": "https://github.com/Alfred-Skyblue",
+    "org": false
+  },
+  {
     "name": "Sent.dm",
     "login": "sentdm",
     "avatar": "https://avatars.githubusercontent.com/u/153308555?v=4",
@@ -1981,14 +1989,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/34418758?u=e0005e359e25a3f7dcbbe326a7fc672f235cde12&v=4",
     "amount": -1,
     "link": "https://github.com/rick-hup",
-    "org": false
-  },
-  {
-    "name": "远方os",
-    "login": "Alfred-Skyblue",
-    "avatar": "https://avatars.githubusercontent.com/u/55641773?u=21dfe59e78a499fdc48efa7700863a99a7ec1227&v=4",
-    "amount": -1,
-    "link": "https://github.com/Alfred-Skyblue",
     "org": false
   },
   {
