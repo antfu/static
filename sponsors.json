@@ -1568,14 +1568,6 @@
     "org": false
   },
   {
-    "name": "Anthony Lu",
-    "login": "tonylu110",
-    "avatar": "https://avatars.githubusercontent.com/u/58923223?u=9c7cc26e27fbe5b426b4cab3eda7119b0f28ecf6&v=4",
-    "amount": 1,
-    "link": "https://github.com/tonylu110",
-    "org": false
-  },
-  {
     "name": "Kanon",
     "login": "ysknsid25",
     "avatar": "https://avatars.githubusercontent.com/u/44870505?u=998b9394b6dda1c7f3e04c3a2998abdb494a8635&v=4",
@@ -1957,6 +1949,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/59485585?u=b5ef749c1475af4a3c20f62560d9bfd5ef6c4320&v=4",
     "amount": -1,
     "link": "https://github.com/samikwangneo",
+    "org": false
+  },
+  {
+    "name": "Anthony Lu",
+    "login": "tonylu110",
+    "avatar": "https://avatars.githubusercontent.com/u/58923223?u=9c7cc26e27fbe5b426b4cab3eda7119b0f28ecf6&v=4",
+    "amount": -1,
+    "link": "https://github.com/tonylu110",
     "org": false
   },
   {
