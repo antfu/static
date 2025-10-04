@@ -944,6 +944,14 @@
     "org": false
   },
   {
+    "name": "Maiquu",
+    "login": "ege-iliklier",
+    "avatar": "https://images.opencollective.com/ege-iliklier/avatar/460.png",
+    "amount": 5,
+    "link": "https://opencollective.com/ege-iliklier",
+    "org": false
+  },
+  {
     "name": "BobbieGoede",
     "login": "bobbiegoede",
     "avatar": "https://images.opencollective.com/bobbiegoede/3d66468/avatar/460.png",
@@ -2253,14 +2261,6 @@
     "avatar": "https://images.opencollective.com/fjt/3955659/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/fjt",
-    "org": false
-  },
-  {
-    "name": "Maiquu",
-    "login": "ege-iliklier",
-    "avatar": "https://images.opencollective.com/ege-iliklier/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/ege-iliklier",
     "org": false
   },
   {
