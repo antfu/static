@@ -824,14 +824,6 @@
     "org": false
   },
   {
-    "name": "Jeremy",
-    "login": "guest-a24a4081",
-    "avatar": "https://images.opencollective.com/guest-a24a4081/avatar/460.png",
-    "amount": 5,
-    "link": "https://opencollective.com/guest-a24a4081",
-    "org": false
-  },
-  {
     "name": "ginlon",
     "login": "ginlon",
     "avatar": "https://images.opencollective.com/ginlon/cc49f54/avatar/460.png",
@@ -1824,12 +1816,12 @@
     "org": false
   },
   {
-    "name": "MyInstaFollow – Real Social Growth",
-    "login": "myinstafollowcom",
-    "avatar": "https://images.opencollective.com/myinstafollowcom/98535b2/logo/460.png",
+    "name": "Yuhei FUJITA",
+    "login": "fjt",
+    "avatar": "https://images.opencollective.com/fjt/3955659/avatar/460.png",
     "amount": -1,
-    "link": "https://opencollective.com/myinstafollowcom",
-    "org": true
+    "link": "https://opencollective.com/fjt",
+    "org": false
   },
   {
     "name": "8093d",
@@ -2264,6 +2256,14 @@
     "org": false
   },
   {
+    "name": "MyInstaFollow – Real Social Growth",
+    "login": "myinstafollowcom",
+    "avatar": "https://images.opencollective.com/myinstafollowcom/98535b2/logo/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/myinstafollowcom",
+    "org": true
+  },
+  {
     "name": "Myinstafollow - Buy Instagram Followers",
     "login": "myinstafollow",
     "avatar": "https://images.opencollective.com/myinstafollow/bce918d/avatar/460.png",
@@ -2392,19 +2392,19 @@
     "org": false
   },
   {
+    "name": "Jeremy",
+    "login": "jeremy29",
+    "avatar": "https://images.opencollective.com/jeremy29/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/jeremy29",
+    "org": false
+  },
+  {
     "name": "Stephen Zhou",
     "login": "hyoban",
     "avatar": "https://images.opencollective.com/hyoban/caf9e78/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/hyoban",
-    "org": false
-  },
-  {
-    "name": "Yuhei FUJITA",
-    "login": "fjt",
-    "avatar": "https://images.opencollective.com/fjt/3955659/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/fjt",
     "org": false
   },
   {
