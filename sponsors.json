@@ -1328,14 +1328,6 @@
     "org": false
   },
   {
-    "name": "Matan Kushner",
-    "login": "matchai",
-    "avatar": "https://avatars.githubusercontent.com/u/4658208?u=c28d73978ca28a4b4ef32dce61fc54561a9a4cd2&v=4",
-    "amount": 4,
-    "link": "https://github.com/matchai",
-    "org": false
-  },
-  {
     "name": "Yetrina Battad",
     "login": "yetti",
     "avatar": "https://avatars.githubusercontent.com/u/12688?u=42e2a0689d0f69bf8a031ce365f9ae412099925e&v=4",
@@ -5933,6 +5925,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/25886902?u=4a7e12c24816c686eb3e794338defb92ecf36dfe&v=4",
     "amount": -1,
     "link": "https://github.com/danielterwiel",
+    "org": false
+  },
+  {
+    "name": "Matan Kushner",
+    "login": "matchai",
+    "avatar": "https://avatars.githubusercontent.com/u/4658208?u=c28d73978ca28a4b4ef32dce61fc54561a9a4cd2&v=4",
+    "amount": -1,
+    "link": "https://github.com/matchai",
     "org": false
   },
   {
