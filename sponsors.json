@@ -1672,14 +1672,6 @@
     "org": false
   },
   {
-    "name": "Jake",
-    "login": "shadskii",
-    "avatar": "https://avatars.githubusercontent.com/u/7563237?u=836576253757fe47825c526d9ee7d360fa20334c&v=4",
-    "amount": 1,
-    "link": "https://github.com/shadskii",
-    "org": false
-  },
-  {
     "name": "Sean",
     "login": "seandlg",
     "avatar": "https://avatars.githubusercontent.com/u/16638561?u=8b2289c304219b30002d4f363a3f88d7f09f6767&v=4",
@@ -6117,6 +6109,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/16336606?u=a7b978637f9d4058fe4008bc50c9af8969311720&v=4",
     "amount": -1,
     "link": "https://github.com/frostming",
+    "org": false
+  },
+  {
+    "name": "Jake",
+    "login": "shadskii",
+    "avatar": "https://avatars.githubusercontent.com/u/7563237?u=836576253757fe47825c526d9ee7d360fa20334c&v=4",
+    "amount": -1,
+    "link": "https://github.com/shadskii",
     "org": false
   },
   {
