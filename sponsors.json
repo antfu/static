@@ -1104,7 +1104,7 @@
     "org": false
   },
   {
-    "name": "kagan",
+    "name": "Kishi Yoshimaru / kagan",
     "login": "kagankan",
     "avatar": "https://avatars.githubusercontent.com/u/34136752?u=4d75e5b7a3bd567567c340b60cd68e5b0612dfd1&v=4",
     "amount": 4,
@@ -1528,6 +1528,14 @@
     "org": false
   },
   {
+    "name": "Myinstafollow - Buy Instagram Followers",
+    "login": "myinstafollow",
+    "avatar": "https://images.opencollective.com/myinstafollow/bce918d/avatar/460.png",
+    "amount": 1,
+    "link": "https://opencollective.com/myinstafollow",
+    "org": false
+  },
+  {
     "name": "Moti ne tirane",
     "login": "moti-ne-tirane",
     "avatar": "https://images.opencollective.com/moti-ne-tirane/e4a606f/logo/460.png",
@@ -1814,14 +1822,6 @@
     "amount": -1,
     "link": "https://opencollective.com/myinstafollowcom",
     "org": true
-  },
-  {
-    "name": "Myinstafollow - Buy Instagram Followers",
-    "login": "myinstafollow",
-    "avatar": "https://images.opencollective.com/myinstafollow/bce918d/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/myinstafollow",
-    "org": false
   },
   {
     "name": "Logto",
