@@ -8,14 +8,6 @@
     "org": true
   },
   {
-    "name": "Microsoft",
-    "login": "microsoft",
-    "avatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
-    "amount": 2000,
-    "link": "https://github.com/microsoft",
-    "org": true
-  },
-  {
     "name": "VoidZero",
     "login": "voidzero-dev",
     "avatar": "https://avatars.githubusercontent.com/u/149750581?v=4",
@@ -1830,6 +1822,14 @@
     "amount": -1,
     "link": "https://afdian.com/u/8093d078a3ad11f0b1725254001e7c00",
     "org": false
+  },
+  {
+    "name": "Microsoft",
+    "login": "microsoft",
+    "avatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
+    "amount": -1,
+    "link": "https://github.com/microsoft",
+    "org": true
   },
   {
     "name": "intra-mart",
