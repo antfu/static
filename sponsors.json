@@ -88,19 +88,19 @@
     "org": true
   },
   {
-    "name": "patak",
-    "login": "patak-dev",
-    "avatar": "https://avatars.githubusercontent.com/u/583075?u=c2ea71ad847aecf66885e68d81a876fff1486bdd&v=4",
-    "amount": 79,
-    "link": "https://github.com/patak-dev",
-    "org": false
-  },
-  {
     "name": "Corey Quinn",
     "login": "quinnypig",
     "avatar": "https://avatars.githubusercontent.com/u/489170?u=a2ee879f711dd019077ec9a524a516589c9ab34a&v=4",
     "amount": 64,
     "link": "https://github.com/quinnypig",
+    "org": false
+  },
+  {
+    "name": "patak",
+    "login": "patak-dev",
+    "avatar": "https://avatars.githubusercontent.com/u/583075?u=c2ea71ad847aecf66885e68d81a876fff1486bdd&v=4",
+    "amount": 64,
+    "link": "https://github.com/patak-dev",
     "org": false
   },
   {
@@ -1338,7 +1338,7 @@
   {
     "name": "沈青川",
     "login": "ShenQingchuan",
-    "avatar": "https://avatars.githubusercontent.com/u/46062972?u=dc4bc666aac424a8f0153e1845bdef901ae5dc48&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/46062972?u=a2c14cedc05941581eb14b15d1e022216d5d2db2&v=4",
     "amount": 4,
     "link": "https://github.com/ShenQingchuan",
     "org": false
@@ -2386,7 +2386,7 @@
   {
     "name": "Artem",
     "login": "banesbyte",
-    "avatar": "https://avatars.githubusercontent.com/u/1685371?u=085fe846ae84fbc372a298728ee68f5761270fbd&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/1685371?u=03d20dc5f0b9280392cb9c539ac71064fefc10a8&v=4",
     "amount": -1,
     "link": "https://github.com/banesbyte",
     "org": false
@@ -7570,7 +7570,7 @@
   {
     "name": "Jiawen Geng",
     "login": "gengjiawen",
-    "avatar": "https://avatars.githubusercontent.com/u/3759816?v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/3759816?u=08d4f9b09b0261795196497af862f85051a533e7&v=4",
     "amount": -1,
     "link": "https://github.com/gengjiawen",
     "org": false
