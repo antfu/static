@@ -776,14 +776,6 @@
     "org": false
   },
   {
-    "name": "Zoran Pesic",
-    "login": "zokioki",
-    "avatar": "https://avatars.githubusercontent.com/u/5072525?u=d5ae4b27f4e44e88cb3ce0238972d2153de600ff&v=4",
-    "amount": 5,
-    "link": "https://github.com/zokioki",
-    "org": false
-  },
-  {
     "name": "Yann Bertrand",
     "login": "yannbertrand",
     "avatar": "https://images.opencollective.com/yannbertrand/8aba1d8/avatar/460.png",
@@ -1837,6 +1829,14 @@
     "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/",
     "amount": -1,
     "link": "https://afdian.com/u/8093d078a3ad11f0b1725254001e7c00",
+    "org": false
+  },
+  {
+    "name": "Zoran Pesic",
+    "login": "zokioki",
+    "avatar": "https://avatars.githubusercontent.com/u/5072525?u=d5ae4b27f4e44e88cb3ce0238972d2153de600ff&v=4",
+    "amount": -1,
+    "link": "https://github.com/zokioki",
     "org": false
   },
   {
@@ -6602,7 +6602,7 @@
   {
     "name": "Marc Backes",
     "login": "themarcba",
-    "avatar": "https://avatars.githubusercontent.com/u/1444915?u=63e3e06b1fb393ac9489ed639faab4350d0459e8&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/1444915?u=0466988bb19cd8d459f33b50b5ff9c48177ddd17&v=4",
     "amount": -1,
     "link": "https://github.com/themarcba",
     "org": false
@@ -8082,7 +8082,7 @@
   {
     "name": "Mike Kidder",
     "login": "mikekidder",
-    "avatar": "https://avatars.githubusercontent.com/u/41694?u=540a6523edec84a4842bd2c8067456164b988c35&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/41694?u=b0faedce3477c9334330f46508c912164130604a&v=4",
     "amount": -1,
     "link": "https://github.com/mikekidder",
     "org": false
