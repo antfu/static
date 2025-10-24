@@ -360,14 +360,6 @@
     "org": false
   },
   {
-    "name": "David",
-    "login": "Davphla",
-    "avatar": "https://avatars.githubusercontent.com/u/60177543?u=588ea7ec8dad50180471b13a3826d2906544cebe&v=4",
-    "amount": 10,
-    "link": "https://github.com/Davphla",
-    "org": false
-  },
-  {
     "name": "tecvan",
     "login": "Tecvan-fe",
     "avatar": "https://avatars.githubusercontent.com/u/84165678?u=2b374b65f303aea7ba1183f41eb28a876950958e&v=4",
@@ -1877,6 +1869,14 @@
     "avatar": "https://images.opencollective.com/logto/0589181/avatar/460.png",
     "amount": -1,
     "link": "https://logto.io/?ref=antfu",
+    "org": false
+  },
+  {
+    "name": "David",
+    "login": "Davphla",
+    "avatar": "https://avatars.githubusercontent.com/u/60177543?u=588ea7ec8dad50180471b13a3826d2906544cebe&v=4",
+    "amount": -1,
+    "link": "https://github.com/Davphla",
     "org": false
   },
   {
