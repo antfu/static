@@ -952,14 +952,6 @@
     "org": false
   },
   {
-    "name": "dalaoshu",
-    "login": "shulaoda",
-    "avatar": "https://avatars.githubusercontent.com/u/165626830?u=5d68a263bf65224140e54ed2b971731d90b94a12&v=4",
-    "amount": 4,
-    "link": "https://github.com/shulaoda",
-    "org": false
-  },
-  {
     "name": "Bean Deng 邓斌",
     "login": "HADB",
     "avatar": "https://avatars.githubusercontent.com/u/1836701?u=95522e0834d8a61e9516c753b6878186f313176b&v=4",
@@ -1829,6 +1821,14 @@
     "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/",
     "amount": -1,
     "link": "https://afdian.com/u/8093d078a3ad11f0b1725254001e7c00",
+    "org": false
+  },
+  {
+    "name": "dalaoshu",
+    "login": "shulaoda",
+    "avatar": "https://avatars.githubusercontent.com/u/165626830?u=5d68a263bf65224140e54ed2b971731d90b94a12&v=4",
+    "amount": -1,
+    "link": "https://github.com/shulaoda",
     "org": false
   },
   {
