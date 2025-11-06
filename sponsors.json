@@ -760,6 +760,14 @@
     "org": false
   },
   {
+    "name": "Armand",
+    "login": "tishutox",
+    "avatar": "https://avatars.githubusercontent.com/u/173721284?u=5993e5315e99a6cc28440cb306198fbecb9d5203&v=4",
+    "amount": 5,
+    "link": "https://github.com/tishutox",
+    "org": false
+  },
+  {
     "name": "Roboflow",
     "login": "roboflow",
     "avatar": "https://avatars.githubusercontent.com/u/53104118?v=4",
@@ -1586,7 +1594,7 @@
   {
     "name": "Marcel Gundermann",
     "login": "marcelgundermann",
-    "avatar": "https://avatars.githubusercontent.com/u/26166998?u=3fc245a65d7f5458ef1ecd45aa4ff36b39ab1344&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/26166998?u=ad5167ee77bb8c510359fb471ad9b1f35680a114&v=4",
     "amount": 1,
     "link": "https://github.com/marcelgundermann",
     "org": false
@@ -1784,27 +1792,11 @@
     "org": true
   },
   {
-    "name": "Toyo Tomi",
-    "login": "toyo-tomi",
-    "avatar": "https://images.opencollective.com/toyo-tomi/bbf9301/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/toyo-tomi",
-    "org": false
-  },
-  {
     "name": "Ted Xu",
     "login": "ted-xu",
     "avatar": "https://images.opencollective.com/ted-xu/75fa2f9/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/ted-xu",
-    "org": false
-  },
-  {
-    "name": "Stefano Faieta",
-    "login": "stefanofa",
-    "avatar": "https://avatars.githubusercontent.com/u/9802152?u=fd2a34b71ec1d1d8720cb7f93b383ec4fb768513&v=4",
-    "amount": -1,
-    "link": "https://github.com/stefanofa",
     "org": false
   },
   {
@@ -1814,38 +1806,6 @@
     "amount": -1,
     "link": "https://opencollective.com/other-payment-processor-vendor",
     "org": true
-  },
-  {
-    "name": "Olivier",
-    "login": "olivier13",
-    "avatar": "https://images.opencollective.com/olivier13/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/olivier13",
-    "org": false
-  },
-  {
-    "name": "MyInstaFollow – Real Social Growth",
-    "login": "myinstafollowcom",
-    "avatar": "https://images.opencollective.com/myinstafollowcom/98535b2/logo/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/myinstafollowcom",
-    "org": true
-  },
-  {
-    "name": "Myinstafollow - Buy Instagram Followers",
-    "login": "myinstafollow",
-    "avatar": "https://images.opencollective.com/myinstafollow/bce918d/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/myinstafollow",
-    "org": false
-  },
-  {
-    "name": "Logto",
-    "login": "logto",
-    "avatar": "https://images.opencollective.com/logto/0589181/avatar/460.png",
-    "amount": -1,
-    "link": "https://logto.io/?ref=antfu",
-    "org": false
   },
   {
     "name": "Jure Topolak",
@@ -1912,14 +1872,6 @@
     "org": false
   },
   {
-    "name": "Microsoft",
-    "login": "microsoft",
-    "avatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
-    "amount": -1,
-    "link": "https://github.com/microsoft",
-    "org": true
-  },
-  {
     "name": "cc1eb",
     "login": "cc1eb840826611f0b11c52540025c377",
     "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/",
@@ -1936,11 +1888,123 @@
     "org": false
   },
   {
+    "name": "Toyo Tomi",
+    "login": "toyo-tomi",
+    "avatar": "https://images.opencollective.com/toyo-tomi/bbf9301/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/toyo-tomi",
+    "org": false
+  },
+  {
+    "name": "Ayo",
+    "login": "ayoayco",
+    "avatar": "https://images.opencollective.com/ayoayco/fda456b/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/ayoayco",
+    "org": false
+  },
+  {
+    "name": "Stefano Faieta",
+    "login": "stefanofa",
+    "avatar": "https://avatars.githubusercontent.com/u/9802152?u=fd2a34b71ec1d1d8720cb7f93b383ec4fb768513&v=4",
+    "amount": -1,
+    "link": "https://github.com/stefanofa",
+    "org": false
+  },
+  {
+    "name": "Olivier",
+    "login": "olivier13",
+    "avatar": "https://images.opencollective.com/olivier13/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/olivier13",
+    "org": false
+  },
+  {
+    "name": "MyInstaFollow – Real Social Growth",
+    "login": "myinstafollowcom",
+    "avatar": "https://images.opencollective.com/myinstafollowcom/98535b2/logo/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/myinstafollowcom",
+    "org": true
+  },
+  {
+    "name": "Myinstafollow - Buy Instagram Followers",
+    "login": "myinstafollow",
+    "avatar": "https://images.opencollective.com/myinstafollow/bce918d/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/myinstafollow",
+    "org": false
+  },
+  {
+    "name": "Microsoft",
+    "login": "microsoft",
+    "avatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
+    "amount": -1,
+    "link": "https://github.com/microsoft",
+    "org": true
+  },
+  {
     "name": "Jeremy",
     "login": "jeremy29",
     "avatar": "https://images.opencollective.com/jeremy29/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/jeremy29",
+    "org": false
+  },
+  {
+    "name": null,
+    "login": "jackblordbest",
+    "avatar": "https://avatars.githubusercontent.com/u/9845585?v=4",
+    "amount": -1,
+    "link": "https://github.com/jackblordbest",
+    "org": false
+  },
+  {
+    "name": "Mehari",
+    "login": "m3hari",
+    "avatar": "https://avatars.githubusercontent.com/u/9920926?v=4",
+    "amount": -1,
+    "link": "https://github.com/m3hari",
+    "org": false
+  },
+  {
+    "name": "Kimiaki Kuno",
+    "login": "knokmki612",
+    "avatar": "https://avatars.githubusercontent.com/u/9744580?u=0eb64eaff3cdab67ee054248f93150c0b90e5fc0&v=4",
+    "amount": -1,
+    "link": "https://github.com/knokmki612",
+    "org": false
+  },
+  {
+    "name": "Daiki Ojima",
+    "login": "daikiojm",
+    "avatar": "https://avatars.githubusercontent.com/u/10055293?u=1d1491fc3c27e10e93cc364ee0556a3b768c29b2&v=4",
+    "amount": -1,
+    "link": "https://github.com/daikiojm",
+    "org": false
+  },
+  {
+    "name": "Wendong Xie",
+    "login": "windid",
+    "avatar": "https://avatars.githubusercontent.com/u/10072379?v=4",
+    "amount": -1,
+    "link": "https://github.com/windid",
+    "org": false
+  },
+  {
+    "name": "Shunji Lin",
+    "login": "shunjilin",
+    "avatar": "https://avatars.githubusercontent.com/u/10043695?u=a82299c67c5b13855d7ea972420180e37d3c4029&v=4",
+    "amount": -1,
+    "link": "https://github.com/shunjilin",
+    "org": false
+  },
+  {
+    "name": "Logto",
+    "login": "logto",
+    "avatar": "https://images.opencollective.com/logto/0589181/avatar/460.png",
+    "amount": -1,
+    "link": "https://logto.io/?ref=antfu",
     "org": false
   },
   {
@@ -2296,14 +2360,6 @@
     "org": false
   },
   {
-    "name": "Ayo",
-    "login": "ayoayco",
-    "avatar": "https://images.opencollective.com/ayoayco/fda456b/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/ayoayco",
-    "org": false
-  },
-  {
     "name": "Nelson Lai",
     "login": "nelsonlaidev",
     "avatar": "https://avatars.githubusercontent.com/u/75498339?u=2fc0e0b95dd184c5ffb744df977cb15a18b60672&v=4",
@@ -2480,43 +2536,11 @@
     "org": false
   },
   {
-    "name": "2bd76",
-    "login": "2bd76e087b3d11efbac552540025c377",
-    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/",
-    "amount": -1,
-    "link": "https://afdian.com/u/2bd76e087b3d11efbac552540025c377",
-    "org": false
-  },
-  {
     "name": "Kodify Media Group",
     "login": "kodify-media-group",
     "avatar": "https://images.opencollective.com/kodify-media-group/b109fa7/logo/460.png",
     "amount": -1,
     "link": "https://opencollective.com/kodify-media-group",
-    "org": true
-  },
-  {
-    "name": "Anton P",
-    "login": "whitebyte",
-    "avatar": "https://avatars.githubusercontent.com/u/7704186?u=39b1c2ad60d35edcbf3e19a561d07248fedabd8c&v=4",
-    "amount": -1,
-    "link": "https://github.com/whitebyte",
-    "org": false
-  },
-  {
-    "name": "Kuba Jastrzębski",
-    "login": "KubaJastrz",
-    "avatar": "https://avatars.githubusercontent.com/u/6443113?u=b1e3f71c98cfe9553b4928b87cc0623bffc5c7b4&v=4",
-    "amount": -1,
-    "link": "https://github.com/KubaJastrz",
-    "org": false
-  },
-  {
-    "name": "National Speech & Debate Association",
-    "login": "speechanddebate",
-    "avatar": "https://avatars.githubusercontent.com/u/11318248?v=4",
-    "amount": -1,
-    "link": "https://github.com/speechanddebate",
     "org": true
   },
   {
@@ -2533,54 +2557,6 @@
     "avatar": "https://images.opencollective.com/guest-14ba1af7/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/guest-14ba1af7",
-    "org": false
-  },
-  {
-    "name": null,
-    "login": "jackblordbest",
-    "avatar": "https://avatars.githubusercontent.com/u/9845585?v=4",
-    "amount": -1,
-    "link": "https://github.com/jackblordbest",
-    "org": false
-  },
-  {
-    "name": "Mehari",
-    "login": "m3hari",
-    "avatar": "https://avatars.githubusercontent.com/u/9920926?v=4",
-    "amount": -1,
-    "link": "https://github.com/m3hari",
-    "org": false
-  },
-  {
-    "name": "Kimiaki Kuno",
-    "login": "knokmki612",
-    "avatar": "https://avatars.githubusercontent.com/u/9744580?u=0eb64eaff3cdab67ee054248f93150c0b90e5fc0&v=4",
-    "amount": -1,
-    "link": "https://github.com/knokmki612",
-    "org": false
-  },
-  {
-    "name": "Daiki Ojima",
-    "login": "daikiojm",
-    "avatar": "https://avatars.githubusercontent.com/u/10055293?u=1d1491fc3c27e10e93cc364ee0556a3b768c29b2&v=4",
-    "amount": -1,
-    "link": "https://github.com/daikiojm",
-    "org": false
-  },
-  {
-    "name": "Wendong Xie",
-    "login": "windid",
-    "avatar": "https://avatars.githubusercontent.com/u/10072379?v=4",
-    "amount": -1,
-    "link": "https://github.com/windid",
-    "org": false
-  },
-  {
-    "name": "Shunji Lin",
-    "login": "shunjilin",
-    "avatar": "https://avatars.githubusercontent.com/u/10043695?u=a82299c67c5b13855d7ea972420180e37d3c4029&v=4",
-    "amount": -1,
-    "link": "https://github.com/shunjilin",
     "org": false
   },
   {
@@ -2640,11 +2616,35 @@
     "org": false
   },
   {
+    "name": "2bd76",
+    "login": "2bd76e087b3d11efbac552540025c377",
+    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/",
+    "amount": -1,
+    "link": "https://afdian.com/u/2bd76e087b3d11efbac552540025c377",
+    "org": false
+  },
+  {
     "name": null,
     "login": "Jutipong",
     "avatar": "https://avatars.githubusercontent.com/u/24461402?u=a45c594ab1c09cd85f8be3aa07c93ee55c8a74f1&v=4",
     "amount": -1,
     "link": "https://github.com/Jutipong",
+    "org": false
+  },
+  {
+    "name": "Anton P",
+    "login": "whitebyte",
+    "avatar": "https://avatars.githubusercontent.com/u/7704186?u=39b1c2ad60d35edcbf3e19a561d07248fedabd8c&v=4",
+    "amount": -1,
+    "link": "https://github.com/whitebyte",
+    "org": false
+  },
+  {
+    "name": "Kuba Jastrzębski",
+    "login": "KubaJastrz",
+    "avatar": "https://avatars.githubusercontent.com/u/6443113?u=b1e3f71c98cfe9553b4928b87cc0623bffc5c7b4&v=4",
+    "amount": -1,
+    "link": "https://github.com/KubaJastrz",
     "org": false
   },
   {
@@ -2678,6 +2678,14 @@
     "amount": -1,
     "link": "https://github.com/withxat",
     "org": false
+  },
+  {
+    "name": "National Speech & Debate Association",
+    "login": "speechanddebate",
+    "avatar": "https://avatars.githubusercontent.com/u/11318248?v=4",
+    "amount": -1,
+    "link": "https://github.com/speechanddebate",
+    "org": true
   },
   {
     "name": "bqh",
@@ -7850,7 +7858,7 @@
   {
     "name": "Serhii Bedrytskyi",
     "login": "bdrtsky",
-    "avatar": "https://avatars.githubusercontent.com/u/45076741?u=3a58c8006fa6698af1d1ecfa7ed2410eb2f55101&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/45076741?u=e61b21a7d5dfe211d34452ca951d70660d282e94&v=4",
     "amount": -1,
     "link": "https://github.com/bdrtsky",
     "org": false
