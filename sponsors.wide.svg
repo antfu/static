@@ -1239,10 +1239,10 @@ text {
 </a>
 <a href="https://innocenzi.dev" class="sponsorkit-link" target="_blank" id="innocenzi">
   
-  <clipPath id="ca0c811">
+  <clipPath id="ce82986">
     <rect x="1262.5" y="980" width="35" height="35" rx="17.5" ry="17.5" />
   </clipPath>
-  <image x="1262.5" y="980" width="35" height="35" href="data:image/webp;base64,UklGRkQDAABXRUJQVlA4IDgDAADwDwCdASoyADIAPm0wkkckIqGhKBgN+IANiUAYzoU/R7hrgFu9M2ExDJf4EZd/CXThTT/KfH0Bni/2fYpeoz84E8QJLf/kVrH+8Ek8ctMMEzUGd+7KbcdoIXJylVMZugNssNYFatXktbls4je9JLMPFIds9XfmRL/abyTJaDi1UoBrfg+rSOLgAP783WWUWfWrPvNPwXFxJyPhW38wqw4n0X9xfwYck8QZCqnHXh8L6RinLKj9tv9tBTtMcT8pVBGWpYAqZ4tc69Jzpo2Kn5dMVH17UktC/cP7L+CECM7AI/65zRXahKg2zAkF/R6644qeQ3Klxk8iRzCeLTzYLeFrDtRdMb/RqIj9frg/jx+a0F7o/EPDg7yMUf3rEzBr+aJN60Lky1xLm8ftN9H4tA5EVeYnszP0x6MAej7mScl3ryGDufghiBxRFzrmwkHifX660oOdrtN7AisLXySiROJ0i3GJzBBacQiNIl8QYYH263TtPV2qREhzF9jIQJA/uVVR4Uug+bTS6tAEySMhqqlMa0GBVbUqi7sN1v2SpBWAEM9I+a/YG9fi6ZamMYinr1pV08LAZKTLPvSRb13666xIaKwJiEuSL5jgG/8OrRiRkj6QcwPK8xjY5Qhcbh0RjfiAV72IA1Q89rpXQDxpo2Xih40m3GMlxx9zCNvmYTrwQV2XWEyAo5uQaz/LYXLpvfvjRwm8AgVcNzzlj/XWiVmRnVNhqZWBxJKWs/6iZ1VtaMZWxKRi/FFzkRzP4aPKzVMKlxnK8608XP+wf/ZGCRAwGJs/+2b/41+Rcm0tv1OUDC1swscSsHuY2BJFc4vD5E+SsBe2Ud+Xuu+9dFRSJtsg2Kg+4PvNCl6A7P6GTDtD8IW5nz0JMvebZGRL2AhSWGzGgwcqi2YOsEZZ+D1x5Ou6uk6MNIZdQwB3p6l6AgJzJaS6tDCVTq8J2zTbJR8MhVpQwNkwMFQjUDVLup2Vimwm5u17KwoN5Nh0DT+6bUY0HtnUiGeacO0c8YZjvDoAAx5BotePyohU5bBVbkrjcjB9CYZyoSZQwlImJG6NzunRYGMOzEmWmoEx99O5ZlA65UDk8kiDa9gAAA==" clip-path="url(#ca0c811)"/>
+  <image x="1262.5" y="980" width="35" height="35" href="data:image/webp;base64,UklGRmIDAABXRUJQVlA4IFYDAABwDwCdASoyADIAPm0qkEWkIiGY/HUkQAbEoAp02N015vZp5JEyIj/L7p4M1yLWS5uWzpxWjN48Gax9o+XbigtQyYjb90C2q4wDYi5mDAFLFc4qW5o7+Qk3eh52o+cgDo8mbe7c5hU79WI4Bfh0cgmrVV8/ZlsyajB24U8H8k99f1yvgyAA/sp92PlxQrXOgx6jmf4t1M7ZCn51f/YBoe9cMR62bd3I81nl5qbOZfBCsI7aRpC25Y9BVz4VnDv1f8oY4Fxs8ttqi8FmUa2fSTuPwtbIAo7DaR/Js039dfIr9LrDK8uK+DvxXZk+CxQ6OY1fKjA0rrXcfrZ24mDkq37rzUs5M7RVhpEC/ST73GXj/hCqVd8aEKDWulqMubyxVa53mtN365tvK2YiJpxWB30Z3dSzSKvhe80rZYOJC/VWI21/EUV878+jdBlwAN0BUs5RbLOwnhk+0EzOxgPvBEJpOA1BiiA0KHjTfIZkAHuVl4Aps9m/1Rd+p//w+xCWLaChRPdFqen4tiWewcG7HrW1OP/09xWluLuPHd1+iTGsGZ0awwPKgKcceadO1+KmlNonUmfk8ufGNCOhsbZnA2/x5u0MPOaP/cXKtWLDQWgUwC4QF2nRlqReyCFo+cfVUHmTsT2tox4iyVPuKwvMBE5g/jqRG2a7nUkfeorFmWw5GOxnKp4IL3UlBu/8d7DLMaedqeiGZB+BY0LYIezjAIDwtJMfLa/HK/QBK6wA4HlIz2H+J3UDCjCuQLM4piblBd/3UYZhYPvc4U5HOatSBhKy3GWXS68r9I6vFdIG6eWPejc1GBPkv8bXcbM9+f7pEOhOFpajTJ5czZJKWUqlMpO4f37HPhJ1pLAH85X8z5+6QXLEM1LI4IK5R3uprL9jTriEu9BfIju76otCz1NcMJcQHeTe0gwBC19QdZeKWGGKv8B+srYT+gulyZTIAOLv8ckeP1nbiFBjN/a5fEYHyHBKO5Qjmq6Z9SNWDTuaD8A0P9pqccA+1EK1fdu06NbgpRr92kGBuVHNTZX0q4ehhdtAd6te3LD10YmeqrOmxDgEN/eu5hfgOE5DRbkpWdlaVGV7ZssZDVidcZlB9idQfi9p+kofywoB6nKInuiSdn1zQ5051UjAAA==" clip-path="url(#ce82986)"/>
 </a>
 <a href="https://ddiu.io" class="sponsorkit-link" target="_blank" id="ddiu8081">
   
@@ -6309,7 +6309,7 @@ text {
   </clipPath>
   <image x="1165" y="1287" width="20" height="20" href="data:image/webp;base64,UklGRjIBAABXRUJQVlA4ICYBAABQBwCdASoyADIAPm02lkikIqIhIgoggA2JaQAMx3nAMY9NqvGh877+YZ5OLy3jslOUrFJ97rRXGysXdXhuDiK+fqegAP75vfmZdjdGzku5lYw+PF+Xz/0V/YGt6j/tz/3UL6MLXvT/3q/+TVbTD5Mt9xSzUpyPf+6P6eRn4XkyJWfvsVn89/nEz1A5v3oOzz5HqrkGwMowObZKDhA0EGByumpERdH/iQEJTMLtKL/mwDg75/IkQAQLccecW21+js62dvCOV7EsU2msLXssaknizl5R4jyR78fbrKENqGv8gfu6gV1azhTr/6PL9osGXRdlMMXxVdi9NTWzH8P/qnx79DWLB2IZTXO2nCllobELv/68ANP8pcp5/x7AjBJIF04CQAAAAAA=" clip-path="url(#ce61444)"/>
 </a>
-<a href="https://holyfata.me" class="sponsorkit-link" target="_blank" id="holyfata">
+<a href="https://github.com/holyfata" class="sponsorkit-link" target="_blank" id="holyfata">
   
   <clipPath id="c45d94c">
     <rect x="1187" y="1287" width="20" height="20" rx="10" ry="10" />
