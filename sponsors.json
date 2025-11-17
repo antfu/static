@@ -1512,14 +1512,6 @@
     "org": false
   },
   {
-    "name": null,
-    "login": "VampireNightXX",
-    "avatar": "https://avatars.githubusercontent.com/u/68313965?v=4",
-    "amount": 1,
-    "link": "https://github.com/VampireNightXX",
-    "org": false
-  },
-  {
     "name": "Moti ne tirane",
     "login": "moti-ne-tirane",
     "avatar": "https://images.opencollective.com/moti-ne-tirane/e4a606f/logo/460.png",
@@ -1814,6 +1806,14 @@
     "amount": -1,
     "link": "https://opencollective.com/wenyan-lang",
     "org": true
+  },
+  {
+    "name": null,
+    "login": "VampireNightXX",
+    "avatar": "https://avatars.githubusercontent.com/u/68313965?v=4",
+    "amount": -1,
+    "link": "https://github.com/VampireNightXX",
+    "org": false
   },
   {
     "name": "8093d",
