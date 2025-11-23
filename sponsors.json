@@ -1144,14 +1144,6 @@
     "org": false
   },
   {
-    "name": "Simo Mafuxwana",
-    "login": "dlodeprojuicer",
-    "avatar": "https://avatars.githubusercontent.com/u/2291356?u=60a1933a9944d71778248967f5f197b808615f51&v=4",
-    "amount": 4,
-    "link": "https://github.com/dlodeprojuicer",
-    "org": false
-  },
-  {
     "name": "Cyole",
     "login": "cyole",
     "avatar": "https://avatars.githubusercontent.com/u/44540278?u=ab774fdb8c55ab8ee509ce536d99ec5ef890cc95&v=4",
@@ -2754,7 +2746,7 @@
   {
     "name": "Naoki Haba",
     "login": "naokihaba",
-    "avatar": "https://avatars.githubusercontent.com/u/59875779?u=864bb363d77cd71c5afe7a9334eb75ff0e6cd7a3&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/59875779?u=3ba6c7bb3ccaf6512b6e63dca0d66dbc00ab663d&v=4",
     "amount": -1,
     "link": "https://github.com/naokihaba",
     "org": false
@@ -3333,6 +3325,14 @@
     "avatar": "https://pic1.afdiancdn.com/user/93f687fc97f011ee80375254001e7c00/avatar/77e77acef5bffaf4ba2ec1091507f86c_w256_h256_s4.png",
     "amount": -1,
     "link": "https://afdian.com/u/93f687fc97f011ee80375254001e7c00",
+    "org": false
+  },
+  {
+    "name": "Simo Mafuxwana",
+    "login": "dlodeprojuicer",
+    "avatar": "https://avatars.githubusercontent.com/u/2291356?u=60a1933a9944d71778248967f5f197b808615f51&v=4",
+    "amount": -1,
+    "link": "https://github.com/dlodeprojuicer",
     "org": false
   },
   {
