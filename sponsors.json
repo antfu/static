@@ -152,14 +152,6 @@
     "org": false
   },
   {
-    "name": "Bertrand Yuan",
-    "login": "bertyuan",
-    "avatar": "https://avatars.githubusercontent.com/u/189593334?u=a1ffc49e133c2ecc8d4f84bc703c72e8637d7d63&v=4",
-    "amount": 20,
-    "link": "https://github.com/bertyuan",
-    "org": false
-  },
-  {
     "name": "Ulrich Stark",
     "login": "ulrichstark",
     "avatar": "https://avatars.githubusercontent.com/u/8657779?u=5cfc779c824faea1372da82157a469a581318f60&v=4",
@@ -448,14 +440,6 @@
     "org": false
   },
   {
-    "name": "Arthur Darkstone",
-    "login": "ArthurDarkstone",
-    "avatar": "https://avatars.githubusercontent.com/u/34020340?u=d0a0c81b191571902ee9f07d40954df549843a16&v=4",
-    "amount": 8,
-    "link": "https://github.com/ArthurDarkstone",
-    "org": false
-  },
-  {
     "name": "MOMA",
     "login": "lxqmoma",
     "avatar": "https://avatars.githubusercontent.com/u/40649097?u=a829555532bdceb82514cc8c4a2966a36d37524a&v=4",
@@ -514,7 +498,7 @@
   {
     "name": "Lukas Wydra",
     "login": "lwydra",
-    "avatar": "https://avatars.githubusercontent.com/u/31655006?v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/31655006?u=42340f5db692733fc8cad443e878597276ed891b&v=4",
     "amount": 8,
     "link": "https://github.com/lwydra",
     "org": false
@@ -661,14 +645,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/2770528?u=5f24a34b5dbb7c2f181f054811a9fc655868c399&v=4",
     "amount": 8,
     "link": "https://github.com/mbarto",
-    "org": false
-  },
-  {
-    "name": "DM|全渣攻城獅",
-    "login": "dmoosocool",
-    "avatar": "https://avatars.githubusercontent.com/u/30599141?u=b503f045dacc69f9b53c09e55e6f4b1d23ff1e76&v=4",
-    "amount": 8,
-    "link": "https://github.com/dmoosocool",
     "org": false
   },
   {
@@ -1704,6 +1680,30 @@
     "org": false
   },
   {
+    "name": "John",
+    "login": "robokozo",
+    "avatar": "https://avatars.githubusercontent.com/u/1719221?u=b5739798ee9a3d713f5ca3bd3d6a086c13d229a3&v=4",
+    "amount": 1,
+    "link": "https://github.com/robokozo",
+    "org": false
+  },
+  {
+    "name": "Pete",
+    "login": "virtuoushub",
+    "avatar": "https://avatars.githubusercontent.com/u/4303638?u=36dfad9d661e7e5afadef20ab87df61a16989352&v=4",
+    "amount": 1,
+    "link": "https://github.com/virtuoushub",
+    "org": false
+  },
+  {
+    "name": "yihong",
+    "login": "yihong0618",
+    "avatar": "https://avatars.githubusercontent.com/u/15976103?u=9a784422ed716bd783f231b1e080656363de9b7b&v=4",
+    "amount": 1,
+    "link": "https://github.com/yihong0618",
+    "org": false
+  },
+  {
     "name": "Horoskopi",
     "login": "horoskopi",
     "avatar": "https://images.opencollective.com/horoskopi/02f7c79/logo/460.png",
@@ -1744,35 +1744,11 @@
     "org": false
   },
   {
-    "name": "John",
-    "login": "robokozo",
-    "avatar": "https://avatars.githubusercontent.com/u/1719221?u=b5739798ee9a3d713f5ca3bd3d6a086c13d229a3&v=4",
-    "amount": 1,
-    "link": "https://github.com/robokozo",
-    "org": false
-  },
-  {
     "name": "Anand Chowdhary",
     "login": "AnandChowdhary",
     "avatar": "https://avatars.githubusercontent.com/u/2841780?u=747e554b3a7f12eb20b7910e1c87d817844f714f&v=4",
     "amount": 1,
     "link": "https://github.com/AnandChowdhary",
-    "org": false
-  },
-  {
-    "name": "Pete",
-    "login": "virtuoushub",
-    "avatar": "https://avatars.githubusercontent.com/u/4303638?u=36dfad9d661e7e5afadef20ab87df61a16989352&v=4",
-    "amount": 1,
-    "link": "https://github.com/virtuoushub",
-    "org": false
-  },
-  {
-    "name": "yihong",
-    "login": "yihong0618",
-    "avatar": "https://avatars.githubusercontent.com/u/15976103?u=9a784422ed716bd783f231b1e080656363de9b7b&v=4",
-    "amount": 1,
-    "link": "https://github.com/yihong0618",
     "org": false
   },
   {
@@ -1909,6 +1885,14 @@
     "avatar": "https://images.opencollective.com/guest-d379688a/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/guest-d379688a",
+    "org": false
+  },
+  {
+    "name": "Bertrand Yuan",
+    "login": "bertyuan",
+    "avatar": "https://avatars.githubusercontent.com/u/189593334?u=a1ffc49e133c2ecc8d4f84bc703c72e8637d7d63&v=4",
+    "amount": -1,
+    "link": "https://github.com/bertyuan",
     "org": false
   },
   {
@@ -2093,6 +2077,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/12388918?u=e6c866558e637671c2ed9ce6235b858cb14b4b1f&v=4",
     "amount": -1,
     "link": "https://github.com/intra-mart-dh",
+    "org": false
+  },
+  {
+    "name": "Arthur Darkstone",
+    "login": "ArthurDarkstone",
+    "avatar": "https://avatars.githubusercontent.com/u/34020340?u=d0a0c81b191571902ee9f07d40954df549843a16&v=4",
+    "amount": -1,
+    "link": "https://github.com/ArthurDarkstone",
     "org": false
   },
   {
@@ -6117,6 +6109,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/17595095?u=883445d27c68eceefa162535aae4f317369b903a&v=4",
     "amount": -1,
     "link": "https://github.com/ymtech-labs",
+    "org": false
+  },
+  {
+    "name": "DM|全渣攻城獅",
+    "login": "dmoosocool",
+    "avatar": "https://avatars.githubusercontent.com/u/30599141?u=b503f045dacc69f9b53c09e55e6f4b1d23ff1e76&v=4",
+    "amount": -1,
+    "link": "https://github.com/dmoosocool",
     "org": false
   },
   {
