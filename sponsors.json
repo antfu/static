@@ -1456,6 +1456,14 @@
     "org": false
   },
   {
+    "name": "Moti ne tirane",
+    "login": "moti-ne-tirane",
+    "avatar": "https://images.opencollective.com/moti-ne-tirane/e4a606f/logo/460.png",
+    "amount": 1,
+    "link": "https://opencollective.com/moti-ne-tirane",
+    "org": true
+  },
+  {
     "name": "Kanon",
     "login": "ysknsid25",
     "avatar": "https://avatars.githubusercontent.com/u/44870505?u=9e9dd01aa5bfe0fba3746492320c469bfd53d712&v=4",
@@ -1664,14 +1672,6 @@
     "org": false
   },
   {
-    "name": "Danny Slatkin",
-    "login": "dslatkin",
-    "avatar": "https://avatars.githubusercontent.com/u/9263640?u=2b68611f898ef14bd6847c2e87aaa76e20110d31&v=4",
-    "amount": 1,
-    "link": "https://github.com/dslatkin",
-    "org": false
-  },
-  {
     "name": "chengpeiquan",
     "login": "chengpeiquan",
     "avatar": "https://avatars.githubusercontent.com/u/24845958?u=ccd4c5e3ff2c1f9a2397857acd7cd91e44cd6cce&v=4",
@@ -1709,6 +1709,22 @@
     "avatar": "https://avatars.githubusercontent.com/u/15976103?u=9a784422ed716bd783f231b1e080656363de9b7b&v=4",
     "amount": 1,
     "link": "https://github.com/yihong0618",
+    "org": false
+  },
+  {
+    "name": "Horoskopi",
+    "login": "horoskopi",
+    "avatar": "https://images.opencollective.com/horoskopi/02f7c79/logo/460.png",
+    "amount": 1,
+    "link": "https://opencollective.com/horoskopi",
+    "org": true
+  },
+  {
+    "name": "Danny Slatkin",
+    "login": "dslatkin",
+    "avatar": "https://avatars.githubusercontent.com/u/9263640?u=2b68611f898ef14bd6847c2e87aaa76e20110d31&v=4",
+    "amount": 1,
+    "link": "https://github.com/dslatkin",
     "org": false
   },
   {
@@ -1752,11 +1768,51 @@
     "org": true
   },
   {
+    "name": "Olivier",
+    "login": "olivier13",
+    "avatar": "https://images.opencollective.com/olivier13/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/olivier13",
+    "org": false
+  },
+  {
+    "name": "Myinstafollow - Buy Instagram Followers",
+    "login": "myinstafollow",
+    "avatar": "https://images.opencollective.com/myinstafollow/bce918d/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/myinstafollow",
+    "org": false
+  },
+  {
+    "name": "Ayo",
+    "login": "ayoayco",
+    "avatar": "https://images.opencollective.com/ayoayco/fda456b/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/ayoayco",
+    "org": false
+  },
+  {
     "name": "Ted Xu",
     "login": "ted-xu",
     "avatar": "https://images.opencollective.com/ted-xu/75fa2f9/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/ted-xu",
+    "org": false
+  },
+  {
+    "name": "Qin",
+    "login": "level7in",
+    "avatar": "https://avatars.githubusercontent.com/u/9393567?u=8ba78846c0f2bba73b36df879b9143518996b173&v=4",
+    "amount": -1,
+    "link": "https://github.com/level7in",
+    "org": false
+  },
+  {
+    "name": "Stefano Faieta",
+    "login": "stefanofa",
+    "avatar": "https://avatars.githubusercontent.com/u/9802152?u=fd2a34b71ec1d1d8720cb7f93b383ec4fb768513&v=4",
+    "amount": -1,
+    "link": "https://github.com/stefanofa",
     "org": false
   },
   {
@@ -1776,28 +1832,12 @@
     "org": true
   },
   {
-    "name": "Olivier",
-    "login": "olivier13",
-    "avatar": "https://images.opencollective.com/olivier13/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/olivier13",
-    "org": false
-  },
-  {
     "name": "MyInstaFollow – Real Social Growth",
     "login": "myinstafollowcom",
     "avatar": "https://images.opencollective.com/myinstafollowcom/98535b2/logo/460.png",
     "amount": -1,
     "link": "https://opencollective.com/myinstafollowcom",
     "org": true
-  },
-  {
-    "name": "Myinstafollow - Buy Instagram Followers",
-    "login": "myinstafollow",
-    "avatar": "https://images.opencollective.com/myinstafollow/bce918d/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/myinstafollow",
-    "org": false
   },
   {
     "name": "Michael Hoffmann",
@@ -1928,14 +1968,6 @@
     "org": false
   },
   {
-    "name": "Moti ne tirane",
-    "login": "moti-ne-tirane",
-    "avatar": "https://images.opencollective.com/moti-ne-tirane/e4a606f/logo/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/moti-ne-tirane",
-    "org": true
-  },
-  {
     "name": "dalaoshu",
     "login": "shulaoda",
     "avatar": "https://avatars.githubusercontent.com/u/165626830?u=5d68a263bf65224140e54ed2b971731d90b94a12&v=4",
@@ -1984,44 +2016,12 @@
     "org": false
   },
   {
-    "name": "Ayo",
-    "login": "ayoayco",
-    "avatar": "https://images.opencollective.com/ayoayco/fda456b/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/ayoayco",
-    "org": false
-  },
-  {
     "name": "Kodify Media Group",
     "login": "kodify-media-group",
     "avatar": "https://images.opencollective.com/kodify-media-group/b109fa7/logo/460.png",
     "amount": -1,
     "link": "https://opencollective.com/kodify-media-group",
     "org": true
-  },
-  {
-    "name": "Qin",
-    "login": "level7in",
-    "avatar": "https://avatars.githubusercontent.com/u/9393567?u=8ba78846c0f2bba73b36df879b9143518996b173&v=4",
-    "amount": -1,
-    "link": "https://github.com/level7in",
-    "org": false
-  },
-  {
-    "name": "Stefano Faieta",
-    "login": "stefanofa",
-    "avatar": "https://avatars.githubusercontent.com/u/9802152?u=fd2a34b71ec1d1d8720cb7f93b383ec4fb768513&v=4",
-    "amount": -1,
-    "link": "https://github.com/stefanofa",
-    "org": false
-  },
-  {
-    "name": "Jithin Sha",
-    "login": "jithin-sha",
-    "avatar": "https://images.opencollective.com/jithin-sha/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/jithin-sha",
-    "org": false
   },
   {
     "name": null,
@@ -2048,43 +2048,11 @@
     "org": false
   },
   {
-    "name": "Yuhei FUJITA",
-    "login": "fjt",
-    "avatar": "https://images.opencollective.com/fjt/3955659/avatar/460.png",
+    "name": "Jithin Sha",
+    "login": "jithin-sha",
+    "avatar": "https://images.opencollective.com/jithin-sha/avatar/460.png",
     "amount": -1,
-    "link": "https://opencollective.com/fjt",
-    "org": false
-  },
-  {
-    "name": "Daiki Ojima",
-    "login": "daikiojm",
-    "avatar": "https://avatars.githubusercontent.com/u/10055293?u=1d1491fc3c27e10e93cc364ee0556a3b768c29b2&v=4",
-    "amount": -1,
-    "link": "https://github.com/daikiojm",
-    "org": false
-  },
-  {
-    "name": "Wendong Xie",
-    "login": "windid",
-    "avatar": "https://avatars.githubusercontent.com/u/10072379?v=4",
-    "amount": -1,
-    "link": "https://github.com/windid",
-    "org": false
-  },
-  {
-    "name": "Vivian Sarazin",
-    "login": "vvnsrzn",
-    "avatar": "https://avatars.githubusercontent.com/u/9358572?u=4b2aa1bfa9aeb89b884dc4e02fa4a2456738fdde&v=4",
-    "amount": -1,
-    "link": "https://github.com/vvnsrzn",
-    "org": false
-  },
-  {
-    "name": "Shunji Lin",
-    "login": "shunjilin",
-    "avatar": "https://avatars.githubusercontent.com/u/10043695?u=a82299c67c5b13855d7ea972420180e37d3c4029&v=4",
-    "amount": -1,
-    "link": "https://github.com/shunjilin",
+    "link": "https://opencollective.com/jithin-sha",
     "org": false
   },
   {
@@ -2216,12 +2184,44 @@
     "org": false
   },
   {
-    "name": "Horoskopi",
-    "login": "horoskopi",
-    "avatar": "https://images.opencollective.com/horoskopi/02f7c79/logo/460.png",
+    "name": "Daiki Ojima",
+    "login": "daikiojm",
+    "avatar": "https://avatars.githubusercontent.com/u/10055293?u=1d1491fc3c27e10e93cc364ee0556a3b768c29b2&v=4",
     "amount": -1,
-    "link": "https://opencollective.com/horoskopi",
-    "org": true
+    "link": "https://github.com/daikiojm",
+    "org": false
+  },
+  {
+    "name": "Wendong Xie",
+    "login": "windid",
+    "avatar": "https://avatars.githubusercontent.com/u/10072379?v=4",
+    "amount": -1,
+    "link": "https://github.com/windid",
+    "org": false
+  },
+  {
+    "name": "Vivian Sarazin",
+    "login": "vvnsrzn",
+    "avatar": "https://avatars.githubusercontent.com/u/9358572?u=4b2aa1bfa9aeb89b884dc4e02fa4a2456738fdde&v=4",
+    "amount": -1,
+    "link": "https://github.com/vvnsrzn",
+    "org": false
+  },
+  {
+    "name": "Shunji Lin",
+    "login": "shunjilin",
+    "avatar": "https://avatars.githubusercontent.com/u/10043695?u=a82299c67c5b13855d7ea972420180e37d3c4029&v=4",
+    "amount": -1,
+    "link": "https://github.com/shunjilin",
+    "org": false
+  },
+  {
+    "name": "Yuhei FUJITA",
+    "login": "fjt",
+    "avatar": "https://images.opencollective.com/fjt/3955659/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/fjt",
+    "org": false
   },
   {
     "name": "Lzyoo",
@@ -2968,9 +2968,9 @@
     "org": false
   },
   {
-    "name": "MyInstaFollow Buy Instagram Auto Likes",
+    "name": "FameViso Buy Instagram Auto Likes",
     "login": "buy-instagram-auto-likes",
-    "avatar": "https://images.opencollective.com/buy-instagram-auto-likes/6565fe0/logo/460.png",
+    "avatar": "https://images.opencollective.com/buy-instagram-auto-likes/6353873/logo/460.png",
     "amount": -1,
     "link": "https://opencollective.com/buy-instagram-auto-likes",
     "org": true
@@ -6266,7 +6266,7 @@
   {
     "name": "Dmitriy Brolnickij",
     "login": "brolnickij",
-    "avatar": "https://avatars.githubusercontent.com/u/10180323?u=0bd4f00886eea9b7437161a88e69e27c58584386&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/10180323?u=6ac25281fb1b2224fdf5d397a4d81398d5e19f4e&v=4",
     "amount": -1,
     "link": "https://github.com/brolnickij",
     "org": false
