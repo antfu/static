@@ -728,14 +728,6 @@
     "org": false
   },
   {
-    "name": "xiao",
-    "login": "xiao-xiang",
-    "avatar": "https://images.opencollective.com/xiao-xiang/avatar/460.png",
-    "amount": 5,
-    "link": "https://opencollective.com/xiao-xiang",
-    "org": false
-  },
-  {
     "name": "Armand",
     "login": "tishutox",
     "avatar": "https://avatars.githubusercontent.com/u/173721284?u=ff8b9cb17dfc9236b2607a3d844ddb5dbc29b214&v=4",
@@ -1528,14 +1520,6 @@
     "org": false
   },
   {
-    "name": "Mr. Henry",
-    "login": "mrhenry",
-    "avatar": "https://avatars.githubusercontent.com/u/45111?v=4",
-    "amount": 1,
-    "link": "https://github.com/mrhenry",
-    "org": true
-  },
-  {
     "name": null,
     "login": "MatyiFKBT",
     "avatar": "https://avatars.githubusercontent.com/u/6183867?u=106e2533d8146d2bb6237bf740a0e743a5317c22&v=4",
@@ -1656,6 +1640,14 @@
     "org": false
   },
   {
+    "name": "Horoskopi",
+    "login": "horoskopi",
+    "avatar": "https://images.opencollective.com/horoskopi/02f7c79/logo/460.png",
+    "amount": 1,
+    "link": "https://opencollective.com/horoskopi",
+    "org": true
+  },
+  {
     "name": "Łukasz Chojnicki",
     "login": "chojnicki",
     "avatar": "https://avatars.githubusercontent.com/u/34774522?u=9637e6adf4e0c488badabe1ec98bb0f0d6f9df50&v=4",
@@ -1669,6 +1661,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/22286818?u=a91967911b0aa7c8424c7fdabbd6acd1e37d4e0e&v=4",
     "amount": 1,
     "link": "https://github.com/fratzinger",
+    "org": false
+  },
+  {
+    "name": "Danny Slatkin",
+    "login": "dslatkin",
+    "avatar": "https://avatars.githubusercontent.com/u/9263640?u=2b68611f898ef14bd6847c2e87aaa76e20110d31&v=4",
+    "amount": 1,
+    "link": "https://github.com/dslatkin",
     "org": false
   },
   {
@@ -1712,22 +1712,6 @@
     "org": false
   },
   {
-    "name": "Horoskopi",
-    "login": "horoskopi",
-    "avatar": "https://images.opencollective.com/horoskopi/02f7c79/logo/460.png",
-    "amount": 1,
-    "link": "https://opencollective.com/horoskopi",
-    "org": true
-  },
-  {
-    "name": "Danny Slatkin",
-    "login": "dslatkin",
-    "avatar": "https://avatars.githubusercontent.com/u/9263640?u=2b68611f898ef14bd6847c2e87aaa76e20110d31&v=4",
-    "amount": 1,
-    "link": "https://github.com/dslatkin",
-    "org": false
-  },
-  {
     "name": "Yufan You",
     "login": "ouuan",
     "avatar": "https://images.opencollective.com/ouuan/fce9809/avatar/460.png",
@@ -1741,6 +1725,14 @@
     "avatar": "https://images.opencollective.com/xjccc/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/xjccc",
+    "org": false
+  },
+  {
+    "name": "xiao",
+    "login": "xiao-xiang",
+    "avatar": "https://images.opencollective.com/xiao-xiang/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/xiao-xiang",
     "org": false
   },
   {
@@ -3878,6 +3870,14 @@
     "amount": -1,
     "link": "https://afdian.com/u/719cb96626f711eea25f52540025c377",
     "org": false
+  },
+  {
+    "name": "Mr. Henry",
+    "login": "mrhenry",
+    "avatar": "https://avatars.githubusercontent.com/u/45111?v=4",
+    "amount": -1,
+    "link": "https://github.com/mrhenry",
+    "org": true
   },
   {
     "name": "Julien Huang",
