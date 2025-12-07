@@ -728,14 +728,6 @@
     "org": false
   },
   {
-    "name": "Armand",
-    "login": "tishutox",
-    "avatar": "https://avatars.githubusercontent.com/u/173721284?u=ff8b9cb17dfc9236b2607a3d844ddb5dbc29b214&v=4",
-    "amount": 5,
-    "link": "https://github.com/tishutox",
-    "org": false
-  },
-  {
     "name": "Roboflow",
     "login": "roboflow",
     "avatar": "https://avatars.githubusercontent.com/u/53104118?v=4",
@@ -1869,6 +1861,14 @@
     "avatar": "https://images.opencollective.com/guest-d379688a/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/guest-d379688a",
+    "org": false
+  },
+  {
+    "name": "Armand",
+    "login": "tishutox",
+    "avatar": "https://avatars.githubusercontent.com/u/173721284?u=ff8b9cb17dfc9236b2607a3d844ddb5dbc29b214&v=4",
+    "amount": -1,
+    "link": "https://github.com/tishutox",
     "org": false
   },
   {
@@ -3361,10 +3361,10 @@
   },
   {
     "name": "面条",
-    "login": "ccbikai",
+    "login": "miantiao-me",
     "avatar": "https://avatars.githubusercontent.com/u/2959393?v=4",
     "amount": -1,
-    "link": "https://github.com/ccbikai",
+    "link": "https://github.com/miantiao-me",
     "org": false
   },
   {
