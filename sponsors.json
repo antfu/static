@@ -232,6 +232,14 @@
     "org": true
   },
   {
+    "name": "Bjorn Lu",
+    "login": "bluwy",
+    "avatar": "https://avatars.githubusercontent.com/u/34116392?u=b156c6773cb1d21bf37c99bd427486ce73b2173d&v=4",
+    "amount": 16,
+    "link": "https://github.com/bluwy",
+    "org": false
+  },
+  {
     "name": "kang",
     "login": "ZWkang",
     "avatar": "https://avatars.githubusercontent.com/u/15853907?u=9a878c0efeedf49b406815aab63ebc611d3ede52&v=4",
@@ -325,14 +333,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/84165678?u=2b374b65f303aea7ba1183f41eb28a876950958e&v=4",
     "amount": 10,
     "link": "https://github.com/Tecvan-fe",
-    "org": false
-  },
-  {
-    "name": "Bjorn Lu",
-    "login": "bluwy",
-    "avatar": "https://avatars.githubusercontent.com/u/34116392?u=b156c6773cb1d21bf37c99bd427486ce73b2173d&v=4",
-    "amount": 10,
-    "link": "https://github.com/bluwy",
     "org": false
   },
   {
