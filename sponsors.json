@@ -1120,14 +1120,6 @@
     "org": false
   },
   {
-    "name": "Marco",
-    "login": "marco-gattelli",
-    "avatar": "https://avatars.githubusercontent.com/u/39620741?u=a0565aaecf8aeee77d624b2fcc0652dde3f5b2e1&v=4",
-    "amount": 4,
-    "link": "https://github.com/marco-gattelli",
-    "org": false
-  },
-  {
     "name": "Tsuyoshi Yamaguchi",
     "login": "Tsuyoshi84",
     "avatar": "https://avatars.githubusercontent.com/u/11254699?u=48cf8fe456fa7f1e0f861d53cec15e0f901b5439&v=4",
@@ -2330,7 +2322,7 @@
   {
     "name": "Hendra Gunawan",
     "login": "JadlionHD",
-    "avatar": "https://avatars.githubusercontent.com/u/48410066?u=c9c06fa34d1d474421e29bd0aa939d1916a54b21&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/48410066?u=7149ace6634565ea5efc0f883026d6f60a57eb55&v=4",
     "amount": -1,
     "link": "https://github.com/JadlionHD",
     "org": false
@@ -4373,6 +4365,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/138311?u=87cb4d083f6298706d2326196af799fbcd104fd5&v=4",
     "amount": -1,
     "link": "https://github.com/phenomen",
+    "org": false
+  },
+  {
+    "name": "Marco",
+    "login": "marco-gattelli",
+    "avatar": "https://avatars.githubusercontent.com/u/39620741?u=a0565aaecf8aeee77d624b2fcc0652dde3f5b2e1&v=4",
+    "amount": -1,
+    "link": "https://github.com/marco-gattelli",
     "org": false
   },
   {
