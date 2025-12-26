@@ -984,14 +984,6 @@
     "org": false
   },
   {
-    "name": "netr",
-    "login": "netr",
-    "avatar": "https://avatars.githubusercontent.com/u/14618594?u=c297cf5514e5a5f3cd83622a4f91fd6226741a64&v=4",
-    "amount": 4,
-    "link": "https://github.com/netr",
-    "org": false
-  },
-  {
     "name": "Yusuke Nemoto",
     "login": "kaakaa",
     "avatar": "https://avatars.githubusercontent.com/u/1453749?u=40dd7d980136349d55819d95a0d09e3e13605c3c&v=4",
@@ -2677,6 +2669,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/52708827?u=038bdaffc6f92a9a0c6537f614aea948cabc4803&v=4",
     "amount": -1,
     "link": "https://github.com/dirklach",
+    "org": false
+  },
+  {
+    "name": "netr",
+    "login": "netr",
+    "avatar": "https://avatars.githubusercontent.com/u/14618594?u=c297cf5514e5a5f3cd83622a4f91fd6226741a64&v=4",
+    "amount": -1,
+    "link": "https://github.com/netr",
     "org": false
   },
   {
