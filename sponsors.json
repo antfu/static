@@ -56,14 +56,6 @@
     "org": true
   },
   {
-    "name": "FMD Labs",
-    "login": "fmd-labs",
-    "avatar": "https://avatars.githubusercontent.com/u/211153060?v=4",
-    "amount": 100,
-    "link": "https://github.com/fmd-labs",
-    "org": true
-  },
-  {
     "name": "Corey Quinn",
     "login": "quinnypig",
     "avatar": "https://avatars.githubusercontent.com/u/489170?u=a2ee879f711dd019077ec9a524a516589c9ab34a&v=4",
@@ -1846,6 +1838,14 @@
     "amount": -1,
     "link": "https://opencollective.com/guest-d379688a",
     "org": false
+  },
+  {
+    "name": "FMD Labs",
+    "login": "fmd-labs",
+    "avatar": "https://avatars.githubusercontent.com/u/211153060?v=4",
+    "amount": -1,
+    "link": "https://github.com/fmd-labs",
+    "org": true
   },
   {
     "name": "Armand",
