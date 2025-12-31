@@ -32,7 +32,7 @@
     "org": true
   },
   {
-    "name": "Workleap",
+    "name": "Workleap IT",
     "login": "Infra-Workleap",
     "avatar": "https://avatars.githubusercontent.com/u/53535748?u=8df8f28ee4b3ddacc482dfa5b47c30d35e6cceb4&v=4",
     "amount": 256,
@@ -709,14 +709,6 @@
     "avatar": "https://images.opencollective.com/yannbertrand/8aba1d8/avatar/460.png",
     "amount": 5,
     "link": "https://opencollective.com/yannbertrand",
-    "org": false
-  },
-  {
-    "name": "UnAIMyText",
-    "login": "user-53231496",
-    "avatar": "https://images.opencollective.com/user-53231496/a1aac80/avatar/460.png",
-    "amount": 5,
-    "link": "https://opencollective.com/user-53231496",
     "org": false
   },
   {
@@ -1528,20 +1520,44 @@
     "org": false
   },
   {
-    "name": "Horoskopi",
-    "login": "horoskopi",
-    "avatar": "https://images.opencollective.com/horoskopi/02f7c79/logo/460.png",
-    "amount": 1,
-    "link": "https://opencollective.com/horoskopi",
-    "org": true
-  },
-  {
     "name": "Michael Zheng",
     "login": "headwindz",
     "avatar": "https://avatars.githubusercontent.com/u/7504237?u=79498fc681f55c9cf01ce463dd86f7fbb228eebc&v=4",
     "amount": 1,
     "link": "https://github.com/headwindz",
     "org": false
+  },
+  {
+    "name": "Sean",
+    "login": "seandlg",
+    "avatar": "https://avatars.githubusercontent.com/u/16638561?u=8b2289c304219b30002d4f363a3f88d7f09f6767&v=4",
+    "amount": 1,
+    "link": "https://github.com/seandlg",
+    "org": false
+  },
+  {
+    "name": "lifeng1992",
+    "login": "lifeng1992",
+    "avatar": "https://avatars.githubusercontent.com/u/10074335?v=4",
+    "amount": 1,
+    "link": "https://github.com/lifeng1992",
+    "org": false
+  },
+  {
+    "name": "Robert Shaw",
+    "login": "xiaoluoboding",
+    "avatar": "https://avatars.githubusercontent.com/u/6118824?u=e9472c1e1b9620f7cc8f8acc071234a669b3d243&v=4",
+    "amount": 1,
+    "link": "https://github.com/xiaoluoboding",
+    "org": false
+  },
+  {
+    "name": "Horoskopi",
+    "login": "horoskopi",
+    "avatar": "https://images.opencollective.com/horoskopi/02f7c79/logo/460.png",
+    "amount": 1,
+    "link": "https://opencollective.com/horoskopi",
+    "org": true
   },
   {
     "name": "Björn",
@@ -1568,14 +1584,6 @@
     "org": false
   },
   {
-    "name": "Sean",
-    "login": "seandlg",
-    "avatar": "https://avatars.githubusercontent.com/u/16638561?u=8b2289c304219b30002d4f363a3f88d7f09f6767&v=4",
-    "amount": 1,
-    "link": "https://github.com/seandlg",
-    "org": false
-  },
-  {
     "name": "bushuai",
     "login": "bushuai",
     "avatar": "https://avatars.githubusercontent.com/u/1875256?v=4",
@@ -1597,22 +1605,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/13805071?u=ea1c02ac5b8c0be74b90c41f1c8fc9b2498a4385&v=4",
     "amount": 1,
     "link": "https://github.com/tmkx",
-    "org": false
-  },
-  {
-    "name": "lifeng1992",
-    "login": "lifeng1992",
-    "avatar": "https://avatars.githubusercontent.com/u/10074335?v=4",
-    "amount": 1,
-    "link": "https://github.com/lifeng1992",
-    "org": false
-  },
-  {
-    "name": "Robert Shaw",
-    "login": "xiaoluoboding",
-    "avatar": "https://avatars.githubusercontent.com/u/6118824?u=e9472c1e1b9620f7cc8f8acc071234a669b3d243&v=4",
-    "amount": 1,
-    "link": "https://github.com/xiaoluoboding",
     "org": false
   },
   {
@@ -1702,6 +1694,14 @@
     "amount": -1,
     "link": "https://opencollective.com/wenyan-lang",
     "org": true
+  },
+  {
+    "name": "UnAIMyText",
+    "login": "user-53231496",
+    "avatar": "https://images.opencollective.com/user-53231496/a1aac80/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/user-53231496",
+    "org": false
   },
   {
     "name": "Toyo Tomi",
@@ -2074,7 +2074,7 @@
   {
     "name": "Konv Suu",
     "login": "kovsu",
-    "avatar": "https://avatars.githubusercontent.com/u/82451257?u=261e83daac91c62fcf398b597778e8dca45f981b&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/82451257?u=67705bb373b7ec804db95a942599d4004e8b7235&v=4",
     "amount": -1,
     "link": "https://github.com/kovsu",
     "org": false
