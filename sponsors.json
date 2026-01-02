@@ -56,14 +56,6 @@
     "org": true
   },
   {
-    "name": "Corey Quinn",
-    "login": "quinnypig",
-    "avatar": "https://avatars.githubusercontent.com/u/489170?u=a2ee879f711dd019077ec9a524a516589c9ab34a&v=4",
-    "amount": 64,
-    "link": "https://github.com/quinnypig",
-    "org": false
-  },
-  {
     "name": "Stanislas Ormières",
     "login": "laruiss",
     "avatar": "https://avatars.githubusercontent.com/u/2486424?u=7b0c73ae5d090ce53bf59473094e9606fe082c59&v=4",
@@ -608,14 +600,6 @@
     "org": false
   },
   {
-    "name": "Thomas",
-    "login": "aulneau",
-    "avatar": "https://avatars.githubusercontent.com/u/11803153?u=23ddb4b801b66522d9614e6988ed113d1ffc0a00&v=4",
-    "amount": 8,
-    "link": "https://github.com/aulneau",
-    "org": false
-  },
-  {
     "name": "Clex1o1",
     "login": "Clex1o1",
     "avatar": "https://avatars.githubusercontent.com/u/15003466?u=f9ddf29ee36aae9dcf0d63073a244e605e43a911&v=4",
@@ -637,22 +621,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/722978?u=bc5d09a185762625f8f5000a647a914522047274&v=4",
     "amount": 8,
     "link": "https://github.com/freopen",
-    "org": false
-  },
-  {
-    "name": "hikae",
-    "login": "HikaruEgashira",
-    "avatar": "https://avatars.githubusercontent.com/u/39324739?u=846fcaed774d2417d7f72875e0592af97cbc1a6b&v=4",
-    "amount": 8,
-    "link": "https://github.com/HikaruEgashira",
-    "org": false
-  },
-  {
-    "name": null,
-    "login": "mildlyfunctional",
-    "avatar": "https://avatars.githubusercontent.com/u/27422?v=4",
-    "amount": 8,
-    "link": "https://github.com/mildlyfunctional",
     "org": false
   },
   {
@@ -1096,14 +1064,6 @@
     "org": false
   },
   {
-    "name": "Bangbo",
-    "login": "zhengbangbo",
-    "avatar": "https://avatars.githubusercontent.com/u/18254135?u=f74c062906d6e261c229a0402b16765a2f1ab1cd&v=4",
-    "amount": 4,
-    "link": "https://github.com/zhengbangbo",
-    "org": false
-  },
-  {
     "name": "Tsuyoshi Yamaguchi",
     "login": "Tsuyoshi84",
     "avatar": "https://avatars.githubusercontent.com/u/11254699?u=48cf8fe456fa7f1e0f861d53cec15e0f901b5439&v=4",
@@ -1296,6 +1256,14 @@
     "org": false
   },
   {
+    "name": "hikae",
+    "login": "HikaruEgashira",
+    "avatar": "https://avatars.githubusercontent.com/u/39324739?u=846fcaed774d2417d7f72875e0592af97cbc1a6b&v=4",
+    "amount": 4,
+    "link": "https://github.com/HikaruEgashira",
+    "org": false
+  },
+  {
     "name": "TJ Koblentz",
     "login": "tjk",
     "avatar": "https://avatars.githubusercontent.com/u/109224?u=83d2a6bdd5e0f876d11a87770e8c598294c6b18f&v=4",
@@ -1333,14 +1301,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/1998168?u=1a3611db57af3878d7e33af99543b0a2494916fb&v=4",
     "amount": 4,
     "link": "https://github.com/ddiu8081",
-    "org": false
-  },
-  {
-    "name": "Enzo Innocenzi",
-    "login": "innocenzi",
-    "avatar": "https://avatars.githubusercontent.com/u/16060559?u=4c0ac72d014627d9dce1fa42e530b9491dc9cfae&v=4",
-    "amount": 4,
-    "link": "https://github.com/innocenzi",
     "org": false
   },
   {
@@ -1520,44 +1480,20 @@
     "org": false
   },
   {
-    "name": "Michael Zheng",
-    "login": "headwindz",
-    "avatar": "https://avatars.githubusercontent.com/u/7504237?u=79498fc681f55c9cf01ce463dd86f7fbb228eebc&v=4",
-    "amount": 1,
-    "link": "https://github.com/headwindz",
-    "org": false
-  },
-  {
-    "name": "Sean",
-    "login": "seandlg",
-    "avatar": "https://avatars.githubusercontent.com/u/16638561?u=8b2289c304219b30002d4f363a3f88d7f09f6767&v=4",
-    "amount": 1,
-    "link": "https://github.com/seandlg",
-    "org": false
-  },
-  {
-    "name": "lifeng1992",
-    "login": "lifeng1992",
-    "avatar": "https://avatars.githubusercontent.com/u/10074335?v=4",
-    "amount": 1,
-    "link": "https://github.com/lifeng1992",
-    "org": false
-  },
-  {
-    "name": "Robert Shaw",
-    "login": "xiaoluoboding",
-    "avatar": "https://avatars.githubusercontent.com/u/6118824?u=e9472c1e1b9620f7cc8f8acc071234a669b3d243&v=4",
-    "amount": 1,
-    "link": "https://github.com/xiaoluoboding",
-    "org": false
-  },
-  {
     "name": "Horoskopi",
     "login": "horoskopi",
     "avatar": "https://images.opencollective.com/horoskopi/02f7c79/logo/460.png",
     "amount": 1,
     "link": "https://opencollective.com/horoskopi",
     "org": true
+  },
+  {
+    "name": "Michael Zheng",
+    "login": "headwindz",
+    "avatar": "https://avatars.githubusercontent.com/u/7504237?u=79498fc681f55c9cf01ce463dd86f7fbb228eebc&v=4",
+    "amount": 1,
+    "link": "https://github.com/headwindz",
+    "org": false
   },
   {
     "name": "Björn",
@@ -1584,6 +1520,14 @@
     "org": false
   },
   {
+    "name": "Sean",
+    "login": "seandlg",
+    "avatar": "https://avatars.githubusercontent.com/u/16638561?u=8b2289c304219b30002d4f363a3f88d7f09f6767&v=4",
+    "amount": 1,
+    "link": "https://github.com/seandlg",
+    "org": false
+  },
+  {
     "name": "bushuai",
     "login": "bushuai",
     "avatar": "https://avatars.githubusercontent.com/u/1875256?v=4",
@@ -1605,6 +1549,22 @@
     "avatar": "https://avatars.githubusercontent.com/u/13805071?u=ea1c02ac5b8c0be74b90c41f1c8fc9b2498a4385&v=4",
     "amount": 1,
     "link": "https://github.com/tmkx",
+    "org": false
+  },
+  {
+    "name": "lifeng1992",
+    "login": "lifeng1992",
+    "avatar": "https://avatars.githubusercontent.com/u/10074335?v=4",
+    "amount": 1,
+    "link": "https://github.com/lifeng1992",
+    "org": false
+  },
+  {
+    "name": "Robert Shaw",
+    "login": "xiaoluoboding",
+    "avatar": "https://avatars.githubusercontent.com/u/6118824?u=e9472c1e1b9620f7cc8f8acc071234a669b3d243&v=4",
+    "amount": 1,
+    "link": "https://github.com/xiaoluoboding",
     "org": false
   },
   {
@@ -2578,7 +2538,7 @@
   {
     "name": "Claudio Wunder",
     "login": "ovflowd",
-    "avatar": "https://avatars.githubusercontent.com/u/12037269?u=a65cd9bf0c565d483ddb7aaed6f7fa0bf6277531&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/12037269?u=2ad830c85323617f8cfae4dbc5a8ed0e43528ed2&v=4",
     "amount": -1,
     "link": "https://github.com/ovflowd",
     "org": false
@@ -2821,6 +2781,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/34566241?u=01bf53b563cc4cf3870d6ded1672d09bbf8fb5a2&v=4",
     "amount": -1,
     "link": "https://github.com/zhao-heng-sheng",
+    "org": false
+  },
+  {
+    "name": "Corey Quinn",
+    "login": "quinnypig",
+    "avatar": "https://avatars.githubusercontent.com/u/489170?u=a2ee879f711dd019077ec9a524a516589c9ab34a&v=4",
+    "amount": -1,
+    "link": "https://github.com/quinnypig",
     "org": false
   },
   {
@@ -4317,6 +4285,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/16633962?u=7682a17124381217f157e33174fe4a1b3076e43b&v=4",
     "amount": -1,
     "link": "https://github.com/aquarius-wing",
+    "org": false
+  },
+  {
+    "name": "Bangbo",
+    "login": "zhengbangbo",
+    "avatar": "https://avatars.githubusercontent.com/u/18254135?u=f74c062906d6e261c229a0402b16765a2f1ab1cd&v=4",
+    "amount": -1,
+    "link": "https://github.com/zhengbangbo",
     "org": false
   },
   {
@@ -6600,6 +6576,14 @@
     "org": false
   },
   {
+    "name": "Thomas",
+    "login": "aulneau",
+    "avatar": "https://avatars.githubusercontent.com/u/11803153?u=23ddb4b801b66522d9614e6988ed113d1ffc0a00&v=4",
+    "amount": -1,
+    "link": "https://github.com/aulneau",
+    "org": false
+  },
+  {
     "name": "Matt Sutkowski",
     "login": "msutkowski",
     "avatar": "https://avatars.githubusercontent.com/u/784953?u=6852558d80a14df3a55d6e722fd373e55f9349a1&v=4",
@@ -6992,6 +6976,14 @@
     "org": false
   },
   {
+    "name": null,
+    "login": "mildlyfunctional",
+    "avatar": "https://avatars.githubusercontent.com/u/27422?v=4",
+    "amount": -1,
+    "link": "https://github.com/mildlyfunctional",
+    "org": false
+  },
+  {
     "name": "bbbottle",
     "login": "bbb0ttle",
     "avatar": "https://avatars.githubusercontent.com/u/11043540?u=cae1f568630a3d2caf4525be8de33a115f8d6590&v=4",
@@ -7381,6 +7373,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/10465670?u=b9a1a0db1555e879c67a6dc03e386973779ee0a0&v=4",
     "amount": -1,
     "link": "https://github.com/h-a-n-a",
+    "org": false
+  },
+  {
+    "name": "Enzo Innocenzi",
+    "login": "innocenzi",
+    "avatar": "https://avatars.githubusercontent.com/u/16060559?u=4c0ac72d014627d9dce1fa42e530b9491dc9cfae&v=4",
+    "amount": -1,
+    "link": "https://github.com/innocenzi",
     "org": false
   },
   {
