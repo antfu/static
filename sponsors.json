@@ -304,14 +304,6 @@
     "org": false
   },
   {
-    "name": "tecvan",
-    "login": "Tecvan-fe",
-    "avatar": "https://avatars.githubusercontent.com/u/84165678?u=2b374b65f303aea7ba1183f41eb28a876950958e&v=4",
-    "amount": 10,
-    "link": "https://github.com/Tecvan-fe",
-    "org": false
-  },
-  {
     "name": "blackbird GmbH",
     "login": "blackbird-gmbh",
     "avatar": "https://avatars.githubusercontent.com/u/61544907?u=47c13f3eec39e9f0fa8e3bf4db9dac45699f4a90&v=4",
@@ -2677,6 +2669,14 @@
     "avatar": "https://pic1.afdiancdn.com/user/1ef656789d6611eeb01152540025c377/avatar/18fcf9a38106b9db55ef751e27f17fab_w400_h400_s18.jpeg",
     "amount": -1,
     "link": "https://afdian.com/u/1ef656789d6611eeb01152540025c377",
+    "org": false
+  },
+  {
+    "name": "tecvan",
+    "login": "Tecvan-fe",
+    "avatar": "https://avatars.githubusercontent.com/u/84165678?u=2b374b65f303aea7ba1183f41eb28a876950958e&v=4",
+    "amount": -1,
+    "link": "https://github.com/Tecvan-fe",
     "org": false
   },
   {
