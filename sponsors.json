@@ -1344,6 +1344,14 @@
     "org": false
   },
   {
+    "name": "Konv Suu",
+    "login": "kovsu",
+    "avatar": "https://avatars.githubusercontent.com/u/82451257?u=67705bb373b7ec804db95a942599d4004e8b7235&v=4",
+    "amount": 2,
+    "link": "https://github.com/kovsu",
+    "org": false
+  },
+  {
     "name": "Robin Genz",
     "login": "robingenz",
     "avatar": "https://avatars.githubusercontent.com/u/13857929?u=bc79facfce465b4217c46f28e23b37d829c8f970&v=4",
@@ -2005,14 +2013,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/39984251?u=cd008ddcd78587687ca428956630e2093b92a6ed&v=4",
     "amount": -1,
     "link": "https://github.com/Mini-ghost",
-    "org": false
-  },
-  {
-    "name": "Konv Suu",
-    "login": "kovsu",
-    "avatar": "https://avatars.githubusercontent.com/u/82451257?u=67705bb373b7ec804db95a942599d4004e8b7235&v=4",
-    "amount": -1,
-    "link": "https://github.com/kovsu",
     "org": false
   },
   {
@@ -4586,7 +4586,7 @@
   {
     "name": "Alex",
     "login": "piscis",
-    "avatar": "https://avatars.githubusercontent.com/u/326163?u=bf53ee39eafb4ab12de01d9a27ae68abbdc134cd&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/326163?u=b245f368bd940cf51d08c0b6bf55f8257f359437&v=4",
     "amount": -1,
     "link": "https://github.com/piscis",
     "org": false
@@ -7016,7 +7016,7 @@
     "org": false
   },
   {
-    "name": "Konstantin BIFERT",
+    "name": "kissu",
     "login": "kissu",
     "avatar": "https://avatars.githubusercontent.com/u/5133074?u=5eddeda68548c1ea72460c75ee957289c96478e0&v=4",
     "amount": -1,
