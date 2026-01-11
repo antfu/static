@@ -688,14 +688,6 @@
     "org": false
   },
   {
-    "name": "Michael",
-    "login": "MichaelHolley",
-    "avatar": "https://avatars.githubusercontent.com/u/47337897?u=8d0a6d5888fa99390071f6cf6cc0c64cae1db9d8&v=4",
-    "amount": 5,
-    "link": "https://github.com/MichaelHolley",
-    "org": false
-  },
-  {
     "name": "Roboflow",
     "login": "roboflow",
     "avatar": "https://avatars.githubusercontent.com/u/53104118?v=4",
@@ -914,7 +906,7 @@
   {
     "name": "Kauan Schaeffer",
     "login": "K-Schaeffer",
-    "avatar": "https://avatars.githubusercontent.com/u/37464395?u=9cf9234dfad0337cbb0e6ac7e06a95776e37c5a5&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/37464395?u=a9772e9353ccd415d3b00e98a1cca1aa938bac56&v=4",
     "amount": 4,
     "link": "https://github.com/K-Schaeffer",
     "org": false
@@ -1346,7 +1338,7 @@
   {
     "name": "Konv Suu",
     "login": "kovsu",
-    "avatar": "https://avatars.githubusercontent.com/u/82451257?u=67705bb373b7ec804db95a942599d4004e8b7235&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/82451257?u=aebc77cfff84b00dc63e336d4db7f1e002308039&v=4",
     "amount": 2,
     "link": "https://github.com/kovsu",
     "org": false
@@ -1766,6 +1758,14 @@
     "amount": -1,
     "link": "https://opencollective.com/myinstafollowcom",
     "org": true
+  },
+  {
+    "name": "Michael",
+    "login": "MichaelHolley",
+    "avatar": "https://avatars.githubusercontent.com/u/47337897?u=8d0a6d5888fa99390071f6cf6cc0c64cae1db9d8&v=4",
+    "amount": -1,
+    "link": "https://github.com/MichaelHolley",
+    "org": false
   },
   {
     "name": "Michael Hoffmann",
@@ -6857,10 +6857,10 @@
   },
   {
     "name": "David Robertson",
-    "login": "daver987",
+    "login": "drobertson-dev",
     "avatar": "https://avatars.githubusercontent.com/u/85001306?u=4fdb24aabc42b70327d11abd22cab23ddd9fb73e&v=4",
     "amount": -1,
-    "link": "https://github.com/daver987",
+    "link": "https://github.com/drobertson-dev",
     "org": false
   },
   {
