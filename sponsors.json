@@ -696,6 +696,14 @@
     "org": false
   },
   {
+    "name": "Stephen Zhou",
+    "login": "hyoban",
+    "avatar": "https://avatars.githubusercontent.com/u/38493346?u=73b116ae6704175ce20f30e993b35305ce1c631c&v=4",
+    "amount": 5,
+    "link": "https://github.com/hyoban",
+    "org": false
+  },
+  {
     "name": "Roboflow",
     "login": "roboflow",
     "avatar": "https://avatars.githubusercontent.com/u/53104118?v=4",
@@ -2512,14 +2520,6 @@
     "org": false
   },
   {
-    "name": "Stephen Zhou",
-    "login": "hyoban",
-    "avatar": "https://avatars.githubusercontent.com/u/38493346?u=73b116ae6704175ce20f30e993b35305ce1c631c&v=4",
-    "amount": -1,
-    "link": "https://github.com/hyoban",
-    "org": false
-  },
-  {
     "name": "Mateja Putic",
     "login": "matejaputic",
     "avatar": "https://avatars.githubusercontent.com/u/2180391?u=d8d00205131a2b1eeb5a466e210653704cdea271&v=4",
@@ -4058,7 +4058,7 @@
   {
     "name": "Klein",
     "login": "daiwanxing",
-    "avatar": "https://avatars.githubusercontent.com/u/37327614?u=2595623aaa7329effca920a1c346b7b0f4a98b4d&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/37327614?u=381601e04f3c88880ac318b9b63fc9aaa88cb981&v=4",
     "amount": -1,
     "link": "https://github.com/daiwanxing",
     "org": false
