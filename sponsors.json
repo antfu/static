@@ -67,9 +67,17 @@
     "name": "Storyblok",
     "login": "storyblok",
     "avatar": "https://avatars.githubusercontent.com/u/13880908?v=4",
-    "amount": 100,
+    "amount": 128,
     "link": "https://github.com/storyblok",
     "org": true
+  },
+  {
+    "name": "Yunfei He",
+    "login": "hyf0",
+    "avatar": "https://avatars.githubusercontent.com/u/49502170?u=5e77a887e2bda1d4395abb06d8ea8c9f423e2cc6&v=4",
+    "amount": 100,
+    "link": "https://github.com/hyf0",
+    "org": false
   },
   {
     "name": "Stanislas Ormières",
@@ -7477,14 +7485,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/60431344?u=fa97a17731ba06fc826892ba629478782fac24fe&v=4",
     "amount": -1,
     "link": "https://github.com/heyimnitho",
-    "org": false
-  },
-  {
-    "name": "Yunfei He",
-    "login": "hyf0",
-    "avatar": "https://avatars.githubusercontent.com/u/49502170?u=5e77a887e2bda1d4395abb06d8ea8c9f423e2cc6&v=4",
-    "amount": -1,
-    "link": "https://github.com/hyf0",
     "org": false
   },
   {
