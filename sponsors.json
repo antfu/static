@@ -552,14 +552,6 @@
     "org": false
   },
   {
-    "name": "Q.Ben Zheng",
-    "login": "Zhengqbbb",
-    "avatar": "https://avatars.githubusercontent.com/u/40693636?u=a81e66f3bfc7333670fec9307af98ae17c6ef0e7&v=4",
-    "amount": 8,
-    "link": "https://github.com/Zhengqbbb",
-    "org": false
-  },
-  {
     "name": "ch3cknull",
     "login": "ch3cknull",
     "avatar": "https://avatars.githubusercontent.com/u/45302021?u=0a4a9e8cb3ddc3bb9944837496bfbf7e6fbc8928&v=4",
@@ -1408,14 +1400,6 @@
     "org": false
   },
   {
-    "name": "Murad Ismayil",
-    "login": "murad-ismayil",
-    "avatar": "https://avatars.githubusercontent.com/u/101802328?u=b1d73281ae37aea94cf7ff1b8c5d58038e6c5c2f&v=4",
-    "amount": 1,
-    "link": "https://github.com/murad-ismayil",
-    "org": false
-  },
-  {
     "name": "Moti ne tirane",
     "login": "moti-ne-tirane",
     "avatar": "https://images.opencollective.com/moti-ne-tirane/e4a606f/logo/460.png",
@@ -1677,6 +1661,14 @@
     "avatar": "https://images.opencollective.com/ouuan/fce9809/avatar/460.png",
     "amount": 0.8333333333333334,
     "link": "https://opencollective.com/ouuan",
+    "org": false
+  },
+  {
+    "name": "Murad Ismayil",
+    "login": "murad-ismayil",
+    "avatar": "https://avatars.githubusercontent.com/u/101802328?u=b1d73281ae37aea94cf7ff1b8c5d58038e6c5c2f&v=4",
+    "amount": -1,
+    "link": "https://github.com/murad-ismayil",
     "org": false
   },
   {
@@ -2736,7 +2728,7 @@
     "org": false
   },
   {
-    "name": "Naoki Haba",
+    "name": "NaokiHaba",
     "login": "naokihaba",
     "avatar": "https://avatars.githubusercontent.com/u/59875779?u=9eb21272191d359fd1a13b301cdc258c73c2a2a5&v=4",
     "amount": -1,
@@ -4805,6 +4797,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/10981698?u=4460a070a9b556e23f90b5a4bc1ddd1e3cba52a3&v=4",
     "amount": -1,
     "link": "https://github.com/stefanfreitag",
+    "org": false
+  },
+  {
+    "name": "Q.Ben Zheng",
+    "login": "Zhengqbbb",
+    "avatar": "https://avatars.githubusercontent.com/u/40693636?u=a81e66f3bfc7333670fec9307af98ae17c6ef0e7&v=4",
+    "amount": -1,
+    "link": "https://github.com/Zhengqbbb",
     "org": false
   },
   {
