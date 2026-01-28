@@ -96,11 +96,11 @@
     "org": false
   },
   {
-    "name": "clawdbot",
-    "login": "clawdbot",
+    "name": "moltbot",
+    "login": "moltbot",
     "avatar": "https://avatars.githubusercontent.com/u/252820863?v=4",
     "amount": 32,
-    "link": "https://github.com/clawdbot",
+    "link": "https://github.com/moltbot",
     "org": true
   },
   {
@@ -5840,7 +5840,7 @@
     "org": false
   },
   {
-    "name": "Antonio Sarcevic",
+    "name": "antonio sarcevic",
     "login": "SarcevicAntonio",
     "avatar": "https://avatars.githubusercontent.com/u/6685200?u=eecf417297aada1538ebce66c6c0a3e694741212&v=4",
     "amount": -1,
