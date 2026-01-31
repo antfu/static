@@ -96,11 +96,11 @@
     "org": false
   },
   {
-    "name": "moltbot",
-    "login": "moltbot",
+    "name": "openclaw",
+    "login": "openclaw",
     "avatar": "https://avatars.githubusercontent.com/u/252820863?v=4",
     "amount": 32,
-    "link": "https://github.com/moltbot",
+    "link": "https://github.com/openclaw",
     "org": true
   },
   {
@@ -1005,14 +1005,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/1430946?u=e7ceb410ed1037236fcb8df19d8b9a8a9792dd58&v=4",
     "amount": 4,
     "link": "https://github.com/isokosan",
-    "org": false
-  },
-  {
-    "name": "Xie Yuhang",
-    "login": "xieyhn",
-    "avatar": "https://avatars.githubusercontent.com/u/38422259?u=875bbb63032ef6756bb027f4e9939dee981bd382&v=4",
-    "amount": 4,
-    "link": "https://github.com/xieyhn",
     "org": false
   },
   {
@@ -2325,6 +2317,14 @@
     "avatar": "https://pic1.afdiancdn.com/user/1ef656789d6611eeb01152540025c377/avatar/18fcf9a38106b9db55ef751e27f17fab_w400_h400_s18.jpeg",
     "amount": -1,
     "link": "https://afdian.com/u/1ef656789d6611eeb01152540025c377",
+    "org": false
+  },
+  {
+    "name": "Xie Yuhang",
+    "login": "xieyhn",
+    "avatar": "https://avatars.githubusercontent.com/u/38422259?u=875bbb63032ef6756bb027f4e9939dee981bd382&v=4",
+    "amount": -1,
+    "link": "https://github.com/xieyhn",
     "org": false
   },
   {
