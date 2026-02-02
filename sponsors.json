@@ -560,14 +560,6 @@
     "org": false
   },
   {
-    "name": "Jason Rietzke",
-    "login": "jason-rietzke",
-    "avatar": "https://avatars.githubusercontent.com/u/28512517?u=5061af7d2bb46d68caa8ea6d1b04bede8384c15b&v=4",
-    "amount": 8,
-    "link": "https://github.com/jason-rietzke",
-    "org": false
-  },
-  {
     "name": "Kevin Van Cott",
     "login": "KevinVandy",
     "avatar": "https://avatars.githubusercontent.com/u/28243511?u=c422106065277bddf5f85bc37f724568733db225&v=4",
@@ -1093,14 +1085,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/39363750?u=ff81db4aafae102263202a77cb2d0b737ff4c6e5&v=4",
     "amount": 4,
     "link": "https://github.com/CatsJuice",
-    "org": false
-  },
-  {
-    "name": "Tsuyoshi Yamaguchi",
-    "login": "Tsuyoshi84",
-    "avatar": "https://avatars.githubusercontent.com/u/11254699?u=48cf8fe456fa7f1e0f861d53cec15e0f901b5439&v=4",
-    "amount": 4,
-    "link": "https://github.com/Tsuyoshi84",
     "org": false
   },
   {
@@ -3224,7 +3208,7 @@
     "org": false
   },
   {
-    "name": "Wanshin",
+    "name": "Wansen",
     "login": "daiwanxing",
     "avatar": "https://avatars.githubusercontent.com/u/37327614?u=381601e04f3c88880ac318b9b63fc9aaa88cb981&v=4",
     "amount": -1,
@@ -3792,6 +3776,14 @@
     "org": false
   },
   {
+    "name": "Jason Rietzke",
+    "login": "jason-rietzke",
+    "avatar": "https://avatars.githubusercontent.com/u/28512517?u=5061af7d2bb46d68caa8ea6d1b04bede8384c15b&v=4",
+    "amount": -1,
+    "link": "https://github.com/jason-rietzke",
+    "org": false
+  },
+  {
     "name": "ivan",
     "login": "stevenleep",
     "avatar": "https://avatars.githubusercontent.com/u/106362981?u=9e0a125e610900180bf38aa735647531bea74096&v=4",
@@ -4194,7 +4186,7 @@
   {
     "name": "Neil",
     "login": "nei1ee",
-    "avatar": "https://avatars.githubusercontent.com/u/40738594?u=2063e05f8a70705f65ea2c7bc4ffff6693c6ace9&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/40738594?u=9ce30f0068a2f469b9bcd439153e17d0164812bb&v=4",
     "amount": -1,
     "link": "https://github.com/nei1ee",
     "org": false
@@ -6277,6 +6269,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/13848506?u=f0ae1d25c2953f2f97420f85548fad54682894a2&v=4",
     "amount": -1,
     "link": "https://github.com/orca-zhang",
+    "org": false
+  },
+  {
+    "name": "Tsuyoshi Yamaguchi",
+    "login": "Tsuyoshi84",
+    "avatar": "https://avatars.githubusercontent.com/u/11254699?u=48cf8fe456fa7f1e0f861d53cec15e0f901b5439&v=4",
+    "amount": -1,
+    "link": "https://github.com/Tsuyoshi84",
     "org": false
   },
   {
