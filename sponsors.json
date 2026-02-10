@@ -1352,14 +1352,6 @@
     "org": false
   },
   {
-    "name": "Konv Suu",
-    "login": "kovsu",
-    "avatar": "https://avatars.githubusercontent.com/u/82451257?u=aebc77cfff84b00dc63e336d4db7f1e002308039&v=4",
-    "amount": 2,
-    "link": "https://github.com/kovsu",
-    "org": false
-  },
-  {
     "name": "Robin Genz",
     "login": "robingenz",
     "avatar": "https://avatars.githubusercontent.com/u/13857929?u=bc79facfce465b4217c46f28e23b37d829c8f970&v=4",
@@ -1829,6 +1821,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/39984251?u=cd008ddcd78587687ca428956630e2093b92a6ed&v=4",
     "amount": -1,
     "link": "https://github.com/Mini-ghost",
+    "org": false
+  },
+  {
+    "name": "Konv Suu",
+    "login": "kovsu",
+    "avatar": "https://avatars.githubusercontent.com/u/82451257?u=aebc77cfff84b00dc63e336d4db7f1e002308039&v=4",
+    "amount": -1,
+    "link": "https://github.com/kovsu",
     "org": false
   },
   {
