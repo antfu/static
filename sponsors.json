@@ -248,14 +248,6 @@
     "org": false
   },
   {
-    "name": "Jason Poulin",
-    "login": "jasonvanguard",
-    "avatar": "https://avatars.githubusercontent.com/u/55339225?u=f97b60c098d906196b497c389286eb674d8f1e46&v=4",
-    "amount": 16,
-    "link": "https://github.com/jasonvanguard",
-    "org": false
-  },
-  {
     "name": "Daniel Roe",
     "login": "danielroe",
     "avatar": "https://avatars.githubusercontent.com/u/28706372?u=c4a5aa5232c09c3248533366d5c93a138d7e8987&v=4",
@@ -4208,6 +4200,14 @@
     "org": false
   },
   {
+    "name": "Jason Poulin",
+    "login": "jasonvanguard",
+    "avatar": "https://avatars.githubusercontent.com/u/55339225?u=f97b60c098d906196b497c389286eb674d8f1e46&v=4",
+    "amount": -1,
+    "link": "https://github.com/jasonvanguard",
+    "org": false
+  },
+  {
     "name": "Charlie Wang",
     "login": "cwandev",
     "avatar": "https://avatars.githubusercontent.com/u/22477554?u=02ae0143bcaa37d929c9847a5e6d9ed17c77543c&v=4",
@@ -4408,7 +4408,7 @@
     "org": false
   },
   {
-    "name": "sans",
+    "name": "andrew_s",
     "login": "songwuk",
     "avatar": "https://avatars.githubusercontent.com/u/22291878?u=353bb53131388698ccfc871e0b1f71159b635eb9&v=4",
     "amount": -1,
