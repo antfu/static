@@ -1744,6 +1744,14 @@
     "org": false
   },
   {
+    "name": "Moti ne tirane",
+    "login": "moti-ne-tirane",
+    "avatar": "https://images.opencollective.com/moti-ne-tirane/e4a606f/logo/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/moti-ne-tirane",
+    "org": true
+  },
+  {
     "name": "dalaoshu",
     "login": "shulaoda",
     "avatar": "https://avatars.githubusercontent.com/u/165626830?u=5d68a263bf65224140e54ed2b971731d90b94a12&v=4",
@@ -1753,10 +1761,10 @@
   },
   {
     "name": "David",
-    "login": "Davphla",
+    "login": "davd-gzl",
     "avatar": "https://avatars.githubusercontent.com/u/60177543?u=588ea7ec8dad50180471b13a3826d2906544cebe&v=4",
     "amount": -1,
-    "link": "https://github.com/Davphla",
+    "link": "https://github.com/davd-gzl",
     "org": false
   },
   {
@@ -2040,14 +2048,6 @@
     "org": false
   },
   {
-    "name": "Felix",
-    "login": "felix-bohlin",
-    "avatar": "https://avatars.githubusercontent.com/u/12730394?u=898856b319df67e78d59fc3fbcf2be37fb9180ad&v=4",
-    "amount": -1,
-    "link": "https://github.com/felix-bohlin",
-    "org": false
-  },
-  {
     "name": "Chris",
     "login": "chris1ding1",
     "avatar": "https://avatars.githubusercontent.com/u/194386334?u=5500604b50e35ed8a5aeb82ce34aa5d3ee3f88c7&v=4",
@@ -2061,14 +2061,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/54962581?v=4",
     "amount": -1,
     "link": "https://github.com/VincentBernet",
-    "org": false
-  },
-  {
-    "name": "Whitewater",
-    "login": "lawvs",
-    "avatar": "https://avatars.githubusercontent.com/u/18554747?u=5be13d230e1c13eeef6fd1ef60b37490b98185ec&v=4",
-    "amount": -1,
-    "link": "https://github.com/lawvs",
     "org": false
   },
   {
@@ -2086,14 +2078,6 @@
     "amount": -1,
     "link": "https://github.com/Lsscr",
     "org": false
-  },
-  {
-    "name": "LBKE - Lebrun Burel Knowledge Engineering",
-    "login": "lbke",
-    "avatar": "https://avatars.githubusercontent.com/u/18465804?v=4",
-    "amount": -1,
-    "link": "https://github.com/lbke",
-    "org": true
   },
   {
     "name": "Lavi",
@@ -2552,14 +2536,6 @@
     "org": false
   },
   {
-    "name": "Play-fortune.pl",
-    "login": "play-fortune-pl",
-    "avatar": "https://images.opencollective.com/play-fortune-pl/a15cdce/logo/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/play-fortune-pl",
-    "org": true
-  },
-  {
     "name": "Gavin John",
     "login": "Pandapip1",
     "avatar": "https://avatars.githubusercontent.com/u/45835846?v=4",
@@ -2582,30 +2558,6 @@
     "amount": -1,
     "link": "https://opencollective.com/olivier13",
     "org": false
-  },
-  {
-    "name": "MyInstaFollow – Real Social Growth",
-    "login": "myinstafollowcom",
-    "avatar": "https://images.opencollective.com/myinstafollowcom/98535b2/logo/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/myinstafollowcom",
-    "org": true
-  },
-  {
-    "name": "Myinstafollow - Buy Instagram Followers",
-    "login": "myinstafollow",
-    "avatar": "https://images.opencollective.com/myinstafollow/bce918d/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/myinstafollow",
-    "org": false
-  },
-  {
-    "name": "Moti ne tirane",
-    "login": "moti-ne-tirane",
-    "avatar": "https://images.opencollective.com/moti-ne-tirane/e4a606f/logo/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/moti-ne-tirane",
-    "org": true
   },
   {
     "name": "Michael Hoffmann",
@@ -5384,6 +5336,110 @@
     "org": false
   },
   {
+    "name": "Play-fortune.pl",
+    "login": "play-fortune-pl",
+    "avatar": "https://images.opencollective.com/play-fortune-pl/a15cdce/logo/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/play-fortune-pl",
+    "org": true
+  },
+  {
+    "name": "FameViso: Premier Agency to Buy Real Social Media Followers",
+    "login": "myinstafollowcom",
+    "avatar": "https://images.opencollective.com/myinstafollowcom/98535b2/logo/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/myinstafollowcom",
+    "org": true
+  },
+  {
+    "name": "Felix",
+    "login": "felix-bohlin",
+    "avatar": "https://avatars.githubusercontent.com/u/12730394?u=898856b319df67e78d59fc3fbcf2be37fb9180ad&v=4",
+    "amount": -1,
+    "link": "https://github.com/felix-bohlin",
+    "org": false
+  },
+  {
+    "name": "Whitewater",
+    "login": "lawvs",
+    "avatar": "https://avatars.githubusercontent.com/u/18554747?u=5be13d230e1c13eeef6fd1ef60b37490b98185ec&v=4",
+    "amount": -1,
+    "link": "https://github.com/lawvs",
+    "org": false
+  },
+  {
+    "name": "LBKE - Lebrun Burel Knowledge Engineering",
+    "login": "lbke",
+    "avatar": "https://avatars.githubusercontent.com/u/18465804?v=4",
+    "amount": -1,
+    "link": "https://github.com/lbke",
+    "org": true
+  },
+  {
+    "name": "Rocka Nutrition GmbH",
+    "login": "ilovept",
+    "avatar": "https://avatars.githubusercontent.com/u/8994317?v=4",
+    "amount": -1,
+    "link": "https://github.com/ilovept",
+    "org": true
+  },
+  {
+    "name": "Vivian Sarazin",
+    "login": "vvnsrzn",
+    "avatar": "https://avatars.githubusercontent.com/u/9358572?u=4b2aa1bfa9aeb89b884dc4e02fa4a2456738fdde&v=4",
+    "amount": -1,
+    "link": "https://github.com/vvnsrzn",
+    "org": false
+  },
+  {
+    "name": "Shunji Lin",
+    "login": "shunjilin",
+    "avatar": "https://avatars.githubusercontent.com/u/10043695?u=a82299c67c5b13855d7ea972420180e37d3c4029&v=4",
+    "amount": -1,
+    "link": "https://github.com/shunjilin",
+    "org": false
+  },
+  {
+    "name": "Jithin Sha",
+    "login": "jithin-sha",
+    "avatar": "https://images.opencollective.com/jithin-sha/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/jithin-sha",
+    "org": false
+  },
+  {
+    "name": "Jeremy",
+    "login": "jeremy29",
+    "avatar": "https://images.opencollective.com/jeremy29/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/jeremy29",
+    "org": false
+  },
+  {
+    "name": "Horoskopi",
+    "login": "horoskopi",
+    "avatar": "https://images.opencollective.com/horoskopi/02f7c79/logo/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/horoskopi",
+    "org": true
+  },
+  {
+    "name": "Yuhei FUJITA",
+    "login": "fjt",
+    "avatar": "https://images.opencollective.com/fjt/3955659/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/fjt",
+    "org": false
+  },
+  {
+    "name": "FameViso: Trusted Agency to Buy Instagram Followers",
+    "login": "fameviso",
+    "avatar": "https://images.opencollective.com/fameviso/bce918d/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/fameviso",
+    "org": false
+  },
+  {
     "name": "Carlos Martínez",
     "login": "carlosmfnt",
     "avatar": "https://avatars.githubusercontent.com/u/56879478?u=043fa3a725521757cd0a3eb441763535c6f95d8d&v=4",
@@ -5461,14 +5517,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/105033815?v=4",
     "amount": -1,
     "link": "https://github.com/gitpod-forks",
-    "org": true
-  },
-  {
-    "name": "Rocka Nutrition GmbH",
-    "login": "ilovept",
-    "avatar": "https://avatars.githubusercontent.com/u/8994317?v=4",
-    "amount": -1,
-    "link": "https://github.com/ilovept",
     "org": true
   },
   {
@@ -5592,27 +5640,11 @@
     "org": false
   },
   {
-    "name": "Vivian Sarazin",
-    "login": "vvnsrzn",
-    "avatar": "https://avatars.githubusercontent.com/u/9358572?u=4b2aa1bfa9aeb89b884dc4e02fa4a2456738fdde&v=4",
-    "amount": -1,
-    "link": "https://github.com/vvnsrzn",
-    "org": false
-  },
-  {
     "name": "zouhang",
     "login": "zouhangwithsweet",
     "avatar": "https://avatars.githubusercontent.com/u/21095710?u=2a798fbda3aa1b0506f546e026451b53f469031f&v=4",
     "amount": -1,
     "link": "https://github.com/zouhangwithsweet",
-    "org": false
-  },
-  {
-    "name": "Shunji Lin",
-    "login": "shunjilin",
-    "avatar": "https://avatars.githubusercontent.com/u/10043695?u=a82299c67c5b13855d7ea972420180e37d3c4029&v=4",
-    "amount": -1,
-    "link": "https://github.com/shunjilin",
     "org": false
   },
   {
@@ -5622,30 +5654,6 @@
     "amount": -1,
     "link": "https://github.com/MichaelGitArt",
     "org": false
-  },
-  {
-    "name": "Jithin Sha",
-    "login": "jithin-sha",
-    "avatar": "https://images.opencollective.com/jithin-sha/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/jithin-sha",
-    "org": false
-  },
-  {
-    "name": "Jeremy",
-    "login": "jeremy29",
-    "avatar": "https://images.opencollective.com/jeremy29/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/jeremy29",
-    "org": false
-  },
-  {
-    "name": "Horoskopi",
-    "login": "horoskopi",
-    "avatar": "https://images.opencollective.com/horoskopi/02f7c79/logo/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/horoskopi",
-    "org": true
   },
   {
     "name": "hiroya iizuka",
@@ -5736,15 +5744,7 @@
     "org": false
   },
   {
-    "name": "Yuhei FUJITA",
-    "login": "fjt",
-    "avatar": "https://images.opencollective.com/fjt/3955659/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/fjt",
-    "org": false
-  },
-  {
-    "name": "FameViso Buy Instagram Auto Likes",
+    "name": "FameViso: Monthly Auto Likes & Automated Instagram Engagement",
     "login": "buy-instagram-auto-likes",
     "avatar": "https://images.opencollective.com/buy-instagram-auto-likes/6353873/logo/460.png",
     "amount": -1,
