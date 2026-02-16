@@ -1480,14 +1480,6 @@
     "org": false
   },
   {
-    "name": "Michael Zheng",
-    "login": "headwindz",
-    "avatar": "https://avatars.githubusercontent.com/u/7504237?u=79498fc681f55c9cf01ce463dd86f7fbb228eebc&v=4",
-    "amount": 1,
-    "link": "https://github.com/headwindz",
-    "org": false
-  },
-  {
     "name": "Björn",
     "login": "beejaz",
     "avatar": "https://avatars.githubusercontent.com/u/9569157?v=4",
@@ -6274,7 +6266,7 @@
   {
     "name": "Aaron",
     "login": "aaronlamz",
-    "avatar": "https://avatars.githubusercontent.com/u/3964466?u=e0ca8c346311eac001285f6d427d674155bf07e1&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/3964466?u=42f95c48774bd3e2f54d382c0534c5ed35e25f16&v=4",
     "amount": -1,
     "link": "https://github.com/aaronlamz",
     "org": false
@@ -7133,6 +7125,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/421597?u=f286c5033a4e8b8a408410e69d59d9c9a73f5ed7&v=4",
     "amount": -1,
     "link": "https://github.com/gander",
+    "org": false
+  },
+  {
+    "name": "Michael Zheng",
+    "login": "headwindz",
+    "avatar": "https://avatars.githubusercontent.com/u/7504237?u=79498fc681f55c9cf01ce463dd86f7fbb228eebc&v=4",
+    "amount": -1,
+    "link": "https://github.com/headwindz",
     "org": false
   },
   {
