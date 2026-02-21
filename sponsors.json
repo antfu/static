@@ -1432,14 +1432,6 @@
     "org": false
   },
   {
-    "name": "Mr. Henry",
-    "login": "mrhenry",
-    "avatar": "https://avatars.githubusercontent.com/u/45111?v=4",
-    "amount": 1,
-    "link": "https://github.com/mrhenry",
-    "org": true
-  },
-  {
     "name": null,
     "login": "MatyiFKBT",
     "avatar": "https://avatars.githubusercontent.com/u/6183867?u=106e2533d8146d2bb6237bf740a0e743a5317c22&v=4",
@@ -3122,7 +3114,7 @@
   {
     "name": "MJ Delucchi",
     "login": "zanuka",
-    "avatar": "https://avatars.githubusercontent.com/u/202134?u=0813838e3d0c36efea747a2e63e2563d2752f4bb&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/202134?u=8fff7ff698ef10aacb010bd8ae8af7eb418390f1&v=4",
     "amount": -1,
     "link": "https://github.com/zanuka",
     "org": false
@@ -6238,6 +6230,14 @@
     "amount": -1,
     "link": "https://github.com/xjccc",
     "org": false
+  },
+  {
+    "name": "Mr. Henry",
+    "login": "mrhenry",
+    "avatar": "https://avatars.githubusercontent.com/u/45111?v=4",
+    "amount": -1,
+    "link": "https://github.com/mrhenry",
+    "org": true
   },
   {
     "name": "Bret Fisher",
