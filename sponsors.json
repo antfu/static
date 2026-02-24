@@ -992,14 +992,6 @@
     "org": false
   },
   {
-    "name": "tangyongjie",
-    "login": "tyj-321",
-    "avatar": "https://avatars.githubusercontent.com/u/65441198?u=f49de0f310b61409694a06f19e0538decd1c941a&v=4",
-    "amount": 4,
-    "link": "https://github.com/tyj-321",
-    "org": false
-  },
-  {
     "name": "Dohyung Ahn",
     "login": "adhrinae",
     "avatar": "https://avatars.githubusercontent.com/u/14539203?u=e61940e12337812907dd36e04e951edaab0d275b&v=4",
@@ -2437,6 +2429,14 @@
     "avatar": "https://images.opencollective.com/guest-14ba1af7/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/guest-14ba1af7",
+    "org": false
+  },
+  {
+    "name": "tangyongjie",
+    "login": "tyj-321",
+    "avatar": "https://avatars.githubusercontent.com/u/65441198?u=f49de0f310b61409694a06f19e0538decd1c941a&v=4",
+    "amount": -1,
+    "link": "https://github.com/tyj-321",
     "org": false
   },
   {
