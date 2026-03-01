@@ -168,14 +168,6 @@
     "org": false
   },
   {
-    "name": "Jex",
-    "login": "JexLau",
-    "avatar": "https://avatars.githubusercontent.com/u/35288649?u=1cedac024ff57e5906ee83eb60d1c7e608b13d2a&v=4",
-    "amount": 16,
-    "link": "https://github.com/JexLau",
-    "org": false
-  },
-  {
     "name": "Jianqi Pan",
     "login": "Jannchie",
     "avatar": "https://avatars.githubusercontent.com/u/29743310?u=8e0d49b98c35738afadc04e70c7f3918d6ad8cdb&v=4",
@@ -677,14 +669,6 @@
     "avatar": "https://images.opencollective.com/maybeanerd/71faf43/avatar/460.png",
     "amount": 5,
     "link": "https://opencollective.com/maybeanerd",
-    "org": false
-  },
-  {
-    "name": "André Silva",
-    "login": "askpt",
-    "avatar": "https://avatars.githubusercontent.com/u/2493377?u=63464504c91380cc87c5aea77f6b1b5d9fe01b84&v=4",
-    "amount": 5,
-    "link": "https://github.com/askpt",
     "org": false
   },
   {
@@ -2368,6 +2352,14 @@
     "org": false
   },
   {
+    "name": "Jex",
+    "login": "JexLau",
+    "avatar": "https://avatars.githubusercontent.com/u/35288649?u=1cedac024ff57e5906ee83eb60d1c7e608b13d2a&v=4",
+    "amount": -1,
+    "link": "https://github.com/JexLau",
+    "org": false
+  },
+  {
     "name": "Immerse",
     "login": "yaolifeng0629",
     "avatar": "https://avatars.githubusercontent.com/u/88535417?u=88ea13bd44fbb7b9c3cd60d62f42b32a0684e6e2&v=4",
@@ -3069,6 +3061,14 @@
     "avatar": "https://images.opencollective.com/david-pena1/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/david-pena1",
+    "org": false
+  },
+  {
+    "name": "André Silva",
+    "login": "askpt",
+    "avatar": "https://avatars.githubusercontent.com/u/2493377?u=63464504c91380cc87c5aea77f6b1b5d9fe01b84&v=4",
+    "amount": -1,
+    "link": "https://github.com/askpt",
     "org": false
   },
   {
