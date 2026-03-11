@@ -1000,14 +1000,6 @@
     "org": false
   },
   {
-    "name": "Petar Stoyanov",
-    "login": "petsto",
-    "avatar": "https://avatars.githubusercontent.com/u/7047129?u=d3ee92e15e49a7ffe891b69ec8373cdc0f883022&v=4",
-    "amount": 4,
-    "link": "https://github.com/petsto",
-    "org": false
-  },
-  {
     "name": null,
     "login": "w2xi",
     "avatar": "https://avatars.githubusercontent.com/u/57785259?u=721473edba9c335bba65dcb954753a494cb7b68d&v=4",
@@ -1394,7 +1386,7 @@
   {
     "name": "YONGQI",
     "login": "betterhyq",
-    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=d2832f1e77c344852b7efc351c83803690470c7f&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=3eda8d0ea760ce7c8415146941eb963249f66adb&v=4",
     "amount": 1,
     "link": "https://github.com/betterhyq",
     "org": false
@@ -2973,6 +2965,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/13066471?u=3c25f5a2b124cc6907931d1b6f93046295d3d23e&v=4",
     "amount": -1,
     "link": "https://github.com/shuangjie",
+    "org": false
+  },
+  {
+    "name": "Petar Stoyanov",
+    "login": "petsto",
+    "avatar": "https://avatars.githubusercontent.com/u/7047129?u=d3ee92e15e49a7ffe891b69ec8373cdc0f883022&v=4",
+    "amount": -1,
+    "link": "https://github.com/petsto",
     "org": false
   },
   {
