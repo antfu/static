@@ -1416,14 +1416,6 @@
     "org": false
   },
   {
-    "name": "Felix Spöttel",
-    "login": "fspoettel",
-    "avatar": "https://avatars.githubusercontent.com/u/1682504?u=d00c78e67d5d5c89a68522b8a200f1fa8a396024&v=4",
-    "amount": 1,
-    "link": "https://github.com/fspoettel",
-    "org": false
-  },
-  {
     "name": "Norman",
     "login": "nkoehring",
     "avatar": "https://avatars.githubusercontent.com/u/246402?u=5a93d26faaa0fb829fe03480f5c5a67dadd33f47&v=4",
@@ -4325,6 +4317,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/22515951?u=8656c59d5eb297bcbd725c80ba6104f865ef2a51&v=4",
     "amount": -1,
     "link": "https://github.com/webfansplz",
+    "org": false
+  },
+  {
+    "name": "Felix Spöttel",
+    "login": "fspoettel",
+    "avatar": "https://avatars.githubusercontent.com/u/1682504?u=d00c78e67d5d5c89a68522b8a200f1fa8a396024&v=4",
+    "amount": -1,
+    "link": "https://github.com/fspoettel",
     "org": false
   },
   {
