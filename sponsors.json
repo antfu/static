@@ -368,6 +368,14 @@
     "org": false
   },
   {
+    "name": "jinghaihan",
+    "login": "jinghaihan",
+    "avatar": "https://avatars.githubusercontent.com/u/39728926?u=1466954f7297f6360cdf9d9d377bd07b654409e7&v=4",
+    "amount": 8,
+    "link": "https://github.com/jinghaihan",
+    "org": false
+  },
+  {
     "name": "Matheus Cardoso",
     "login": "cardoso",
     "avatar": "https://avatars.githubusercontent.com/u/5606812?u=b9dd0ac69c36f7158993de7ad978443cab3e40e1&v=4",
@@ -829,14 +837,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/7399922?u=998d1d7254bf50294ee48857a313446d21c57b25&v=4",
     "amount": 4,
     "link": "https://github.com/AloisSeckar",
-    "org": false
-  },
-  {
-    "name": "jinghaihan",
-    "login": "jinghaihan",
-    "avatar": "https://avatars.githubusercontent.com/u/39728926?u=1466954f7297f6360cdf9d9d377bd07b654409e7&v=4",
-    "amount": 4,
-    "link": "https://github.com/jinghaihan",
     "org": false
   },
   {
@@ -6338,7 +6338,7 @@
   {
     "name": "Yiyang Suen",
     "login": "suenyiyang",
-    "avatar": "https://avatars.githubusercontent.com/u/57290456?u=629fdaab2c19df6513a3332bd6bd5b32034c0f77&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/57290456?u=b6f450c5b36e8c975490963b6b9fd8a11e24196b&v=4",
     "amount": -1,
     "link": "https://github.com/suenyiyang",
     "org": false
