@@ -128,6 +128,14 @@
     "org": false
   },
   {
+    "name": "Stefan Smiljkovic",
+    "login": "shtefcs",
+    "avatar": "https://avatars.githubusercontent.com/u/1984909?u=b7bf5bc40ed49df3c22f69d2da7b8d78709c49ed&v=4",
+    "amount": 21,
+    "link": "https://github.com/shtefcs",
+    "org": false
+  },
+  {
     "name": "Ulrich Stark",
     "login": "ulrichstark",
     "avatar": "https://avatars.githubusercontent.com/u/8657779?u=5cfc779c824faea1372da82157a469a581318f60&v=4",
@@ -269,14 +277,6 @@
     "avatar": "https://images.opencollective.com/mello-r/778dc52/avatar/460.png",
     "amount": 15,
     "link": "https://opencollective.com/mello-r",
-    "org": false
-  },
-  {
-    "name": "Stefan Smiljkovic",
-    "login": "shtefcs",
-    "avatar": "https://avatars.githubusercontent.com/u/1984909?u=b7bf5bc40ed49df3c22f69d2da7b8d78709c49ed&v=4",
-    "amount": 13,
-    "link": "https://github.com/shtefcs",
     "org": false
   },
   {
