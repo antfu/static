@@ -992,14 +992,6 @@
     "org": false
   },
   {
-    "name": "Guillaume Guerin",
-    "login": "Lyliya",
-    "avatar": "https://avatars.githubusercontent.com/u/22936229?u=5bdd10dfc37a1f10263f0476e07886d1ed1f4976&v=4",
-    "amount": 4,
-    "link": "https://github.com/Lyliya",
-    "org": false
-  },
-  {
     "name": "Kishi Yoshimaru / kagan",
     "login": "kagankan",
     "avatar": "https://avatars.githubusercontent.com/u/34136752?u=4d75e5b7a3bd567567c340b60cd68e5b0612dfd1&v=4",
@@ -3488,6 +3480,14 @@
     "org": false
   },
   {
+    "name": "Guillaume Guerin",
+    "login": "Lyliya",
+    "avatar": "https://avatars.githubusercontent.com/u/22936229?u=5bdd10dfc37a1f10263f0476e07886d1ed1f4976&v=4",
+    "amount": -1,
+    "link": "https://github.com/Lyliya",
+    "org": false
+  },
+  {
     "name": "Donald Shtjefni",
     "login": "dnldsht",
     "avatar": "https://avatars.githubusercontent.com/u/5272320?u=3acc51fc76718b544edd2d326f64bf3778a8d237&v=4",
@@ -3850,7 +3850,7 @@
   {
     "name": "Pink Champagne",
     "login": "PinkChampagne17",
-    "avatar": "https://avatars.githubusercontent.com/u/45930107?u=37ee5827e1610ac145b73804a3c33941493d2694&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/45930107?u=fb2bfe0703ff4691cead52a82e221cd0833cf8b0&v=4",
     "amount": -1,
     "link": "https://github.com/PinkChampagne17",
     "org": false
@@ -4962,7 +4962,7 @@
   {
     "name": "stephen4fun",
     "login": "qixiaobro",
-    "avatar": "https://avatars.githubusercontent.com/u/34623348?u=51a634321b210ea92daed358f5469089a9ae24f5&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/34623348?u=e40f64b195375ce6b78a760f3f2bbfa9cd5a8e05&v=4",
     "amount": -1,
     "link": "https://github.com/qixiaobro",
     "org": false
