@@ -304,14 +304,6 @@
     "org": false
   },
   {
-    "name": "Miguel",
-    "login": "miggi92",
-    "avatar": "https://avatars.githubusercontent.com/u/9019692?u=1744cb0aedfba884ff74289e84141ab8b5fb30e1&v=4",
-    "amount": 10,
-    "link": "https://github.com/miggi92",
-    "org": false
-  },
-  {
     "name": "Rudi Bruchez",
     "login": "rudi-bruchez",
     "avatar": "https://avatars.githubusercontent.com/u/2162124?u=6b8e04f8e7d6f6eb174c77b386ba32623b66f65b&v=4",
@@ -1629,6 +1621,14 @@
     "avatar": "https://images.opencollective.com/user-53231496/a1aac80/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/user-53231496",
+    "org": false
+  },
+  {
+    "name": "Miguel",
+    "login": "miggi92",
+    "avatar": "https://avatars.githubusercontent.com/u/9019692?u=1744cb0aedfba884ff74289e84141ab8b5fb30e1&v=4",
+    "amount": -1,
+    "link": "https://github.com/miggi92",
     "org": false
   },
   {
