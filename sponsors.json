@@ -1746,7 +1746,7 @@
   {
     "name": "Tom Stine",
     "login": "13zebras",
-    "avatar": "https://avatars.githubusercontent.com/u/17152930?u=1c3aa87def019191599322530f919083c46521f5&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/17152930?u=a13041aa55216fbcfa44f1dddd5281f2520c8a18&v=4",
     "amount": -1,
     "link": "https://github.com/13zebras",
     "org": false
@@ -4376,7 +4376,7 @@
     "org": false
   },
   {
-    "name": "zealleaf",
+    "name": null,
     "login": "zealleaf",
     "avatar": "https://avatars.githubusercontent.com/u/106396432?u=7245d53de0e590e050f3ee7b8f7750dafa10a281&v=4",
     "amount": -1,
