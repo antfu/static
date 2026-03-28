@@ -80,14 +80,6 @@
     "org": true
   },
   {
-    "name": "Stanislas Ormières",
-    "login": "laruiss",
-    "avatar": "https://avatars.githubusercontent.com/u/2486424?u=dc2afd60f43922a0d79ae8e7534225629d6c33b9&v=4",
-    "amount": 64,
-    "link": "https://github.com/laruiss",
-    "org": false
-  },
-  {
     "name": "Ben Hong",
     "login": "bencodezen",
     "avatar": "https://avatars.githubusercontent.com/u/4836334?u=aacee61efe3325ef286398c8673d9f4bd473eb56&v=4",
@@ -1616,22 +1608,6 @@
     "org": false
   },
   {
-    "name": "Toyo Tomi",
-    "login": "toyo-tomi",
-    "avatar": "https://images.opencollective.com/toyo-tomi/bbf9301/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/toyo-tomi",
-    "org": false
-  },
-  {
-    "name": "wenyan-lang",
-    "login": "wenyan-lang",
-    "avatar": "https://images.opencollective.com/wenyan-lang/e54fc86/logo/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/wenyan-lang",
-    "org": true
-  },
-  {
     "name": "UnAIMyText",
     "login": "user-53231496",
     "avatar": "https://images.opencollective.com/user-53231496/a1aac80/avatar/460.png",
@@ -1645,6 +1621,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/9019692?u=1744cb0aedfba884ff74289e84141ab8b5fb30e1&v=4",
     "amount": -1,
     "link": "https://github.com/miggi92",
+    "org": false
+  },
+  {
+    "name": "Toyo Tomi",
+    "login": "toyo-tomi",
+    "avatar": "https://images.opencollective.com/toyo-tomi/bbf9301/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/toyo-tomi",
     "org": false
   },
   {
@@ -2112,14 +2096,6 @@
     "org": false
   },
   {
-    "name": "Dmytro Cheglakov",
-    "login": "dcheglakov",
-    "avatar": "https://avatars.githubusercontent.com/u/7033855?u=c8a33bfae1abc823e25154a03e51688004c81349&v=4",
-    "amount": -1,
-    "link": "https://github.com/dcheglakov",
-    "org": false
-  },
-  {
     "name": "Dmitriy Brolnickij",
     "login": "brolnickij",
     "avatar": "https://avatars.githubusercontent.com/u/10180323?u=6ac25281fb1b2224fdf5d397a4d81398d5e19f4e&v=4",
@@ -2133,6 +2109,22 @@
     "avatar": "https://avatars.githubusercontent.com/u/9744580?u=0eb64eaff3cdab67ee054248f93150c0b90e5fc0&v=4",
     "amount": -1,
     "link": "https://github.com/knokmki612",
+    "org": false
+  },
+  {
+    "name": "Jithin Sha",
+    "login": "jithin-sha",
+    "avatar": "https://images.opencollective.com/jithin-sha/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/jithin-sha",
+    "org": false
+  },
+  {
+    "name": "Dmytro Cheglakov",
+    "login": "dcheglakov",
+    "avatar": "https://avatars.githubusercontent.com/u/7033855?u=c8a33bfae1abc823e25154a03e51688004c81349&v=4",
+    "amount": -1,
+    "link": "https://github.com/dcheglakov",
     "org": false
   },
   {
@@ -2157,14 +2149,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/10615263?u=653a2d5ad93694ca582df20f4e4a4a4291be226a&v=4",
     "amount": -1,
     "link": "https://github.com/eldiegod",
-    "org": false
-  },
-  {
-    "name": "J​akob",
-    "login": "jakob-kruse",
-    "avatar": "https://avatars.githubusercontent.com/u/16742703?u=ef533b4542bb5552b220eecb19a2be858c838aec&v=4",
-    "amount": -1,
-    "link": "https://github.com/jakob-kruse",
     "org": false
   },
   {
@@ -2576,14 +2560,6 @@
     "org": false
   },
   {
-    "name": "Jithin Sha",
-    "login": "jithin-sha",
-    "avatar": "https://images.opencollective.com/jithin-sha/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/jithin-sha",
-    "org": false
-  },
-  {
     "name": "Jeremy",
     "login": "jeremy29",
     "avatar": "https://images.opencollective.com/jeremy29/avatar/460.png",
@@ -2614,6 +2590,14 @@
     "amount": -1,
     "link": "https://opencollective.com/guest-d379688a",
     "org": false
+  },
+  {
+    "name": "wenyan-lang",
+    "login": "wenyan-lang",
+    "avatar": "https://images.opencollective.com/wenyan-lang/e54fc86/logo/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/wenyan-lang",
+    "org": true
   },
   {
     "name": "Yuhei FUJITA",
@@ -3704,6 +3688,14 @@
     "org": false
   },
   {
+    "name": "e9210",
+    "login": "e9210984e6a411eeaefb52540025c377",
+    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/",
+    "amount": -1,
+    "link": "https://afdian.com/u/e9210984e6a411eeaefb52540025c377",
+    "org": false
+  },
+  {
     "name": "Azat S.",
     "login": "azat_io",
     "avatar": "https://images.opencollective.com/azat_io/56830a5/avatar/460.png",
@@ -3821,14 +3813,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/41169617?v=4",
     "amount": -1,
     "link": "https://github.com/HassanDomeDenea",
-    "org": false
-  },
-  {
-    "name": "e9210",
-    "login": "e9210984e6a411eeaefb52540025c377",
-    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/",
-    "amount": -1,
-    "link": "https://afdian.com/u/e9210984e6a411eeaefb52540025c377",
     "org": false
   },
   {
@@ -6877,6 +6861,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/21964900?u=1741ef56d83dfaf7b0df0ad05ebc7a14eb9b2092&v=4",
     "amount": -1,
     "link": "https://github.com/fazulk",
+    "org": false
+  },
+  {
+    "name": "J​akob",
+    "login": "jakob-kruse",
+    "avatar": "https://avatars.githubusercontent.com/u/16742703?u=ef533b4542bb5552b220eecb19a2be858c838aec&v=4",
+    "amount": -1,
+    "link": "https://github.com/jakob-kruse",
     "org": false
   },
   {
