@@ -912,6 +912,14 @@
     "org": false
   },
   {
+    "name": "YONGQI",
+    "login": "betterhyq",
+    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=f6c4b9089c03f46afc964b7c65aa83bdc2234b58&v=4",
+    "amount": 4,
+    "link": "https://github.com/betterhyq",
+    "org": false
+  },
+  {
     "name": "Alexander Opalic",
     "login": "alexanderop",
     "avatar": "https://avatars.githubusercontent.com/u/33398393?u=4f196b8d1fe8a4b8f709cca24a55751f3ad07135&v=4",
@@ -1365,14 +1373,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/44870505?u=9e9dd01aa5bfe0fba3746492320c469bfd53d712&v=4",
     "amount": 1,
     "link": "https://github.com/ysknsid25",
-    "org": false
-  },
-  {
-    "name": "YONGQI",
-    "login": "betterhyq",
-    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=ece3b79f1171c2f1eb6750126491f5695acb108c&v=4",
-    "amount": 1,
-    "link": "https://github.com/betterhyq",
     "org": false
   },
   {
