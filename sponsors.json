@@ -16,14 +16,6 @@
     "org": true
   },
   {
-    "name": "Michel Edighoffer Développments",
-    "login": "guest-115bdd2c",
-    "avatar": "https://images.opencollective.com/guest-115bdd2c/avatar/460.png",
-    "amount": 800,
-    "link": "https://opencollective.com/guest-115bdd2c",
-    "org": false
-  },
-  {
     "name": "StackBlitz",
     "login": "stackblitz",
     "avatar": "https://avatars.githubusercontent.com/u/28635252?v=4",
@@ -664,14 +656,6 @@
     "org": false
   },
   {
-    "name": "Isiah Jones",
-    "login": "Coder-IsiahJones",
-    "avatar": "https://avatars.githubusercontent.com/u/32337329?u=7bdbb2225f2b7c21cba14d3866f139f788d3d761&v=4",
-    "amount": 5,
-    "link": "https://github.com/Coder-IsiahJones",
-    "org": false
-  },
-  {
     "name": "Stephen Zhou",
     "login": "hyoban",
     "avatar": "https://avatars.githubusercontent.com/u/38493346?u=73b116ae6704175ce20f30e993b35305ce1c631c&v=4",
@@ -1101,14 +1085,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/57829584?u=6902c4d7cf8856193dd1605066de26fe33d0798f&v=4",
     "amount": 4,
     "link": "https://github.com/l4dybird",
-    "org": false
-  },
-  {
-    "name": "timching",
-    "login": "timching",
-    "avatar": "https://avatars.githubusercontent.com/u/25523465?u=fd4d51959cbbddaed11b09f9f871d98dc762cbd0&v=4",
-    "amount": 4,
-    "link": "https://github.com/timching",
     "org": false
   },
   {
@@ -2584,6 +2560,14 @@
     "org": true
   },
   {
+    "name": "Michel Edighoffer Développments",
+    "login": "guest-115bdd2c",
+    "avatar": "https://images.opencollective.com/guest-115bdd2c/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/guest-115bdd2c",
+    "org": false
+  },
+  {
     "name": "François Best",
     "login": "guest-d379688a",
     "avatar": "https://images.opencollective.com/guest-d379688a/avatar/460.png",
@@ -2621,6 +2605,14 @@
     "avatar": "https://images.opencollective.com/david-pena1/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/david-pena1",
+    "org": false
+  },
+  {
+    "name": "Isiah Jones",
+    "login": "Coder-IsiahJones",
+    "avatar": "https://avatars.githubusercontent.com/u/32337329?u=7bdbb2225f2b7c21cba14d3866f139f788d3d761&v=4",
+    "amount": -1,
+    "link": "https://github.com/Coder-IsiahJones",
     "org": false
   },
   {
@@ -5373,6 +5365,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/57179957?u=26f6a00905a568ecbde578d082d1d9ea946454c7&v=4",
     "amount": -1,
     "link": "https://github.com/yeonjulee1005",
+    "org": false
+  },
+  {
+    "name": "timching",
+    "login": "timching",
+    "avatar": "https://avatars.githubusercontent.com/u/25523465?u=fd4d51959cbbddaed11b09f9f871d98dc762cbd0&v=4",
+    "amount": -1,
+    "link": "https://github.com/timching",
     "org": false
   },
   {
