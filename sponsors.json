@@ -808,14 +808,6 @@
     "org": false
   },
   {
-    "name": "Isaac Hassani",
-    "login": "Isaac1h",
-    "avatar": "https://avatars.githubusercontent.com/u/127258834?u=4496604355cc11607e63297c11e1c723331a53fd&v=4",
-    "amount": 4,
-    "link": "https://github.com/Isaac1h",
-    "org": false
-  },
-  {
     "name": "Tadashi Shigeoka",
     "login": "shige",
     "avatar": "https://avatars.githubusercontent.com/u/844012?u=cccd37bc2ce03098be0d3e54e04cd299ef871fa0&v=4",
@@ -1832,9 +1824,9 @@
     "org": false
   },
   {
-    "name": null,
+    "name": "Adrián Fernández",
     "login": "jackblordbest",
-    "avatar": "https://avatars.githubusercontent.com/u/9845585?v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/9845585?u=7f35ba6f4b56b741660a62bec8a8c48dffed0857&v=4",
     "amount": -1,
     "link": "https://github.com/jackblordbest",
     "org": false
@@ -2565,6 +2557,14 @@
     "avatar": "https://images.opencollective.com/guest-115bdd2c/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/guest-115bdd2c",
+    "org": false
+  },
+  {
+    "name": "Isaac Hassani",
+    "login": "Isaac1h",
+    "avatar": "https://avatars.githubusercontent.com/u/127258834?u=4496604355cc11607e63297c11e1c723331a53fd&v=4",
+    "amount": -1,
+    "link": "https://github.com/Isaac1h",
     "org": false
   },
   {
@@ -3858,7 +3858,7 @@
   {
     "name": "Dino Kupinic",
     "login": "Dino-Kupinic",
-    "avatar": "https://avatars.githubusercontent.com/u/87943435?u=82c70f85cd088f09cdbf926270dae75e707c71d1&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/87943435?u=1b8ccb22cc1a413260c9d531deab814c2bd35cc6&v=4",
     "amount": -1,
     "link": "https://github.com/Dino-Kupinic",
     "org": false
@@ -8305,10 +8305,10 @@
   },
   {
     "name": "Joaquín Corredor",
-    "login": "haljac",
+    "login": "jvcorredor",
     "avatar": "https://avatars.githubusercontent.com/u/44177102?u=23f2806183006245f4e1be7ff56b546fdb818fee&v=4",
     "amount": -1,
-    "link": "https://github.com/haljac",
+    "link": "https://github.com/jvcorredor",
     "org": false
   },
   {
