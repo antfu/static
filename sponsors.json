@@ -280,14 +280,6 @@
     "org": true
   },
   {
-    "name": "SerKo",
-    "login": "serkodev",
-    "avatar": "https://avatars.githubusercontent.com/u/44749100?u=e0c8f8e5305cffe6d9a047af11d8ac0fe20d3ab0&v=4",
-    "amount": 13,
-    "link": "https://github.com/serkodev",
-    "org": false
-  },
-  {
     "name": "Rudi Bruchez",
     "login": "rudi-bruchez",
     "avatar": "https://avatars.githubusercontent.com/u/2162124?u=6b8e04f8e7d6f6eb174c77b386ba32623b66f65b&v=4",
@@ -445,6 +437,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/31655006?u=42340f5db692733fc8cad443e878597276ed891b&v=4",
     "amount": 8,
     "link": "https://github.com/lwydra",
+    "org": false
+  },
+  {
+    "name": "SerKo",
+    "login": "serkodev",
+    "avatar": "https://avatars.githubusercontent.com/u/44749100?u=e0c8f8e5305cffe6d9a047af11d8ac0fe20d3ab0&v=4",
+    "amount": 8,
+    "link": "https://github.com/serkodev",
     "org": false
   },
   {
@@ -3242,7 +3242,7 @@
   {
     "name": "Denys Petryniak",
     "login": "denys-petryniak",
-    "avatar": "https://avatars.githubusercontent.com/u/16530588?u=350c405779c43522908ab0a8f5fe067b4065e180&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/16530588?u=de1be05550ec44a60009a695a503aeb79018525b&v=4",
     "amount": -1,
     "link": "https://github.com/denys-petryniak",
     "org": false
@@ -5649,10 +5649,10 @@
   },
   {
     "name": "阿杰鲁",
-    "login": "zaunist",
+    "login": "TakumiInui5432",
     "avatar": "https://avatars.githubusercontent.com/u/38528079?v=4",
     "amount": -1,
-    "link": "https://github.com/zaunist",
+    "link": "https://github.com/TakumiInui5432",
     "org": false
   },
   {
