@@ -86,7 +86,7 @@ export default defineConfig({
 
   mergeSponsors: [
     [
-      { login: 'patak-dev', provider: 'github' },
+      { login: 'patak-cat', provider: 'github' },
       { login: 'patak', provider: 'opencollective' },
     ],
     [
