@@ -1248,14 +1248,6 @@
     "org": false
   },
   {
-    "name": "Kuro Hsu",
-    "login": "kurotanshi",
-    "avatar": "https://avatars.githubusercontent.com/u/362912?u=28a005fabf55d7f646da4960f8dd26c08aff20b8&v=4",
-    "amount": 4,
-    "link": "https://github.com/kurotanshi",
-    "org": false
-  },
-  {
     "name": "Max",
     "login": "fi3ework",
     "avatar": "https://avatars.githubusercontent.com/u/12322740?u=056f396cfc1df6fd7e1bd486e0578f6fd0158761&v=4",
@@ -3698,7 +3690,7 @@
   {
     "name": "Aaron",
     "login": "aaronlamz",
-    "avatar": "https://avatars.githubusercontent.com/u/3964466?u=25fa6c9bb940eddbda970a0b551966671dab5a61&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/3964466?u=da9803ef79fa4f54ed6fb993c534d48ca0ad1a95&v=4",
     "amount": -1,
     "link": "https://github.com/aaronlamz",
     "org": false
@@ -6624,7 +6616,7 @@
     "org": false
   },
   {
-    "name": "Dominik Pieper",
+    "name": "Dominik Cortese Pieper",
     "login": "DominikPieper",
     "avatar": "https://avatars.githubusercontent.com/u/77470?u=23314c09c938e9308d057556353a6a4e0388f4fd&v=4",
     "amount": -1,
@@ -7597,6 +7589,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/16351920?u=1d40ba2686126c62b21cea15df32c91e66759df1&v=4",
     "amount": -1,
     "link": "https://github.com/EdgeAsh",
+    "org": false
+  },
+  {
+    "name": "Kuro Hsu",
+    "login": "kurotanshi",
+    "avatar": "https://avatars.githubusercontent.com/u/362912?u=28a005fabf55d7f646da4960f8dd26c08aff20b8&v=4",
+    "amount": -1,
+    "link": "https://github.com/kurotanshi",
     "org": false
   },
   {
