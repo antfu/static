@@ -672,14 +672,6 @@
     "org": false
   },
   {
-    "name": "Maiquu",
-    "login": "ege-iliklier",
-    "avatar": "https://images.opencollective.com/ege-iliklier/avatar/460.png",
-    "amount": 5,
-    "link": "https://opencollective.com/ege-iliklier",
-    "org": false
-  },
-  {
     "name": "Roboflow",
     "login": "roboflow",
     "avatar": "https://avatars.githubusercontent.com/u/53104118?v=4",
@@ -1312,6 +1304,14 @@
     "org": false
   },
   {
+    "name": "Grégoire Ciles",
+    "login": "ggcls",
+    "avatar": "https://avatars.githubusercontent.com/u/58565458?v=4",
+    "amount": 1,
+    "link": "https://github.com/ggcls",
+    "org": false
+  },
+  {
     "name": "Abdul Vakeel Software Engineer",
     "login": "AbdulVakeel",
     "avatar": "https://avatars.githubusercontent.com/u/163490858?u=633dd154e75dad23cf9f33c93d496744c4c166b4&v=4",
@@ -1584,30 +1584,6 @@
     "org": false
   },
   {
-    "name": "Horoskopi",
-    "login": "horoskopi",
-    "avatar": "https://images.opencollective.com/horoskopi/02f7c79/logo/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/horoskopi",
-    "org": true
-  },
-  {
-    "name": "Jithin Sha",
-    "login": "jithin-sha",
-    "avatar": "https://images.opencollective.com/jithin-sha/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/jithin-sha",
-    "org": false
-  },
-  {
-    "name": "wenyan-lang",
-    "login": "wenyan-lang",
-    "avatar": "https://images.opencollective.com/wenyan-lang/e54fc86/logo/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/wenyan-lang",
-    "org": true
-  },
-  {
     "name": "Other Payment Processor",
     "login": "other-payment-processor-vendor",
     "avatar": "https://images.opencollective.com/other-payment-processor-vendor/logo/460.png",
@@ -1696,11 +1672,27 @@
     "org": false
   },
   {
+    "name": "Horoskopi",
+    "login": "horoskopi",
+    "avatar": "https://images.opencollective.com/horoskopi/02f7c79/logo/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/horoskopi",
+    "org": true
+  },
+  {
     "name": "Bertrand Yuan",
     "login": "bertyuan",
     "avatar": "https://avatars.githubusercontent.com/u/189593334?u=a1ffc49e133c2ecc8d4f84bc703c72e8637d7d63&v=4",
     "amount": -1,
     "link": "https://github.com/bertyuan",
+    "org": false
+  },
+  {
+    "name": "Jithin Sha",
+    "login": "jithin-sha",
+    "avatar": "https://images.opencollective.com/jithin-sha/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/jithin-sha",
     "org": false
   },
   {
@@ -1710,6 +1702,14 @@
     "amount": -1,
     "link": "https://github.com/ycs77",
     "org": false
+  },
+  {
+    "name": "wenyan-lang",
+    "login": "wenyan-lang",
+    "avatar": "https://images.opencollective.com/wenyan-lang/e54fc86/logo/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/wenyan-lang",
+    "org": true
   },
   {
     "name": null,
@@ -2336,6 +2336,14 @@
     "org": false
   },
   {
+    "name": "Maiquu",
+    "login": "ege-iliklier",
+    "avatar": "https://images.opencollective.com/ege-iliklier/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/ege-iliklier",
+    "org": false
+  },
+  {
     "name": "Yuhei FUJITA",
     "login": "fjt",
     "avatar": "https://images.opencollective.com/fjt/3955659/avatar/460.png",
@@ -2880,19 +2888,19 @@
     "org": false
   },
   {
+    "name": "a1mersnow",
+    "login": "a1mersnow",
+    "avatar": "https://images.opencollective.com/a1mersnow/a1cad52/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/a1mersnow",
+    "org": false
+  },
+  {
     "name": "xjccc",
     "login": "xjccc",
     "avatar": "https://images.opencollective.com/xjccc/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/xjccc",
-    "org": false
-  },
-  {
-    "name": "Anthony Fu",
-    "login": "antfu7",
-    "avatar": "https://images.opencollective.com/antfu7/9b1782b/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/antfu7",
     "org": false
   },
   {
@@ -2912,11 +2920,11 @@
     "org": false
   },
   {
-    "name": "a1mersnow",
-    "login": "a1mersnow",
-    "avatar": "https://images.opencollective.com/a1mersnow/a1cad52/avatar/460.png",
+    "name": "Anthony Fu",
+    "login": "antfu7",
+    "avatar": "https://images.opencollective.com/antfu7/9b1782b/avatar/460.png",
     "amount": -1,
-    "link": "https://opencollective.com/a1mersnow",
+    "link": "https://opencollective.com/antfu7",
     "org": false
   },
   {
