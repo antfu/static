@@ -672,6 +672,14 @@
     "org": false
   },
   {
+    "name": "Maiquu",
+    "login": "ege-iliklier",
+    "avatar": "https://images.opencollective.com/ege-iliklier/avatar/460.png",
+    "amount": 5,
+    "link": "https://opencollective.com/ege-iliklier",
+    "org": false
+  },
+  {
     "name": "Roboflow",
     "login": "roboflow",
     "avatar": "https://avatars.githubusercontent.com/u/53104118?v=4",
@@ -1306,7 +1314,7 @@
   {
     "name": "Grégoire Ciles",
     "login": "ggcls",
-    "avatar": "https://avatars.githubusercontent.com/u/58565458?v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/58565458?u=d81f1225e4561dd75839230ebfa8f93d0655e14b&v=4",
     "amount": 1,
     "link": "https://github.com/ggcls",
     "org": false
@@ -2336,14 +2344,6 @@
     "org": false
   },
   {
-    "name": "Maiquu",
-    "login": "ege-iliklier",
-    "avatar": "https://images.opencollective.com/ege-iliklier/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/ege-iliklier",
-    "org": false
-  },
-  {
     "name": "Yuhei FUJITA",
     "login": "fjt",
     "avatar": "https://images.opencollective.com/fjt/3955659/avatar/460.png",
@@ -3250,7 +3250,7 @@
   {
     "name": "Denys Petryniak",
     "login": "denys-petryniak",
-    "avatar": "https://avatars.githubusercontent.com/u/16530588?u=de1be05550ec44a60009a695a503aeb79018525b&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/16530588?u=34051f0675aeca9821ad506c7e6d461b485480c3&v=4",
     "amount": -1,
     "link": "https://github.com/denys-petryniak",
     "org": false
