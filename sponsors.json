@@ -880,11 +880,11 @@
     "org": false
   },
   {
-    "name": "YONGQI",
-    "login": "betterhyq",
+    "name": "YONG",
+    "login": "pixsway",
     "avatar": "https://avatars.githubusercontent.com/u/206218794?u=f6c4b9089c03f46afc964b7c65aa83bdc2234b58&v=4",
     "amount": 4,
-    "link": "https://github.com/betterhyq",
+    "link": "https://github.com/pixsway",
     "org": false
   },
   {
@@ -1061,6 +1061,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/57829584?u=6902c4d7cf8856193dd1605066de26fe33d0798f&v=4",
     "amount": 4,
     "link": "https://github.com/l4dybird",
+    "org": false
+  },
+  {
+    "name": "timching",
+    "login": "timching",
+    "avatar": "https://avatars.githubusercontent.com/u/25523465?u=fd4d51959cbbddaed11b09f9f871d98dc762cbd0&v=4",
+    "amount": 4,
+    "link": "https://github.com/timching",
     "org": false
   },
   {
@@ -1568,14 +1576,6 @@
     "org": false
   },
   {
-    "name": "Miguel",
-    "login": "miggi92",
-    "avatar": "https://avatars.githubusercontent.com/u/9019692?u=1744cb0aedfba884ff74289e84141ab8b5fb30e1&v=4",
-    "amount": -1,
-    "link": "https://github.com/miggi92",
-    "org": false
-  },
-  {
     "name": "Toyo Tomi",
     "login": "toyo-tomi",
     "avatar": "https://images.opencollective.com/toyo-tomi/bbf9301/avatar/460.png",
@@ -1613,6 +1613,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/32337329?u=7bdbb2225f2b7c21cba14d3866f139f788d3d761&v=4",
     "amount": -1,
     "link": "https://github.com/Coder-IsiahJones",
+    "org": false
+  },
+  {
+    "name": "Miguel",
+    "login": "miggi92",
+    "avatar": "https://avatars.githubusercontent.com/u/9019692?u=1744cb0aedfba884ff74289e84141ab8b5fb30e1&v=4",
+    "amount": -1,
+    "link": "https://github.com/miggi92",
     "org": false
   },
   {
@@ -2904,27 +2912,19 @@
     "org": false
   },
   {
-    "name": "David Pena",
-    "login": "david-pena1",
-    "avatar": "https://images.opencollective.com/david-pena1/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/david-pena1",
-    "org": false
-  },
-  {
-    "name": "Azat S.",
-    "login": "azat_io",
-    "avatar": "https://images.opencollective.com/azat_io/56830a5/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/azat_io",
-    "org": false
-  },
-  {
     "name": "Anthony Fu",
     "login": "antfu7",
     "avatar": "https://images.opencollective.com/antfu7/9b1782b/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/antfu7",
+    "org": false
+  },
+  {
+    "name": "David Pena",
+    "login": "david-pena1",
+    "avatar": "https://images.opencollective.com/david-pena1/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/david-pena1",
     "org": false
   },
   {
@@ -4120,14 +4120,6 @@
     "org": false
   },
   {
-    "name": "AKD Studios",
-    "login": "akdasa-studios",
-    "avatar": "https://avatars.githubusercontent.com/u/115068555?v=4",
-    "amount": -1,
-    "link": "https://github.com/akdasa-studios",
-    "org": true
-  },
-  {
     "name": "6c231",
     "login": "6c2314660b8711ee84fa52540025c377",
     "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/",
@@ -4166,6 +4158,22 @@
     "amount": -1,
     "link": "https://afdian.com/u/bd3245d643bc11ed902052540025c377",
     "org": false
+  },
+  {
+    "name": "Azat S.",
+    "login": "azat_io",
+    "avatar": "https://images.opencollective.com/azat_io/56830a5/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/azat_io",
+    "org": false
+  },
+  {
+    "name": "AKd Studio",
+    "login": "akdasa-studios",
+    "avatar": "https://avatars.githubusercontent.com/u/115068555?v=4",
+    "amount": -1,
+    "link": "https://github.com/akdasa-studios",
+    "org": true
   },
   {
     "name": "qixiaobro",
@@ -7753,10 +7761,10 @@
   },
   {
     "name": "Narcis Bugeag",
-    "login": "narcisbugeag",
+    "login": "leonardssh",
     "avatar": "https://avatars.githubusercontent.com/u/35312043?u=0f195b26f6e2294cd4e3cb4baa199fd7b0c6efd8&v=4",
     "amount": -1,
-    "link": "https://github.com/narcisbugeag",
+    "link": "https://github.com/leonardssh",
     "org": false
   },
   {
