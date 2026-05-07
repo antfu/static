@@ -312,6 +312,14 @@
     "org": false
   },
   {
+    "name": "面条",
+    "login": "miantiao-me",
+    "avatar": "https://avatars.githubusercontent.com/u/2959393?v=4",
+    "amount": 10,
+    "link": "https://github.com/miantiao-me",
+    "org": false
+  },
+  {
     "name": "blackbird GmbH",
     "login": "blackbird-gmbh",
     "avatar": "https://avatars.githubusercontent.com/u/61544907?u=47c13f3eec39e9f0fa8e3bf4db9dac45699f4a90&v=4",
@@ -3301,14 +3309,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/21072589?u=051d9577bfae935f251d7dff1136ecd7df2b15b0&v=4",
     "amount": -1,
     "link": "https://github.com/PeterChen1997",
-    "org": false
-  },
-  {
-    "name": "面条",
-    "login": "miantiao-me",
-    "avatar": "https://avatars.githubusercontent.com/u/2959393?v=4",
-    "amount": -1,
-    "link": "https://github.com/miantiao-me",
     "org": false
   },
   {
