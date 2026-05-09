@@ -72,6 +72,14 @@
     "org": false
   },
   {
+    "name": "Amplify",
+    "login": "amplify-education",
+    "avatar": "https://avatars.githubusercontent.com/u/15659472?v=4",
+    "amount": 50,
+    "link": "https://github.com/amplify-education",
+    "org": true
+  },
+  {
     "name": "openclaw",
     "login": "openclaw",
     "avatar": "https://avatars.githubusercontent.com/u/252820863?v=4",
@@ -885,14 +893,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/60601502?u=666d92d2cbc96adbff6170320fc3c84c8d976fe4&v=4",
     "amount": 4,
     "link": "https://github.com/sneakylenny",
-    "org": false
-  },
-  {
-    "name": "YONG",
-    "login": "pixsway",
-    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=4b7a77e78607287704b199c00754d6405b317c84&v=4",
-    "amount": 4,
-    "link": "https://github.com/pixsway",
     "org": false
   },
   {
@@ -2021,6 +2021,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/95304986?u=1e263948c1fc3988aceb0817cbbb262c9e700c5b&v=4",
     "amount": -1,
     "link": "https://github.com/eldarlrd",
+    "org": false
+  },
+  {
+    "name": "Pixsway",
+    "login": "betterhyq",
+    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=4b7a77e78607287704b199c00754d6405b317c84&v=4",
+    "amount": -1,
+    "link": "https://github.com/betterhyq",
     "org": false
   },
   {
