@@ -80,14 +80,6 @@
     "org": true
   },
   {
-    "name": "openclaw",
-    "login": "openclaw",
-    "avatar": "https://avatars.githubusercontent.com/u/252820863?v=4",
-    "amount": 32,
-    "link": "https://github.com/openclaw",
-    "org": true
-  },
-  {
     "name": "Marcel Laverdet",
     "login": "laverdet",
     "avatar": "https://avatars.githubusercontent.com/u/128856?u=05a6f48309c8f545aeb903c3d017a3516e2e4f55&v=4",
@@ -1656,6 +1648,14 @@
     "org": false
   },
   {
+    "name": "openclaw",
+    "login": "openclaw",
+    "avatar": "https://avatars.githubusercontent.com/u/252820863?v=4",
+    "amount": -1,
+    "link": "https://github.com/openclaw",
+    "org": true
+  },
+  {
     "name": "Murad Ismayil",
     "login": "murad-ismayil",
     "avatar": "https://avatars.githubusercontent.com/u/101802328?u=b1d73281ae37aea94cf7ff1b8c5d58038e6c5c2f&v=4",
@@ -2024,11 +2024,11 @@
     "org": false
   },
   {
-    "name": "Ryan",
-    "login": "betterhyq",
-    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=4b7a77e78607287704b199c00754d6405b317c84&v=4",
+    "name": "Benjamin He",
+    "login": "bjmhe",
+    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=e04fb473bf0356679e7646910f46623d94a04f74&v=4",
     "amount": -1,
-    "link": "https://github.com/betterhyq",
+    "link": "https://github.com/bjmhe",
     "org": false
   },
   {
@@ -2970,7 +2970,7 @@
   {
     "name": "Gavin John",
     "login": "Pandapip1",
-    "avatar": "https://avatars.githubusercontent.com/u/45835846?v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/45835846?u=80104e3f24e20610aa8aebc7e7918d00a1674651&v=4",
     "amount": -1,
     "link": "https://github.com/Pandapip1",
     "org": false
