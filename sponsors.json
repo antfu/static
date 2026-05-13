@@ -888,6 +888,14 @@
     "org": false
   },
   {
+    "name": "Benjamin He",
+    "login": "bjmhe",
+    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=e04fb473bf0356679e7646910f46623d94a04f74&v=4",
+    "amount": 4,
+    "link": "https://github.com/bjmhe",
+    "org": false
+  },
+  {
     "name": "Alexander Opalic",
     "login": "alexanderop",
     "avatar": "https://avatars.githubusercontent.com/u/33398393?u=4f196b8d1fe8a4b8f709cca24a55751f3ad07135&v=4",
@@ -2021,14 +2029,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/95304986?u=1e263948c1fc3988aceb0817cbbb262c9e700c5b&v=4",
     "amount": -1,
     "link": "https://github.com/eldarlrd",
-    "org": false
-  },
-  {
-    "name": "Benjamin He",
-    "login": "bjmhe",
-    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=e04fb473bf0356679e7646910f46623d94a04f74&v=4",
-    "amount": -1,
-    "link": "https://github.com/bjmhe",
     "org": false
   },
   {
