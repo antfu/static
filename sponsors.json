@@ -618,7 +618,7 @@
   {
     "name": "Milos Dimitrijevic",
     "login": "milos018",
-    "avatar": "https://avatars.githubusercontent.com/u/46306967?v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/46306967?u=1d5e02f5ffcd99e21b5d869fe740b7c1d2ce0318&v=4",
     "amount": 8,
     "link": "https://github.com/milos018",
     "org": false
@@ -1280,14 +1280,6 @@
     "org": false
   },
   {
-    "name": "华丽",
-    "login": "6e9a280aa13111ebbc5152540025c377",
-    "avatar": "https://pic1.afdiancdn.com/user/6e9a280aa13111ebbc5152540025c377/avatar/7ea1f85c1335022384dae07a53e19934_w500_h500_s28.jpeg",
-    "amount": 3.8461538461538463,
-    "link": "https://afdian.com/u/6e9a280aa13111ebbc5152540025c377",
-    "org": false
-  },
-  {
     "name": "Incognito",
     "login": "user-61d38e07",
     "avatar": "https://images.opencollective.com/user-61d38e07/avatar/460.png",
@@ -1341,14 +1333,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/58565458?u=d81f1225e4561dd75839230ebfa8f93d0655e14b&v=4",
     "amount": 1,
     "link": "https://github.com/ggcls",
-    "org": false
-  },
-  {
-    "name": "Abdul Vakeel Software Engineer",
-    "login": "AbdulVakeel",
-    "avatar": "https://avatars.githubusercontent.com/u/163490858?u=24ae1b20bdfb7c88d6cd489b94f7ddab6781e3fb&v=4",
-    "amount": 1,
-    "link": "https://github.com/AbdulVakeel",
     "org": false
   },
   {
@@ -1774,6 +1758,14 @@
     "amount": -1,
     "link": "https://opencollective.com/other-payment-processor-vendor",
     "org": true
+  },
+  {
+    "name": "Abdul Vakeel Software Engineer",
+    "login": "AbdulVakeel",
+    "avatar": "https://avatars.githubusercontent.com/u/163490858?u=24ae1b20bdfb7c88d6cd489b94f7ddab6781e3fb&v=4",
+    "amount": -1,
+    "link": "https://github.com/AbdulVakeel",
+    "org": false
   },
   {
     "name": "Isaac Hassani",
@@ -4165,6 +4157,14 @@
     "avatar": "https://pic1.afdiancdn.com/user/f6f1646c0b7d11eea55552540025c377/avatar/2a877b4f9d317c66f0807178a4b3b12d_w1001_h1001_s154.jpeg",
     "amount": -1,
     "link": "https://afdian.com/u/f6f1646c0b7d11eea55552540025c377",
+    "org": false
+  },
+  {
+    "name": "华丽",
+    "login": "6e9a280aa13111ebbc5152540025c377",
+    "avatar": "https://pic1.afdiancdn.com/user/6e9a280aa13111ebbc5152540025c377/avatar/7ea1f85c1335022384dae07a53e19934_w500_h500_s28.jpeg",
+    "amount": -1,
+    "link": "https://afdian.com/u/6e9a280aa13111ebbc5152540025c377",
     "org": false
   },
   {
