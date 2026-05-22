@@ -80,6 +80,14 @@
     "org": true
   },
   {
+    "name": "openclaw",
+    "login": "openclaw",
+    "avatar": "https://avatars.githubusercontent.com/u/252820863?v=4",
+    "amount": 32,
+    "link": "https://github.com/openclaw",
+    "org": true
+  },
+  {
     "name": "Marcel Laverdet",
     "login": "laverdet",
     "avatar": "https://avatars.githubusercontent.com/u/128856?u=05a6f48309c8f545aeb903c3d017a3516e2e4f55&v=4",
@@ -1806,14 +1814,6 @@
     "amount": -1,
     "link": "https://github.com/G-hoon",
     "org": false
-  },
-  {
-    "name": "openclaw",
-    "login": "openclaw",
-    "avatar": "https://avatars.githubusercontent.com/u/252820863?v=4",
-    "amount": -1,
-    "link": "https://github.com/openclaw",
-    "org": true
   },
   {
     "name": "Murad Ismayil",
