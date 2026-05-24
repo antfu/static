@@ -808,14 +808,6 @@
     "org": false
   },
   {
-    "name": "Saurlax",
-    "login": "saurlax",
-    "avatar": "https://avatars.githubusercontent.com/u/49343742?u=a2656ac32a340933cd8638b662b7b34d5ec0b7ba&v=4",
-    "amount": 4,
-    "link": "https://github.com/saurlax",
-    "org": false
-  },
-  {
     "name": "Kortin Zhou",
     "login": "kortin99",
     "avatar": "https://avatars.githubusercontent.com/u/50259158?u=a6cd143dd6dab535deaa477090934f7ffe4b41b6&v=4",
@@ -1053,14 +1045,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/3001985?u=6dab55cc7bc6877e56cdc3a18a9a17fd4d35403d&v=4",
     "amount": 4,
     "link": "https://github.com/manuelmeister",
-    "org": false
-  },
-  {
-    "name": "Spike",
-    "login": "Spike-Leung",
-    "avatar": "https://avatars.githubusercontent.com/u/30440218?u=d55a3f19835f0cb6f7e52f0e154c069be6f28727&v=4",
-    "amount": 4,
-    "link": "https://github.com/Spike-Leung",
     "org": false
   },
   {
@@ -1565,6 +1549,14 @@
     "avatar": "https://images.opencollective.com/ouuan/fce9809/avatar/460.png",
     "amount": 0.8333333333333334,
     "link": "https://opencollective.com/ouuan",
+    "org": false
+  },
+  {
+    "name": "Saurlax",
+    "login": "saurlax",
+    "avatar": "https://avatars.githubusercontent.com/u/49343742?u=a2656ac32a340933cd8638b662b7b34d5ec0b7ba&v=4",
+    "amount": -1,
+    "link": "https://github.com/saurlax",
     "org": false
   },
   {
@@ -4582,6 +4574,14 @@
     "amount": -1,
     "link": "https://github.com/infosupport",
     "org": true
+  },
+  {
+    "name": "Spike",
+    "login": "Spike-Leung",
+    "avatar": "https://avatars.githubusercontent.com/u/30440218?u=d55a3f19835f0cb6f7e52f0e154c069be6f28727&v=4",
+    "amount": -1,
+    "link": "https://github.com/Spike-Leung",
+    "org": false
   },
   {
     "name": "Misite Bao",
