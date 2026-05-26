@@ -1000,14 +1000,6 @@
     "org": false
   },
   {
-    "name": "Masayuki Higashino",
-    "login": "mh61503891",
-    "avatar": "https://avatars.githubusercontent.com/u/706275?u=c7d7e77e3753ab93756ff9d933de1a42ec7462ac&v=4",
-    "amount": 4,
-    "link": "https://github.com/mh61503891",
-    "org": false
-  },
-  {
     "name": "Cats Juice",
     "login": "CatsJuice",
     "avatar": "https://avatars.githubusercontent.com/u/39363750?u=ff81db4aafae102263202a77cb2d0b737ff4c6e5&v=4",
@@ -3360,7 +3352,7 @@
     "org": false
   },
   {
-    "name": null,
+    "name": "Madoka",
     "login": "MahoushoujoMadoka",
     "avatar": "https://avatars.githubusercontent.com/u/33952584?u=5a0b5112837cac8942535d1d97e140bb1c9bcd64&v=4",
     "amount": -1,
@@ -3757,6 +3749,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/51825926?u=a8c8be430037088054011bb286156405f20e8b4f&v=4",
     "amount": -1,
     "link": "https://github.com/onurusluca",
+    "org": false
+  },
+  {
+    "name": "Masayuki Higashino",
+    "login": "mh61503891",
+    "avatar": "https://avatars.githubusercontent.com/u/706275?u=c7d7e77e3753ab93756ff9d933de1a42ec7462ac&v=4",
+    "amount": -1,
+    "link": "https://github.com/mh61503891",
     "org": false
   },
   {
@@ -4216,7 +4216,7 @@
     "org": false
   },
   {
-    "name": "Lasse Diercks",
+    "name": "Lasse Alexandros Diercks",
     "login": "lassediercks",
     "avatar": "https://avatars.githubusercontent.com/u/1765584?u=457057ae3cbde2c53fb1779c4100b02ac571340a&v=4",
     "amount": -1,
