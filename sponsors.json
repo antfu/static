@@ -472,14 +472,6 @@
     "org": false
   },
   {
-    "name": "Cali Castle",
-    "login": "CaliCastle",
-    "avatar": "https://avatars.githubusercontent.com/u/10830749?u=c8ef6d06d523cda9e114efa5adfd783783c21b2a&v=4",
-    "amount": 8,
-    "link": "https://github.com/CaliCastle",
-    "org": false
-  },
-  {
     "name": null,
     "login": "alabaki",
     "avatar": "https://avatars.githubusercontent.com/u/13958061?v=4",
@@ -4418,7 +4410,7 @@
   {
     "name": null,
     "login": "timhanlon",
-    "avatar": "https://avatars.githubusercontent.com/u/4340187?u=86cabd9543038313f2057b790f8e6d901488cd48&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/4340187?u=99d45e9548a0bf67d4c391f1fac10a0587566e2a&v=4",
     "amount": -1,
     "link": "https://github.com/timhanlon",
     "org": false
@@ -4445,6 +4437,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/2430560?v=4",
     "amount": -1,
     "link": "https://github.com/philipimperato",
+    "org": false
+  },
+  {
+    "name": "Cali Castle",
+    "login": "CaliCastle",
+    "avatar": "https://avatars.githubusercontent.com/u/10830749?u=c8ef6d06d523cda9e114efa5adfd783783c21b2a&v=4",
+    "amount": -1,
+    "link": "https://github.com/CaliCastle",
     "org": false
   },
   {
