@@ -960,14 +960,6 @@
     "org": false
   },
   {
-    "name": null,
-    "login": "w2xi",
-    "avatar": "https://avatars.githubusercontent.com/u/57785259?u=721473edba9c335bba65dcb954753a494cb7b68d&v=4",
-    "amount": 4,
-    "link": "https://github.com/w2xi",
-    "org": false
-  },
-  {
     "name": "Wing-On Yuen",
     "login": "woyuen",
     "avatar": "https://avatars.githubusercontent.com/u/25850444?u=90eca697160f4158c3a20c826aa9d6b3608876e9&v=4",
@@ -3104,6 +3096,14 @@
     "org": false
   },
   {
+    "name": null,
+    "login": "w2xi",
+    "avatar": "https://avatars.githubusercontent.com/u/57785259?u=721473edba9c335bba65dcb954753a494cb7b68d&v=4",
+    "amount": -1,
+    "link": "https://github.com/w2xi",
+    "org": false
+  },
+  {
     "name": "Adam Argyle",
     "login": "argyleink",
     "avatar": "https://avatars.githubusercontent.com/u/1134620?u=0d420b597986af4eb82e5c84d3a16a31da8fd326&v=4",
@@ -3442,7 +3442,7 @@
   {
     "name": "Elliot Chen",
     "login": "cyfyifanchen",
-    "avatar": "https://avatars.githubusercontent.com/u/2340896?u=983cdda16cc1c86718dadeed6ff157f7bb5e6f85&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/2340896?u=de42ca1d66edaf4660cd0560dfe3681d3bca17c5&v=4",
     "amount": -1,
     "link": "https://github.com/cyfyifanchen",
     "org": false
