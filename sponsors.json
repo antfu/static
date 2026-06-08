@@ -72,14 +72,6 @@
     "org": false
   },
   {
-    "name": "Amplify",
-    "login": "amplify-education",
-    "avatar": "https://avatars.githubusercontent.com/u/15659472?v=4",
-    "amount": 50,
-    "link": "https://github.com/amplify-education",
-    "org": true
-  },
-  {
     "name": "openclaw",
     "login": "openclaw",
     "avatar": "https://avatars.githubusercontent.com/u/252820863?v=4",
@@ -1965,6 +1957,14 @@
     "avatar": "https://images.opencollective.com/other-payment-processor-vendor/logo/460.png",
     "amount": -1,
     "link": "https://opencollective.com/other-payment-processor-vendor",
+    "org": true
+  },
+  {
+    "name": "Amplify",
+    "login": "amplify-education",
+    "avatar": "https://avatars.githubusercontent.com/u/15659472?v=4",
+    "amount": -1,
+    "link": "https://github.com/amplify-education",
     "org": true
   },
   {
@@ -8002,7 +8002,7 @@
   {
     "name": "潇湘十三郎",
     "login": "lzm0x219",
-    "avatar": "https://avatars.githubusercontent.com/u/50414099?u=e505fb6391b252f762864274399ec0998d3f9701&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/50414099?u=6687e49fc7557d5a5057ae8969b8c069bf3efc0b&v=4",
     "amount": -1,
     "link": "https://github.com/lzm0x219",
     "org": false
