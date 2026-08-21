@@ -736,14 +736,6 @@
     "org": false
   },
   {
-    "name": "Tadashi Shigeoka",
-    "login": "shige",
-    "avatar": "https://avatars.githubusercontent.com/u/844012?u=cccd37bc2ce03098be0d3e54e04cd299ef871fa0&v=4",
-    "amount": 4,
-    "link": "https://github.com/shige",
-    "org": false
-  },
-  {
     "name": "Alois Sečkár",
     "login": "AloisSeckar",
     "avatar": "https://avatars.githubusercontent.com/u/7399922?u=998d1d7254bf50294ee48857a313446d21c57b25&v=4",
@@ -1472,6 +1464,14 @@
     "org": false
   },
   {
+    "name": "Amplify",
+    "login": "amplify-education",
+    "avatar": "https://avatars.githubusercontent.com/u/15659472?v=4",
+    "amount": -1,
+    "link": "https://github.com/amplify-education",
+    "org": true
+  },
+  {
     "name": "Grégoire Ciles",
     "login": "ggcls",
     "avatar": "https://avatars.githubusercontent.com/u/58565458?u=d81f1225e4561dd75839230ebfa8f93d0655e14b&v=4",
@@ -1533,6 +1533,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/32337329?u=7bdbb2225f2b7c21cba14d3866f139f788d3d761&v=4",
     "amount": -1,
     "link": "https://github.com/Coder-IsiahJones",
+    "org": false
+  },
+  {
+    "name": "Tadashi Shigeoka",
+    "login": "shige",
+    "avatar": "https://avatars.githubusercontent.com/u/844012?u=cccd37bc2ce03098be0d3e54e04cd299ef871fa0&v=4",
+    "amount": -1,
+    "link": "https://github.com/shige",
     "org": false
   },
   {
@@ -1989,14 +1997,6 @@
     "avatar": "https://images.opencollective.com/other-payment-processor-vendor/logo/460.png",
     "amount": -1,
     "link": "https://opencollective.com/other-payment-processor-vendor",
-    "org": true
-  },
-  {
-    "name": "Amplify",
-    "login": "amplify-education",
-    "avatar": "https://avatars.githubusercontent.com/u/15659472?v=4",
-    "amount": -1,
-    "link": "https://github.com/amplify-education",
     "org": true
   },
   {
@@ -3698,7 +3698,7 @@
   {
     "name": "Aaron",
     "login": "aaronlamz",
-    "avatar": "https://avatars.githubusercontent.com/u/3964466?u=449f8f9a00c7553e00549be8fc04295b0cd98a50&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/3964466?u=4fb626b71f5152c9f507292f74f2ae9165357cf5&v=4",
     "amount": -1,
     "link": "https://github.com/aaronlamz",
     "org": false
@@ -4906,7 +4906,7 @@
   {
     "name": "César Watrin",
     "login": "CesarWatrin",
-    "avatar": "https://avatars.githubusercontent.com/u/50585690?u=3c8dd885182fda9281c08d6c7c5cb6ff573c9fc5&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/50585690?u=7a2eb3a09e9d0592b50a8b591d0eb1d4814b9f0b&v=4",
     "amount": -1,
     "link": "https://github.com/CesarWatrin",
     "org": false
