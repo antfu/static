@@ -1176,6 +1176,14 @@
     "org": false
   },
   {
+    "name": "wens.codes",
+    "login": "wenscodes",
+    "avatar": "https://avatars.githubusercontent.com/u/173148653?u=49f533c2f10fe3e3581f761698779a10c1a5323d&v=4",
+    "amount": 1,
+    "link": "https://github.com/wenscodes",
+    "org": false
+  },
+  {
     "name": null,
     "login": "Heba-Dora",
     "avatar": "https://avatars.githubusercontent.com/u/86589400?v=4",
@@ -1994,7 +2002,7 @@
   {
     "name": "牛油果拿铁☕️",
     "login": "avotokyo",
-    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=b2fb4a38707266c53d332a4eaaa0f98e36c74942&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=c0471b03b93740752448eebbe13c7877bb5503e6&v=4",
     "amount": -1,
     "link": "https://github.com/avotokyo",
     "org": false
@@ -2186,7 +2194,7 @@
   {
     "name": "David Klhufek",
     "login": "phirebase",
-    "avatar": "https://avatars.githubusercontent.com/u/6418386?u=88e3c51da30af833686f302b1d8be29e6222698b&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/6418386?u=f7cd9853334744e5cdc1586a1d5da4eaaf15d427&v=4",
     "amount": -1,
     "link": "https://github.com/phirebase",
     "org": false
