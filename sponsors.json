@@ -120,14 +120,6 @@
     "org": false
   },
   {
-    "name": "Toyo Tomi",
-    "login": "toyo-tomi",
-    "avatar": "https://images.opencollective.com/toyo-tomi/bbf9301/avatar/460.png",
-    "amount": 20,
-    "link": "https://opencollective.com/toyo-tomi",
-    "org": false
-  },
-  {
     "name": "Ulrich Stark",
     "login": "ulrichstark",
     "avatar": "https://avatars.githubusercontent.com/u/8657779?u=179c54b0132ef6b519b8b59107da95c0e86fe635&v=4",
@@ -1432,6 +1424,14 @@
     "org": false
   },
   {
+    "name": "Toyo Tomi",
+    "login": "toyo-tomi",
+    "avatar": "https://images.opencollective.com/toyo-tomi/bbf9301/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/toyo-tomi",
+    "org": false
+  },
+  {
     "name": "Ysr*",
     "login": "Yasirdora",
     "avatar": "https://avatars.githubusercontent.com/u/143439570?u=fcfb8aa481c4aaac9c610439ede06f21ee399de9&v=4",
@@ -1554,7 +1554,7 @@
   {
     "name": "Isaac Hassani",
     "login": "Isaac1h",
-    "avatar": "https://avatars.githubusercontent.com/u/127258834?u=260f8cd066a5b00c23713e9ffa7c6100e0e34e4b&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/127258834?u=5980448f65de495fc88f3eba727cadd0b1fb9904&v=4",
     "amount": -1,
     "link": "https://github.com/Isaac1h",
     "org": false
@@ -2000,7 +2000,7 @@
     "org": false
   },
   {
-    "name": "牛油果拿铁☕️",
+    "name": "Aure",
     "login": "avotokyo",
     "avatar": "https://avatars.githubusercontent.com/u/206218794?u=c0471b03b93740752448eebbe13c7877bb5503e6&v=4",
     "amount": -1,
