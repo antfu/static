@@ -536,14 +536,6 @@
     "org": false
   },
   {
-    "name": "Clex1o1",
-    "login": "Clex1o1",
-    "avatar": "https://avatars.githubusercontent.com/u/15003466?u=f9ddf29ee36aae9dcf0d63073a244e605e43a911&v=4",
-    "amount": 8,
-    "link": "https://github.com/Clex1o1",
-    "org": false
-  },
-  {
     "name": "Eneko Rodríguez",
     "login": "Nisgrak",
     "avatar": "https://avatars.githubusercontent.com/u/19597708?v=4",
@@ -733,6 +725,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/72989?u=da19c1508357407cae0b7b11166b072c95c29786&v=4",
     "amount": 5,
     "link": "https://github.com/kazupon",
+    "org": false
+  },
+  {
+    "name": null,
+    "login": "dekitriv",
+    "avatar": "https://avatars.githubusercontent.com/u/52245546?v=4",
+    "amount": 4,
+    "link": "https://github.com/dekitriv",
     "org": false
   },
   {
@@ -2001,10 +2001,10 @@
   },
   {
     "name": "Aure",
-    "login": "avotokyo",
-    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=c0471b03b93740752448eebbe13c7877bb5503e6&v=4",
+    "login": "heyq02",
+    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=87d28656d8a84cc125d7cf437b06e7db9ed316e7&v=4",
     "amount": -1,
-    "link": "https://github.com/avotokyo",
+    "link": "https://github.com/heyq02",
     "org": false
   },
   {
@@ -6941,6 +6941,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/6823226?u=0648369fd24a0ff5527e2d487d7dc7c0fed87f5b&v=4",
     "amount": -1,
     "link": "https://github.com/octoper",
+    "org": false
+  },
+  {
+    "name": "Clex1o1",
+    "login": "Clex1o1",
+    "avatar": "https://avatars.githubusercontent.com/u/15003466?u=f9ddf29ee36aae9dcf0d63073a244e605e43a911&v=4",
+    "amount": -1,
+    "link": "https://github.com/Clex1o1",
     "org": false
   },
   {
