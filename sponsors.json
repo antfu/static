@@ -280,14 +280,6 @@
     "org": true
   },
   {
-    "name": "Wesley Hunter",
-    "login": "WesleyH318",
-    "avatar": "https://avatars.githubusercontent.com/u/38595748?v=4",
-    "amount": 10,
-    "link": "https://github.com/WesleyH318",
-    "org": false
-  },
-  {
     "name": "Philippe Serhal",
     "login": "philippe-serhal",
     "avatar": "https://images.opencollective.com/philippe-serhal/avatar/460.png",
@@ -1176,22 +1168,6 @@
     "org": false
   },
   {
-    "name": null,
-    "login": "Heba-Dora",
-    "avatar": "https://avatars.githubusercontent.com/u/86589400?v=4",
-    "amount": 1,
-    "link": "https://github.com/Heba-Dora",
-    "org": false
-  },
-  {
-    "name": "enkdevur",
-    "login": "gilangabdian",
-    "avatar": "https://avatars.githubusercontent.com/u/189948849?u=e272531b9fa16a1b358812b53a11353421259e34&v=4",
-    "amount": 1,
-    "link": "https://github.com/gilangabdian",
-    "org": false
-  },
-  {
     "name": "Fraser Brookhouse",
     "login": "fraserbrookhouse",
     "avatar": "https://avatars.githubusercontent.com/u/46921677?v=4",
@@ -1432,6 +1408,38 @@
     "org": false
   },
   {
+    "name": "Other Payment Processor",
+    "login": "other-payment-processor-vendor",
+    "avatar": "https://images.opencollective.com/other-payment-processor-vendor/logo/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/other-payment-processor-vendor",
+    "org": true
+  },
+  {
+    "name": null,
+    "login": "Heba-Dora",
+    "avatar": "https://avatars.githubusercontent.com/u/86589400?v=4",
+    "amount": -1,
+    "link": "https://github.com/Heba-Dora",
+    "org": false
+  },
+  {
+    "name": "Wesley Hunter",
+    "login": "WesleyH318",
+    "avatar": "https://avatars.githubusercontent.com/u/38595748?v=4",
+    "amount": -1,
+    "link": "https://github.com/WesleyH318",
+    "org": false
+  },
+  {
+    "name": "enkdevur",
+    "login": "gilangabdian",
+    "avatar": "https://avatars.githubusercontent.com/u/189948849?u=e272531b9fa16a1b358812b53a11353421259e34&v=4",
+    "amount": -1,
+    "link": "https://github.com/gilangabdian",
+    "org": false
+  },
+  {
     "name": "Ysr*",
     "login": "Yasirdora",
     "avatar": "https://avatars.githubusercontent.com/u/143439570?u=fcfb8aa481c4aaac9c610439ede06f21ee399de9&v=4",
@@ -1464,27 +1472,19 @@
     "org": false
   },
   {
-    "name": "Holata Seminole",
-    "login": "Sanjeever",
-    "avatar": "https://avatars.githubusercontent.com/u/78210374?u=793d094639eb3615eb9cd0c41c1cadef69ed2a13&v=4",
-    "amount": -1,
-    "link": "https://github.com/Sanjeever",
-    "org": false
-  },
-  {
-    "name": "Other Payment Processor",
-    "login": "other-payment-processor-vendor",
-    "avatar": "https://images.opencollective.com/other-payment-processor-vendor/logo/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/other-payment-processor-vendor",
-    "org": true
-  },
-  {
     "name": "matinhudev",
     "login": "matinhu",
     "avatar": "https://avatars.githubusercontent.com/u/55997416?u=d8a4ea87183d9cd71187d0141ee71e5bdd0282df&v=4",
     "amount": -1,
     "link": "https://github.com/matinhu",
+    "org": false
+  },
+  {
+    "name": "Holata Seminole",
+    "login": "Sanjeever",
+    "avatar": "https://avatars.githubusercontent.com/u/78210374?u=793d094639eb3615eb9cd0c41c1cadef69ed2a13&v=4",
+    "amount": -1,
+    "link": "https://github.com/Sanjeever",
     "org": false
   },
   {
@@ -8082,7 +8082,7 @@
   {
     "name": "明夷",
     "login": "lzm0x219",
-    "avatar": "https://avatars.githubusercontent.com/u/50414099?u=860405bf7fdd2a0a24457f9e3a0a9a094966ffa7&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/50414099?u=4cf0b19670b248ee68b0d2d93b754aa7cf6e72b6&v=4",
     "amount": -1,
     "link": "https://github.com/lzm0x219",
     "org": false
