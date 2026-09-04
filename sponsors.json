@@ -80,6 +80,14 @@
     "org": false
   },
   {
+    "name": "ergou",
+    "login": "RayGuo-ergou",
+    "avatar": "https://avatars.githubusercontent.com/u/33137074?u=b294d3d1f9bbd5af69e15b0782071eb9ec94a785&v=4",
+    "amount": 50,
+    "link": "https://github.com/RayGuo-ergou",
+    "org": false
+  },
+  {
     "name": "openclaw",
     "login": "openclaw",
     "avatar": "https://avatars.githubusercontent.com/u/252820863?v=4",
@@ -1442,7 +1450,7 @@
   {
     "name": "Ysr*",
     "login": "Yasirdora",
-    "avatar": "https://avatars.githubusercontent.com/u/143439570?u=fcfb8aa481c4aaac9c610439ede06f21ee399de9&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/143439570?u=212969979cb8cbf459263667d8a8ab742053e7af&v=4",
     "amount": -1,
     "link": "https://github.com/Yasirdora",
     "org": false
@@ -3909,14 +3917,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/32956096?v=4",
     "amount": -1,
     "link": "https://github.com/idabaicai",
-    "org": false
-  },
-  {
-    "name": "ergou",
-    "login": "RayGuo-ergou",
-    "avatar": "https://avatars.githubusercontent.com/u/33137074?u=b294d3d1f9bbd5af69e15b0782071eb9ec94a785&v=4",
-    "amount": -1,
-    "link": "https://github.com/RayGuo-ergou",
     "org": false
   },
   {
