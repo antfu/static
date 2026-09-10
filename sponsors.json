@@ -344,14 +344,6 @@
     "org": false
   },
   {
-    "name": "Emmanuel Salomon",
-    "login": "ManUtopiK",
-    "avatar": "https://avatars.githubusercontent.com/u/188172?u=9eb17eec13c5540af91af28770f0bc2df0f1e21f&v=4",
-    "amount": 10,
-    "link": "https://github.com/ManUtopiK",
-    "org": false
-  },
-  {
     "name": "wū yāng",
     "login": "uyarn",
     "avatar": "https://avatars.githubusercontent.com/u/26377630?u=b09ed2211d2341fffe0102337c96400928252e75&v=4",
@@ -6450,7 +6442,7 @@
   {
     "name": "Mario Hamann",
     "login": "mariohamann",
-    "avatar": "https://avatars.githubusercontent.com/u/26542182?u=3613388caf4d03624d51b4a3fd122eb9538f60cc&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/26542182?u=f1a1a6945d39ae3a5a87397274be83ec864cd18a&v=4",
     "amount": -1,
     "link": "https://github.com/mariohamann",
     "org": false
@@ -7253,6 +7245,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/52300131?u=30b1fbf3ed6a07ced2a1ecf17df2d2f46dfe732c&v=4",
     "amount": -1,
     "link": "https://github.com/Joaojack",
+    "org": false
+  },
+  {
+    "name": "Emmanuel Salomon",
+    "login": "ManUtopiK",
+    "avatar": "https://avatars.githubusercontent.com/u/188172?u=9eb17eec13c5540af91af28770f0bc2df0f1e21f&v=4",
+    "amount": -1,
+    "link": "https://github.com/ManUtopiK",
     "org": false
   },
   {
