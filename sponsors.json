@@ -400,14 +400,6 @@
     "org": false
   },
   {
-    "name": "Bin",
-    "login": "ffgenius",
-    "avatar": "https://avatars.githubusercontent.com/u/106022674?u=b628d2017650bb954da6a20413092c1b7ece7a5a&v=4",
-    "amount": 8,
-    "link": "https://github.com/ffgenius",
-    "org": false
-  },
-  {
     "name": "KumJungMin",
     "login": "KumJungMin",
     "avatar": "https://avatars.githubusercontent.com/u/37934668?u=4de3e79e38d592b7a10aae8fa7a6764384c8f2c4&v=4",
@@ -1096,14 +1088,6 @@
     "org": false
   },
   {
-    "name": "Phil Fan",
-    "login": "8e45ce0c9a3711f1ac1c52540025c377",
-    "avatar": "https://pic1.afdiancdn.com/user/user_upload_osl/a5df03a041765878f36f1224a74e8c8d_w132_h132_s4.jpeg",
-    "amount": 3.8461538461538463,
-    "link": "https://afdian.com/u/8e45ce0c9a3711f1ac1c52540025c377",
-    "org": false
-  },
-  {
     "name": "Incognito",
     "login": "user-61d38e07",
     "avatar": "https://images.opencollective.com/user-61d38e07/avatar/460.png",
@@ -1413,6 +1397,14 @@
     "avatar": "https://images.opencollective.com/toyo-tomi/bbf9301/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/toyo-tomi",
+    "org": false
+  },
+  {
+    "name": "Phil Fan",
+    "login": "8e45ce0c9a3711f1ac1c52540025c377",
+    "avatar": "https://pic1.afdiancdn.com/user/user_upload_osl/a5df03a041765878f36f1224a74e8c8d_w132_h132_s4.jpeg",
+    "amount": -1,
+    "link": "https://afdian.com/u/8e45ce0c9a3711f1ac1c52540025c377",
     "org": false
   },
   {
@@ -2586,7 +2578,7 @@
   {
     "name": "NaokiHaba",
     "login": "naokihaba",
-    "avatar": "https://avatars.githubusercontent.com/u/59875779?u=9eb21272191d359fd1a13b301cdc258c73c2a2a5&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/59875779?u=a168b0c0d847b135f7a485e70476b3fa42eece07&v=4",
     "amount": -1,
     "link": "https://github.com/naokihaba",
     "org": false
@@ -2701,6 +2693,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/15699954?u=a19d612753da0b83c19f65069ba3749d0799a8be&v=4",
     "amount": -1,
     "link": "https://github.com/aiyogg",
+    "org": false
+  },
+  {
+    "name": "Bin",
+    "login": "ffgenius",
+    "avatar": "https://avatars.githubusercontent.com/u/106022674?u=b628d2017650bb954da6a20413092c1b7ece7a5a&v=4",
+    "amount": -1,
+    "link": "https://github.com/ffgenius",
     "org": false
   },
   {
