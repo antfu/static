@@ -456,14 +456,6 @@
     "org": false
   },
   {
-    "name": "Kevin Van Cott",
-    "login": "KevinVandy",
-    "avatar": "https://avatars.githubusercontent.com/u/28243511?u=c422106065277bddf5f85bc37f724568733db225&v=4",
-    "amount": 8,
-    "link": "https://github.com/KevinVandy",
-    "org": false
-  },
-  {
     "name": "Samuel",
     "login": "nyambe",
     "avatar": "https://avatars.githubusercontent.com/u/2040066?v=4",
@@ -1138,7 +1130,7 @@
   {
     "name": "Prodromos Chrysostomou",
     "login": "pchrysostomou",
-    "avatar": "https://avatars.githubusercontent.com/u/75142596?u=28062378759bd3c2fa9ccf465691f86a98c56f4f&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/75142596?u=c4b3c64f8a0c98c8f65f0c7e388493efe46a62ef&v=4",
     "amount": 1,
     "link": "https://github.com/pchrysostomou",
     "org": false
@@ -4226,7 +4218,7 @@
   {
     "name": null,
     "login": "SarcevicAntonio",
-    "avatar": "https://avatars.githubusercontent.com/u/6685200?u=eecf417297aada1538ebce66c6c0a3e694741212&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/6685200?u=84e4d15f5e93014b1688cab1cd1dc2bbf6045ab1&v=4",
     "amount": -1,
     "link": "https://github.com/SarcevicAntonio",
     "org": false
@@ -5173,6 +5165,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/106362981?u=9e0a125e610900180bf38aa735647531bea74096&v=4",
     "amount": -1,
     "link": "https://github.com/stevenleep",
+    "org": false
+  },
+  {
+    "name": "Kevin Van Cott",
+    "login": "KevinVandy",
+    "avatar": "https://avatars.githubusercontent.com/u/28243511?u=c422106065277bddf5f85bc37f724568733db225&v=4",
+    "amount": -1,
+    "link": "https://github.com/KevinVandy",
     "org": false
   },
   {
