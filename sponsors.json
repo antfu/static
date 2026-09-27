@@ -1120,6 +1120,14 @@
     "org": false
   },
   {
+    "name": "Rayhan Khilji",
+    "login": "rayhankhilji",
+    "avatar": "https://avatars.githubusercontent.com/u/256870848?u=dcf01783cbb765a808a0660619db5a7f63b147b4&v=4",
+    "amount": 1,
+    "link": "https://github.com/rayhankhilji",
+    "org": false
+  },
+  {
     "name": "daaviinchiii",
     "login": "daaviinchiii",
     "avatar": "https://avatars.githubusercontent.com/u/85748800?u=be2c944a46c2af2a7293d6d09cfcce6cbddac22c&v=4",
@@ -1282,7 +1290,7 @@
   {
     "name": "bushuai",
     "login": "bushuai",
-    "avatar": "https://avatars.githubusercontent.com/u/1875256?v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/1875256?u=03b704a073b38d1876af4bd8b4d63da362b0a711&v=4",
     "amount": 1,
     "link": "https://github.com/bushuai",
     "org": false
@@ -1390,14 +1398,6 @@
     "amount": -1,
     "link": "https://opencollective.com/toyo-tomi",
     "org": false
-  },
-  {
-    "name": "wenyan-lang",
-    "login": "wenyan-lang",
-    "avatar": "https://images.opencollective.com/wenyan-lang/e54fc86/logo/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/wenyan-lang",
-    "org": true
   },
   {
     "name": "Other Payment Processor",
@@ -1694,6 +1694,14 @@
     "amount": -1,
     "link": "https://github.com/ycs77",
     "org": false
+  },
+  {
+    "name": "wenyan-lang",
+    "login": "wenyan-lang",
+    "avatar": "https://images.opencollective.com/wenyan-lang/e54fc86/logo/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/wenyan-lang",
+    "org": true
   },
   {
     "name": null,
@@ -2000,9 +2008,9 @@
     "org": false
   },
   {
-    "name": "Aure",
+    "name": "Ari",
     "login": "heyq02",
-    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=159bb5f4e8f3fe9d1ac3ba1772a1b0897995c90a&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=7b03430444b977a4c8c5fa498937b1e4cbf270a9&v=4",
     "amount": -1,
     "link": "https://github.com/heyq02",
     "org": false
@@ -2928,14 +2936,6 @@
     "org": false
   },
   {
-    "name": "a1mersnow",
-    "login": "a1mersnow",
-    "avatar": "https://images.opencollective.com/a1mersnow/a1cad52/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/a1mersnow",
-    "org": false
-  },
-  {
     "name": "xjccc",
     "login": "xjccc",
     "avatar": "https://images.opencollective.com/xjccc/avatar/460.png",
@@ -2949,6 +2949,14 @@
     "avatar": "https://images.opencollective.com/azat_io/56830a5/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/azat_io",
+    "org": false
+  },
+  {
+    "name": "a1mersnow",
+    "login": "a1mersnow",
+    "avatar": "https://images.opencollective.com/a1mersnow/a1cad52/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/a1mersnow",
     "org": false
   },
   {
@@ -3146,7 +3154,7 @@
   {
     "name": "Dino Kupinic",
     "login": "Dino-Kupinic",
-    "avatar": "https://avatars.githubusercontent.com/u/87943435?u=1b8ccb22cc1a413260c9d531deab814c2bd35cc6&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/87943435?u=19b2885e97dcd6d03de833519aff8589ff4e9609&v=4",
     "amount": -1,
     "link": "https://github.com/Dino-Kupinic",
     "org": false
