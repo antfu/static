@@ -1144,14 +1144,6 @@
     "org": false
   },
   {
-    "name": "wens.codes",
-    "login": "wenscodes",
-    "avatar": "https://avatars.githubusercontent.com/u/173148653?u=49f533c2f10fe3e3581f761698779a10c1a5323d&v=4",
-    "amount": 1,
-    "link": "https://github.com/wenscodes",
-    "org": false
-  },
-  {
     "name": "Fraser Brookhouse",
     "login": "fraserbrookhouse",
     "avatar": "https://avatars.githubusercontent.com/u/46921677?v=4",
@@ -1389,6 +1381,14 @@
     "avatar": "https://images.opencollective.com/ouuan/fce9809/avatar/460.png",
     "amount": 0.8333333333333334,
     "link": "https://opencollective.com/ouuan",
+    "org": false
+  },
+  {
+    "name": "wens.codes",
+    "login": "wenscodes",
+    "avatar": "https://avatars.githubusercontent.com/u/173148653?u=49f533c2f10fe3e3581f761698779a10c1a5323d&v=4",
+    "amount": -1,
+    "link": "https://github.com/wenscodes",
     "org": false
   },
   {
@@ -2010,7 +2010,7 @@
   {
     "name": "Ari",
     "login": "heyq02",
-    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=7b03430444b977a4c8c5fa498937b1e4cbf270a9&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=86fe774bfeca70d021ae68e42b8d368a4d869b9d&v=4",
     "amount": -1,
     "link": "https://github.com/heyq02",
     "org": false
@@ -6034,7 +6034,7 @@
   {
     "name": "Yiyang Suen",
     "login": "suenyiyang",
-    "avatar": "https://avatars.githubusercontent.com/u/57290456?u=8bad90c494726e01cc75cbfebd59e29040607491&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/57290456?u=e7eeb2208d217f58efbaef4852c92e0e22189fcc&v=4",
     "amount": -1,
     "link": "https://github.com/suenyiyang",
     "org": false
