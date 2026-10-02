@@ -1096,6 +1096,14 @@
     "org": false
   },
   {
+    "name": "Anil Palli",
+    "login": "anilpdv",
+    "avatar": "https://avatars.githubusercontent.com/u/32708402?u=6f616177c69e08975c610facaaae897f3d0df869&v=4",
+    "amount": 2,
+    "link": "https://github.com/anilpdv",
+    "org": false
+  },
+  {
     "name": "Robin Genz",
     "login": "robingenz",
     "avatar": "https://avatars.githubusercontent.com/u/13857929?u=bc79facfce465b4217c46f28e23b37d829c8f970&v=4",
@@ -2018,7 +2026,7 @@
   {
     "name": "Ari",
     "login": "heyq02",
-    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=86fe774bfeca70d021ae68e42b8d368a4d869b9d&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=40929fd0a4179809b5f8c5a0f2d15381407e905e&v=4",
     "amount": -1,
     "link": "https://github.com/heyq02",
     "org": false
@@ -2944,27 +2952,19 @@
     "org": false
   },
   {
-    "name": "xjccc",
-    "login": "xjccc",
-    "avatar": "https://images.opencollective.com/xjccc/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/xjccc",
-    "org": false
-  },
-  {
-    "name": "Azat S.",
-    "login": "azat_io",
-    "avatar": "https://images.opencollective.com/azat_io/56830a5/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/azat_io",
-    "org": false
-  },
-  {
     "name": "a1mersnow",
     "login": "a1mersnow",
     "avatar": "https://images.opencollective.com/a1mersnow/a1cad52/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/a1mersnow",
+    "org": false
+  },
+  {
+    "name": "xjccc",
+    "login": "xjccc",
+    "avatar": "https://images.opencollective.com/xjccc/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/xjccc",
     "org": false
   },
   {
@@ -4216,6 +4216,14 @@
     "org": false
   },
   {
+    "name": "Azat S.",
+    "login": "azat_io",
+    "avatar": "https://images.opencollective.com/azat_io/56830a5/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/azat_io",
+    "org": false
+  },
+  {
     "name": "qixiaobro",
     "login": "1c3a46dc0b6811eea0f852540025c377",
     "avatar": "https://pic1.afdiancdn.com/user/1c3a46dc0b6811eea0f852540025c377/avatar/0ebfbc8d1e267978a0b4d6b18fce8ae4_w280_h280_s16.jpg",
@@ -4232,7 +4240,7 @@
     "org": false
   },
   {
-    "name": null,
+    "name": "toni",
     "login": "SarcevicAntonio",
     "avatar": "https://avatars.githubusercontent.com/u/6685200?u=84e4d15f5e93014b1688cab1cd1dc2bbf6045ab1&v=4",
     "amount": -1,
