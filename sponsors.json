@@ -64,14 +64,6 @@
     "org": false
   },
   {
-    "name": "ergou",
-    "login": "RayGuo-ergou",
-    "avatar": "https://avatars.githubusercontent.com/u/33137074?u=b294d3d1f9bbd5af69e15b0782071eb9ec94a785&v=4",
-    "amount": 50,
-    "link": "https://github.com/RayGuo-ergou",
-    "org": false
-  },
-  {
     "name": "openclaw",
     "login": "openclaw",
     "avatar": "https://avatars.githubusercontent.com/u/252820863?v=4",
@@ -2394,7 +2386,7 @@
   {
     "name": "Claudio Wunder",
     "login": "ovflowd",
-    "avatar": "https://avatars.githubusercontent.com/u/12037269?u=2ad830c85323617f8cfae4dbc5a8ed0e43528ed2&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/12037269?u=042e56b6bb2f55f3ade13d096466daa165055dca&v=4",
     "amount": -1,
     "link": "https://github.com/ovflowd",
     "org": false
@@ -3933,6 +3925,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/32956096?v=4",
     "amount": -1,
     "link": "https://github.com/idabaicai",
+    "org": false
+  },
+  {
+    "name": "ergou",
+    "login": "RayGuo-ergou",
+    "avatar": "https://avatars.githubusercontent.com/u/33137074?u=b294d3d1f9bbd5af69e15b0782071eb9ec94a785&v=4",
+    "amount": -1,
+    "link": "https://github.com/RayGuo-ergou",
     "org": false
   },
   {
