@@ -400,14 +400,6 @@
     "org": false
   },
   {
-    "name": "Lucas Nørgård",
-    "login": "luxass",
-    "avatar": "https://avatars.githubusercontent.com/u/40726067?u=b20c31b846bf2a042a62ebae3fa44f4dd6fad0c9&v=4",
-    "amount": 8,
-    "link": "https://github.com/luxass",
-    "org": false
-  },
-  {
     "name": "SerKo",
     "login": "serkodev",
     "avatar": "https://avatars.githubusercontent.com/u/44749100?u=e0c8f8e5305cffe6d9a047af11d8ac0fe20d3ab0&v=4",
@@ -3037,6 +3029,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/7047129?u=d3ee92e15e49a7ffe891b69ec8373cdc0f883022&v=4",
     "amount": -1,
     "link": "https://github.com/petsto",
+    "org": false
+  },
+  {
+    "name": "Lucas Nørgård",
+    "login": "luxass",
+    "avatar": "https://avatars.githubusercontent.com/u/40726067?u=b20c31b846bf2a042a62ebae3fa44f4dd6fad0c9&v=4",
+    "amount": -1,
+    "link": "https://github.com/luxass",
     "org": false
   },
   {
