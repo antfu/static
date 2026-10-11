@@ -1128,14 +1128,6 @@
     "org": false
   },
   {
-    "name": "Prodromos Chrysostomou",
-    "login": "pchrysostomou",
-    "avatar": "https://avatars.githubusercontent.com/u/75142596?u=c4b3c64f8a0c98c8f65f0c7e388493efe46a62ef&v=4",
-    "amount": 1,
-    "link": "https://github.com/pchrysostomou",
-    "org": false
-  },
-  {
     "name": "Fraser Brookhouse",
     "login": "fraserbrookhouse",
     "avatar": "https://avatars.githubusercontent.com/u/46921677?v=4",
@@ -1373,6 +1365,14 @@
     "avatar": "https://images.opencollective.com/ouuan/fce9809/avatar/460.png",
     "amount": 0.8333333333333334,
     "link": "https://opencollective.com/ouuan",
+    "org": false
+  },
+  {
+    "name": "Prodromos Chrysostomou",
+    "login": "pchrysostomou",
+    "avatar": "https://avatars.githubusercontent.com/u/75142596?u=c4b3c64f8a0c98c8f65f0c7e388493efe46a62ef&v=4",
+    "amount": -1,
+    "link": "https://github.com/pchrysostomou",
     "org": false
   },
   {
