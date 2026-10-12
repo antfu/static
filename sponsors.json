@@ -1112,19 +1112,19 @@
     "org": false
   },
   {
+    "name": "buongiorno immagini",
+    "login": "buongiorno-immagini",
+    "avatar": "https://images.opencollective.com/buongiorno-immagini/1dd0232/logo/460.png",
+    "amount": 1,
+    "link": "https://opencollective.com/buongiorno-immagini",
+    "org": true
+  },
+  {
     "name": "Rayhan Khilji",
     "login": "rayhankhilji",
     "avatar": "https://avatars.githubusercontent.com/u/256870848?u=dcf01783cbb765a808a0660619db5a7f63b147b4&v=4",
     "amount": 1,
     "link": "https://github.com/rayhankhilji",
-    "org": false
-  },
-  {
-    "name": "daaviinchiii",
-    "login": "daaviinchiii",
-    "avatar": "https://avatars.githubusercontent.com/u/85748800?u=be2c944a46c2af2a7293d6d09cfcce6cbddac22c&v=4",
-    "amount": 1,
-    "link": "https://github.com/daaviinchiii",
     "org": false
   },
   {
@@ -1365,6 +1365,14 @@
     "avatar": "https://images.opencollective.com/ouuan/fce9809/avatar/460.png",
     "amount": 0.8333333333333334,
     "link": "https://opencollective.com/ouuan",
+    "org": false
+  },
+  {
+    "name": "daaviinchiii",
+    "login": "daaviinchiii",
+    "avatar": "https://avatars.githubusercontent.com/u/85748800?u=be2c944a46c2af2a7293d6d09cfcce6cbddac22c&v=4",
+    "amount": -1,
+    "link": "https://github.com/daaviinchiii",
     "org": false
   },
   {
@@ -3146,7 +3154,7 @@
   {
     "name": "Dino Kupinic",
     "login": "Dino-Kupinic",
-    "avatar": "https://avatars.githubusercontent.com/u/87943435?u=76f7494561aec540dce14c799f8066824e5ea403&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/87943435?u=f60d627b8f08301e3e6e18a48dbce0033cd2e080&v=4",
     "amount": -1,
     "link": "https://github.com/Dino-Kupinic",
     "org": false
