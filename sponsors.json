@@ -672,7 +672,7 @@
     "org": false
   },
   {
-    "name": null,
+    "name": "Derek",
     "login": "derekgallardo01",
     "avatar": "https://avatars.githubusercontent.com/u/84940382?u=afe3e8477431c5a9552bd1321078215c334eb2b9&v=4",
     "amount": 4,
@@ -1082,7 +1082,7 @@
   {
     "name": "Robin Genz",
     "login": "robingenz",
-    "avatar": "https://avatars.githubusercontent.com/u/13857929?u=bc79facfce465b4217c46f28e23b37d829c8f970&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/13857929?u=383bc42e1faa375e77b7b93c9b9048344fb869d0&v=4",
     "amount": 2,
     "link": "https://github.com/robingenz",
     "org": false
@@ -3474,7 +3474,7 @@
   {
     "name": "mark",
     "login": "markjkaem",
-    "avatar": "https://avatars.githubusercontent.com/u/100427794?u=a800a5edf9387595a2368fb44894d4800d5713ff&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/100427794?u=2933dbcef2bc5520c65d5873cea789eed508fe78&v=4",
     "amount": -1,
     "link": "https://github.com/markjkaem",
     "org": false
@@ -5048,9 +5048,9 @@
     "org": false
   },
   {
-    "name": "MIDORI",
+    "name": "Midori Research",
     "login": "fzn0x",
-    "avatar": "https://avatars.githubusercontent.com/u/50759463?u=0faa58aa8171ce6a09fd73e9de907c86addedcdf&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/50759463?u=8109e59ba5354be317ee51b7c126136952125c20&v=4",
     "amount": -1,
     "link": "https://github.com/fzn0x",
     "org": false
