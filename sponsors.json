@@ -232,14 +232,6 @@
     "org": false
   },
   {
-    "name": "xx",
-    "login": "xxholly32",
-    "avatar": "https://avatars.githubusercontent.com/u/6063358?u=178e0d048cd9f7441a3c601f7dc18f8b4e610f1e&v=4",
-    "amount": 16,
-    "link": "https://github.com/xxholly32",
-    "org": false
-  },
-  {
     "name": "mello-r",
     "login": "mello-r",
     "avatar": "https://images.opencollective.com/mello-r/778dc52/avatar/460.png",
@@ -1658,7 +1650,7 @@
   {
     "name": "Armand",
     "login": "tishutox",
-    "avatar": "https://avatars.githubusercontent.com/u/173721284?u=6cecfd29b9c0873f31615953ff9eed7ea02b1b56&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/173721284?u=b52f254d92c8150722775362ea918b6364b4ddf1&v=4",
     "amount": -1,
     "link": "https://github.com/tishutox",
     "org": false
@@ -8069,6 +8061,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/7064956?u=bc627ebc91a12ee86327a8845f41d9f271b578e8&v=4",
     "amount": -1,
     "link": "https://github.com/wheatjs",
+    "org": false
+  },
+  {
+    "name": "xx",
+    "login": "xxholly32",
+    "avatar": "https://avatars.githubusercontent.com/u/6063358?u=178e0d048cd9f7441a3c601f7dc18f8b4e610f1e&v=4",
+    "amount": -1,
+    "link": "https://github.com/xxholly32",
     "org": false
   },
   {
