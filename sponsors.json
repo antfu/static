@@ -1064,14 +1064,6 @@
     "org": false
   },
   {
-    "name": "Anil Palli",
-    "login": "anilpdv",
-    "avatar": "https://avatars.githubusercontent.com/u/32708402?u=6f616177c69e08975c610facaaae897f3d0df869&v=4",
-    "amount": 2,
-    "link": "https://github.com/anilpdv",
-    "org": false
-  },
-  {
     "name": "Robin Genz",
     "login": "robingenz",
     "avatar": "https://avatars.githubusercontent.com/u/13857929?u=7fe8dc38e40c8562ae6150212cd795c4b9f09b9a&v=4",
@@ -1150,14 +1142,6 @@
     "amount": 1,
     "link": "https://github.com/syntaxfm",
     "org": true
-  },
-  {
-    "name": "Cong Zhang",
-    "login": "dancerphil",
-    "avatar": "https://avatars.githubusercontent.com/u/7264444?u=65d2f47b8f17623ba0999823ccb4948db8e09079&v=4",
-    "amount": 1,
-    "link": "https://github.com/dancerphil",
-    "org": false
   },
   {
     "name": "Norman",
@@ -1398,6 +1382,14 @@
     "amount": -1,
     "link": "https://opencollective.com/other-payment-processor-vendor",
     "org": true
+  },
+  {
+    "name": "Anil Palli",
+    "login": "anilpdv",
+    "avatar": "https://avatars.githubusercontent.com/u/32708402?u=6f616177c69e08975c610facaaae897f3d0df869&v=4",
+    "amount": -1,
+    "link": "https://github.com/anilpdv",
+    "org": false
   },
   {
     "name": null,
@@ -3525,6 +3517,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/87118530?u=479760fcf6bff47a1a7b87540b1d8118bb318854&v=4",
     "amount": -1,
     "link": "https://github.com/Fanisting",
+    "org": false
+  },
+  {
+    "name": "Cong Zhang",
+    "login": "dancerphil",
+    "avatar": "https://avatars.githubusercontent.com/u/7264444?u=65d2f47b8f17623ba0999823ccb4948db8e09079&v=4",
+    "amount": -1,
+    "link": "https://github.com/dancerphil",
     "org": false
   },
   {
