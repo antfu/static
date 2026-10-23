@@ -8,6 +8,14 @@
     "org": true
   },
   {
+    "name": "Vite Ecosystem Fund",
+    "login": "vite-ecosystem-fund",
+    "avatar": "https://images.opencollective.com/vite-ecosystem-fund/logo/460.png",
+    "amount": 1000,
+    "link": "https://opencollective.com/vite-ecosystem-fund",
+    "org": true
+  },
+  {
     "name": "StackBlitz",
     "login": "stackblitz",
     "avatar": "https://avatars.githubusercontent.com/u/28635252?v=4",
@@ -1088,6 +1096,14 @@
     "org": false
   },
   {
+    "name": "PHILIPPE ",
+    "login": "phlppgdfry",
+    "avatar": "https://avatars.githubusercontent.com/u/139512774?u=dc732a5fcf14ab8760d171b3b9c6391e72bc9d9e&v=4",
+    "amount": 1,
+    "link": "https://github.com/phlppgdfry",
+    "org": false
+  },
+  {
     "name": "buongiorno immagini",
     "login": "buongiorno-immagini",
     "avatar": "https://images.opencollective.com/buongiorno-immagini/1dd0232/logo/460.png",
@@ -1285,14 +1301,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/9263640?u=2b68611f898ef14bd6847c2e87aaa76e20110d31&v=4",
     "amount": 1,
     "link": "https://github.com/dslatkin",
-    "org": false
-  },
-  {
-    "name": "chengpeiquan",
-    "login": "chengpeiquan",
-    "avatar": "https://avatars.githubusercontent.com/u/24845958?u=ccd4c5e3ff2c1f9a2397857acd7cd91e44cd6cce&v=4",
-    "amount": 1,
-    "link": "https://github.com/chengpeiquan",
     "org": false
   },
   {
@@ -2896,27 +2904,19 @@
     "org": false
   },
   {
-    "name": "xjccc",
-    "login": "xjccc",
-    "avatar": "https://images.opencollective.com/xjccc/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/xjccc",
-    "org": false
-  },
-  {
-    "name": "Azat S.",
-    "login": "azat_io",
-    "avatar": "https://images.opencollective.com/azat_io/56830a5/avatar/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/azat_io",
-    "org": false
-  },
-  {
     "name": "a1mersnow",
     "login": "a1mersnow",
     "avatar": "https://images.opencollective.com/a1mersnow/a1cad52/avatar/460.png",
     "amount": -1,
     "link": "https://opencollective.com/a1mersnow",
+    "org": false
+  },
+  {
+    "name": "xjccc",
+    "login": "xjccc",
+    "avatar": "https://images.opencollective.com/xjccc/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/xjccc",
     "org": false
   },
   {
@@ -4200,6 +4200,14 @@
     "org": false
   },
   {
+    "name": "Azat S.",
+    "login": "azat_io",
+    "avatar": "https://images.opencollective.com/azat_io/56830a5/avatar/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/azat_io",
+    "org": false
+  },
+  {
     "name": "qixiaobro",
     "login": "1c3a46dc0b6811eea0f852540025c377",
     "avatar": "https://pic1.afdiancdn.com/user/1c3a46dc0b6811eea0f852540025c377/avatar/0ebfbc8d1e267978a0b4d6b18fce8ae4_w280_h280_s16.jpg",
@@ -5032,7 +5040,7 @@
     "org": false
   },
   {
-    "name": "Midori Research",
+    "name": "f(x)",
     "login": "fzn0x",
     "avatar": "https://avatars.githubusercontent.com/u/50759463?u=5c070d7959b5a5e550146990dfde27ab0aae5a75&v=4",
     "amount": -1,
@@ -5616,7 +5624,7 @@
     "org": false
   },
   {
-    "name": "☁️dungsil",
+    "name": "김용건 KIM Young-geon",
     "login": "dungsil",
     "avatar": "https://avatars.githubusercontent.com/u/39783731?u=e227e7096664b3b1f5bc0fa6cbab00b3fec856bf&v=4",
     "amount": -1,
