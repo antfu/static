@@ -520,6 +520,14 @@
     "org": false
   },
   {
+    "name": "Peter Gerhat",
+    "login": "aikitpete",
+    "avatar": "https://avatars.githubusercontent.com/u/11034626?u=0c8f1d7c26850c8dbd4603cae4aa08cb7fbc5df6&v=4",
+    "amount": 5,
+    "link": "https://github.com/aikitpete",
+    "org": false
+  },
+  {
     "name": "Peter Chen",
     "login": "peter-chen",
     "avatar": "https://images.opencollective.com/peter-chen/avatar/460.png",
@@ -1368,6 +1376,14 @@
     "org": false
   },
   {
+    "name": "wenyan-lang",
+    "login": "wenyan-lang",
+    "avatar": "https://images.opencollective.com/wenyan-lang/e54fc86/logo/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/wenyan-lang",
+    "org": true
+  },
+  {
     "name": "Other Payment Processor",
     "login": "other-payment-processor-vendor",
     "avatar": "https://images.opencollective.com/other-payment-processor-vendor/logo/460.png",
@@ -1410,7 +1426,7 @@
   {
     "name": "enkdevur",
     "login": "gilangabdian",
-    "avatar": "https://avatars.githubusercontent.com/u/189948849?u=a7c6f5a83b8c80914814d9d18ced675cfb194b83&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/189948849?u=49cc2c6a35a772019f11dcb4f54652bf90657d2b&v=4",
     "amount": -1,
     "link": "https://github.com/gilangabdian",
     "org": false
@@ -1670,14 +1686,6 @@
     "amount": -1,
     "link": "https://github.com/ycs77",
     "org": false
-  },
-  {
-    "name": "wenyan-lang",
-    "login": "wenyan-lang",
-    "avatar": "https://images.opencollective.com/wenyan-lang/e54fc86/logo/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/wenyan-lang",
-    "org": true
   },
   {
     "name": null,
@@ -6746,7 +6754,7 @@
   {
     "name": "Bouaggad Moez",
     "login": "Datlyfe",
-    "avatar": "https://avatars.githubusercontent.com/u/38252859?u=9c0a543c2b62b0a5dfb49681ae5b0ea21d433dc5&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/38252859?u=5490ec3d48312de3641dfab30eb8deb2f66d16a2&v=4",
     "amount": -1,
     "link": "https://github.com/Datlyfe",
     "org": false
