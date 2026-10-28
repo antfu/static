@@ -1120,14 +1120,6 @@
     "org": true
   },
   {
-    "name": "Rayhan Khilji",
-    "login": "rayhankhilji",
-    "avatar": "https://avatars.githubusercontent.com/u/256870848?u=dcf01783cbb765a808a0660619db5a7f63b147b4&v=4",
-    "amount": 1,
-    "link": "https://github.com/rayhankhilji",
-    "org": false
-  },
-  {
     "name": "Fraser Brookhouse",
     "login": "fraserbrookhouse",
     "avatar": "https://avatars.githubusercontent.com/u/46921677?v=4",
@@ -1344,6 +1336,14 @@
     "org": false
   },
   {
+    "name": "Rayhan Khilji",
+    "login": "rayhankhilji",
+    "avatar": "https://avatars.githubusercontent.com/u/256870848?u=dcf01783cbb765a808a0660619db5a7f63b147b4&v=4",
+    "amount": -1,
+    "link": "https://github.com/rayhankhilji",
+    "org": false
+  },
+  {
     "name": "daaviinchiii",
     "login": "daaviinchiii",
     "avatar": "https://avatars.githubusercontent.com/u/85748800?u=be2c944a46c2af2a7293d6d09cfcce6cbddac22c&v=4",
@@ -1360,7 +1360,7 @@
     "org": false
   },
   {
-    "name": "wens.codes",
+    "name": "wenscodes",
     "login": "wenscodes",
     "avatar": "https://avatars.githubusercontent.com/u/173148653?u=f72c6f473b1cf33a02c6274f65ee658087e63642&v=4",
     "amount": -1,
@@ -1818,7 +1818,7 @@
   {
     "name": "Konv Suu",
     "login": "kovsu",
-    "avatar": "https://avatars.githubusercontent.com/u/82451257?u=adc11ef878b8e3079c3d442b666556b5d869defe&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/82451257?u=b8e244185dafdb61a7bcaed5f36241dd1b75805b&v=4",
     "amount": -1,
     "link": "https://github.com/kovsu",
     "org": false
@@ -1986,7 +1986,7 @@
   {
     "name": "Ari He",
     "login": "heyq02",
-    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=d09785a95a33f6517615ec36bc9d4529ba622ee6&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=9ef1e9848091398b5d431d2d736652a712aef17e&v=4",
     "amount": -1,
     "link": "https://github.com/heyq02",
     "org": false
@@ -7712,7 +7712,7 @@
     "org": false
   },
   {
-    "name": "Wendong Xie",
+    "name": "Wendell",
     "login": "windid",
     "avatar": "https://avatars.githubusercontent.com/u/10072379?v=4",
     "amount": -1,
