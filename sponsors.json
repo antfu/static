@@ -664,14 +664,6 @@
     "org": false
   },
   {
-    "name": "Derek",
-    "login": "derekgallardo01",
-    "avatar": "https://avatars.githubusercontent.com/u/84940382?u=afe3e8477431c5a9552bd1321078215c334eb2b9&v=4",
-    "amount": 4,
-    "link": "https://github.com/derekgallardo01",
-    "org": false
-  },
-  {
     "name": null,
     "login": "dekitriv",
     "avatar": "https://avatars.githubusercontent.com/u/52245546?v=4",
@@ -1128,14 +1120,6 @@
     "org": false
   },
   {
-    "name": "buongiorno immagini",
-    "login": "buongiorno-immagini",
-    "avatar": "https://images.opencollective.com/buongiorno-immagini/1dd0232/logo/460.png",
-    "amount": 1,
-    "link": "https://opencollective.com/buongiorno-immagini",
-    "org": true
-  },
-  {
     "name": "Fraser Brookhouse",
     "login": "fraserbrookhouse",
     "avatar": "https://avatars.githubusercontent.com/u/46921677?v=4",
@@ -1352,11 +1336,27 @@
     "org": false
   },
   {
+    "name": "buongiorno immagini",
+    "login": "buongiorno-immagini",
+    "avatar": "https://images.opencollective.com/buongiorno-immagini/1dd0232/logo/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/buongiorno-immagini",
+    "org": true
+  },
+  {
     "name": "Rayhan Khilji",
     "login": "rayhankhilji",
     "avatar": "https://avatars.githubusercontent.com/u/256870848?u=dcf01783cbb765a808a0660619db5a7f63b147b4&v=4",
     "amount": -1,
     "link": "https://github.com/rayhankhilji",
+    "org": false
+  },
+  {
+    "name": "Derek",
+    "login": "derekgallardo01",
+    "avatar": "https://avatars.githubusercontent.com/u/84940382?u=afe3e8477431c5a9552bd1321078215c334eb2b9&v=4",
+    "amount": -1,
+    "link": "https://github.com/derekgallardo01",
     "org": false
   },
   {
