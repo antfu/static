@@ -312,6 +312,14 @@
     "org": false
   },
   {
+    "name": "Michel EDIGHOFFER",
+    "login": "edimitchel",
+    "avatar": "https://avatars.githubusercontent.com/u/2922851?u=fb416b821e68e664f46d3d4157727eabc9a5fbca&v=4",
+    "amount": 10,
+    "link": "https://github.com/edimitchel",
+    "org": false
+  },
+  {
     "name": "wū yāng",
     "login": "uyarn",
     "avatar": "https://avatars.githubusercontent.com/u/26377630?u=b09ed2211d2341fffe0102337c96400928252e75&v=4",
@@ -989,6 +997,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/35865041?u=534b50fa7c3e62b21c7bb8207c87bb720a850f35&v=4",
     "amount": 4,
     "link": "https://github.com/xparagon",
+    "org": false
+  },
+  {
+    "name": "hikae",
+    "login": "HikaruEgashira",
+    "avatar": "https://avatars.githubusercontent.com/u/39324739?u=846fcaed774d2417d7f72875e0592af97cbc1a6b&v=4",
+    "amount": 4,
+    "link": "https://github.com/HikaruEgashira",
     "org": false
   },
   {
@@ -2000,9 +2016,9 @@
     "org": false
   },
   {
-    "name": "Ari He｜阿瑞",
+    "name": "老师好我叫贺同学🧑‍🎓",
     "login": "heyq02",
-    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=9ef1e9848091398b5d431d2d736652a712aef17e&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=5b8b6a98f38bc5c51f3ce879bbc8dc3b2bcb8205&v=4",
     "amount": -1,
     "link": "https://github.com/heyq02",
     "org": false
@@ -5114,7 +5130,7 @@
   {
     "name": "Waleed Tariq",
     "login": "waleedtariq109",
-    "avatar": "https://avatars.githubusercontent.com/u/76990392?u=88aca8b6a760d4a10a7de0d3ac457acadf83356e&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/76990392?u=685f4adc8ae20c775a85dbc80f4a21da9689b137&v=4",
     "amount": -1,
     "link": "https://github.com/waleedtariq109",
     "org": false
@@ -7000,14 +7016,6 @@
     "org": false
   },
   {
-    "name": "Michel EDIGHOFFER",
-    "login": "edimitchel",
-    "avatar": "https://avatars.githubusercontent.com/u/2922851?u=fb416b821e68e664f46d3d4157727eabc9a5fbca&v=4",
-    "amount": -1,
-    "link": "https://github.com/edimitchel",
-    "org": false
-  },
-  {
     "name": "Horacio Herrera",
     "login": "horacioh",
     "avatar": "https://avatars.githubusercontent.com/u/725120?u=07a926549b7e2c028759d1175d3bbc6695f7a085&v=4",
@@ -7181,14 +7189,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/30230686?u=2781bc7a9e046b8e7e1685966b8758ccb8a8a4be&v=4",
     "amount": -1,
     "link": "https://github.com/cinob",
-    "org": false
-  },
-  {
-    "name": "hikae",
-    "login": "HikaruEgashira",
-    "avatar": "https://avatars.githubusercontent.com/u/39324739?u=846fcaed774d2417d7f72875e0592af97cbc1a6b&v=4",
-    "amount": -1,
-    "link": "https://github.com/HikaruEgashira",
     "org": false
   },
   {
