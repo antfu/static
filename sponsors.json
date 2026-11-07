@@ -1136,6 +1136,14 @@
     "org": false
   },
   {
+    "name": "Ysr*",
+    "login": "Yasirdora",
+    "avatar": "https://avatars.githubusercontent.com/u/143439570?u=212969979cb8cbf459263667d8a8ab742053e7af&v=4",
+    "amount": 1,
+    "link": "https://github.com/Yasirdora",
+    "org": false
+  },
+  {
     "name": "Fraser Brookhouse",
     "login": "fraserbrookhouse",
     "avatar": "https://avatars.githubusercontent.com/u/46921677?v=4",
@@ -1320,14 +1328,6 @@
     "org": false
   },
   {
-    "name": "John",
-    "login": "robokozo",
-    "avatar": "https://avatars.githubusercontent.com/u/1719221?u=b5739798ee9a3d713f5ca3bd3d6a086c13d229a3&v=4",
-    "amount": 1,
-    "link": "https://github.com/robokozo",
-    "org": false
-  },
-  {
     "name": "Pete",
     "login": "virtuoushub",
     "avatar": "https://avatars.githubusercontent.com/u/4303638?u=36dfad9d661e7e5afadef20ab87df61a16989352&v=4",
@@ -1461,14 +1461,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/189948849?u=d5b04c1ceb0e95363597cf74123fda8c976d3f87&v=4",
     "amount": -1,
     "link": "https://github.com/gilangabdian",
-    "org": false
-  },
-  {
-    "name": "Ysr*",
-    "login": "Yasirdora",
-    "avatar": "https://avatars.githubusercontent.com/u/143439570?u=212969979cb8cbf459263667d8a8ab742053e7af&v=4",
-    "amount": -1,
-    "link": "https://github.com/Yasirdora",
     "org": false
   },
   {
@@ -2026,7 +2018,7 @@
   {
     "name": "老师好我叫贺同学🧑‍🎓",
     "login": "heyq02",
-    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=5b8b6a98f38bc5c51f3ce879bbc8dc3b2bcb8205&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=9b1ff2cc54e93afb649330484edfbda7d7daaf15&v=4",
     "amount": -1,
     "link": "https://github.com/heyq02",
     "org": false
@@ -8477,6 +8469,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/41694?u=3062fc168f4827e17a488307403304d8d9e69406&v=4",
     "amount": -1,
     "link": "https://github.com/mikekidder",
+    "org": false
+  },
+  {
+    "name": "John",
+    "login": "robokozo",
+    "avatar": "https://avatars.githubusercontent.com/u/1719221?u=b5739798ee9a3d713f5ca3bd3d6a086c13d229a3&v=4",
+    "amount": -1,
+    "link": "https://github.com/robokozo",
     "org": false
   },
   {
