@@ -1136,14 +1136,6 @@
     "org": false
   },
   {
-    "name": "Ysr*",
-    "login": "Yasirdora",
-    "avatar": "https://avatars.githubusercontent.com/u/143439570?u=212969979cb8cbf459263667d8a8ab742053e7af&v=4",
-    "amount": 1,
-    "link": "https://github.com/Yasirdora",
-    "org": false
-  },
-  {
     "name": "Fraser Brookhouse",
     "login": "fraserbrookhouse",
     "avatar": "https://avatars.githubusercontent.com/u/46921677?v=4",
@@ -1461,6 +1453,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/189948849?u=d5b04c1ceb0e95363597cf74123fda8c976d3f87&v=4",
     "amount": -1,
     "link": "https://github.com/gilangabdian",
+    "org": false
+  },
+  {
+    "name": "Ysr*",
+    "login": "Yasirdora",
+    "avatar": "https://avatars.githubusercontent.com/u/143439570?u=212969979cb8cbf459263667d8a8ab742053e7af&v=4",
+    "amount": -1,
+    "link": "https://github.com/Yasirdora",
     "org": false
   },
   {
