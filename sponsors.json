@@ -664,14 +664,6 @@
     "org": false
   },
   {
-    "name": "grtsinry43",
-    "login": "grtsinry43",
-    "avatar": "https://avatars.githubusercontent.com/u/77447646?u=c415a5eaee030916a690b5b193084b349611bf18&v=4",
-    "amount": 4,
-    "link": "https://github.com/grtsinry43",
-    "org": false
-  },
-  {
     "name": null,
     "login": "dekitriv",
     "avatar": "https://avatars.githubusercontent.com/u/52245546?v=4",
@@ -1368,6 +1360,14 @@
     "org": true
   },
   {
+    "name": "grtsinry43",
+    "login": "grtsinry43",
+    "avatar": "https://avatars.githubusercontent.com/u/77447646?u=c415a5eaee030916a690b5b193084b349611bf18&v=4",
+    "amount": -1,
+    "link": "https://github.com/grtsinry43",
+    "org": false
+  },
+  {
     "name": "Rayhan Khilji",
     "login": "rayhankhilji",
     "avatar": "https://avatars.githubusercontent.com/u/256870848?u=dcf01783cbb765a808a0660619db5a7f63b147b4&v=4",
@@ -2032,7 +2032,7 @@
     "org": false
   },
   {
-    "name": "老师好我叫贺同学🧑‍🎓",
+    "name": "Yongqi (Ari) He",
     "login": "heyq02",
     "avatar": "https://avatars.githubusercontent.com/u/206218794?u=9b1ff2cc54e93afb649330484edfbda7d7daaf15&v=4",
     "amount": -1,
