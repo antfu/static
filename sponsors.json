@@ -544,14 +544,6 @@
     "org": false
   },
   {
-    "name": "Stephen Zhou",
-    "login": "hyoban",
-    "avatar": "https://avatars.githubusercontent.com/u/38493346?u=73b116ae6704175ce20f30e993b35305ce1c631c&v=4",
-    "amount": 5,
-    "link": "https://github.com/hyoban",
-    "org": false
-  },
-  {
     "name": "Roboflow",
     "login": "roboflow",
     "avatar": "https://avatars.githubusercontent.com/u/53104118?v=4",
@@ -2349,6 +2341,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/36183969?u=82bc4f2e7dd472dc34fdc6eff9be6d2003bc3cf8&v=4",
     "amount": -1,
     "link": "https://github.com/taoya7",
+    "org": false
+  },
+  {
+    "name": "Stephen Zhou",
+    "login": "hyoban",
+    "avatar": "https://avatars.githubusercontent.com/u/38493346?u=73b116ae6704175ce20f30e993b35305ce1c631c&v=4",
+    "amount": -1,
+    "link": "https://github.com/hyoban",
     "org": false
   },
   {
