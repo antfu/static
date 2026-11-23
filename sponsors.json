@@ -1136,14 +1136,6 @@
     "org": false
   },
   {
-    "name": "PHILIPPE ",
-    "login": "phlppgdfry",
-    "avatar": "https://avatars.githubusercontent.com/u/139512774?u=dc732a5fcf14ab8760d171b3b9c6391e72bc9d9e&v=4",
-    "amount": 1,
-    "link": "https://github.com/phlppgdfry",
-    "org": false
-  },
-  {
     "name": "Fraser Brookhouse",
     "login": "fraserbrookhouse",
     "avatar": "https://avatars.githubusercontent.com/u/46921677?v=4",
@@ -1349,6 +1341,14 @@
     "avatar": "https://images.opencollective.com/ouuan/fce9809/avatar/460.png",
     "amount": 0.8333333333333334,
     "link": "https://opencollective.com/ouuan",
+    "org": false
+  },
+  {
+    "name": "PHILIPPE ",
+    "login": "phlppgdfry",
+    "avatar": "https://avatars.githubusercontent.com/u/139512774?u=dc732a5fcf14ab8760d171b3b9c6391e72bc9d9e&v=4",
+    "amount": -1,
+    "link": "https://github.com/phlppgdfry",
     "org": false
   },
   {
@@ -2432,7 +2432,7 @@
     "org": false
   },
   {
-    "name": "Bytes",
+    "name": "Buchholz",
     "login": "banesbyte",
     "avatar": "https://avatars.githubusercontent.com/u/1685371?u=03d20dc5f0b9280392cb9c539ac71064fefc10a8&v=4",
     "amount": -1,
@@ -8160,7 +8160,7 @@
     "org": false
   },
   {
-    "name": null,
+    "name": "FallDownTheSystem",
     "login": "FallDownTheSystem",
     "avatar": "https://avatars.githubusercontent.com/u/8807171?u=fed0b6998ab2c1e2654ebb26b428203f3270db82&v=4",
     "amount": -1,
