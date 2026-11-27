@@ -48,14 +48,6 @@
     "org": true
   },
   {
-    "name": "Storyblok",
-    "login": "storyblok",
-    "avatar": "https://avatars.githubusercontent.com/u/13880908?v=4",
-    "amount": 128,
-    "link": "https://github.com/storyblok",
-    "org": true
-  },
-  {
     "name": "Mux",
     "login": "muxinc",
     "avatar": "https://avatars.githubusercontent.com/u/16199997?v=4",
@@ -3440,6 +3432,14 @@
     "org": false
   },
   {
+    "name": "Storyblok",
+    "login": "storyblok",
+    "avatar": "https://avatars.githubusercontent.com/u/13880908?v=4",
+    "amount": -1,
+    "link": "https://github.com/storyblok",
+    "org": true
+  },
+  {
     "name": "Cyole",
     "login": "cyole",
     "avatar": "https://avatars.githubusercontent.com/u/44540278?u=ab774fdb8c55ab8ee509ce536d99ec5ef890cc95&v=4",
@@ -6394,7 +6394,7 @@
   {
     "name": "Alvin Indra",
     "login": "alvinindra",
-    "avatar": "https://avatars.githubusercontent.com/u/30944414?u=e1dd2c27f1da3b61588c4d891a6f10938e7a598a&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/30944414?u=933ddd107675f1623090337a2e21371ed00fa238&v=4",
     "amount": -1,
     "link": "https://github.com/alvinindra",
     "org": false
@@ -7722,7 +7722,7 @@
   {
     "name": "Germano Lira",
     "login": "germanolira",
-    "avatar": "https://avatars.githubusercontent.com/u/25235170?u=879a81d0e36ea89a14369c591db2b0b7521ce6c3&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/25235170?u=aeb3ea4e714a458c16ac464dcfd364809705da76&v=4",
     "amount": -1,
     "link": "https://github.com/germanolira",
     "org": false
